@@ -31,31 +31,38 @@ namespace Leetcode113_PathSumII
                 if (root == null)
                     return new List<IList<int>>();
 
-                var currentSum = new List<int>();
+                var currentPath = new List<int>();
                 var paths = new List<IList<int>>();
 
-                pathSumHelper(root, sum, currentSum, paths);
+                pathSumHelper(root, sum, currentPath, paths);
 
                 return paths;
             }
 
-            private static void pathSumHelper(TreeNode root, int sum, IList<int> currentSum, IList<IList<int>> paths)
+            /// <summary>
+            /// 
+            /// </summary>
+            /// <param name="root"></param>
+            /// <param name="residue"></param>
+            /// <param name="currentPath"></param>
+            /// <param name="paths"></param>
+            private static void pathSumHelper(TreeNode root, int residue, IList<int> currentPath, IList<IList<int>> paths)
             {
                 if (root == null)
                     return;
 
                 var currentValue = root.val;
-                currentSum.Add(currentValue);
+                currentPath.Add(currentValue);
 
                 if (root.left == null && root.right == null)
                 {
-                    if(sum == currentValue)
-                        paths.Add(currentSum);                    
+                    if(residue == currentValue)
+                        paths.Add(currentPath);                    
                 }
                 else
                 {                   
-                    pathSumHelper(root.left,  sum - currentValue, new List<int>(currentSum), paths);                                      
-                    pathSumHelper(root.right, sum - currentValue, new List<int>(currentSum), paths);                    
+                    pathSumHelper(root.left,  residue - currentValue, new List<int>(currentPath), paths);                                      
+                    pathSumHelper(root.right, residue - currentValue, new List<int>(currentPath), paths);                    
                 }                
             }
         }
