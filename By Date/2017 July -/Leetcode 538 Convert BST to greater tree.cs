@@ -35,6 +35,14 @@ namespace Leetcode_538_convert_BST_to_greater_tree
             return convertBST_RightRootLeftTraverse(root, ref suffixSum);
         }
 
+        /// <summary>
+        /// time complexity: 
+        /// O(N) - N is total nodes in the binary search tree
+        /// traverse the nodes from biggest one to smallest one in descending order. 
+        /// </summary>
+        /// <param name="root"></param>
+        /// <param name="suffixSum"></param>
+        /// <returns></returns>
         private static TreeNode convertBST_RightRootLeftTraverse(TreeNode root, ref int suffixSum)
         {
             if (root == null)
