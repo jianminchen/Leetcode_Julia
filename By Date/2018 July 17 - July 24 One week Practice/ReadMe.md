@@ -7,5 +7,7 @@ http://juliachencoding.blogspot.com/2018/07/one-week-for-new-habit.html
 
 The most challenging part is to work on bit manipulation. I totally forgot how quick and easy is to use bit manipulation using bit operator >> or <<, and And, OR etc. operators. 
 
+I have to find ways to build a good habit to write code every day. Using Leetcode easy level alogoritms I can easily train myself and also start to build habit to write code every day. 
+
 
    
