@@ -7,3 +7,7 @@ The leetcode algorithms are Leetcode 110, 589, 590, 617, 429, 572, 257, 427.
 
 I like to document my practice in July 25, 2018. I worked on six easy level tree algorithms. I had some issues with Leetcode 110. 
 
+Here is the blog to document my first day on easy level tree algorithms:
+
+http://juliachencoding.blogspot.com/2018/07/my-baby-step-on-easy-level-tree.html
+
