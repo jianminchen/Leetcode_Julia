@@ -58,13 +58,9 @@ namespace Leetcode_337_House_robber_III
             var right = robCalculate(root.right);
 
             // 0 - include root node, 1 - not include root node
-            var includeRoot = val + left[1] + right[1];
-            var options = new int[]{left[0] + right[0], 
-                left[0] + right[1],
-                left[1] + right[0],
-                left[1] + right[1]};
+            var includeRoot = val + left[1] + right[1];           
 
-            var excludeRoot = options.Max();
+            var excludeRoot = Math.Max(left[0], left[1]) + Math.Max(right[0], right[1]);
 
             return new int[] { includeRoot, excludeRoot };
         }
