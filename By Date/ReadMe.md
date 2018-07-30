@@ -6,3 +6,4 @@ I know that I have to put a lot of hard work in order to submit 35 algorithms in
 
 Here are my two weeks practice folder:
 
+https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Date/2018%20July%2017%20-%20July%2031%20two%20week%20practice
