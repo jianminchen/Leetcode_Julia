@@ -28,3 +28,7 @@ I know that I have to put a lot of hard work in order to submit 35 algorithms in
 Here are my two weeks practice folder:
 
 https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Date/2018%20July%2017%20-%20July%2031%20two%20week%20practice
+
+Here is the blog I wrote called where to find most hard working people. I like to have some role models and encourage myself to train using Leetcode online judge and a lot of easy level algorithms. 
+
+http://juliachencoding.blogspot.com/2018/07/where-to-find-most-hard-working-people.html
