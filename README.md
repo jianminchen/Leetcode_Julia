@@ -1,6 +1,10 @@
 Leetcode algorithms 
 
-Starting from September 3, 2015, I started my first practice on Leetcode algorithms. So far I have practiced over 100 algorithms. 
+Starting from September 3, 2015, I started my first practice on Leetcode algorithms. So far I have practiced over 125 algorithms. 
+
+Here is my Leetcode profile:
+
+https://leetcode.com/jianminchen39/
 
 
  
