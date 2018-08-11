@@ -32,3 +32,11 @@ https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Date/2018%20July%
 Here is the blog I wrote called where to find most hard working people. I like to have some role models and encourage myself to train using Leetcode online judge and a lot of easy level algorithms. 
 
 http://juliachencoding.blogspot.com/2018/07/where-to-find-most-hard-working-people.html
+
+8/10/2018
+
+I like to encourage myself to share my practice on Leetcode discussion panel. It is important to share my C# code and write down my practice, highlights of the practice. I like to figure out how I can improve myself in terms of algorithm problem solving. 
+
+The folder is added here. 
+
+https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion
