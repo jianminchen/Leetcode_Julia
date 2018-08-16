@@ -4,10 +4,17 @@ I like to work on those 10 easy level algorithms in short future. One drill I li
 
 Leetcode algorithms:
 694
+
 746
+
 53
+
 118
+
 27
+
 674
+
 746
+
 121
