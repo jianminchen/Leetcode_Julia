@@ -19,4 +19,5 @@ I write something about how many algorithm I should have completed in 12 months.
 Here is the blog I wrote on this topic. http://juliachencoding.blogspot.com/2018/06/leetcode-last-12-months-42-algorithm.html
      
 2018 July
+
 I started to work on easy level algorithm, so I worked on more than 60 algorithms in less than 3 months. 
