@@ -1,4 +1,11 @@
 
+It is multiple year project to work on Leetcode algorithm. 
+
+2015 - 2016
+I worked on around 100 algorithms
+
+2017 - 2018
+
 I submitted 42 algorithms from May 2017 to May 2018 using Leetcode online judge. 
 
 Every algorithm there is a story behind. I spent a lot of hours to work on those 42 algorithms. It is good idea to review those algorithms, and try to apply them in the work, mock interview.  
@@ -11,3 +18,5 @@ I write something about how many algorithm I should have completed in 12 months.
 
 Here is the blog I wrote on this topic. http://juliachencoding.blogspot.com/2018/06/leetcode-last-12-months-42-algorithm.html
      
+2018 July
+I started to work on easy level algorithm, so I worked on more than 60 algorithms in less than 3 months. 
