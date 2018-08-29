@@ -14,7 +14,8 @@ namespace Leetcode_118_Pascal_Triangle
         }
 
         /// <summary>
-        /// 
+        /// The design is based on Leetcode 119 my practice using optimal solution. 
+        /// All I have to do is to save all rows from the top row first. 
         /// </summary>
         /// <param name="numsRow"></param>
         /// <returns></returns>
