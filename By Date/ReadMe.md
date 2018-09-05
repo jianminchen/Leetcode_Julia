@@ -9,12 +9,15 @@ Here are my two weeks practice folder:
 https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Date/2018%20July%2017%20-%20July%2031%20two%20week%20practice
 
 July, 2018
+
 The blog to work on advice - work on Leetcode easy level algorithms from my friend. 
 
 http://juliachencoding.blogspot.com/2018/07/what-is-best-way-to-learn-algorithm.html
 
 
-Sept. 2, 2018, the blog to celebrate 180 mark. 
+Sept. 2, 2018
+
+the blog to celebrate 180 mark. 
 
 http://juliachencoding.blogspot.com/2018/09/celebration-of-180-mark-i-solved-180.html
 
