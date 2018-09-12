@@ -15,7 +15,7 @@ https://github.com/jianminchen/Leetcode_C-/tree/master/2017%20May%20-%202018%20M
 
 7/30/2018
 
-You do not practice, you do not deserve to win. Andre Agassi
+**You do not practice, you do not deserve to win. Andre Agassi**
 
 I like to motivate myself to practice Leetcode easy level algorithms every day. I started from July 17, in two weeks I practiced and submitted over 35 algorithms.
 
