@@ -2,15 +2,11 @@ Leetcode algorithms
 
 Starting from September 3, 2015, I started my first practice on Leetcode algorithms. So far I have practiced over 150 algorithms up to August 15, 2018. 
 
-Here is my Leetcode profile:
-
-https://leetcode.com/jianminchen39/
-
+Here[https://leetcode.com/jianminchen39/] is my Leetcode profile.
 
  
 May 9, 2018
-Add statistic folder:
-https://github.com/jianminchen/Leetcode_C-/tree/master/Practice%20statistics
+Add statistics folder[https://github.com/jianminchen/Leetcode_C-/tree/master/Practice%20statistics]
 
 June 20, 2018
 Add 42 submissions from May 2017 to May 2018
