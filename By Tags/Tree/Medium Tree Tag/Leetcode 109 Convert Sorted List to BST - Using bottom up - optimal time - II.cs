@@ -97,11 +97,10 @@ namespace _109_convert_sorted_list_to_binary_search_tree
             // each node in the sorted list will be visited one by one,
             // the node will be the root node of the tree. 
             var root = new TreeNode(list.val);
-
-            root.left = left;
-
             // go to next one in the sorted linked list 
             list = list.next;
+
+            root.left = left;            
 
             // Right
             root.right = InorderTraversalBottomUp(ref list, middle + 1, end);
