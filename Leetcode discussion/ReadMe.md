@@ -25,9 +25,9 @@ Leetcode.com does not provide product feature to look up discuss shared by a pla
 
 Google search: Leetcode leetcode jianmin.chen.39
 
-Here is the link:
+[Here](https://www.google.ca/search?q=leetcode+jianmin.chen.39&rlz=1C1GCEA_enCA759CA759&oq=leetcode+jianmin.chen.39&aqs=chrome..69i57.3359j0j7&sourceid=chrome&ie=UTF-8) is the link:
 
-https://www.google.ca/search?q=leetcode+jianmin.chen.39&rlz=1C1GCEA_enCA759CA759&oq=leetcode+jianmin.chen.39&aqs=chrome..69i57.3359j0j7&sourceid=chrome&ie=UTF-8
+
 
 
 
