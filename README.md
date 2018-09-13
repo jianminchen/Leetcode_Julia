@@ -29,6 +29,4 @@ Here is the blog I wrote called where to find most hard working people. I like t
 
 I like to encourage myself to share my practice on Leetcode discussion panel. It is important to share my C# code and write down my practice, highlights of the practice. I like to figure out how I can improve myself in terms of algorithm problem solving. 
 
-The folder is added here. 
-
-https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion
+The folder is added called [Leetcode discussion](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion)
