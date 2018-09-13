@@ -11,12 +11,17 @@ namespace _239_sliding_window_maximum___August_2017
         static void Main(string[] args)
         {
         }
-
+        /// <summary>
+        /// optimal time complexity O(N), N is the length of the array. 
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="k"></param>
+        /// <returns></returns>
         public int[] MaxSlidingWindow(int[] nums, int k)
         {
             if (k == 0)
             {
-                return nums; // julia: base case is added to pass online judge. 
+                return nums;  
             }
 
             int length = nums.Length;
@@ -24,32 +29,32 @@ namespace _239_sliding_window_maximum___August_2017
 
             var maximums = new int[numberOfSlidingWindow];
 
-            var linkedList = new LinkedList<int>();  // LinkedList acts like deque
+            var dequeue = new LinkedList<int>();  
 
             for (int index = 0; index < length; index++)
             {
                 var current = nums[index];
 
                 // Remove the first number in the queue if it falls out of the sliding window
-                if (linkedList.Count > 0 && linkedList.First.Value + k <= index)
+                if (dequeue.Count > 0 && dequeue.First.Value + k <= index)
                 {
-                    linkedList.RemoveFirst();
+                    dequeue.RemoveFirst();
                 }
 
                 // Visit the current number, remove from the tail of the
                 // queue indices if the value is smaller than the current number.
-                while (linkedList.Count > 0 && nums[linkedList.Last.Value] <= current)
+                while (dequeue.Count > 0 && nums[dequeue.Last.Value] <= current)
                 {
-                    linkedList.RemoveLast();
+                    dequeue.RemoveLast();
                 }
 
-                linkedList.AddLast(index);
+                dequeue.AddLast(index);
 
                 // Set the max value in the window (always the top number in the queue)                
                 int maximumsIndex = index + 1 - k;
                 if (maximumsIndex >= 0)
                 {
-                    maximums[maximumsIndex] = nums[linkedList.First.Value];
+                    maximums[maximumsIndex] = nums[dequeue.First.Value];
                 }
             }
 
