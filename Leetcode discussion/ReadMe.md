@@ -52,7 +52,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/discuss/166556/C-readable-code)<br>
 <br>
 [624. Maximum distance in arrays](http://www.cnblogs.com/grandyang/p/7073343.html) I will study the blog and write one.<br>
-[628: Maximum product of three numbers](https://github.com/jianminchen/Leetcode_Julia/blob/master/source%20code/Leetcode%20628%20maximum%20product%20of%20three%20numbers.cs) Will share later<br>
+[628: Maximum product of three numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/discuss/170051/C-newbie-to-share-my-practice)<br>
 [661: Image smoother](https://github.com/jianminchen/Leetcode_Julia/blob/master/source%20code/Leetcode%20661%20Image%20Smoother.cs)Will share later<br>
 [665. Non-decreasing array](https://gist.github.com/jianminchen/f6deab57fd1572d6cd3fffff0fb88a66) will share later<br>
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/discuss/166300/C-Depth-first-search-using-recursive-function)<br>
