@@ -36,6 +36,9 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 <br>
 
 **Array easy level algorithms**<br><br>
+[119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162250/My-naive-approach-is-time-consuming-but-the-code-is-still-readable) Naive one<br>
+[119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162252/Optimal-solution-and-less-than-10-lines-of-code-copying-idea-from-most-popular-discuss)Optimal one<br>
+[53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [169. Majority element](https://leetcode.com/problems/majority-element/discuss/165243/C-O(N)-time-complexity-and-space-complexity-O(1))<br>
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/discuss/166306/C-iterate-the-array-and-then-determine-the-range-of-consecutive-ones)<br>
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/165249/C-swap-two-elements-in-the-array-O(N)-time-complexity)<br>
