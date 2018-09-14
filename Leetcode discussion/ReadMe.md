@@ -1,6 +1,6 @@
 **It takes a village to raise a child.**<br><br>
 
-I like to adapt the culture to learn and contribute to Leetcode community. It is so easy to learn from so many ideas, but it takes me more than 3 years five months to understand that I also should learn to contribute to the community. 
+I like to adapt the culture to learn and contribute to Leetcode discuss community. It is so easy to learn from so many ideas, but it takes me more than 3 years five months to understand that I also should learn to contribute to the community. 
 
 This page is dedicated to show my effort to provide a feature to review all my past practice, all my sharing on Leetcode discuss. 
 
