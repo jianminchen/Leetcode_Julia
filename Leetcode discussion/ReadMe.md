@@ -10,16 +10,6 @@ I like to encourage myself to share my code on Leetcode discussion. I learn so m
 
 **Leetcode discuss**<br>
 
-August 9, 2018
-
-[Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)
-
-[Leetcode 437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)
-
-
-[Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html), [the discuss link](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)
-
-
 I will share more practice later. I also will add those links I shared before. 
 
 Sept. 9, 2018
@@ -34,7 +24,14 @@ Sept. 13, 2018
 
 I like to list all my sharings on Tree easy level algorithms, Array easy level algorithms, Math easy level algorithms. 
 
-**Math easy level algorithm**<br>
+
+**Tree easy level algorithms**<br><br>
+[Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)
+
+[Leetcode 437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)
+[Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html), [the discuss link](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)
+
+**Math easy level algorithms**<br>
 [Leetcode 9. Palindrome number](https://leetcode.com/problems/palindrome-number/discuss/169781/C-readable-code)
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/discuss/169793/C-readable-code)<br>
 [Leetcode 172: Factorial trailing zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/discuss/169776/C-learn-from-failed-test-cases-three-times-until-success)
