@@ -31,6 +31,11 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [Leetcode 437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
 [Leetcode 501](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
 
+
+**Array easy level algorithms**<br><br>
+[Leetcode 840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/discuss/166991/C-readable-code-maybe-need-to-simplify-the-code)<br>
+
+
 **Math easy level algorithms**<br><br>
 [Leetcode 7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
 [Leetcode 9. Palindrome number](https://leetcode.com/problems/palindrome-number/discuss/169781/C-readable-code)<br>
@@ -41,7 +46,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [Leetcode 441. Arranging Coins](https://leetcode.com/problems/arranging-coins/discuss/169368/C-binary-search-algorithm)<br>
 [Leetcode 507. Perfect number](https://leetcode.com/problems/perfect-number/discuss/168146/C-learn-to-write-one)<br>
 [Leetcode 633. Sum of square numbers](https://leetcode.com/problems/sum-of-square-numbers/discuss/168097/C-my-favorite-algorithm)<br>
-[Leetcode 840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/discuss/166991/C-readable-code-maybe-need-to-simplify-the-code)<br>
+
 [empty name]()<br>
 
 
