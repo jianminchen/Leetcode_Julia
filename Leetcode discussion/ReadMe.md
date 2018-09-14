@@ -66,7 +66,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [867. Transpose matrix - pass 29/36 test cases]()<br>
 [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/discuss/166309/C-readable-code)<br>
 [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/discuss/166310/C-readable-code)<br>
-[&nbsp;]()<br> 
+
 
 
 **Math easy level algorithms**<br><br>
