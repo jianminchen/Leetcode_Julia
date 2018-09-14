@@ -1,4 +1,4 @@
-**It takes a village to raise a child.**
+**It takes a village to raise a child.**<br>
 I like to adapt the culture to learn and contribute to Leetcode community. It is so easy to learn from so many ideas, but it takes me more than 3 years five months to understand that I also should learn to contribute to the community. 
 
 This page is dedicated to show my effort to provide a feature to review all my past practice, all my sharing on Leetcode discuss. 
@@ -6,6 +6,8 @@ This page is dedicated to show my effort to provide a feature to review all my p
 It is time for me to share my practice on Leetcode.com discussion panel.
 
 I like to encourage myself to share my code on Leetcode discussion. I learn so many things from those people sharing on Leetcode discussion panel. I like to be one of them. 
+
+**Leetcode discuss**<br>
 
 August 9, 2018
 
