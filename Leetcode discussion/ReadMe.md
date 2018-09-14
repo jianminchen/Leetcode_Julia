@@ -26,11 +26,12 @@ Sept. 13, 2018
 
 I like to list all my sharings on Tree easy level algorithms, Array easy level algorithms, Math easy level algorithms. 
 
-Math easy level algorithm<br>
+**Math easy level algorithm**<br>
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/discuss/169793/C-readable-code)<br>
 [Leetcode 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/discuss/169789/C-binary-search-algorithm)<br>
 
-
+**Medium level**
+[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array)
 
 
 
