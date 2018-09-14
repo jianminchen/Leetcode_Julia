@@ -27,7 +27,7 @@ Sept. 13, 2018
 I like to list all my sharings on Tree easy level algorithms, Array easy level algorithms, Math easy level algorithms. 
 
 
-**Tree easy level algorithms**<br><br>
+**Tree easy level algorithms (solved 30)**<br><br>
 
 
 [437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
@@ -38,7 +38,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 <br>
 
-**Array easy level algorithms**<br><br>
+**Array easy level algorithms (solved 44)**<br><br>
 [53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162250/My-naive-approach-is-time-consuming-but-the-code-is-still-readable) Naive one<br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162252/Optimal-solution-and-less-than-10-lines-of-code-copying-idea-from-most-popular-discuss) Optimal one<br>
@@ -67,7 +67,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 
 
-**Math easy level algorithms**<br><br>
+**Math easy level algorithms (solved )**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
 [9. Palindrome number](https://leetcode.com/problems/palindrome-number/discuss/169781/C-readable-code)<br> 
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/discuss/169793/C-readable-code)<br>
@@ -79,11 +79,11 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [633. Sum of square numbers](https://leetcode.com/problems/sum-of-square-numbers/discuss/168097/C-my-favorite-algorithm)<br>
 
 
-**Medium level**<br><br>
+**Medium level (solved 53)**<br><br>
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array)<br>
 
-**Hard level**<br><br>
+**Hard level (solved 33)**<br><br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue)<br>
 optimal solution using LinkedList<br>
 
