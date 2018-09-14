@@ -33,6 +33,9 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 **Medium level**<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array)
 
+**Hard level**<br>
+[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue)<br>
+optimal solution using LinkedList<br>
 
 
 
