@@ -54,7 +54,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [624. Maximum distance in arrays](http://www.cnblogs.com/grandyang/p/7073343.html) I will study the blog and write one.<br>
 [628: Maximum product of three numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/discuss/170051/C-newbie-to-share-my-practice)<br>
 [661: Image smoother](https://leetcode.com/problems/image-smoother/discuss/170054/C-a-newbie-to-share-the-practice)<br>
-[665. Non-decreasing array](https://gist.github.com/jianminchen/f6deab57fd1572d6cd3fffff0fb88a66) will share later<br>
+[665. Non-decreasing array](https://leetcode.com/problems/non-decreasing-array/discuss/170055/C-I-missed-one-user-case-but-I-learned-to-fix-it)<br>
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/discuss/166300/C-Depth-first-search-using-recursive-function)<br>
 <br>
 [717. 1-bit and 2-bit characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/discuss/165241/C-dynamic-programming-solution-five-submissions-and-finally-pass-online-judge)<br>
