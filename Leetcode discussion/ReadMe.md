@@ -90,6 +90,7 @@ optimal solution using LinkedList<br>
 [239. Sliding Window Maximum - All submissions, SortedSet, timeout](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20239%20Sliding%20window%20maximum)<br>
 **My own blogs**<br><br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75027/Easy-Short-Concise-and-Fast-Java-DFS-3-ms-solution/78052) 1 upvotes!<br>
+[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75034/Easiest-9ms-Java-Solution/78192) 3 upvotes<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
 <br>
