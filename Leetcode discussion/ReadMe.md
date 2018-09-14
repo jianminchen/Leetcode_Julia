@@ -32,14 +32,14 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [Leetcode 501](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
 
 **Math easy level algorithms**<br><br>
-[Leetcode 9. Palindrome number](https://leetcode.com/problems/palindrome-number/discuss/169781/C-readable-code)
+[Leetcode 9. Palindrome number](https://leetcode.com/problems/palindrome-number/discuss/169781/C-readable-code)<br>
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/discuss/169793/C-readable-code)<br>
-[Leetcode 172: Factorial trailing zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/discuss/169776/C-learn-from-failed-test-cases-three-times-until-success)
+[Leetcode 172: Factorial trailing zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/discuss/169776/C-learn-from-failed-test-cases-three-times-until-success)<br>
 [Leetcode 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/discuss/169789/C-binary-search-algorithm)<br>
 
 **Medium level**<br><br>
-[Leetcode 109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)
-[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array)
+[Leetcode 109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
+[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array)<br>
 
 **Hard level**<br><br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue)<br>
@@ -47,7 +47,7 @@ optimal solution using LinkedList<br>
 
 **My own blogs**<br><br>
 
-[Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)
-[Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html)
+[Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
+[Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html)<br>
 
 
