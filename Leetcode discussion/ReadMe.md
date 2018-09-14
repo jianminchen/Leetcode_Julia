@@ -26,10 +26,10 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 
 **Tree easy level algorithms**<br><br>
-[Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)
 
-[Leetcode 437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)
-[Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html), [the discuss link](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)
+
+[Leetcode 437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
+[Leetcode 501](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
 
 **Math easy level algorithms**<br><br>
 [Leetcode 9. Palindrome number](https://leetcode.com/problems/palindrome-number/discuss/169781/C-readable-code)
@@ -45,5 +45,9 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue)<br>
 optimal solution using LinkedList<br>
 
+**My own blogs**<br><br>
+
+[Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)
+[Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html)
 
 
