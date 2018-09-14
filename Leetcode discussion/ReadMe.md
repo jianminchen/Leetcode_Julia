@@ -30,6 +30,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 [437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
 [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
+[590. N-ary tree postorder traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/170046/C-readable-code) will share later<br>
 [671. Second minimum node in a binary tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/164878/C-The-solution-is-working-find-but-it-can-be-simplified-using-given-constraint)<br>
 [687.Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root)<br>
 
@@ -40,8 +41,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162252/Optimal-solution-and-less-than-10-lines-of-code-copying-idea-from-most-popular-discuss) Optimal one<br>
 [53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [169. Majority element](https://leetcode.com/problems/majority-element/discuss/165243/C-O(N)-time-complexity-and-space-complexity-O(1))<br>
-[189. Rotate the array](https://github.com/jianminchen/Leetcode_Julia/blob/master/source%20code/Leetcode%20189%20rotate%20the%20array.cs)Will share later<br>
-[219. Contains Duplicate II](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20219%20Contain%20duplicate%20II)Will share later<br>
+[189. Rotate the array](https://github.com/jianminchen/Leetcode_Julia/blob/master/source%20code/Leetcode%20189%20rotate%20the%20array.cs) Will share later<br>
+[219. Contains Duplicate II](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20219%20Contain%20duplicate%20II) Will share later<br>
 [414. The third maximum number](https://leetcode.com/problems/third-maximum-number/discuss/160464/C-solution-using-SortedSet)<br>
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/discuss/166306/C-iterate-the-array-and-then-determine-the-range-of-consecutive-ones)<br>
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/165249/C-swap-two-elements-in-the-array-O(N)-time-complexity)<br>
@@ -51,6 +52,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [624. Maximum distance in arrays](http://www.cnblogs.com/grandyang/p/7073343.html) I will study the blog and write one.<br>
 [628: Maximum product of three numbers](https://github.com/jianminchen/Leetcode_Julia/blob/master/source%20code/Leetcode%20628%20maximum%20product%20of%20three%20numbers.cs) Will share later<br>
 [661: Image smoother](https://github.com/jianminchen/Leetcode_Julia/blob/master/source%20code/Leetcode%20661%20Image%20Smoother.cs)Will share later<br>
+[665. Non-decreasing array](https://gist.github.com/jianminchen/f6deab57fd1572d6cd3fffff0fb88a66) will share later<br>
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/discuss/166300/C-Depth-first-search-using-recursive-function)<br>
 <br>
 [717. 1-bit and 2-bit characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/discuss/165241/C-dynamic-programming-solution-five-submissions-and-finally-pass-online-judge)<br>
