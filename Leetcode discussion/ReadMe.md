@@ -30,9 +30,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 [437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
 [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
-
-<br>
-[687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root)<br>
+[687.Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root)<br>
 
 <br>
 
