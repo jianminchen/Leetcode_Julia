@@ -85,7 +85,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 <br>
 [633. Sum of square numbers](https://leetcode.com/problems/sum-of-square-numbers/discuss/168097/C-my-favorite-algorithm)<br>
 
-[empty name]()<br>
+
 
 
 **Medium level**<br><br>
