@@ -1,4 +1,4 @@
-Leetcode algorithms 
+**Leetcode algorithms**
 
 Starting from September 3, 2015, I started my first practice on Leetcode algorithms. So far I have practiced over 150 algorithms up to August 15, 2018. 
 
