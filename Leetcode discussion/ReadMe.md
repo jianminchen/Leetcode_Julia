@@ -67,7 +67,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 
 
-**Math easy level algorithms (solved )**<br><br>
+**Math easy level algorithms (solved 18)**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
 [9. Palindrome number](https://leetcode.com/problems/palindrome-number/discuss/169781/C-readable-code)<br> 
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/discuss/169793/C-readable-code)<br>
