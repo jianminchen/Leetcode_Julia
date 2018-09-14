@@ -37,7 +37,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 **Array easy level algorithms**<br><br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162250/My-naive-approach-is-time-consuming-but-the-code-is-still-readable) Naive one<br>
-[119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162252/Optimal-solution-and-less-than-10-lines-of-code-copying-idea-from-most-popular-discuss)Optimal one<br>
+[119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162252/Optimal-solution-and-less-than-10-lines-of-code-copying-idea-from-most-popular-discuss) Optimal one<br>
 [53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [169. Majority element](https://leetcode.com/problems/majority-element/discuss/165243/C-O(N)-time-complexity-and-space-complexity-O(1))<br>
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/discuss/166306/C-iterate-the-array-and-then-determine-the-range-of-consecutive-ones)<br>
@@ -46,6 +46,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/discuss/166556/C-readable-code)<br>
 <br>
 [624. Maximum distance in arrays](http://www.cnblogs.com/grandyang/p/7073343.html) I will study the blog and write one.<br>
+[628: Maximum product of three numbers](https://github.com/jianminchen/Leetcode_Julia/blob/master/source%20code/Leetcode%20628%20maximum%20product%20of%20three%20numbers.cs) Will share later<br>
+[661: Image smoother](https://github.com/jianminchen/Leetcode_Julia/blob/master/source%20code/Leetcode%20661%20Image%20Smoother.cs)Will share later<br>
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/discuss/166300/C-Depth-first-search-using-recursive-function)<br>
 <br>
 [717. 1-bit and 2-bit characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/discuss/165241/C-dynamic-programming-solution-five-submissions-and-finally-pass-online-judge)<br>
@@ -53,6 +55,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [746: Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/discuss/165234/C-dynamic-programming-solution)<br>
 [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/discuss/166675/C-it-is-a-good-exercise-even-though-the-solution-is-so-complicated)<br>
 <br>
+[830: Positions of large groups](https://leetcode.com/problems/positions-of-large-groups/discuss/162258/C-practice-and-the-order-of-positions-is-based-on-the-order-in-original-string)<br>
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/discuss/166521/C-readable-code)<br>
 [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/discuss/166991/C-readable-code-maybe-need-to-simplify-the-code)<br>
 [867. Transpose matrix - pass 29/36 test cases]()<br>
