@@ -26,6 +26,9 @@ Sept. 13, 2018
 
 I like to list all my sharings on Tree easy level algorithms, Array easy level algorithms, Math easy level algorithms. 
 
+Math easy level algorithm
+[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/discuss/169793/C-readable-code)<br>
+
 
 
 
