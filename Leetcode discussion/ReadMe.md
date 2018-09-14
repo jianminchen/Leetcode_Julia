@@ -31,11 +31,20 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
 [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
 
+<br>
+[687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root)<br>
+[&nbsp;]()<br>
+<br>
 
 **Array easy level algorithms**<br><br>
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/discuss/166306/C-iterate-the-array-and-then-determine-the-range-of-consecutive-ones)<br>
+
+[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/165249/C-swap-two-elements-in-the-array-O(N)-time-complexity)<br>
 <br>
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/discuss/166556/C-readable-code)<br>
+<br>
+
+[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/discuss/166300/C-Depth-first-search-using-recursive-function)<br>
 <br>
 [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/discuss/166675/C-it-is-a-good-exercise-even-though-the-solution-is-so-complicated)<br>
 <br>
@@ -44,7 +53,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [867. Transpose matrix - pass 29/36 test cases]()<br>
 [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/discuss/166309/C-readable-code)<br>
 [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/discuss/166310/C-readable-code)<br>
-[empty name]()<br>
+[&nbsp;]()<br>
 
 
 **Math easy level algorithms**<br><br>
