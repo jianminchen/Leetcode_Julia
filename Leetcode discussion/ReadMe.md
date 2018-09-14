@@ -33,11 +33,17 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 
 **Array easy level algorithms**<br><br>
+[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/discuss/166306/C-iterate-the-array-and-then-determine-the-range-of-consecutive-ones)<br>
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/discuss/166556/C-readable-code)<br>
 
 [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/discuss/166675/C-it-is-a-good-exercise-even-though-the-solution-is-so-complicated)<br>
+
+[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/discuss/166521/C-readable-code)<br>
 [Leetcode 840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/discuss/166991/C-readable-code-maybe-need-to-simplify-the-code)<br>
 [Leetcode 867. Transpose matrix - pass 29/36 test cases]()<br>
+
+[888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/discuss/166309/C-readable-code)<br>
+[896. Monotonic Array](https://leetcode.com/problems/monotonic-array/discuss/166310/C-readable-code)<br>
 [empty name]()<br>
 
 
