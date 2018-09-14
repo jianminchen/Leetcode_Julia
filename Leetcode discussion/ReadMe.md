@@ -32,7 +32,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
 [590. N-ary tree postorder traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/170046/C-readable-code) will share later<br>
 [671. Second minimum node in a binary tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/164878/C-The-solution-is-working-find-but-it-can-be-simplified-using-given-constraint)<br>
-[687.Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root)<br>
+[687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root)<br>
 
 <br>
 
