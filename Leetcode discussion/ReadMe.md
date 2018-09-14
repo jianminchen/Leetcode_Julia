@@ -39,9 +39,9 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 <br>
 
 **Array easy level algorithms**<br><br>
+[53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162250/My-naive-approach-is-time-consuming-but-the-code-is-still-readable) Naive one<br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162252/Optimal-solution-and-less-than-10-lines-of-code-copying-idea-from-most-popular-discuss) Optimal one<br>
-[53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [169. Majority element](https://leetcode.com/problems/majority-element/discuss/165243/C-O(N)-time-complexity-and-space-complexity-O(1))<br>
 [189. Rotate the array](https://leetcode.com/problems/rotate-array/discuss/170049/C-readable-code-and-still-work-hard-on-easy-level-array-algorithms)<br>
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/discuss/170050/C-rookie-to-share-my-practice)<br>
@@ -77,8 +77,6 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/discuss/169368/C-binary-search-algorithm)<br>
 [507. Perfect number](https://leetcode.com/problems/perfect-number/discuss/168146/C-learn-to-write-one)<br>
 [633. Sum of square numbers](https://leetcode.com/problems/sum-of-square-numbers/discuss/168097/C-my-favorite-algorithm)<br>
-
-
 
 
 **Medium level**<br><br>
