@@ -33,6 +33,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 
 **Array easy level algorithms**<br><br>
+[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/discuss/166556/C-readable-code)<br>
 
 [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/discuss/166675/C-it-is-a-good-exercise-even-though-the-solution-is-so-complicated)<br>
 [Leetcode 840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/discuss/166991/C-readable-code-maybe-need-to-simplify-the-code)<br>
