@@ -2,6 +2,8 @@
 
 I like to adapt the culture to learn and contribute to Leetcode discuss community. It is so easy to learn from so many ideas, but it takes me more than 3 years five months to understand that I also should learn to contribute to the community. 
 
+I like to see if I adopt the value "It takes a village to raise a child", as a programmer, I think that in order to get smart, I have to learn to contribute Leetcode discuss. Since I find that it is so easy to learn the algorithm on leetcode discuss, I like to be one of them to work hard and share the thoughts and hard work.
+
 This page is dedicated to show my effort to provide a feature to review all my past practice, all my sharing on Leetcode discuss. 
 
 It is time for me to share my practice on Leetcode.com discussion panel.
@@ -41,7 +43,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162252/Optimal-solution-and-less-than-10-lines-of-code-copying-idea-from-most-popular-discuss) Optimal one<br>
 [53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [169. Majority element](https://leetcode.com/problems/majority-element/discuss/165243/C-O(N)-time-complexity-and-space-complexity-O(1))<br>
-[189. Rotate the array](https://github.com/jianminchen/Leetcode_Julia/blob/master/source%20code/Leetcode%20189%20rotate%20the%20array.cs) Will share later<br>
+[189. Rotate the array](https://leetcode.com/problems/rotate-array/discuss/170049/C-readable-code-and-still-work-hard-on-easy-level-array-algorithms)<br>
 [219. Contains Duplicate II](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20219%20Contain%20duplicate%20II) Will share later<br>
 [414. The third maximum number](https://leetcode.com/problems/third-maximum-number/discuss/160464/C-solution-using-SortedSet)<br>
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/discuss/166306/C-iterate-the-array-and-then-determine-the-range-of-consecutive-ones)<br>
