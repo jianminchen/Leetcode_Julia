@@ -30,7 +30,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 **Tree easy level algorithms (solved 30)**<br><br>
 
 
-[437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
+[437. Path Sum III](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
 [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
 [590. N-ary tree postorder traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/170046/C-readable-code)<br>
 [671. Second minimum node in a binary tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/164878/C-The-solution-is-working-find-but-it-can-be-simplified-using-given-constraint)<br>
