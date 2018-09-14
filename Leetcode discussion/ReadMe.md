@@ -30,19 +30,24 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 [437 Julia's discuss link](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
 [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
+[671. Second minimum node in a binary tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/164878/C-The-solution-is-working-find-but-it-can-be-simplified-using-given-constraint)<br>
 [687.Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root)<br>
 
 <br>
 
 **Array easy level algorithms**<br><br>
+[169. Majority element](https://leetcode.com/problems/majority-element/discuss/165243/C-O(N)-time-complexity-and-space-complexity-O(1))<br>
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/discuss/166306/C-iterate-the-array-and-then-determine-the-range-of-consecutive-ones)<br>
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/discuss/165249/C-swap-two-elements-in-the-array-O(N)-time-complexity)<br>
 <br>
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/discuss/166556/C-readable-code)<br>
 <br>
-
+[624. Maximum distance in arrays](http://www.cnblogs.com/grandyang/p/7073343.html) I will study the blog and write one.<br>
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/discuss/166300/C-Depth-first-search-using-recursive-function)<br>
 <br>
+[717. 1-bit and 2-bit characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/discuss/165241/C-dynamic-programming-solution-five-submissions-and-finally-pass-online-judge)<br>
+[724. Find pivot index](https://leetcode.com/problems/find-pivot-index/discuss/164880/C-my-readable-code)<br>
+[746: Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/discuss/165234/C-dynamic-programming-solution)<br>
 [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/discuss/166675/C-it-is-a-good-exercise-even-though-the-solution-is-so-complicated)<br>
 <br>
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/discuss/166521/C-readable-code)<br>
