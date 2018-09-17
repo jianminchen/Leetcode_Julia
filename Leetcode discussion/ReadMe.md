@@ -76,6 +76,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [400. Nth Digit](https://leetcode.com/problems/nth-digit/discuss/168055/C-code-written-after-6th-failed-submissions-copying-the-idea-from-the-discuss)<br>
 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/discuss/169368/C-binary-search-algorithm)<br>
 [507. Perfect number](https://leetcode.com/problems/perfect-number/discuss/168146/C-learn-to-write-one)<br>
+[598. Range Addition II](https://leetcode.com/problems/range-addition-ii/discuss/171236/C-it-took-me-two-submissions)<br>
 [633. Sum of square numbers](https://leetcode.com/problems/sum-of-square-numbers/discuss/168097/C-my-favorite-algorithm)<br>
 
 
