@@ -38,7 +38,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 <br>
 
-**Array easy level algorithms (solved 44)**<br><br>
+**Array easy level algorithms (solved 44, shared 24)**<br><br>
 [53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162250/My-naive-approach-is-time-consuming-but-the-code-is-still-readable) Naive one<br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162252/Optimal-solution-and-less-than-10-lines-of-code-copying-idea-from-most-popular-discuss) Optimal one<br>
@@ -67,15 +67,19 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 
 
-**Math easy level algorithms (solved 18)**<br><br>
+**Math easy level algorithms (solved 27/ 32, shared 12)**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
 [9. Palindrome number](https://leetcode.com/problems/palindrome-number/discuss/169781/C-readable-code)<br> 
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/discuss/169793/C-readable-code)<br>
 [172: Factorial trailing zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/discuss/169776/C-learn-from-failed-test-cases-three-times-until-success)<br> 
 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/discuss/169789/C-binary-search-algorithm)<br> 
 [400. Nth Digit](https://leetcode.com/problems/nth-digit/discuss/168055/C-code-written-after-6th-failed-submissions-copying-the-idea-from-the-discuss)<br>
+[415. Add Strings](https://leetcode.com/problems/add-strings/discuss/170832/C-my-first-practice-has-stack-overflow-issue) recursive version - memory limit exceeded<br>
+[415. Add Strings](https://leetcode.com/problems/add-strings/discuss/170839/C-iterative-solution-using-a-for-loop) Iterative solution - learn to use for loop creatively<br>
 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/discuss/169368/C-binary-search-algorithm)<br>
 [507. Perfect number](https://leetcode.com/problems/perfect-number/discuss/168146/C-learn-to-write-one)<br>
+[598. Range Addition II](https://leetcode.com/problems/range-addition-ii/discuss/171236/C-it-took-me-two-submissions)<br>
+[836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/discuss/171116/C-similar-to-interval-overlap-algorithm)<br>
 [633. Sum of square numbers](https://leetcode.com/problems/sum-of-square-numbers/discuss/168097/C-my-favorite-algorithm)<br>
 
 
