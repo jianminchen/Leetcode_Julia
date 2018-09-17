@@ -75,7 +75,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/discuss/169789/C-binary-search-algorithm)<br> 
 [400. Nth Digit](https://leetcode.com/problems/nth-digit/discuss/168055/C-code-written-after-6th-failed-submissions-copying-the-idea-from-the-discuss)<br>
 [415. Add Strings](https://leetcode.com/problems/add-strings/discuss/170832/C-my-first-practice-has-stack-overflow-issue) recursive version - memory limit exceeded<br>
-[415. Add Strings](https://leetcode.com/problems/add-strings/discuss/170839/C-iterative-solution-using-a-for-loop)Iterative solution - learn to use for loop creatively<br>
+[415. Add Strings](https://leetcode.com/problems/add-strings/discuss/170839/C-iterative-solution-using-a-for-loop) Iterative solution - learn to use for loop creatively<br>
 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/discuss/169368/C-binary-search-algorithm)<br>
 [507. Perfect number](https://leetcode.com/problems/perfect-number/discuss/168146/C-learn-to-write-one)<br>
 [598. Range Addition II](https://leetcode.com/problems/range-addition-ii/discuss/171236/C-it-took-me-two-submissions)<br>
