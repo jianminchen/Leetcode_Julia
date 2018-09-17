@@ -38,7 +38,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 <br>
 
-**Array easy level algorithms (solved 44)**<br><br>
+**Array easy level algorithms (solved 44, shared 24)**<br><br>
 [53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162250/My-naive-approach-is-time-consuming-but-the-code-is-still-readable) Naive one<br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162252/Optimal-solution-and-less-than-10-lines-of-code-copying-idea-from-most-popular-discuss) Optimal one<br>
