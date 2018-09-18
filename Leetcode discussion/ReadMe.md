@@ -27,7 +27,7 @@ Sept. 13, 2018
 I like to list all my sharings on Tree easy level algorithms, Array easy level algorithms, Math easy level algorithms. 
 
 
-**Tree easy level algorithms (solved 30)**<br><br>
+**Tree easy level algorithms (solved 30, shared 5)**<br><br>
 
 
 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
@@ -83,13 +83,13 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [633. Sum of square numbers](https://leetcode.com/problems/sum-of-square-numbers/discuss/168097/C-my-favorite-algorithm)<br>
 
 
-**Medium level (solved 53)**<br><br>
+**Medium level (solved 53, shared 4)**<br><br>
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
 [130. Surrounded Regions](https://gist.github.com/jianminchen/ff3384e4f572095416130702bb1e25e0) Will share later<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
 
-**Hard level (solved 33)**<br><br>
+**Hard level (solved 33, shared 5)**<br><br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue)<br>
 optimal solution using LinkedList<br>
 [239. Sliding Window Maximum - All submissions, SortedSet, timeout](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20239%20Sliding%20window%20maximum)<br>
