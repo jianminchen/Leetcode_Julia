@@ -1,4 +1,5 @@
-You do not practice, you do not deserve to win. Andre Agassi
+**You do not practice, you do not deserve to win.**<br> 
+**Andre Agassi**
 
 I like to motivate myself to practice Leetcode easy level algorithms every day. I started from July 17, in two weeks I practiced and submitted over 35 algorithms. 
 
