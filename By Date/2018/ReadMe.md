@@ -33,7 +33,7 @@ Things I can talk can be anything, difference from Hackerrank contest. One hour 
 
 To build a community around Leetcode contest and get involved more, it is not easy task. I certainly can work on some ideas, and also it will help me to get more involved in the contest. 
 
-My ranking of contest is around 14,000. My goal is to get into first 10,000. Maybe I should aim at global ranking top 5000. Because I want to work for Facebook one day. 
+My ranking of contest is around 14,000. My goal is to get into first 10,000. Maybe I should aim at global ranking top 5000 at the end of 2018. Because I want to work for Facebook one day. 
 
 **Time to review my practice**<br>
 
