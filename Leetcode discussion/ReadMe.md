@@ -97,6 +97,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/discuss/172751/C-418-460-test-cases-passed.) 418/460 test cases passed Time limit exceeded<br>
 [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/172718/C-memory-limit-exceeded-for-last-test-case) memory limit exceeded for last test case <br>
 [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/172721/C-last-test-case-memory-limit-exceeded) memory limit exceeded for last test case<br>
+[859. Buddy Strings](https://leetcode.com/problems/buddy-strings/discuss/172716/C-readable-code)<br>
 
 **Medium level (solved 53, shared 4)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
