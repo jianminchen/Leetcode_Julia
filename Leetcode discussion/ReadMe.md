@@ -94,7 +94,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [443. String Compression](https://leetcode.com/problems/string-compression/discuss/172737/C-I-learn-how-to-write-an-elegant-solution-through-most-popular-post) Elegant solution to learn<br>
 [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/discuss/172729/C-readable-code-with-some-pruning-ideas)<br>
 [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/discuss/172748/C-it-took-me-one-hour-and-then-I-came-out-the-optimal-solution) Optimal solution<br>
-[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/discuss/172751/C-418-460-test-cases-passed.) 418/460 test cases passed Time limit exceeded<>
+[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/discuss/172751/C-418-460-test-cases-passed.) 418/460 test cases passed Time limit exceeded<br>
 [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/172718/C-memory-limit-exceeded-for-last-test-case) memory limit exceeded for last test case <br>
 [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/172721/C-last-test-case-memory-limit-exceeded) memory limit exceeded for last test case<br>
 
