@@ -84,7 +84,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/discuss/171116/C-similar-to-interval-overlap-algorithm)<br>
 [868 binary gap](https://leetcode.com/problems/binary-gap/discuss/171946/C-my-readable-code-using-bit-manipulation-practice)<br>
 
-**String easy level algorithms** <br>
+**String easy level algorithms** <br><br>
+
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/discuss/172755/C-readable-code)<br>
 [38. Count and Say](https://leetcode.com/problems/count-and-say/discuss/172733/C-readable-code)<br>
 [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/172723/C-my-most-favorite-algorithm)<br>
