@@ -10,6 +10,8 @@ It is time for me to share my practice on Leetcode.com discussion panel.
 
 I like to encourage myself to share my code on Leetcode discussion. I learn so many things from those people sharing on Leetcode discussion panel. I like to be one of them. 
 
+Since I am working on target to solve first 300 algorithm on Leetcode.com, I like to solve as many algorithms as possible. So it will take me some time to work on Leetcode discuss, specially on Leetcode easy level tree algorithms.
+
 **Leetcode discuss**<br><br>
 
 I will share more practice later. I also will add those links I shared before. 
