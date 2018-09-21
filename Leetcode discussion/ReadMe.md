@@ -85,7 +85,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [868 binary gap](https://leetcode.com/problems/binary-gap/discuss/171946/C-my-readable-code-using-bit-manipulation-practice)<br>
 
 **String easy level algorithms**
-
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/discuss/172755/C-readable-code)<br>
 [38. Count and Say](https://leetcode.com/problems/count-and-say/discuss/172733/C-readable-code)<br>
 [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/172723/C-my-most-favorite-algorithm)<br>
 [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/discuss/172735/C-quick-and-simple-solution)<br>
@@ -95,6 +95,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/discuss/172729/C-readable-code-with-some-pruning-ideas)<br>
 [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/discuss/172748/C-it-took-me-one-hour-and-then-I-came-out-the-optimal-solution) Optimal solution<br>
 [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/discuss/172751/C-418-460-test-cases-passed.) 418/460 test cases passed Time limit exceeded<>
+[686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/172718/C-memory-limit-exceeded-for-last-test-case) memory limit exceeded for last test case <br>
+[686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/172721/C-last-test-case-memory-limit-exceeded) memory limit exceeded for last test case<br>
 
 **Medium level (solved 53, shared 4)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
