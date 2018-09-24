@@ -102,7 +102,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/172721/C-last-test-case-memory-limit-exceeded) memory limit exceeded for last test case<br>
 [788. Rotated digits](https://leetcode.com/problems/rotated-digits/discuss/173810/C-dynamic-programming-solution) dynamic programming<br>
 [788. Rotated digits](https://leetcode.com/problems/rotated-digits/discuss/173236/C-using-two-hashset-to-help-lookup) using two hashset to help<br>
-[788. Rotated digits](https://leetcode.com/problems/rotated-digits/discuss/173248/C-write-an-elegant-solution-using-HashSet.IsSubsetOf-API) use HashSet.IsSubSetOf<br>
+[788. Rotated digits](https://leetcode.com/problems/rotated-digits/discuss/173248/C-write-an-elegant-solution-using-HashSet.IsSubsetOf-API) use HashSet.IsSubsetOf<br>
 [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/discuss/172716/C-readable-code)<br>
 [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/173803/C-using-counting-sort-since-string-contains-English-letters)<br>
 
