@@ -1,4 +1,4 @@
-** Mock interview algorithms **
+**Mock interview algorithms**
 
 I chose some algorithms to interview players. Most used ones are the following. 
 
