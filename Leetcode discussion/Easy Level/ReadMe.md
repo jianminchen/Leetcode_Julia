@@ -10,6 +10,8 @@ It is time for me to share my practice on Leetcode.com discussion panel.
 
 I like to encourage myself to share my code on Leetcode discussion. I learn so many things from those people sharing on Leetcode discussion panel. I like to be one of them. 
 
+Since I am working on target to solve first 300 algorithm on Leetcode.com, I like to solve as many algorithms as possible. So it will take me some time to work on Leetcode discuss, specially on Leetcode easy level tree algorithms.
+
 **Leetcode discuss**<br><br>
 
 I will share more practice later. I also will add those links I shared before. 
@@ -27,7 +29,7 @@ Sept. 13, 2018
 I like to list all my sharings on Tree easy level algorithms, Array easy level algorithms, Math easy level algorithms. 
 
 
-**Tree easy level algorithms (solved 30)**<br><br>
+**Tree easy level algorithms (solved 30, shared 5)**<br><br>
 
 
 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/discuss/158397/C-solution-with-time-complexity-O(N)-N-is-total-nodes-of-tree)<br>
@@ -77,19 +79,37 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [415. Add Strings](https://leetcode.com/problems/add-strings/discuss/170832/C-my-first-practice-has-stack-overflow-issue) recursive version - memory limit exceeded<br>
 [415. Add Strings](https://leetcode.com/problems/add-strings/discuss/170839/C-iterative-solution-using-a-for-loop) Iterative solution - learn to use for loop creatively<br>
 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/discuss/169368/C-binary-search-algorithm)<br>
+[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/discuss/171932/C-I-found-the-algorithm-was-very-challenge-at-first)<br>
 [507. Perfect number](https://leetcode.com/problems/perfect-number/discuss/168146/C-learn-to-write-one)<br>
 [598. Range Addition II](https://leetcode.com/problems/range-addition-ii/discuss/171236/C-it-took-me-two-submissions)<br>
-[836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/discuss/171116/C-similar-to-interval-overlap-algorithm)<br>
 [633. Sum of square numbers](https://leetcode.com/problems/sum-of-square-numbers/discuss/168097/C-my-favorite-algorithm)<br>
+[836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/discuss/171116/C-similar-to-interval-overlap-algorithm)<br>
+[868 binary gap](https://leetcode.com/problems/binary-gap/discuss/171946/C-my-readable-code-using-bit-manipulation-practice)<br>
 
+**String easy level algorithms** (shared 9) <br><br>
 
-**Medium level (solved 53)**<br><br>
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/discuss/172755/C-readable-code)<br>
+[38. Count and Say](https://leetcode.com/problems/count-and-say/discuss/172733/C-readable-code)<br>
+[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/172723/C-my-most-favorite-algorithm)<br>
+[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/discuss/172735/C-quick-and-simple-solution)<br>
+[443. String Compression](https://leetcode.com/problems/string-compression/discuss/172745/C-use-count-variable-to-avoid-looking-backward-in-the-iteration-of-the-array) use count variable to avoid backward lookup<br>
+[443. String Compression](https://leetcode.com/problems/string-compression/discuss/172740/C-look-backward-and-look-forward-in-one-iteration-buggy-code) My idea -look ahead and backward<br>
+[443. String Compression](https://leetcode.com/problems/string-compression/discuss/172737/C-I-learn-how-to-write-an-elegant-solution-through-most-popular-post) Elegant solution to learn<br>
+[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/discuss/172729/C-readable-code-with-some-pruning-ideas)<br>
+[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/discuss/172748/C-it-took-me-one-hour-and-then-I-came-out-the-optimal-solution) Optimal solution<br>
+[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/discuss/172751/C-418-460-test-cases-passed.) 418/460 test cases passed Time limit exceeded<br>
+[686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/172718/C-memory-limit-exceeded-for-last-test-case) memory limit exceeded for last test case <br>
+[686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/discuss/172721/C-last-test-case-memory-limit-exceeded) memory limit exceeded for last test case<br>
+[859. Buddy Strings](https://leetcode.com/problems/buddy-strings/discuss/172716/C-readable-code)<br>
+
+**Medium level (solved 53, shared 4)**<br><br>
+[18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
 [130. Surrounded Regions](https://gist.github.com/jianminchen/ff3384e4f572095416130702bb1e25e0) Will share later<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
 
-**Hard level (solved 33)**<br><br>
+**Hard level (solved 33, shared 5)**<br><br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue)<br>
 optimal solution using LinkedList<br>
 [239. Sliding Window Maximum - All submissions, SortedSet, timeout](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20239%20Sliding%20window%20maximum)<br>
