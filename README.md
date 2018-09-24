@@ -2,7 +2,7 @@
 
 Starting from September 3, 2015, I started my first practice on Leetcode algorithms. So far I have practiced over 150 algorithms up to August 15, 2018. 
 
-[Here](https://leetcode.com/jianminchen39/) is my Leetcode profile.
+[Here](https://leetcode.com/jianminchen/) is my Leetcode profile.
 
  
 May 9, 2018
