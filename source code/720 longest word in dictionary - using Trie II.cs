@@ -43,7 +43,7 @@ namespace longest_word_in_dictionary_trie_II
             /// in the dictionary
             /// The length of words will be in the range [1, 1000].
             /// The length of words[i] will be in the range [1, 30].
-            /// It is find to use recursive function since the depth of trie is less than 31. 
+            /// It is fine to use recursive function since the depth of trie is less than 31. 
             /// </summary>
             /// <param name="sb"></param>
             /// <returns></returns>
