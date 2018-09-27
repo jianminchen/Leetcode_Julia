@@ -38,7 +38,6 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [671. Second minimum node in a binary tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/164878/C-The-solution-is-working-find-but-it-can-be-simplified-using-given-constraint)<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root) optimal solution<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158926/C-solution-with-design-flaws-passing-only-43-out-of-68-test-cases) with design flaw, pass 43 out of 68 test cases<br>
-<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158923/C-solution-using-recursive-function) copy the idea from most popular post<br>
 
 **Array easy level algorithms (solved 44, shared 24)**<br><br>
