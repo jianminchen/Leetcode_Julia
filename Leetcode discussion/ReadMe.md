@@ -90,7 +90,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/discuss/172755/C-readable-code)<br>
 [38. Count and Say](https://leetcode.com/problems/count-and-say/discuss/172733/C-readable-code)<br>
-[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/172723/C-my-most-favorite-algorithm)<br>
+[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/discuss/172723/C-my-most-favorite-algorithm)  one upvote<br>
 [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/discuss/172735/C-quick-and-simple-solution)<br>
 [443. String Compression](https://leetcode.com/problems/string-compression/discuss/172745/C-use-count-variable-to-avoid-looking-backward-in-the-iteration-of-the-array) use count variable to avoid backward lookup<br>
 [443. String Compression](https://leetcode.com/problems/string-compression/discuss/172740/C-look-backward-and-look-forward-in-one-iteration-buggy-code) My idea -look ahead and backward<br>
