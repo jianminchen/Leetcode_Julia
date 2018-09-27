@@ -36,9 +36,10 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/discuss/158400/C-solution-Design-should-be-simplified)<br>
 [590. N-ary tree postorder traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/discuss/170046/C-readable-code)<br>
 [671. Second minimum node in a binary tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/discuss/164878/C-The-solution-is-working-find-but-it-can-be-simplified-using-given-constraint)<br>
-[687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root)<br>
-
+[687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root) optimal solution<br>
+[687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158926/C-solution-with-design-flaws-passing-only-43-out-of-68-test-cases) with design flaw, pass 43 out of 68 test cases<br>
 <br>
+[687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158923/C-solution-using-recursive-function) copy the idea from most popular post<br>
 
 **Array easy level algorithms (solved 44, shared 24)**<br><br>
 [53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
