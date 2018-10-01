@@ -120,6 +120,9 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [130. Surrounded Regions](https://gist.github.com/jianminchen/ff3384e4f572095416130702bb1e25e0) Will share later<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
+[915. Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/175949/C-two-iterations-of-the-array-O(N)-solution) use three iterations<br>
+[915. Partition Array into Disjoint Intervals](leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/175945/Java-one-pass-7-lines/181376) one pass idea discuss<br>
+  
 
 **Hard level (solved 33, shared 5)**<br><br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue)<br>
