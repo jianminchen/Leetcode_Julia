@@ -106,6 +106,14 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/discuss/172716/C-readable-code)<br>
 [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/173803/C-using-counting-sort-since-string-contains-English-letters)<br>
 
+**Hashtable easy level algorithm**<br>
+[720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175220/C-quick-and-easy-to-write-solution-using-HashSet) use hashset<br>
+[720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175226/C-solution-using-Trie) use Trie data structure<br>
+[720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175231/C-solution-using-Trie) use Trie data structure<br>
+[720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175780/C-use-a-queue-to-solve-the-problem) use Queue data structure<br>
+[720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175781/C-use-recursive-function) use recursive function<br>
+
+
 **Medium level (solved 53, shared 4)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
