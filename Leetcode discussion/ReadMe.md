@@ -122,6 +122,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
 [915. Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/175949/C-two-iterations-of-the-array-O(N)-solution) use three iterations<br>
 [915. Partition Array into Disjoint Intervals](leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/175945/Java-one-pass-7-lines/181376) one pass idea discuss<br>
+[916. Word Subsets](https://leetcode.com/problems/word-subsets/discuss/175937/C-using-counting-sort) using counting sort<br>
+[916. Word Subsets](leetcode.com/problems/word-subsets/discuss/175854/C++JavaPython-Straight-Forward/181357) discuss<br>  
   
 
 **Hard level (solved 33, shared 5)**<br><br>
