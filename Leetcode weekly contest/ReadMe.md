@@ -7,4 +7,4 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 [weekly contest 35](http://juliachencoding.blogspot.com/2017/06/leetcode-weekly-contest-35.html) Ranking 760/1678, Q1, Q2 passed, score 9, finish time: 1:13:16<br>
 [weekly contest 100]()<br>
 [weekly contest 101]()<br>
-[weekly contest 102]()<br>
+[weekly contest 102](http://juliachencoding.blogspot.com/2018/09/leetcode-weekly-contest-102.html)<br>
