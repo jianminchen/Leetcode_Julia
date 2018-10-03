@@ -107,6 +107,13 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/173803/C-using-counting-sort-since-string-contains-English-letters)<br>
 
 **Hashtable easy level algorithm**<br>
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/discuss/177092/C-one-more-mistake-to-remind-me-to-work-on-easy-level-algorithm) One more mistake to remind me to work on easy level<br>
+[136. Single Number](https://leetcode.com/problems/single-number/discuss/177089/C-using-XOR) using XOR<br>
+[389. Find the Difference](https://leetcode.com/problems/find-the-difference/discuss/177091/C-using-XOR) using XOR<br>
+[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/discuss/177083/C-check-each-element-with-value-1-four-neighbors) <br>
+[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/discuss/177079/C-My-first-success-submission-and-I-learned-one-user-case) do it myself<br>
+[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/discuss/177078/C-Learn-to-write-using-hashSet-API-IsSubsetOf) use HashSet API IsSubsetOf<br>
+[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/discuss/177087/C-I-need-to-work-on-my-reading-skills) Need to work on my reading skills<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175220/C-quick-and-easy-to-write-solution-using-HashSet) use hashset<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175226/C-solution-using-Trie) use Trie data structure<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175231/C-solution-using-Trie) use Trie data structure<br>
