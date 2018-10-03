@@ -106,14 +106,20 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/discuss/172716/C-readable-code)<br>
 [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/173803/C-using-counting-sort-since-string-contains-English-letters)<br>
 
-**Hashtable easy level algorithm**<br>
-[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/discuss/177092/C-one-more-mistake-to-remind-me-to-work-on-easy-level-algorithm) One more mistake to remind me to work on easy level<br>
+**Hashtable easy level algorithm**<br><br>
+
 [136. Single Number](https://leetcode.com/problems/single-number/discuss/177089/C-using-XOR) using XOR<br>
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/discuss/177092/C-one-more-mistake-to-remind-me-to-work-on-easy-level-algorithm) One more mistake to remind me to work on easy level<br>
+[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/177105/C-two-index-techniques)<br>
 [389. Find the Difference](https://leetcode.com/problems/find-the-difference/discuss/177091/C-using-XOR) using XOR<br>
+[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/discuss/177096/C-readable-code) <br>
+[447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/discuss/177094/C-I-copied-the-idea-and-will-figure-out-the-reasoning-later)<br>
 [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/discuss/177083/C-check-each-element-with-value-1-four-neighbors) <br>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/discuss/177079/C-My-first-success-submission-and-I-learned-one-user-case) do it myself<br>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/discuss/177078/C-Learn-to-write-using-hashSet-API-IsSubsetOf) use HashSet API IsSubsetOf<br>
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/discuss/177087/C-I-need-to-work-on-my-reading-skills) Need to work on my reading skills<br>
+[599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/discuss/177101/C-easy-level-algorithm-I-succeeded-second-submission)<br>
+[706. Design HashMap](https://leetcode.com/problems/design-hashmap/discuss/177103/C-HashMap-I-think-O(1)-time-complexity-for-Get(int-key)-is-important-feature) Use fix size of space determined by upper bound<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175220/C-quick-and-easy-to-write-solution-using-HashSet) use hashset<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175226/C-solution-using-Trie) use Trie data structure<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175231/C-solution-using-Trie) use Trie data structure<br>
