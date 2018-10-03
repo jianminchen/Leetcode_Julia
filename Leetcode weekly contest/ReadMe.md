@@ -8,5 +8,5 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 [weekly contest 100](http://juliachencoding.blogspot.com/2018/09/leetcode-weekly-contest-101.html) Failed to solve a hard level algorithm<br>
 [weekly contest 101](http://juliachencoding.blogspot.com/2018/09/leetcode-weekly-contest-101.html) Tried to solve a hard level, score 0<br>
 [weekly contest 102](http://juliachencoding.blogspot.com/2018/09/leetcode-weekly-contest-102.html) Ranking 1312/4385, Q1, Q2 passed, score 7<br>
-[weekly contest 104](http://juliachencoding.blogspot.com/2018/09/weekly-contest-104.html) Ranking is 1076/2579,  Q2, Q3 passed, score 11, finish time: 59:09. I could not score anything after the first hour.<br>
+[weekly contest 104](http://juliachencoding.blogspot.com/2018/09/weekly-contest-104.html) Ranking is 1076/2579,  Q2, Q3 passed, score 11, finish time: 59:09.<br>
 
