@@ -124,6 +124,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/discuss/177079/C-My-first-success-submission-and-I-learned-one-user-case) do it myself<br>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/discuss/177078/C-Learn-to-write-using-hashSet-API-IsSubsetOf) use HashSet API IsSubsetOf<br>
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/discuss/177087/C-I-need-to-work-on-my-reading-skills) Need to work on my reading skills<br>
+[594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/discuss/177418/C-readable-code)<br>
 [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/discuss/177101/C-easy-level-algorithm-I-succeeded-second-submission)<br>
 [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/discuss/177410/C-my-naive-solution) first submission - XOR<br>
 [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/discuss/177413/C-use-xor-two-places) elegant one using XOR two places<br>
