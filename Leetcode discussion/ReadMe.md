@@ -152,6 +152,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 **Hard level (solved 33, shared 5)**<br><br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/177442/C-practice-makes-perfect)<br>
+[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/discuss/177462/C-Learn-one-thing-a-time) One thing a time<br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue)<br>
 optimal solution using LinkedList<br>
 [239. Sliding Window Maximum - All submissions, SortedSet, timeout](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20239%20Sliding%20window%20maximum)<br>
