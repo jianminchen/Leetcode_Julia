@@ -113,6 +113,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [204. Count Primes](https://leetcode.com/problems/count-primes/discuss/177386/C-as-simple-as-possible) elegant version<br>
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)<br>
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/discuss/177092/C-one-more-mistake-to-remind-me-to-work-on-easy-level-algorithm) One more mistake to remind me to work on easy level<br>
+[290. Word Pattern](https://leetcode.com/problems/word-pattern/discuss/177393/C-easy-level-algorithm-hashtable-practice)<br>
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/177105/C-two-index-techniques)<br>
 [389. Find the Difference](https://leetcode.com/problems/find-the-difference/discuss/177091/C-using-XOR) using XOR<br>
 [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/discuss/177096/C-readable-code) <br>
