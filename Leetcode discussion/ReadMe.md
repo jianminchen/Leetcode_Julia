@@ -125,6 +125,9 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/discuss/177078/C-Learn-to-write-using-hashSet-API-IsSubsetOf) use HashSet API IsSubsetOf<br>
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/discuss/177087/C-I-need-to-work-on-my-reading-skills) Need to work on my reading skills<br>
 [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/discuss/177101/C-easy-level-algorithm-I-succeeded-second-submission)<br>
+[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/discuss/177410/C-my-naive-solution) first submission - XOR<br>
+[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/discuss/177413/C-use-xor-two-places) elegant one using XOR two places<br>
+[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/discuss/177415/C-learn-a-new-idea) use bit manipulation trick<br>
 [705. Design HashSet](https://leetcode.com/problems/design-hashset/discuss/177405/C-naive-thinking-using-space-to-trade-O(1)-time-complexity-for-Contains-API)<br>
 [706. Design HashMap](https://leetcode.com/problems/design-hashmap/discuss/177103/C-HashMap-I-think-O(1)-time-complexity-for-Get(int-key)-is-important-feature) Use fix size of space determined by upper bound<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175220/C-quick-and-easy-to-write-solution-using-HashSet) use hashset<br>
