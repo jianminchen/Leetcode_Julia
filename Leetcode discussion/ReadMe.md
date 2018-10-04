@@ -106,7 +106,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/discuss/172716/C-readable-code)<br>
 [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/173803/C-using-counting-sort-since-string-contains-English-letters)<br>
 
-**Hashtable easy level algorithm** (solved 25, shared 12)<br><br>
+**Hashtable easy level algorithm** (solved 25, shared 17)<br><br>
 
 [136. Single Number](https://leetcode.com/problems/single-number/discuss/177089/C-using-XOR) using XOR<br>
 [204. Count Primes](https://leetcode.com/problems/count-primes/discuss/177375/C-remove-numbers-which-are-not-prime) verbose code<br>
