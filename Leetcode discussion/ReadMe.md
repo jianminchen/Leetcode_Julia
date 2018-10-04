@@ -117,6 +117,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/177105/C-two-index-techniques)<br>
 [389. Find the Difference](https://leetcode.com/problems/find-the-difference/discuss/177091/C-using-XOR) using XOR<br>
 [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/discuss/177096/C-readable-code) <br>
+[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/177395/C-using-counting-sort)<br>
 [447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/discuss/177094/C-I-copied-the-idea-and-will-figure-out-the-reasoning-later)<br>
 [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/discuss/177083/C-check-each-element-with-value-1-four-neighbors) <br>
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/discuss/177079/C-My-first-success-submission-and-I-learned-one-user-case) do it myself<br>
