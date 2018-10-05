@@ -155,7 +155,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/177728/C-solution-to-review-by-myself)<br>
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/discuss/177723/C-a-solution-to-review)<br>
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/177739/C-solution-written-in-2015-August) submitted in 2015<br>
-[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/177740/C-solution-to-review-written-in-May-2018)<br>
+[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/177740/C-solution-to-review-written-in-May-2018) submitted in 2018<br>
 [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/177733/C-solution-to-review-by-myself)<br>
 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/discuss/177731/C-solution-to-review-by-myself)<br>
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/discuss/177746/C-solution-to-review-by-myself)<br>
