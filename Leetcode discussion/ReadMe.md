@@ -148,6 +148,29 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [915. Partition Array into Disjoint Intervals](http://www.leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/175945/Java-one-pass-7-lines/181376) one pass idea discuss<br>
 [916. Word Subsets](https://leetcode.com/problems/word-subsets/discuss/175937/C-using-counting-sort) using counting sort<br>
 [916. Word Subsets](http://www.leetcode.com/problems/word-subsets/discuss/175854/C++JavaPython-Straight-Forward/181357) discuss<br>  
+
+**Medium level tree algorithms (solved 14, total 39)**<br>
+[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
+[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177726/C-using-recursive-function-to-solve) use recursive function<br>
+[95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/177728/C-solution-to-review-by-myself)<br>
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/discuss/177723/C-a-solution-to-review)<br>
+[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/177739/C-solution-written-in-2015-August) submitted in 2015<br>
+[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/177740/C-solution-to-review-written-in-May-2018)<br>
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/177733/C-solution-to-review-by-myself)<br>
+[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/discuss/177731/C-solution-to-review-by-myself)<br>
+[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/discuss/177746/C-solution-to-review-by-myself)<br>
+[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/177750/C-time-to-review-my-submission-in-2017-July)<br>
+[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/177735/C-solution-to-review-by-myself)<br>
+
+[236. Lowest Common Ancestor of a Binary Tree]()<br>
+
+
+
+
+[337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/177741/C-seek-the-idea-to-improve-my-practice)<br>
+[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
+[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
+
   
 
 **Hard level (solved 33, shared 5)**<br><br>
