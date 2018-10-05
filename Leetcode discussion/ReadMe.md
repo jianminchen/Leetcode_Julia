@@ -28,6 +28,7 @@ Sept. 13, 2018
 
 I like to list all my sharings on Tree easy level algorithms, Array easy level algorithms, Math easy level algorithms. 
 
+**Total sharing 96 (Oct. 5, 2018)**
 
 **Tree easy level algorithms (solved 30, shared 5)**<br><br>
 
