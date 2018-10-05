@@ -149,7 +149,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [916. Word Subsets](https://leetcode.com/problems/word-subsets/discuss/175937/C-using-counting-sort) using counting sort<br>
 [916. Word Subsets](http://www.leetcode.com/problems/word-subsets/discuss/175854/C++JavaPython-Straight-Forward/181357) discuss<br>  
 
-**Medium level tree algorithms (solved 14, total 39)**<br>
+**Medium level tree algorithms (solved 14, total 39, shared 12)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177726/C-using-recursive-function-to-solve) use recursive function<br>
 [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/177728/C-solution-to-review-by-myself)<br>
