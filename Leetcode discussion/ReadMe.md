@@ -138,6 +138,10 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175780/C-use-a-queue-to-solve-the-problem) use Queue data structure<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175781/C-use-recursive-function) use recursive function<br>
 
+**Easy level stack algorithm (solved 2, 7, shared 1)**
+[155. Min Stack](https://leetcode.com/problems/min-stack/discuss/178131/C-it-was-very-challenging-and-I-got-help-from-the-discuss) <br>
+
+
 
 **Medium level (solved 53, shared 4)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
