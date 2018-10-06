@@ -138,7 +138,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175780/C-use-a-queue-to-solve-the-problem) use Queue data structure<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175781/C-use-recursive-function) use recursive function<br>
 
-**Easy level stack algorithm (solved 2, 7, shared 1)**
+**Easy level stack algorithm (solved 2, 7, shared 1)**<br>
 [155. Min Stack](https://leetcode.com/problems/min-stack/discuss/178131/C-it-was-very-challenging-and-I-got-help-from-the-discuss) <br>
 
 
