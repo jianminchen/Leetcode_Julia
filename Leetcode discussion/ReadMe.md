@@ -153,6 +153,9 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [915. Partition Array into Disjoint Intervals](http://www.leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/175945/Java-one-pass-7-lines/181376) one pass idea discuss<br>
 [916. Word Subsets](https://leetcode.com/problems/word-subsets/discuss/175937/C-using-counting-sort) using counting sort<br>
 [916. Word Subsets](http://www.leetcode.com/problems/word-subsets/discuss/175854/C++JavaPython-Straight-Forward/181357) discuss<br>  
+[919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179187/C-O(1)-for-insert-and-the-idea-is-learned-after-the-contest) O(1) insert<br>
+[919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest) Using Queue<br>
+[919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest Using Queue<br>
 
 **Medium level tree algorithms (solved 14, total 39, shared 12)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
