@@ -155,6 +155,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [916. Word Subsets](http://www.leetcode.com/problems/word-subsets/discuss/175854/C++JavaPython-Straight-Forward/181357) discuss<br>  
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179187/C-O(1)-for-insert-and-the-idea-is-learned-after-the-contest) O(1) insert<br>
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest) Using Queue<br>
+[918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/discuss/179098/C-pass-98108-but-failed-to-work-out-the-edge-case-in-the-contest) pass 98/108, in the contest<br>
+[918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/discuss/179156/C-submission-after-the-contest) after the contest, working code<br>  
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest Using Queue<br>
 
 **Medium level tree algorithms (solved 14, total 39, shared 12)**<br>
