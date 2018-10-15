@@ -18,6 +18,6 @@ Ranking 29200<br>
 Submission last year 532<br>
 **Contest**<br>
 global ranking 13292/72190<br>
-Ranking 1673
-**Solved**
-256/917
+Ranking 1673<br>
+**Solved**<br>
+256/917<br>
