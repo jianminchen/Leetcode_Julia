@@ -16,7 +16,7 @@ If I can solve the third algorithm, the ranking will go up to 1000/3068. And the
 
 Ranking 29200<br>
 Submission last year 532<br>
-**Contest**
+**Contest**<br>
 global ranking 13292/72190<br>
 Ranking 1673
 **Solved**
