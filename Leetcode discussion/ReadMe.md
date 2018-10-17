@@ -159,6 +159,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest) Using Queue<br> 
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest) Using Queue<br>
 [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/181167/C-It-actually-took-me-exactly-one-hour-and-also-the-sixth-submission-passed-online-judge)<br>
+[923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/182417/C-dynamic-programming-is-quick-and-easy-once-you-master-it) dynamic programming solution <br>
 
 **Medium level tree algorithms (solved 14, total 39, shared 12)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
