@@ -15,7 +15,7 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 [weekly contest 107, 10/20/2018](http://juliachencoding.blogspot.com/2018/09/weekly-contest-106.html) Ranking is 1765/3711, Q1 passed, score 4, finish time: 32:17
 
 
-**weekly contest 107**
-I worked on hard level algorithm, the code had bugs in the contest so I could not pass online judge. 
+**weekly contest 107**<br>
+I worked on hard level algorithm, the code had bugs in the contest so I could not pass online judge. <br>
 
 
