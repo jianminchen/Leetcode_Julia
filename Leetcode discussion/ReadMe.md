@@ -194,13 +194,11 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/discuss/177463/C-hard-level-algorithm-tough-learning-experience)<br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue) optimal solution using LinkedList<br>
 [239. Sliding Window Maximum](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20239%20Sliding%20window%20maximum) All submissions, SortedSet, timeout<br>
-
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75027/Easy-Short-Concise-and-Fast-Java-DFS-3-ms-solution/78052) 1 upvotes!<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75034/Easiest-9ms-Java-Solution/78192) 3 upvotes<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
-<br><br>
-[927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest)Take me more than one hour<br>
-**My own blogs**<br><br> 
+[927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest) Take me more than one hour<br>
+<br><br><br>**My own blogs**<br><br> 
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
 [Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html)<br>
 
