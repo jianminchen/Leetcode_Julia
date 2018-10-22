@@ -168,6 +168,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest) Using Queue<br>
 [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/181167/C-It-actually-took-me-exactly-one-hour-and-also-the-sixth-submission-passed-online-judge)<br>
 [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/182417/C-dynamic-programming-is-quick-and-easy-once-you-master-it) dynamic programming solution (1 upvote on Oct. 18, 2018)<br>
+[926. Flip string to monotone increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/discuss/184312/C-a-solution-learned-after-the-contest)<br>
 
 **Medium level tree algorithms (solved 14, total 39, shared 12)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
@@ -198,6 +199,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75034/Easiest-9ms-Java-Solution/78192) 3 upvotes<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
 <br><br>
+[927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest)Take me more than one hour<br>
 **My own blogs**<br><br> 
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
 [Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html)<br>
