@@ -46,7 +46,7 @@ namespace _232_using_stack_to_implement_queue
 
                 stack1.Push(x);
             }
-            else  // reverse order 
+            else  // reverse order - front is on top of stack2
             {
                 firstOne = stack2.Count == 0 ? x : stack2.Peek();
 
@@ -67,7 +67,7 @@ namespace _232_using_stack_to_implement_queue
             int frontOne = 0;
             if (usingStack1)
             {
-                frontOne = moveFromStacksDequeue(stack1, stack2);
+                frontOne = reverseOrderDequeue(stack1, stack2);
                 usingStack1 = false;
             }
             else
@@ -95,7 +95,7 @@ namespace _232_using_stack_to_implement_queue
                    (!usingStack1 && stack2.Count == 0);
         }
 
-        private int moveFromStacksDequeue(Stack<int> stackFrom, Stack<int> stackTo)
+        private int reverseOrderDequeue(Stack<int> stackFrom, Stack<int> stackTo)
         {
             var count = stackFrom.Count;
             int index = 0;
