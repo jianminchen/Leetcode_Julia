@@ -10,6 +10,7 @@ namespace _401_binary_watch___recursion
     {
         static void Main(string[] args)
         {
+            var result = ReadBinaryWatch(2); 
         }        
         
         public static int[] Watch = {1,2,4,8,1,2,4,8,16,32};
@@ -20,7 +21,7 @@ namespace _401_binary_watch___recursion
         /// </summary>
         /// <param name="num"></param>
         /// <returns></returns>
-        public IList<string> ReadBinaryWatch(int num) {
+        public static IList<string> ReadBinaryWatch(int num) {
             var list = new List<string>();
             if (num >= 0)
             {
@@ -32,6 +33,7 @@ namespace _401_binary_watch___recursion
 
         /// <summary>
         /// think about recursively
+        /// How to make sure there is no deadloop here. 
         /// </summary>
         /// <param name="num"></param>
         /// <param name="start"></param>
