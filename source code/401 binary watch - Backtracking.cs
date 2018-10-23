@@ -21,9 +21,9 @@ namespace _401_binary_watch___backtracking
         public IList<string> ReadBinaryWatch(int num)
         {
             var result = new List<string>();
-            string emptyTimeStr = "0000000000";
+            var binaryNumber = "0000000000";
 
-            backTrack(num, 0, result, emptyTimeStr.ToCharArray());
+            backTrack(num, 0, result, binaryNumber.ToCharArray());
 
             return result;
         }
@@ -41,7 +41,7 @@ namespace _401_binary_watch___backtracking
             {
                 var timeSeq = new string(bitArray);
                 var hour = timeSeq.Substring(0, 4);
-                hour = Convert.ToInt32(hour, 2).ToString(); 
+                hour = Convert.ToInt32(hour, 2).ToString(); // convert binary number to an integer
 
                 var minutes = timeSeq.Substring(4);
                 var number = Convert.ToInt32(minutes, 2);
@@ -52,6 +52,7 @@ namespace _401_binary_watch___backtracking
                 return;
             }
 
+            // each element in the array has two options - 0 or 1. 
             for (int i = start; i < bitArray.Length; i++)
             {
                 bitArray[i] = '1';
