@@ -1,6 +1,6 @@
 **It takes a village to raise a child.**<br><br>
 
-I like to adapt the culture to learn and contribute to Leetcode discuss community. It is so easy to learn from so many ideas, but it takes me more than 3 years five months to understand that I also should learn to contribute to the community. 
+I like to adapt the culture to learn and contribute to Leetcode discuss community. It is so easy to learn from so many ideas, but it takes me more than 3 years five months to understand that I also should learn to contribute to the community. Since I started to work on Leetcode from January 2015, I started to write for discuss from July, 2018. 
 
 I like to see if I adopt the value "It takes a village to raise a child", as a programmer, I think that in order to get smart, I have to learn to contribute Leetcode discuss. Since I find that it is so easy to learn the algorithm on leetcode discuss, I like to be one of them to work hard and share the thoughts and hard work.
 
@@ -10,7 +10,7 @@ It is time for me to share my practice on Leetcode.com discussion panel.
 
 I like to encourage myself to share my code on Leetcode discussion. I learn so many things from those people sharing on Leetcode discussion panel. I like to be one of them. 
 
-Since I am working on target to solve first 300 algorithm on Leetcode.com, I like to solve as many algorithms as possible. So it will take me some time to work on Leetcode discuss, specially on Leetcode easy level tree algorithms.
+Since I am working on target to solve first 300 algorithm on Leetcode.com, I like to solve as many algorithms as possible. So it will take me some time to work on Leetcode discuss, specially on Leetcode easy level tree algorithms. I like to review those algorithms first and then I will write something to share for each algorithm. 
 
 **Leetcode discuss**<br><br>
 
@@ -106,6 +106,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [788. Rotated digits](https://leetcode.com/problems/rotated-digits/discuss/173248/C-write-an-elegant-solution-using-HashSet.IsSubsetOf-API) use HashSet.IsSubsetOf<br>
 [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/discuss/172716/C-readable-code)<br>
 [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/173803/C-using-counting-sort-since-string-contains-English-letters)<br>
+[925. Long pressed name](https://leetcode.com/problems/long-pressed-name/discuss/183954/C-more-than-20-minutes-to-write-in-the-contest) code written in contest<br>
+[925. Long pressed name](https://leetcode.com/problems/long-pressed-name/discuss/183969/C-quick-and-easy-just-learned-after-the-contest) Elegant solution learned after the contest<br>
 
 **Hashtable easy level algorithm** (solved 25, shared 21)<br><br>
 [1. Two Sum](https://leetcode.com/problems/two-sum/discuss/177402/C-visited-elements-into-a-Hashtable)<br>
@@ -113,7 +115,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [204. Count Primes](https://leetcode.com/problems/count-primes/discuss/177375/C-remove-numbers-which-are-not-prime) verbose code<br>
 [204. Count Primes](https://leetcode.com/problems/count-primes/discuss/177386/C-as-simple-as-possible) elegant version<br>
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/discuss/177401/C-readable-solution)<br>
-[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)<br>
+[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/discuss/177389/C-readable-code)<br>
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/discuss/177092/C-one-more-mistake-to-remind-me-to-work-on-easy-level-algorithm) One more mistake to remind me to work on easy level<br>
 [290. Word Pattern](https://leetcode.com/problems/word-pattern/discuss/177393/C-easy-level-algorithm-hashtable-practice)<br>
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/177105/C-two-index-techniques)<br>
@@ -138,8 +140,14 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175780/C-use-a-queue-to-solve-the-problem) use Queue data structure<br>
 [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/discuss/175781/C-use-recursive-function) use recursive function<br>
 
-**Easy level stack algorithm (solved 2, 7, shared 1)**<br>
+**Easy level stack algorithm (solved 7/7, shared 7)**<br>
+[20. Valid parentheses](https://leetcode.com/problems/valid-parentheses/discuss/183096/C-using-stack)<br>
 [155. Min Stack](https://leetcode.com/problems/min-stack/discuss/178131/C-it-was-very-challenging-and-I-got-help-from-the-discuss) <br>
+[225. Implement stack using queues](https://leetcode.com/problems/implement-stack-using-queues/discuss/182846/C-using-two-queues)<br>
+[232. Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/discuss/182843/C-using-two-stacks-but-failed-a-few-times)<br>
+[496. Next great element II](https://leetcode.com/problems/next-greater-element-i/discuss/182848/C-using-stack-keep-simple-only-save-smaller-numbers-into-the-stack)<br>
+[682. Baseball game](https://leetcode.com/problems/baseball-game/discuss/182850/C-using-stack)<br>
+[844. Backspace string compare](https://leetcode.com/problems/backspace-string-compare/discuss/183094/C-using-stack)<br>
 
 
 
@@ -159,7 +167,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest) Using Queue<br> 
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest) Using Queue<br>
 [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/181167/C-It-actually-took-me-exactly-one-hour-and-also-the-sixth-submission-passed-online-judge)<br>
-[923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/182417/C-dynamic-programming-is-quick-and-easy-once-you-master-it) dynamic programming solution <br>
+[923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/182417/C-dynamic-programming-is-quick-and-easy-once-you-master-it) dynamic programming solution (1 upvote on Oct. 18, 2018)<br>
+[926. Flip string to monotone increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/discuss/184312/C-a-solution-learned-after-the-contest)<br>
 
 **Medium level tree algorithms (solved 14, total 39, shared 12)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
@@ -185,12 +194,11 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/discuss/177463/C-hard-level-algorithm-tough-learning-experience)<br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue) optimal solution using LinkedList<br>
 [239. Sliding Window Maximum](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20239%20Sliding%20window%20maximum) All submissions, SortedSet, timeout<br>
-
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75027/Easy-Short-Concise-and-Fast-Java-DFS-3-ms-solution/78052) 1 upvotes!<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75034/Easiest-9ms-Java-Solution/78192) 3 upvotes<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
-<br><br>
-**My own blogs**<br><br> 
+[927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest) Take me more than one hour<br>
+<br><br><br>**My own blogs**<br><br> 
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
 [Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html)<br>
 
