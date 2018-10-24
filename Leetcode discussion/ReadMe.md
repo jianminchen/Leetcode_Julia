@@ -152,6 +152,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 **Easy level backtracking**<br>
 [401. Binary watch](https://leetcode.com/problems/binary-watch/discuss/185205/C-backtracking-and-bit-manipulation) bit manipulation and recursive<br>
 [401. Binary watch](https://leetcode.com/problems/binary-watch/discuss/185212/C-readable-code-but-kind-of-verbose) recursive and kind of verbose<br>
+[784. Letter case permutation]() Will add later <br>
+[784. Letter case permutation]() Will add later <br>
 
 **Medium level (solved 53, shared 4)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
