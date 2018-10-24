@@ -149,7 +149,9 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [682. Baseball game](https://leetcode.com/problems/baseball-game/discuss/182850/C-using-stack)<br>
 [844. Backspace string compare](https://leetcode.com/problems/backspace-string-compare/discuss/183094/C-using-stack)<br>
 
-
+**Easy level backtracking**<br>
+[401. Binary watch](https://leetcode.com/problems/binary-watch/discuss/185205/C-backtracking-and-bit-manipulation) bit manipulation and recursive<br>
+[401. Binary watch](https://leetcode.com/problems/binary-watch/discuss/185212/C-readable-code-but-kind-of-verbose) recursive and kind of verbose<br>
 
 **Medium level (solved 53, shared 4)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
