@@ -1,7 +1,7 @@
 **Medium level algorithm**<br>
 Oct. 25, 2018
 
-It is my enjoyment to check in all those medium level algorithms I solved. I did not check in 20 medium level algorithms out of 62 solved. I know that it takes time for me to stay organized and start to work on more medium level algorithms. 
+It is my enjoyment to check in all those medium level algorithms I solved. I did not check in 20 medium level algorithms out of 62 solved. I like to get organized first, and I like to start to work on more medium level algorithms. 
 
 [2]<br>
 [3]<br>
