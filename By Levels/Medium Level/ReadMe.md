@@ -27,7 +27,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 [95]<br>
 [98]<br>
 
-100
+100<br>
 [102]<br>
 [103]<br>
 [105]<br>
@@ -46,7 +46,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 []<br>
 []<br>
 
-200
+200<br>
 [210]<br>
 [213]<br>
 [220]<br>
@@ -58,7 +58,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 []<br>
 []<br>
 
-300
+300<br>
 [300]<br>
 [337]<br>
 [347]<br>
@@ -68,7 +68,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 []<br>
 []<br>
 
-400
+400<br>
 [416]<br>
 []<br>
 []<br>
@@ -78,7 +78,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 []<br>
 []<br>
 
-500
+500<br>
 [516]<br>
 [547]<br>
 [553]<br>
@@ -89,7 +89,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 []<br>
 []<br>
 
-600
+600<br>
 [684]<br>
 [688]<br>
 [695]<br>
@@ -99,7 +99,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 []<br>
 []<br>
 
-700
+700<br>
 []<br>
 []<br>
 []<br>
@@ -109,7 +109,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 []<br>
 []<br>
 
-800
+800<br>
 []<br>
 []<br>
 []<br>
@@ -119,7 +119,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 []<br>
 []<br>
 
-900
+900<br>
 [904]<br>
 [915]<br>
 [916]<br>
