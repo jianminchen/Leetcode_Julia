@@ -27,7 +27,7 @@ It is my enjoyment to check in all those medium level algorithms I solved. I did
 [95]<br>
 [98]<br>
 
-**100 - 200**
+**100 - 200**<br>
 [102]<br>
 [103]<br>
 [105]<br>
