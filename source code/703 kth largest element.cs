@@ -99,7 +99,7 @@ namespace _703_kth_largest_element
                 addNumberToHeap( minimumHeap, value);
                 actualSize++;
 
-                // remive minimum element
+                // remove minimum element
                 if (actualSize > size) // not minimumHeap.Count - catched by online judge
                 {
                     removeMinimum(minimumHeap);
