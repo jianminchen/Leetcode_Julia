@@ -68,6 +68,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/discuss/166309/C-readable-code)<br>
 [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/discuss/166310/C-readable-code)<br>
 [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/discuss/179095/C-two-pointers-technique)<br>
+[930. Binary subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/discuss/186713/C-it-took-me-five-submissions-in-the-contest-one-hour) code written in the weekly contest 108<br>
 
 
 **Math easy level algorithms (solved 27/ 32, shared 12)**<br><br>
