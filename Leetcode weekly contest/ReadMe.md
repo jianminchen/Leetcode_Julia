@@ -19,8 +19,7 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 
 **weekly contest 107**<br>
 I worked on hard level algorithm, the code had bugs in the contest so I could not pass online judge. <br>
+[Here](https://juliachencoding.blogspot.com/2018/10/ielts-reading.html) is the blog I wrote to work on my English reading skills. 
 
 **weekly contest 108**<br>
 I worked on a medium level algorithm, I chose the solution to get into too much detail, such as positions of each 1 in the array. I spent one hour with 5 submissions, each extra submission 5 minutes penalty. <br>
-
-
