@@ -19,7 +19,7 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 
 **weekly contest 107**<br>
 I worked on hard level algorithm, the code had bugs in the contest so I could not pass online judge. <br>
-[Here](https://juliachencoding.blogspot.com/2018/10/ielts-reading.html) is the blog I wrote to work on my English reading skills. 
+[Here](https://juliachencoding.blogspot.com/2018/10/ielts-reading.html) is the blog I wrote to work on my English reading skills. <br>
 [Reading challenge](https://juliachencoding.blogspot.com/2018/10/ielts-reading-related-to-algorithm.html) is found in one of easy level algorithms. <br>
 
 **weekly contest 108**<br>
