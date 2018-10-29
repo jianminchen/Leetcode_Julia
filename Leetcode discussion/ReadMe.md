@@ -155,6 +155,10 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [784. Letter case permutation]() Will add later <br>
 [784. Letter case permutation]() Will add later <br>
 
+**Easy level linked list**<br>
+[707. Design linked list](https://leetcode.com/problems/design-linked-list/discuss/186426/C-it-takes-me-an-hour-to-make-it-bug-free)<br>
+[876. Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/discuss/186334/C-easy-level-linked-list-algorithm)<br>
+
 **Medium level (solved 53, shared 4)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
