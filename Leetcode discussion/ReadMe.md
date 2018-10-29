@@ -108,6 +108,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/discuss/173803/C-using-counting-sort-since-string-contains-English-letters)<br>
 [925. Long pressed name](https://leetcode.com/problems/long-pressed-name/discuss/183954/C-more-than-20-minutes-to-write-in-the-contest) code written in contest<br>
 [925. Long pressed name](https://leetcode.com/problems/long-pressed-name/discuss/183969/C-quick-and-easy-just-learned-after-the-contest) Elegant solution learned after the contest<br>
+[929. Unique email addresses](https://leetcode.com/problems/unique-email-addresses/discuss/186739/C-readable-code)<br>
 
 **Hashtable easy level algorithm** (solved 25, shared 21)<br><br>
 [1. Two Sum](https://leetcode.com/problems/two-sum/discuss/177402/C-visited-elements-into-a-Hashtable)<br>
