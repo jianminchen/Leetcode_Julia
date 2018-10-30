@@ -20,6 +20,7 @@ namespace _83_remove_duplicate_from_list
         }
 
         /// <summary>
+        /// First submission: time limit exceeded - example 
         /// third submission: fail test case [1,1,1], return [1, 1], should be [1]
         /// </summary>
         /// <param name="head"></param>
