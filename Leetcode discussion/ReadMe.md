@@ -154,12 +154,24 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 **Easy level backtracking**<br>
 [401. Binary watch](https://leetcode.com/problems/binary-watch/discuss/185205/C-backtracking-and-bit-manipulation) bit manipulation and recursive<br>
 [401. Binary watch](https://leetcode.com/problems/binary-watch/discuss/185212/C-readable-code-but-kind-of-verbose) recursive and kind of verbose<br>
-[784. Letter case permutation]() Will add later <br>
-[784. Letter case permutation]() Will add later <br>
+[784. Letter case permutation](https://leetcode.com/problems/letter-case-permutation/discuss/188115/C-easy-level-backtracking-algorithm)  backtracking algorithm iterative solution <br>
+[784. Letter case permutation](https://leetcode.com/problems/letter-case-permutation/discuss/188117/C-recursive-solution) recursive solution <br>
 
 **Easy level linked list**<br>
+[21. Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/discuss/188108/C-recursive-solution) problem statement?<br>
+[83. Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/187971/C-the-experience-is-so-memorable) memorable experience<br>
+[141. Linked list cycle](https://leetcode.com/problems/linked-list-cycle/discuss/187972/C-two-pointers-will-meet-one-step-a-time-two-steps-a-time) two pointers will meet, one step a time/ two steps a time<br>
+[160. Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/187969/C-using-length-comparison-of-two-linked-lists) length comparison<br>
+[203. Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements/discuss/188112/C-an-easy-level-linked-list-algorithm)<br>
+[206. Reverse linked list](https://leetcode.com/problems/reverse-linked-list/discuss/187966/C-It-is-fun-to-write-an-iterative-solution-but-too-complicated)<br>
+[234. Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/discuss/188111/C-linked-list-algorithm-is-a-must-to-practice) July 2018 for phone screen<br>
+[237. Delete a node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/187975/C-I-could-not-come-out-the-idea-by-myself-first-practice) Fail to come out idea by myself<br>
 [707. Design linked list](https://leetcode.com/problems/design-linked-list/discuss/186426/C-it-takes-me-an-hour-to-make-it-bug-free)<br>
 [876. Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/discuss/186334/C-easy-level-linked-list-algorithm)<br>
+
+**Medium level linked list**<br>
+[138. Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/187909/C-The-classical-linked-list-algorithm) The elegant solution<br>
+[817. Linked list components](https://leetcode.com/problems/linked-list-components/discuss/187968/C-Linked-list-algorithm-using-HashSet) using hashset<br>
 
 **Medium level (solved 53, shared 4)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
