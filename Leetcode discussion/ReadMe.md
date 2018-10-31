@@ -162,6 +162,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [83. Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/187971/C-the-experience-is-so-memorable) memorable experience<br>
 [141. Linked list cycle](https://leetcode.com/problems/linked-list-cycle/discuss/187972/C-two-pointers-will-meet-one-step-a-time-two-steps-a-time) two pointers will meet, one step a time/ two steps a time<br>
 [160. Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/187969/C-using-length-comparison-of-two-linked-lists) length comparison<br>
+[203. Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements/discuss/188112/C-an-easy-level-linked-list-algorithm)<br>
 [206. Reverse linked list](https://leetcode.com/problems/reverse-linked-list/discuss/187966/C-It-is-fun-to-write-an-iterative-solution-but-too-complicated)<br>
 [234. Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/discuss/188111/C-linked-list-algorithm-is-a-must-to-practice) July 2018 for phone screen<br>
 [237. Delete a node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/187975/C-I-could-not-come-out-the-idea-by-myself-first-practice) Fail to come out idea by myself<br>
