@@ -154,8 +154,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 **Easy level backtracking**<br>
 [401. Binary watch](https://leetcode.com/problems/binary-watch/discuss/185205/C-backtracking-and-bit-manipulation) bit manipulation and recursive<br>
 [401. Binary watch](https://leetcode.com/problems/binary-watch/discuss/185212/C-readable-code-but-kind-of-verbose) recursive and kind of verbose<br>
-[784. Letter case permutation]() Will add later <br>
-[784. Letter case permutation]() Will add later <br>
+[784. Letter case permutation](https://leetcode.com/problems/letter-case-permutation/discuss/188115/C-easy-level-backtracking-algorithm)  backtracking algorithm iterative solution <br>
+[784. Letter case permutation](https://leetcode.com/problems/letter-case-permutation/discuss/188117/C-recursive-solution) recursive solution <br>
 
 **Easy level linked list**<br>
 [21. Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/discuss/188108/C-recursive-solution) problem statement?<br>
