@@ -171,6 +171,9 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 **Medium level linked list**<br>
 [138. Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/187909/C-The-classical-linked-list-algorithm) The elegant solution<br>
+[143. Reorder the list](https://leetcode.com/problems/reorder-list/discuss/188278/C-it-took-me-over-40-minutes) <br>
+[147. Insertion sort list](https://leetcode.com/problems/insertion-sort-list/discuss/188287/C-hard-to-write-and-the-code-is-readable) hard to write but is readable<br>
+[445. Add two numbers II](https://leetcode.com/problems/add-two-numbers-ii/discuss/188283/C-using-stack-to-help-calculation-of-addition-of-two-numbers)<br>
 [817. Linked list components](https://leetcode.com/problems/linked-list-components/discuss/187968/C-Linked-list-algorithm-using-HashSet) using hashset<br>
 
 **Medium level (solved 53, shared 4)**<br><br>
