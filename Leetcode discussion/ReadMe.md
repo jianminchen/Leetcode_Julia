@@ -229,6 +229,6 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest) Take me more than one hour<br>
 <br><br><br>**My own blogs**<br><br> 
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
-[Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html)<br>
+[Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html) 1 upvote Nov. 2, 2018<br>
 
 
