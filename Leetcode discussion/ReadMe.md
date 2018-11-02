@@ -170,9 +170,13 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [876. Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/discuss/186334/C-easy-level-linked-list-algorithm)<br>
 
 **Medium level linked list**<br>
+[19. Remove Nth node from end of the list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/188621/C-readable-code)<br>
+[24. Swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/discuss/188769/C-readable-code-using-dummy-head-for-linked-list)<br>
+[92. Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/discuss/188649/C-a-recursive-way-to-reverse-a-linked-list)<br>
 [138. Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/187909/C-The-classical-linked-list-algorithm) The elegant solution<br>
 [143. Reorder the list](https://leetcode.com/problems/reorder-list/discuss/188278/C-it-took-me-over-40-minutes) <br>
 [147. Insertion sort list](https://leetcode.com/problems/insertion-sort-list/discuss/188287/C-hard-to-write-and-the-code-is-readable) hard to write but is readable<br>
+[328. Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/discuss/188654/C-learn-one-edge-case-in-the-practice)<br>
 [445. Add two numbers II](https://leetcode.com/problems/add-two-numbers-ii/discuss/188283/C-using-stack-to-help-calculation-of-addition-of-two-numbers)<br>
 [817. Linked list components](https://leetcode.com/problems/linked-list-components/discuss/187968/C-Linked-list-algorithm-using-HashSet) using hashset<br>
 
