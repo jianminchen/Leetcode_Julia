@@ -40,7 +40,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root) optimal solution<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158926/C-solution-with-design-flaws-passing-only-43-out-of-68-test-cases) with design flaw, pass 43 out of 68 test cases<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158923/C-solution-using-recursive-function) copy the idea from most popular post<br>
-
+[687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/190183/C-recursive-solution)<br>
 **Array easy level algorithms (solved 44, shared 24)**<br><br>
 [53: Maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/164272/Csharp-code-using-dynamic-programming)<br>
 [119: Pascal's triangle II](https://leetcode.com/problems/pascals-triangle-ii/discuss/162250/My-naive-approach-is-time-consuming-but-the-code-is-still-readable) Naive one<br>
