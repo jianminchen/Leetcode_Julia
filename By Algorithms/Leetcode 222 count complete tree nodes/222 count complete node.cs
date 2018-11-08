@@ -34,7 +34,11 @@ namespace _222_count_complete_node
         }
 
         /// <summary>
-        /// count nodes in the tree
+        /// O(N) solution will time out - N is total number of nodes
+        /// Right now, the time complexity of solution is O(h * h), h is the height of tree
+        /// h = logN, N is total number of nodes in the tree
+        /// The source code is based on the idea from
+        /// https://leetcode.com/problems/count-complete-tree-nodes/discuss/61958/Concise-Java-solutions-O(log(n)2)
         /// </summary>
         /// <param name="root"></param>
         /// <returns></returns>
