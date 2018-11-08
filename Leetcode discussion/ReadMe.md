@@ -182,6 +182,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [148. Sort the list](https://leetcode.com/problems/sort-list/discuss/190884/C-merge-sort-with-some-detail) Merge sort<br>
 [328. Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/discuss/188654/C-learn-one-edge-case-in-the-practice)<br>
 [445. Add two numbers II](https://leetcode.com/problems/add-two-numbers-ii/discuss/188283/C-using-stack-to-help-calculation-of-addition-of-two-numbers)<br>
+[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/discuss/190876/C-my-readable-code) Failed more than three submissions<br>
 [817. Linked list components](https://leetcode.com/problems/linked-list-components/discuss/187968/C-Linked-list-algorithm-using-HashSet) using hashset<br>
 
 **Medium level (solved 53, shared 10)**<br><br>
