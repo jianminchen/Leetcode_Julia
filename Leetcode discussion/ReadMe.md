@@ -174,6 +174,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [19. Remove Nth node from end of the list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/188621/C-readable-code)<br>
 [24. Swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/discuss/188769/C-readable-code-using-dummy-head-for-linked-list)<br>
 [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/discuss/190883/C-I-failed-first-two-submissions-and-then-learned-lessons)<br>
+[86. Partition list](https://leetcode.com/problems/partition-list/discuss/190880/C-construct-two-linked-list-first-with-smaller-than-given-value-or-not-smaller) dummy heads and two lists<br>
 [92. Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/discuss/188649/C-a-recursive-way-to-reverse-a-linked-list)<br>
 [138. Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/187909/C-The-classical-linked-list-algorithm) The elegant solution<br>
 [143. Reorder the list](https://leetcode.com/problems/reorder-list/discuss/188278/C-it-took-me-over-40-minutes) <br>
