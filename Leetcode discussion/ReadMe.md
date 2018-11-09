@@ -216,6 +216,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/discuss/177746/C-solution-to-review-by-myself)<br>
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/177750/C-time-to-review-my-submission-in-2017-July)<br>
 [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/177735/C-solution-to-review-by-myself)<br>
+[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree)<br>
 [236. Lowest Common Ancestor of a Binary Tree]()<br>
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/177741/C-seek-the-idea-to-improve-my-practice)<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
