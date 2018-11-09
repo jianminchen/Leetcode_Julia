@@ -219,6 +219,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree)<br>
 [236. Lowest Common Ancestor of a Binary Tree]()<br>
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/177741/C-seek-the-idea-to-improve-my-practice)<br>
+[450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/discuss/191303/C-subproblem-is-to-find-left-subtree's-maximum-in-BST)<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
   
