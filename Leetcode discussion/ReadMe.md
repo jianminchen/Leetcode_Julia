@@ -1,10 +1,12 @@
 **It takes a village to raise a child.**<br><br>
+Sept. 9, 2018
+I like to adapt the culture to learn and contribute to Leetcode discuss community. It is a long journey. 
 
-I like to adapt the culture to learn and contribute to Leetcode discuss community. It is so easy to learn from so many ideas, but it takes me more than 3 years five months to understand that I also should learn to contribute to the community. Since I started to work on Leetcode from January 2015, I started to write for discuss from July, 2018. 
+It took more than 3 years five months for me to understand that I also should learn to contribute to the community, I like to make the community better for learning and sharing, encouraging each other to share ideas. From January 2015, I started to work on Leetcode algorithm, three years 6 months later, July 2018 is time for me to be a writer for Leetcode discuss. 
 
 This page is dedicated to show my effort to provide a feature to review all my past practice, all my sharing on Leetcode discuss. 
 
-I am the one to write for Leetcode discuss. 
+**I am the one **
 
 Since I am working on target to solve first 300 algorithm on Leetcode.com, I like to solve as many algorithms as possible. So it will take me some time to work on Leetcode discuss, specially on Leetcode easy level tree algorithms. I like to review those algorithms first and then I will write something to share for each algorithm. 
 
