@@ -2,13 +2,9 @@
 
 I like to adapt the culture to learn and contribute to Leetcode discuss community. It is so easy to learn from so many ideas, but it takes me more than 3 years five months to understand that I also should learn to contribute to the community. Since I started to work on Leetcode from January 2015, I started to write for discuss from July, 2018. 
 
-I like to see if I adopt the value "It takes a village to raise a child", as a programmer, I think that in order to get smart, I have to learn to contribute Leetcode discuss. Since I find that it is so easy to learn the algorithm on leetcode discuss, I like to be one of them to work hard and share the thoughts and hard work.
-
 This page is dedicated to show my effort to provide a feature to review all my past practice, all my sharing on Leetcode discuss. 
 
-It is time for me to share my practice on Leetcode.com discussion panel.
-
-I like to encourage myself to share my code on Leetcode discussion. I learn so many things from those people sharing on Leetcode discussion panel. I like to be one of them. 
+I am the one to write for Leetcode discuss. 
 
 Since I am working on target to solve first 300 algorithm on Leetcode.com, I like to solve as many algorithms as possible. So it will take me some time to work on Leetcode discuss, specially on Leetcode easy level tree algorithms. I like to review those algorithms first and then I will write something to share for each algorithm. 
 
