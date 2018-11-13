@@ -6,7 +6,7 @@ It took more than 3 years five months for me to understand that I also should le
 
 This page is dedicated to show my effort to provide a feature to review all my past practice, all my sharing on Leetcode discuss. <br>
 
-**I am the one **
+**I am the one**<br><br>
 
 Since I am working on target to solve first 300 algorithm on Leetcode.com, I like to solve as many algorithms as possible. So it will take me some time to work on Leetcode discuss, specially on Leetcode easy level tree algorithms. I like to review those algorithms first and then I will write something to share for each algorithm. 
 
