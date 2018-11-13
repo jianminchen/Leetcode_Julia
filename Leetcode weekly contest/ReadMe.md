@@ -10,12 +10,12 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 [weekly contest 102, 9/15/2018](http://juliachencoding.blogspot.com/2018/09/leetcode-weekly-contest-102.html) Ranking 1312/4385, Q1, Q2 passed, score 7<br>
 [weekly contest 103, 9/22/2018](http://juliachencoding.blogspot.com/2018/09/leetcode-weekly-contest-103.html) Ranking 1475/4160, Q1 solved, Score 3, finish time 0:15<br>
 [weekly contest 104, 9/29/2018](http://juliachencoding.blogspot.com/2018/09/weekly-contest-104.html) Ranking is 1076/2579,  Q2, Q3 passed, score 11, finish time: 59:09.<br>
-[weekly contest 105, 10/06/2018](http://juliachencoding.blogspot.com/2018/09/weekly-contest-105.html) Ranking is 1773/3528,  Q1 passed, score 4, finish time: 23:41.<br>
-[weekly contest 106, 10/13/2018](http://juliachencoding.blogspot.com/2018/09/weekly-contest-106.html) Ranking is 1934/3068,  Q1, Q2 passed, score 7, finish time: 52:39.<br>
-[weekly contest 107, 10/20/2018](http://juliachencoding.blogspot.com/2018/09/weekly-contest-107.html) Ranking is 1765/3711, Q1 passed, score 4, finish time: 32:17 <br>
-[weekly contest 108, 10/27/2018](http://juliachencoding.blogspot.com/2018/09/weekly-contest-108.html) Ranking is 1641/3653, Q1, Q2 passed, score 9, finish time: 1:39:55 <br>
-[weekly contest 109, 11/03/2018](http://juliachencoding.blogspot.com/2018/09/weekly-contest-109.html) Ranking is 1610/3386, Q1, Q2 passed, score 4, finish time: 26:39 <br>
-[weekly contest 110, 11/10/2018](http://juliachencoding.blogspot.com/2018/09/weekly-contest-110.html) Ranking is 1574/3720, Q1, Q2 passed, score 8, finish time: 1:07:04 <br>
+[weekly contest 105, 10/06/2018](http://juliachencoding.blogspot.com/2018/10/leetcode-weekly-contest-105.html) Ranking is 1773/3528,  Q1 passed, score 4, finish time: 23:41.<br>
+[weekly contest 106, 10/13/2018](http://juliachencoding.blogspot.com/2018/10/leetcode-weekly-contest-106.html) Ranking is 1934/3068,  Q1, Q2 passed, score 7, finish time: 52:39.<br>
+[weekly contest 107, 10/20/2018](http://juliachencoding.blogspot.com/2018/10/leetcode-weekly-contest-107.html) Ranking is 1765/3711, Q1 passed, score 4, finish time: 32:17 <br>
+[weekly contest 108, 10/27/2018](http://juliachencoding.blogspot.com/2018/10/leetcode-weekly-contest-108.html) Ranking is 1641/3653, Q1, Q2 passed, score 9, finish time: 1:39:55 <br>
+[weekly contest 109, 11/03/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-109.html) Ranking is 1610/3386, Q1, Q2 passed, score 4, finish time: 26:39 <br>
+[weekly contest 110, 11/10/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-110.html) Ranking is 1574/3720, Q1, Q2 passed, score 8, finish time: 1:07:04 <br>
 
 
 
