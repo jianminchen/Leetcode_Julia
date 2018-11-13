@@ -26,3 +26,12 @@ I worked on hard level algorithm, the code had bugs in the contest so I could no
 
 **weekly contest 108**<br>
 I worked on a medium level algorithm, I chose the solution to get into too much detail, such as positions of each 1 in the array. I spent one hour with 5 submissions, each extra submission 5 minutes penalty. <br>
+
+**weekly contest 109**<br>
+I worked on the second algorithm, and then I chose to write a time-consuming solution instead. I could not submit the second algorithm for technical reason. 
+
+**weekly contest 110**<br>
+This is my most favorite contest. I solved the first two algorithms, and then rest two I did spend time to read the problem statements in the contest, and also I thought about the solutions for each of them. I felt that one day I can solve four of them.
+
+Question 3 can be solved using brute force solution. Question 4 is also can be solved using dynamic programming solution. 
+
