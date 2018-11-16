@@ -13,6 +13,9 @@ namespace _939_minimum_area_rectangle_II
         }
 
         /// <summary>
+        /// It is challenging to figure out optimal solution in terms of time complexity. 
+        /// Time complexity :O(N * N), N is total points 
+        /// 
         /// Learn the time out issue related to using string as key: x + "-" + y
         /// The right away is to use hashset for y value, avoid string concatenation. 
         /// 
