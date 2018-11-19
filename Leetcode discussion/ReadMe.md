@@ -68,7 +68,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/discuss/166310/C-readable-code)<br>
 [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/discuss/179095/C-two-pointers-technique)<br>
 [930. Binary subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/discuss/186713/C-it-took-me-five-submissions-in-the-contest-one-hour) code written in the weekly contest 108<br>
-
+[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/discuss/194935/C-check-peak-count-and-valley-count)<br>
 
 **Math easy level algorithms (solved 27/ 32, shared 12)**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
@@ -109,6 +109,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [925. Long pressed name](https://leetcode.com/problems/long-pressed-name/discuss/183954/C-more-than-20-minutes-to-write-in-the-contest) code written in contest<br>
 [925. Long pressed name](https://leetcode.com/problems/long-pressed-name/discuss/183969/C-quick-and-easy-just-learned-after-the-contest) Elegant solution learned after the contest<br>
 [929. Unique email addresses](https://leetcode.com/problems/unique-email-addresses/discuss/186739/C-readable-code)<br>
+[942. DI string match](https://leetcode.com/problems/di-string-match/discuss/194949/C-brute-force-solution-took-me-30-minutes-in-the-contest)<br>
 
 **Hashtable easy level algorithm** (solved 25, shared 21)<br><br>
 [1. Two Sum](https://leetcode.com/problems/two-sum/discuss/177402/C-visited-elements-into-a-Hashtable)<br>
@@ -201,6 +202,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/181167/C-It-actually-took-me-exactly-one-hour-and-also-the-sixth-submission-passed-online-judge)<br>
 [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/182417/C-dynamic-programming-is-quick-and-easy-once-you-master-it) dynamic programming solution (1 upvote on Oct. 18, 2018)<br>
 [926. Flip string to monotone increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/discuss/184312/C-a-solution-learned-after-the-contest)<br>
+[944. Delete columns to make sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/discuss/194943/C-I-learned-the-lesson-not-to-play-online-judge-in-the-contest)<br>
 
 **Medium level tree algorithms (solved 14, total 39, shared 12)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
