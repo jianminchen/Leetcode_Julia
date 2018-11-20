@@ -16,6 +16,7 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 [weekly contest 108, 10/27/2018](http://juliachencoding.blogspot.com/2018/10/leetcode-weekly-contest-108.html) Ranking is 1641/3653, Q1, Q2 passed, score 9, finish time: 1:39:55 <br>
 [weekly contest 109, 11/03/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-109.html) Ranking is 1610/3386, Q1, Q2 passed, score 4, finish time: 26:39 <br>
 [weekly contest 110, 11/10/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-110.html) Ranking is 1574/3720, Q1, Q2 passed, score 8, finish time: 1:07:04 <br>
+[weekly contest 111, 11/17/2018](https://juliachencoding.blogspot.com/2018/11/weekly-contest-111.html) Ranking is 1661/3587, Q1, Q3 passed, score 8, finish time: 1:06:08 <br>
 
 
 
@@ -34,4 +35,12 @@ I worked on the second algorithm, and then I chose to write a time-consuming sol
 This is my most favorite contest. I solved the first two algorithms, and then rest two I did spend time to read the problem statements in the contest, and also I thought about the solutions for each of them. I felt that one day I can solve four of them.
 
 Question 3 can be solved using brute force solution. Question 4 is also can be solved using dynamic programming solution. 
+
+**weekly contest 111**<br>
+The contest was my favorite one. 
+I solved question 1 and 3. And I did have problems to understand the question 2 and test case 1. 
+
+I like to write down my experience with question 2. My problem was that I started to write code and then fixed the code, and then I found out that I should write a different solution since the requirement is different from what I thought. I should figure out the requirement first in the contest, because the time is limited. 
+
+I read the hard level algorithm at the very beginning, and this is the first time I spent first five minutes to read hard level algorithm in the contest. 
 
