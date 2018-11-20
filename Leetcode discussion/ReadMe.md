@@ -204,10 +204,11 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [926. Flip string to monotone increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/discuss/184312/C-a-solution-learned-after-the-contest)<br>
 [944. Delete columns to make sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/discuss/194943/C-I-learned-the-lesson-not-to-play-online-judge-in-the-contest)<br>
 
-**Medium level tree algorithms (solved 14, total 39, shared 12)**<br>
+**Medium level tree algorithms (solved 19, total 39, shared 17)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177726/C-using-recursive-function-to-solve) use recursive function<br>
 [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/177728/C-solution-to-review-by-myself)<br>
+[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/discuss/195825/C-brute-force-all-possible-the-root-node's-values)<br>
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/discuss/177723/C-a-solution-to-review)<br>
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/177739/C-solution-written-in-2015-August) submitted in 2015<br>
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/177740/C-solution-to-review-written-in-May-2018) submitted in 2018<br>
@@ -216,6 +217,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/discuss/177746/C-solution-to-review-by-myself)<br>
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/177750/C-time-to-review-my-submission-in-2017-July)<br>
 [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/177735/C-solution-to-review-by-myself)<br>
+[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/discuss/195820/C-level-by-level-using-queue-to-traverse-the-tree)<br>
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree)<br>
 [236. Lowest Common Ancestor of a Binary Tree]()<br>
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/177741/C-seek-the-idea-to-improve-my-practice)<br>
