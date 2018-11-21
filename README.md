@@ -30,3 +30,9 @@ Here is the blog I wrote called where to find most hard working people. I like t
 I like to encourage myself to share my practice on Leetcode discussion panel. It is important to share my C# code and write down my practice, highlights of the practice. I like to figure out how I can improve myself in terms of algorithm problem solving. 
 
 The folder is added called [Leetcode discussion](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion)
+
+11/21/2018<br>
+I started to work on medium level algorithms and it is hard to play with medium level algorithms. I have good time to work on coding practice every day. 
+
+I start to set goal from getting interviews or weekly contest ranking to submission count. I admire those player with over 7,000 or 5,000 submissions. I just passed 1,000 submissions mark. I am excited to get used to problem solving, I like to be one of those millions programmer who inspire to be great and hard working programmers. 
+
