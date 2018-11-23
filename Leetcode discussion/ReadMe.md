@@ -223,9 +223,15 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/177741/C-seek-the-idea-to-improve-my-practice)<br>
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/discuss/191303/C-subproblem-is-to-find-left-subtree's-maximum-in-BST)<br>
 [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/discuss/191320/C-Good-practice-using-Queue)<br>
+[654. Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree/discuss/196905/C-sharing-with-discussion-about-base-cases)<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
+[701 Insert into a binary search tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/discuss/196909/C-ask-when-the-inserted-value-will-be-a-root-node)<br>
+[841 binary tree pruning](https://leetcode.com/problems/binary-tree-pruning/discuss/196911/C-two-use-cases-when-the-node-with-value-0-to-be-deleted)<br>
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/discuss/196517/C-it-is-important-to-know-how-to-construct-a-graph-using-a-hashmap)<br>  
+
+
+
 
 **Hard level (solved 33, shared 5)**<br><br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/177442/C-practice-makes-perfect)<br>
