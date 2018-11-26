@@ -203,6 +203,7 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/182417/C-dynamic-programming-is-quick-and-easy-once-you-master-it) dynamic programming solution (1 upvote on Oct. 18, 2018)<br>
 [926. Flip string to monotone increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/discuss/184312/C-a-solution-learned-after-the-contest)<br>
 [944. Delete columns to make sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/discuss/194943/C-I-learned-the-lesson-not-to-play-online-judge-in-the-contest)<br>
+[948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/discuss/197803/C-the-greedy-algorithm-is-so-challenging)<br>
 
 **Medium level tree algorithms (solved 19, total 39, shared 17)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
