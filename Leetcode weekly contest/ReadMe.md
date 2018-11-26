@@ -17,7 +17,7 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 [weekly contest 109, 11/03/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-109.html) Ranking is 1610/3386, Q1, Q2 passed, score 4, finish time: 26:39 <br>
 [weekly contest 110, 11/10/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-110.html) Ranking is 1574/3720, Q1, Q2 passed, score 8, finish time: 1:07:04 <br>
 [weekly contest 111, 11/17/2018](https://juliachencoding.blogspot.com/2018/11/weekly-contest-111.html) Ranking is 1661/3587, Q1, Q3 passed, score 8, finish time: 1:06:08 <br>
-[weekly contest 112, 11/24/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-112.html)<br>
+[weekly contest 112, 11/24/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-112.html) Ranking is 1151/3915, Q1, Q2 passed, score 11, finish time: 1:16:53<br>
 
 
 **weekly contest 107**<br>
@@ -43,4 +43,12 @@ I solved question 1 and 3. And I did have problems to understand the question 2 
 I like to write down my experience with question 2. My problem was that I started to write code and then fixed the code, and then I found out that I should write a different solution since the requirement is different from what I thought. I should figure out the requirement first in the contest, because the time is limited. 
 
 I read the hard level algorithm at the very beginning, and this is the first time I spent first five minutes to read hard level algorithm in the contest. 
+
+**weekly contest 112**<br>
+
+I start to challeng myself to prepare hard level algorithm in the contest. At least I will spend a few minutes to read the last algorithm and think about a few minutes at the very beginning of the contest. I also read all the algorithms first and evaluate the difficulty levels. 
+
+After the contest, I try to push myself to solve all algorithms in an additional hour if possible. 
+
+I like to put together the folder for each contest as well. I also like to write down my favorite learning from others. 
 
