@@ -26,7 +26,8 @@ Sept. 13, 2018
 
 I like to list all my sharings on Tree easy level algorithms, Array easy level algorithms, Math easy level algorithms. 
 
-**Total sharing 96 (Oct. 5, 2018)**
+**Total sharing 96 (Oct. 5, 2018)**<br>
+**Total sharing 188 (Nov. 28, 2018) Easy level 122, Medium level 57, hard level 9**<br>
 
 **Tree easy level algorithms (solved 30, shared 5)**<br><br>
 
