@@ -28,6 +28,8 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 
 **Total sharing 96 (Oct. 5, 2018)**<br>
 **Total sharing 188 (Nov. 28, 2018) Easy level 122, Medium level 57, hard level 9**<br>
+I will keep the statistics update here:<br>
+[My post on Leetcode.com discuss in detail](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/Statistics-LeetcodeDiscuss.pdf)<br>
 
 **Tree easy level algorithms (solved 30, shared 5)**<br><br>
 
