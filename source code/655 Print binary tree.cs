@@ -97,16 +97,9 @@ namespace _655_Print_binary_tree
                     var current = queue.Dequeue();
                     var node = current.Node;
                     var index = current.Index;
-                    var size  = current.Size;
-
-                    if (level == 0)
-                    {
-                        array[columns / 2] = current.Node.val.ToString();                        
-                    }
-                    else
-                    {
-                        array[index] = node.val.ToString();
-                    }
+                    var size  = current.Size;                   
+                    
+                    array[index] = node.val.ToString();                    
 
                     if (node.left != null)
                     {
