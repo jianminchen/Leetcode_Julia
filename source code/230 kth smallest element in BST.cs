@@ -63,7 +63,7 @@ namespace _230_kth_smallest_element_in_BST
            
             if(k == index)
             {
-                search = root.val;                
+                search = root.val;                               
             }
 
             index++; 
