@@ -34,7 +34,7 @@ The folder is added called [Leetcode discussion](https://github.com/jianminchen/
 11/21/2018<br>
 I started to work on medium level algorithms and it is hard to play with medium level algorithms. I have good time to work on coding practice every day. 
 
-I start to set goal from getting interviews or weekly contest ranking to submission count. I admire those player with over 7,000 or 5,000 submissions. I just passed 1,000 submissions mark. I am excited to get used to problem solving, I like to be one of those millions programmer who inspire to be great and hard working programmers. 
+I start to set goal from getting interviews or weekly contest ranking to submission count. I admire those player with over 2,000  submissions. I just passed 1,000 submissions mark. I am excited to get used to problem solving, I like to be one of those millions programmer who inspire to be great and hard working programmers. 
 
 I like to write down my feeling and also encourage myself to adapt to medium levle algorithm challenges. Slow is fine but definitely I should push myself forward. 
 
