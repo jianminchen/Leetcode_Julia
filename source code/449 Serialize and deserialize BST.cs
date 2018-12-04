@@ -91,7 +91,7 @@ namespace _449_serialize_and_deserialize_BST
             if (data == null || data.Length == 0)
                 return null;
 
-            var split = data.Split(';');
+            var split = data.Split(';');  // last ; do not count
 
             var root = new TreeNode(Convert.ToInt32(split[0]));
             var queue = new Queue<TreeNode>();
@@ -105,7 +105,7 @@ namespace _449_serialize_and_deserialize_BST
                 for (int i = 0; i < levelSize; i++)
                 {
                     var visit = queue.Dequeue();
-                    if (index >= split.Length - 1)
+                    if (index >= split.Length - 1)  // -1 since last ; do not count
                         break;
 
                     var left = split[index++];
