@@ -210,7 +210,7 @@ I will keep the statistics update here:<br>
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/discuss/197797/C-my-tip-is-to-identify-minimum-use-cases)<br>
 [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/discuss/197803/C-the-greedy-algorithm-is-so-challenging)<br>
 
-**Medium level tree algorithms (solved 19, total 39, shared 17)**<br>
+**Medium level tree algorithms (solved 25, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177726/C-using-recursive-function-to-solve) use recursive function<br>
 [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/discuss/177728/C-solution-to-review-by-myself)<br>
