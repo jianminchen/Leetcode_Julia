@@ -13,14 +13,15 @@ namespace _739_daily_temperature
             RunTestcase(); 
         }
 
+        /// T = [73, 74, 75, 71, 69, 72, 76, 73]
+        /// your output should be [1, 1, 4, 2, 1, 1, 0, 0]
         public static void RunTestcase()
         {
             var result = DailyTemperatures(new int[] { 73, 74, 75, 71, 69, 72, 76, 73 }); 
         }
 
         /// <summary>
-        /// T = [73, 74, 75, 71, 69, 72, 76, 73]
-        /// your output should be [1, 1, 4, 2, 1, 1, 0, 0]
+        /// Use stack to implement the solution with time complexity O(N), N is the size of the array
         /// </summary>
         /// <param name="T"></param>
         /// <returns></returns>
