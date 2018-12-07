@@ -258,9 +258,9 @@ I will keep the statistics update here:<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75034/Easiest-9ms-Java-Solution/78192) 3 upvotes<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
 [927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest) Take me more than one hour (1 upvote Nov. 2, 2018)<br>
-<br><br><br>
+<br>
 
-**Hard level tree algorithms (solved 5 out 6 unlocked algorithms, shared 0)**<br><br>
+**Hard level tree algorithms (solved 5 out 6 unlocked algorithms, shared 1)**<br><br>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node)<br>
 []()<br>
 []()<br>
