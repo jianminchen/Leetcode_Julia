@@ -242,6 +242,10 @@ I will keep the statistics update here:<br>
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/discuss/196517/C-it-is-important-to-know-how-to-construct-a-graph-using-a-hashmap)<br>  
 
 
+**Medium level stack algorithms (solved 2, total 18, shared 2)**<br>
+[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/discuss/202624/C-using-stack-to-solve-the-algorithm)<br>
+[856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/discuss/202627/C-using-stack-to-solve-the-problem)<br>
+
 
 
 **Hard level (solved 33, shared 5)**<br><br>
@@ -254,7 +258,12 @@ I will keep the statistics update here:<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75034/Easiest-9ms-Java-Solution/78192) 3 upvotes<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
 [927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest) Take me more than one hour (1 upvote Nov. 2, 2018)<br>
-<br><br><br>**My own blogs**<br><br> 
+<br><br><br>
+
+**Hard level tree algorithms (solved 9, shared 1)**<br><br>
+
+
+**My own blogs**<br><br> 
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
 [Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html) <br>
 
