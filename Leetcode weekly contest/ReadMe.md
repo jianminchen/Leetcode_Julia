@@ -18,6 +18,7 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 [weekly contest 110, 11/10/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-110.html) Ranking is 1574/3720, Q1, Q2 passed, score 8, finish time: 1:07:04 <br>
 [weekly contest 111, 11/17/2018](https://juliachencoding.blogspot.com/2018/11/weekly-contest-111.html) Ranking is 1661/3587, Q1, Q3 passed, score 8, finish time: 1:06:08 <br>
 [weekly contest 112, 11/24/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-112.html) Ranking is 1151/3915, Q1, Q2 passed, score 11, finish time: 1:16:53<br>
+[weekly contest 113, 12/01/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-113.html) Ranking is 1121/3549, Q1, Q2 passed, score 9, finish time: 0:58:52<br>
 
 
 **weekly contest 107**<br>
