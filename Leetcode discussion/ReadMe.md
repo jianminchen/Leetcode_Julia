@@ -187,7 +187,7 @@ I will keep the statistics update here:<br>
 [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/discuss/190876/C-my-readable-code) Failed more than three submissions<br>
 [817. Linked list components](https://leetcode.com/problems/linked-list-components/discuss/187968/C-Linked-list-algorithm-using-HashSet) using hashset<br>
 
-**Medium level (solved 53, shared 10)**<br><br>
+**Medium level (solved 53, shared 20)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
 [130. Surrounded Regions](https://gist.github.com/jianminchen/ff3384e4f572095416130702bb1e25e0) Will share later<br>
