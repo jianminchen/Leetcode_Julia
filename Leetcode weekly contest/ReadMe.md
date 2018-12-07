@@ -51,5 +51,9 @@ I start to challeng myself to prepare hard level algorithm in the contest. At le
 
 After the contest, I try to push myself to solve all algorithms in an additional hour if possible. 
 
-I like to put together the folder for each contest as well. I also like to write down my favorite learning from others. 
+I like to put together the folder for each contest as well. I also like to write down my favorite learning from others. <br>
 
+
+**weekly contest 113**<br>
+I wrote a blog to document the frustration I had on the third algorithm in the contest. I spent over 40 minutes in the contest to solve the third algorithm. <br>
+[950 reveal cards in increasing order](http://juliachencoding.blogspot.com/2018/12/950-reveal-cards-in-increasing-order.html)<br>
