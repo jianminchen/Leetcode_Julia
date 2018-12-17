@@ -241,7 +241,7 @@ I will keep the statistics update here:<br>
 [701 Insert into a binary search tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/discuss/196909/C-ask-when-the-inserted-value-will-be-a-root-node)<br>
 [841 binary tree pruning](https://leetcode.com/problems/binary-tree-pruning/discuss/196911/C-two-use-cases-when-the-node-with-value-0-to-be-deleted)<br>
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/discuss/196517/C-it-is-important-to-know-how-to-construct-a-graph-using-a-hashmap)<br>  
-
+[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes)<br>
 
 **Medium level stack algorithms (solved 2, total 18, shared 2)**<br>
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/discuss/202624/C-using-stack-to-solve-the-algorithm)<br>
