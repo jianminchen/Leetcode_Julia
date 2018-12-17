@@ -209,7 +209,8 @@ I will keep the statistics update here:<br>
 [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/discuss/197791/C-hard-than-I-thought-in-the-contest)<br>
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/discuss/197797/C-my-tip-is-to-identify-minimum-use-cases)<br>
 [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/discuss/197803/C-the-greedy-algorithm-is-so-challenging)<br>
-
+[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes)<br>
+  
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177726/C-using-recursive-function-to-solve) use recursive function<br>
