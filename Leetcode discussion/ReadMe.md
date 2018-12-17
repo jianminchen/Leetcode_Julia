@@ -227,7 +227,7 @@ I will keep the statistics update here:<br>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node)<br>
 [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/discuss/201565/C-design-for-requirement-space-O(H)-H-is-height-of-tree)<br>
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/discuss/195820/C-level-by-level-using-queue-to-traverse-the-tree)<br>
-[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree)<br>
+[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree)(1 upvote on Dec. 18, 2018)<br>
 [230. Kth Smallest Element in a BST]()<br>
 [236. Lowest Common Ancestor of a Binary Tree]()<br>
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/177741/C-seek-the-idea-to-improve-my-practice)<br>
