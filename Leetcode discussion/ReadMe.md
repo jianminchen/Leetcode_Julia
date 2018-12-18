@@ -203,7 +203,7 @@ I will keep the statistics update here:<br>
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest) Using Queue<br> 
 [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/discuss/179242/C-idea-using-Queue-learned-after-the-contest) Using Queue<br>
 [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/181167/C-It-actually-took-me-exactly-one-hour-and-also-the-sixth-submission-passed-online-judge)<br>
-[923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/182417/C-dynamic-programming-is-quick-and-easy-once-you-master-it) dynamic programming solution (1 upvote on Oct. 18, 2018)<br>
+[923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/discuss/182417/C-dynamic-programming-is-quick-and-easy-once-you-master-it) dynamic programming solution (1 upvote on Oct. 18, 2018; 3 upvotes Dec.18, 2018)<br>
 [926. Flip string to monotone increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/discuss/184312/C-a-solution-learned-after-the-contest)<br>
 [944. Delete columns to make sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/discuss/194943/C-I-learned-the-lesson-not-to-play-online-judge-in-the-contest)<br>
 [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/discuss/197791/C-hard-than-I-thought-in-the-contest)<br>
