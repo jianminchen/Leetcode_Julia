@@ -19,10 +19,10 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 [weekly contest 111, 11/17/2018](https://juliachencoding.blogspot.com/2018/11/weekly-contest-111.html) Ranking is 1661/3587, Q1, Q3 passed, score 8, finish time: 1:06:08 <br>
 [weekly contest 112, 11/24/2018](http://juliachencoding.blogspot.com/2018/11/weekly-contest-112.html) Ranking is 1151/3915, Q1, Q2 passed, score 11, finish time: 1:16:53<br>
 [weekly contest 113, 12/01/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-113.html) Ranking is 1121/3549, Q1, Q2 passed, score 9, finish time: 0:58:52<br>
-[weekly contest 114, 12/08/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-114.html) Ranking is 1770/3198, Q1 passed, score 5, finish time: <br>
-[weekly contest 115, 12/15/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-115.html) Ranking is 1588/3055, Q1 passed, score 5, finish time: <br>
-[weekly contest 116, 12/22/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-116.html) Ranking is 1046/2965, Q1, Q2 passed, score 7, finish time: <br>
-[weekly contest 117, 12/29/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-117.html) Ranking is 1299/3426, Q1, Q2 passed, score 8, finish time: <br>
+[weekly contest 114, 12/08/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-114.html) Ranking is 1770/3198, Q1 passed, score 5, finish time: 52:18<br>
+[weekly contest 115, 12/15/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-115.html) Ranking is 1588/3055, Q1 passed, score 5, finish time: 1:05 <br>
+[weekly contest 116, 12/22/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-116.html) Ranking is 1046/2965, Q1, Q2 passed, score 7, finish time: 1:18<br>
+[weekly contest 117, 12/29/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-117.html) Ranking is 1299/3426, Q1, Q2 passed, score 8, finish time: 1:15 <br>
 
 
 **weekly contest 107**<br>
@@ -49,6 +49,8 @@ I like to write down my experience with question 2. My problem was that I starte
 
 I read the hard level algorithm at the very beginning, and this is the first time I spent first five minutes to read hard level algorithm in the contest. 
 
+
+
 **weekly contest 112**<br>
 
 I start to challeng myself to prepare hard level algorithm in the contest. At least I will spend a few minutes to read the last algorithm and think about a few minutes at the very beginning of the contest. I also read all the algorithms first and evaluate the difficulty levels. 
@@ -61,3 +63,16 @@ I like to put together the folder for each contest as well. I also like to write
 **weekly contest 113**<br>
 I wrote a blog to document the frustration I had on the third algorithm in the contest. I spent over 40 minutes in the contest to solve the third algorithm. <br>
 [950 reveal cards in increasing order](http://juliachencoding.blogspot.com/2018/12/950-reveal-cards-in-increasing-order.html)<br>
+
+**weekly contest 114**<br>
+
+**weekly contest 115**<br>
+
+**weekly contest 116**<br>
+
+**weekly contest 117**<br>
+January 2, 2018<br>
+I need to figure out how to push myself to work on more algorithm problem solving every day. I have to do weekly leetcode contest, a few mock interview as an interviewer on interviewing.io. And I am doing personal finance research in the weekdays after the work and weekends.
+
+It is hard for me to find time to work on Leetcode algorithms practice from Dec 1 to Dec. 31, 2018, I did not practice at all. 
+
