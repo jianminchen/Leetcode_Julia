@@ -173,6 +173,9 @@ I will keep the statistics update here:<br>
 [707. Design linked list](https://leetcode.com/problems/design-linked-list/discuss/186426/C-it-takes-me-an-hour-to-make-it-bug-free)<br>
 [876. Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/discuss/186334/C-easy-level-linked-list-algorithm)<br>
 
+**Easy level unspecified**<br>
+[970. Powerful Integers](https://leetcode.com/problems/powerful-integers/discuss/214253/C-solution-written-after-the-contest)<br>
+
 **Medium level linked list**<br>
 [19. Remove Nth node from end of the list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/188621/C-readable-code)<br>
 [24. Swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/discuss/188769/C-readable-code-using-dummy-head-for-linked-list)<br>
@@ -245,7 +248,9 @@ I will keep the statistics update here:<br>
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/discuss/196517/C-it-is-important-to-know-how-to-construct-a-graph-using-a-hashmap)<br>  
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes)<br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/207326/C-Give-node-an-index-based-on-parent-index-and-use-the-sum-to-check-completeness)<br>
-
+[971. Flip Binary Tree To Match Preorder Traversal
+](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/214317/C-I-finally-made-it-work-with-13-submissions)<br>
+  
 **Medium level stack algorithms (solved 2, total 18, shared 2)**<br>
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/discuss/202624/C-using-stack-to-solve-the-algorithm)<br>
 [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/discuss/202627/C-using-stack-to-solve-the-problem)<br>
