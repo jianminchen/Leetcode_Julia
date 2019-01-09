@@ -251,6 +251,7 @@ I will keep the statistics update here:<br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/207326/C-Give-node-an-index-based-on-parent-index-and-use-the-sum-to-check-completeness)Use index sum to check completeness<br>
 [971. Flip Binary Tree To Match Preorder Traversal
 ](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/214317/C-I-finally-made-it-work-with-13-submissions)<br>
+[971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/216247/C-How-to-push-myself-to-write-an-elegant-solution)How to push myself to write an elegant solution?<br>
   
 **Medium level stack algorithms (solved 2, total 18, shared 2)**<br>
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/discuss/202624/C-using-stack-to-solve-the-algorithm)<br>
