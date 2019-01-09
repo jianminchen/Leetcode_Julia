@@ -248,6 +248,7 @@ I will keep the statistics update here:<br>
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/discuss/196517/C-it-is-important-to-know-how-to-construct-a-graph-using-a-hashmap)<br>  
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes)<br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/207326/C-Give-node-an-index-based-on-parent-index-and-use-the-sum-to-check-completeness)<br>
+[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/207326/C-Give-node-an-index-based-on-parent-index-and-use-the-sum-to-check-completeness)Use index sum to check completeness<br>
 [971. Flip Binary Tree To Match Preorder Traversal
 ](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/214317/C-I-finally-made-it-work-with-13-submissions)<br>
   
