@@ -6,9 +6,19 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 Global ranking of contest 13904, 25 contests played<br>
 Highest ranking in the contest 393, lowest one is 1860. <br>
 Highest score is 9, lowest score is 0. <br>
-All scores ...<br>
+**All scores ...**<br>
 0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 11, 11<br>
-
+**Order by time from 2017 to 2019**<br>
+3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5<br>
+**By month**<br>
+2017-04 [3, 9]<br>
+2017-06 [9]<br>
+2018-09 [0, 7, 3, 11]<br>
+2018-10 [4, 7, 4, 9]<br>
+2018-11 [4, 8, 8, 11]<br>
+2018-12 [9, 5, 5, 7, 8]<br>
+2019-01 [5]<br>
+<br><br>
 [Jianmin Chen Leetcode profile](https://leetcode.com/jianminchen/)<br>
 
 [weekly contest 27, 04/08/2017](http://juliachencoding.blogspot.com/2017/04/leetcode-weekly-contest-27.html) Rank 950/1900, score: 3, Q1 passed<br>
