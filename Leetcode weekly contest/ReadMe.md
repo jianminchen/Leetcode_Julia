@@ -23,6 +23,7 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 [weekly contest 115, 12/15/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-115.html) Ranking is 1588/3055, Q1 passed, score 5, finish time: 1:05 <br>
 [weekly contest 116, 12/22/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-116.html) Ranking is 1046/2965, Q1, Q2 passed, score 7, finish time: 1:18<br>
 [weekly contest 117, 12/29/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-117.html) Ranking is 1299/3426, Q1, Q2 passed, score 8, finish time: 1:15 <br>
+[weekly contest 118, 01/05/2019](http://juliachencoding.blogspot.com/2019/01/weekly-contest-118.html) Ranking is 1416/3587, Q2 passed, score 5, finish time: 1:09:14 <br>
 
 
 **weekly contest 107**<br>
@@ -75,4 +76,10 @@ January 2, 2018<br>
 I need to figure out how to push myself to work on more algorithm problem solving every day. I have to do weekly leetcode contest, a few mock interview as an interviewer on interviewing.io. And I am doing personal finance research in the weekdays after the work and weekends.
 
 It is hard for me to find time to work on Leetcode algorithms practice from Dec 1 to Dec. 31, 2018, I did not practice at all. 
+
+**weekly contest 118**<br>
+I solved one algorithm in the contest, but I had difficult time to solve an easy one. <br>
+After the contest in over an hour, I wrote a solution for algorithm 3. 
+
+On January 9, 2019, I wrote a solution for algorithm 3. Here(https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/216247/C-How-to-push-myself-to-write-an-elegant-solution) is my Leetcode discuss sharing. <br>
 
