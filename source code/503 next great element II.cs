@@ -20,7 +20,9 @@ namespace _503_next_great_element_II
         /// Step 2: Reverse the result array
         /// Step 3: If elment in the array does not have greater element in the right side, then
         ///  work on the search from the left side the array. 
-        ///
+        ///  Only one iteration from left to right side is needed. Why? 
+        ///  Iterate the array from end to start and the values of those missing ones should be increasing
+        ///  order. 
         /// test case 1:
         /// [1, 2, 3]
         /// -> reverse [3, 2, 1] -> ok
