@@ -81,5 +81,5 @@ It is hard for me to find time to work on Leetcode algorithms practice from Dec 
 I solved one algorithm in the contest, but I had difficult time to solve an easy one. <br>
 After the contest in over an hour, I wrote a solution for algorithm 3. 
 
-On January 9, 2019, I wrote a solution for algorithm 3. [Here](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/216247/C-How-to-push-myself-to-write-an-elegant-solution) is my Leetcode discuss sharing. <br>
+On January 9, 2019, I wrote a solution for algorithm 3. [Here](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/216247/C-How-to-push-myself-to-write-an-elegant-solution) is my Leetcode discuss sharing called "How to push myself to write an elegant solution" <br>
 
