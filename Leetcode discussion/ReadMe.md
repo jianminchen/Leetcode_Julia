@@ -254,8 +254,10 @@ I will keep the statistics update here:<br>
 [971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/216247/C-How-to-push-myself-to-write-an-elegant-solution) How to push myself to write an elegant solution?<br>
   
 **Medium level stack algorithms (solved 2, total 18, shared 2)**<br>
+[503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/discuss/216748/C-work-on-O(N)-time-complexity-solution) Work on optimal time complexity O(N) solution<br>
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/discuss/202624/C-using-stack-to-solve-the-algorithm)<br>
 [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/discuss/202627/C-using-stack-to-solve-the-problem)<br>
+
 
 **Medium level stack algorithms**<br>
 [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discuss/214256/C-find-maximum-one-in-the-array-and-then-flip-it-to-the-first-one-and-then-flip-to-last-one)<br>
