@@ -7,7 +7,7 @@ Global ranking of contest 13904, 25 contests played<br>
 Highest ranking in the contest 393, lowest one is 1860. <br>
 Highest score is 9, lowest score is 0. <br>
 All scores ...<br>
-3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 11, 11<br>
+0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 11, 11<br>
 
 [Jianmin Chen Leetcode profile](https://leetcode.com/jianminchen/)<br>
 
