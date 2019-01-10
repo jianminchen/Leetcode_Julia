@@ -1,4 +1,7 @@
+**Sept. 8, 2018**<br>
+
 I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode weekly contest no matter how busy I am. 
+
 
 [Jianmin Chen Leetcode profile](https://leetcode.com/jianminchen/)<br>
 
