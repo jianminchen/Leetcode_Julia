@@ -14,6 +14,13 @@ namespace _503_next_great_element_II
         }
 
         /// <summary>
+        /// Time complexity: O(N)
+        /// Step 1: Get next great element from the right side of the array first;
+        ///  idea is to reverse the array, and then use stack to keep monotonic decreasing order. 
+        /// Step 2: Reverse the result array
+        /// Step 3: If elment in the array does not have greater element in the right side, then
+        ///  work on the search from the left side the array. 
+        ///
         /// test case 1:
         /// [1, 2, 3]
         /// -> reverse [3, 2, 1] -> ok
