@@ -215,6 +215,8 @@ I will keep the statistics update here:<br>
 [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/discuss/197803/C-the-greedy-algorithm-is-so-challenging)<br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes)<br>
 [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/discuss/211222/C-depth-first-search)<br>
+[969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discuss/214256/C-find-maximum-one-in-the-array-and-then-flip-it-to-the-first-one-and-then-flip-to-last-one)<br>
+
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
@@ -258,9 +260,6 @@ I will keep the statistics update here:<br>
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/discuss/202624/C-using-stack-to-solve-the-algorithm)<br>
 [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/discuss/202627/C-using-stack-to-solve-the-problem)<br>
 
-
-**Medium level stack algorithms**<br>
-[969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discuss/214256/C-find-maximum-one-in-the-array-and-then-flip-it-to-the-first-one-and-then-flip-to-last-one)<br>
 
 **Hard level (solved 33, shared 5)**<br><br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/177442/C-practice-makes-perfect)<br>
