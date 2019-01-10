@@ -5,11 +5,11 @@ I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode
 **Jan. 10, 2019**<br>
 Global ranking of contest 13904, 25 contests played<br>
 Highest ranking in the contest 393, lowest one is 1860. <br>
-Highest score is 9, lowest score is 0. <br>
+Highest score is 9, lowest score is 0. <br><br>
 **All scores ...**<br>
-0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 11, 11<br>
+0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 11, 11<br><br>
 **Scores order by time from 2017 to 2019**<br>
-3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5<br>
+3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5<br><br>
 **Scores By month**<br>
 2017-04 [3, 9]<br>
 2017-06 [9]<br>
