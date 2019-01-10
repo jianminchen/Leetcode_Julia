@@ -2,6 +2,11 @@
 
 I am a rookie to play Leetcode weekly contest. I just came back to play Leetcode weekly contest no matter how busy I am. 
 
+**Jan. 10, 2019**<br>
+Global ranking of contest 13904, 25 contests played<br>
+Highest ranking in the contest 393, lowest one is 1860. <br>
+Highest score is 9, lowest score is 0. <br>
+All scores ...<br>
 
 [Jianmin Chen Leetcode profile](https://leetcode.com/jianminchen/)<br>
 
