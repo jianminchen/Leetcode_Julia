@@ -109,8 +109,17 @@ namespace _37_Sudoku_solver
               HashSet<int>[] cols,
               HashSet<int>[] quadrants)
         {
+            // one row has 9 columns 
             int r = index / 9;
             int c = index % 9;
+
+            // there are three rows and three columns quadrants.
+            // each row will have 27 elements
+            // each quadrant will have 9 elements
+            // First row quadrant
+            // Quadrant1   Quadrant2      Quadrant3
+            // 0 - 8       9 - 17          18 - 26
+            
             int q = (index / 27) * 3 + (index % 9) / 3;
 
             if (!rows[r].Contains(number) && 
