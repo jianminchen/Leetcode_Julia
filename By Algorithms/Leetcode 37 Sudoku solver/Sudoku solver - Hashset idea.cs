@@ -118,8 +118,10 @@ namespace _37_Sudoku_solver
             // each quadrant will have 9 elements
             // First row quadrant
             // Quadrant1   Quadrant2      Quadrant3
+            // by index
             // 0 - 8       9 - 17          18 - 26
-            
+            // by column
+            // 0 1 2       3  4  5        6 7 8
             int q = (index / 27) * 3 + (index % 9) / 3;
 
             if (!rows[r].Contains(number) && 
