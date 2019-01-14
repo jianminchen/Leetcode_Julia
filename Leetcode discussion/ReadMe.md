@@ -73,6 +73,8 @@ I will keep the statistics update here:<br>
 [930. Binary subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/discuss/186713/C-it-took-me-five-submissions-in-the-contest-one-hour) code written in the weekly contest 108<br>
 [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/discuss/194935/C-check-peak-count-and-valley-count)<br>
 [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/discuss/211236/C-think-about-test-cases-one-by-one)code written in weekly contest 117<br>
+[973 K Cloest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/discuss/218029/C-timeout-is-really-a-challenging-problem-to-solve) written after the weekly contest 119<br>
+[976 Largest perimeter triangle](https://leetcode.com/problems/largest-perimeter-triangle/discuss/218043/C-kind-of-greedy-algorithm) kind of greedy<br>
 
 **Math easy level algorithms (solved 27/ 32, shared 12)**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
@@ -216,7 +218,7 @@ I will keep the statistics update here:<br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes)<br>
 [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/discuss/211222/C-depth-first-search)<br>
 [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discuss/214256/C-find-maximum-one-in-the-array-and-then-flip-it-to-the-first-one-and-then-flip-to-last-one)<br>
-
+[974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/218049/C-calculate-prefix-sum-and-save-it-using-residue-of-module-K-as-key)<br>
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
