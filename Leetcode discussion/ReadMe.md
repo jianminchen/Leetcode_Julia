@@ -233,7 +233,7 @@ I will keep the statistics update here:<br>
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/discuss/177746/C-solution-to-review-by-myself)<br>
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/177750/C-time-to-review-my-submission-in-2017-July)<br>
 [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/177735/C-solution-to-review-by-myself)<br>
-[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node)<br>
+
 [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/discuss/201565/C-design-for-requirement-space-O(H)-H-is-height-of-tree)<br>
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/discuss/195820/C-level-by-level-using-queue-to-traverse-the-tree)<br>
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree)(1 upvote on Dec. 18, 2018)<br>
@@ -277,8 +277,11 @@ I will keep the statistics update here:<br>
 <br>
 
 **Hard level tree algorithms (solved 5 out 6 unlocked algorithms, shared 1)**<br><br>
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node)<br>
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/219630/C-Road-to-master-this-tree-algorithm) Learned from casual coder blog<br>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node) My practice, using hashset to mark visited<br>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/203070/Python-find-first-node-in-the-post-order-and-then-make-it-repeatable) idea I learned as interviewer<br>
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/219630/C-Road-to-master-this-tree-algorithm) idea I learned from Taras comment from a casual coder blog<br>
 []()<br>
 []()<br>
 []()<br>
