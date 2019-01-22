@@ -195,7 +195,7 @@ I will keep the statistics update here:<br>
 
 **Medium level (solved 53, shared 20)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
-[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/223863/C-dynamic-programming) dynamic programming<br>  
+[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/223863/C-dynamic-programming) dynamic programming<br> 
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
 [130. Surrounded Regions](https://gist.github.com/jianminchen/ff3384e4f572095416130702bb1e25e0) Will share later<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
@@ -234,7 +234,6 @@ I will keep the statistics update here:<br>
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/discuss/177746/C-solution-to-review-by-myself)<br>
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/177750/C-time-to-review-my-submission-in-2017-July)<br>
 [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/177735/C-solution-to-review-by-myself)<br>
-
 [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/discuss/201565/C-design-for-requirement-space-O(H)-H-is-height-of-tree)<br>
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/discuss/195820/C-level-by-level-using-queue-to-traverse-the-tree)<br>
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree)(1 upvote on Dec. 18, 2018)<br>
@@ -276,7 +275,7 @@ I will keep the statistics update here:<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
 [927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest) Take me more than one hour (1 upvote Nov. 2, 2018)<br>
 <br>
-[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/discuss/223861/C-backtracking-algorithm)backtracking algorithm<br>
+[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/discuss/223861/C-backtracking-algorithm) backtracking algorithm<br>
 
 **Hard level tree algorithms (solved 5 out 6 unlocked algorithms, shared 1)**<br><br>
 
@@ -288,7 +287,7 @@ I will keep the statistics update here:<br>
 []()<br>
 []()<br>
 []()<br>
-
+ 
 
 **My own blogs**<br><br> 
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
