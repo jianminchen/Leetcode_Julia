@@ -219,6 +219,7 @@ I will keep the statistics update here:<br>
 [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/discuss/211222/C-depth-first-search)<br>
 [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discuss/214256/C-find-maximum-one-in-the-array-and-then-flip-it-to-the-first-one-and-then-flip-to-last-one)<br>
 [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/218049/C-calculate-prefix-sum-and-save-it-using-residue-of-module-K-as-key)<br>
+[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/223863/C-dynamic-programming) dynamic programming<br>
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
