@@ -75,6 +75,7 @@ I will keep the statistics update here:<br>
 [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/discuss/211236/C-think-about-test-cases-one-by-one)code written in weekly contest 117<br>
 [973 K Cloest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/discuss/218029/C-timeout-is-really-a-challenging-problem-to-solve) written after the weekly contest 119<br>
 [976 Largest perimeter triangle](https://leetcode.com/problems/largest-perimeter-triangle/discuss/218043/C-kind-of-greedy-algorithm) kind of greedy<br>
+[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/222041/C-Get-absolution-value-first-and-then-sort-the-array) Solution written in contest 120<br>
 
 **Math easy level algorithms (solved 27/ 32, shared 12)**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
