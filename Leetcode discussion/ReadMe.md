@@ -1,6 +1,6 @@
 **It takes a village to raise a child.**<br><br>
 Sept. 9, 2018<br>
-I like to adapt the culture to learn and contribute to Leetcode discuss community. It is a long journey. <br>
+I like to adapt the culture to learn from and contribute to Leetcode discuss community. It is a long journey. <br>
 
 It took more than 3 years five months for me to understand that I also should learn to contribute to the community, I like to make the community better for learning and sharing, encouraging each other to share ideas. From January 2015, I started to work on Leetcode algorithm, three years 6 months later, July 2018 is time for me to be a writer for Leetcode discuss. <br>
 
