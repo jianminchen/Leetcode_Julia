@@ -7,9 +7,9 @@ Global ranking of contest 13904, 25 contests played<br>
 Highest ranking in the contest 393, lowest one is 1860. <br>
 Highest score is 9, lowest score is 0. <br><br>
 **All scores ...**<br>
-0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 11, 11<br><br>
+0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 10, 11, 11<br><br>
 **Scores order by time from 2017 to 2019**<br>
-3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5<br><br>
+3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7<br><br>
 
 **Scores By month**<br>
 2017-04 [3, 9]<br>
@@ -18,7 +18,7 @@ Highest score is 9, lowest score is 0. <br><br>
 2018-10 [4, 7, 4, 9]<br>
 2018-11 [4, 8, 8, 11]<br>
 2018-12 [9, 5, 5, 7, 8]<br>
-2019-01 [5]<br><br>
+2019-01 [5, 10, 7]<br><br>
 **Statistics**<br>
 Total score: 136, average is 6.8 (updated on Jan. 10, 2019)<br><br>
 <br><br>
@@ -45,7 +45,9 @@ Total score: 136, average is 6.8 (updated on Jan. 10, 2019)<br><br>
 [weekly contest 116, 12/22/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-116.html) Ranking is 1046/2965, Q1, Q2 passed, score 7, finish time: 1:18<br>
 [weekly contest 117, 12/29/2018](http://juliachencoding.blogspot.com/2018/12/weekly-contest-117.html) Ranking is 1299/3426, Q1, Q2 passed, score 8, finish time: 1:15 <br><br>
 [weekly contest 118, 01/05/2019](http://juliachencoding.blogspot.com/2019/01/weekly-contest-118.html) Ranking is 1416/3587, Q2 passed, score 5, finish time: 1:09:14 <br>
-
+[weekly contest 119, 01/12/2019](http://juliachencoding.blogspot.com/search?q=weekly+contest+119) Ranking is 1054/3845, Q2, Q3 passed, score 10, finish time: 38:33 <br>
+[weekly contest 120, 01/19/2019](http://juliachencoding.blogspot.com/2019/01/weekly-contest-120.html) Ranking is 1630/3876, Q1, Q2 passed, score 7, finish time: 54:17 <br>
+weekly contest 121, 01/26/2019 Took a break for Chinese new year party<Br>
 
 **weekly contest 107**<br>
 I worked on hard level algorithm, the code had bugs in the contest so I could not pass online judge. <br>
