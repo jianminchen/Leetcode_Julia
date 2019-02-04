@@ -18,8 +18,10 @@ Highest score is 9, lowest score is 0. <br><br>
 2018-10 [4, 7, 4, 9]<br>
 2018-11 [4, 8, 8, 11]<br>
 2018-12 [9, 5, 5, 7, 8]<br>
-2019-01 [5, 10, 7]<br><br>
+2019-01 [5, 10, 7]<br>
 2019-02 [5]<br>
+
+<br>
 **Statistics**<br>
 Total score: 136, average is 6.8 (updated on Jan. 10, 2019)<br><br>
 <br><br>
