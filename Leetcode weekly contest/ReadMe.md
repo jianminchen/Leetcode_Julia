@@ -19,6 +19,7 @@ Highest score is 9, lowest score is 0. <br><br>
 2018-11 [4, 8, 8, 11]<br>
 2018-12 [9, 5, 5, 7, 8]<br>
 2019-01 [5, 10, 7]<br><br>
+2019-02 [5]<br>
 **Statistics**<br>
 Total score: 136, average is 6.8 (updated on Jan. 10, 2019)<br><br>
 <br><br>
@@ -48,7 +49,7 @@ Total score: 136, average is 6.8 (updated on Jan. 10, 2019)<br><br>
 [weekly contest 119, 01/12/2019](http://juliachencoding.blogspot.com/search?q=weekly+contest+119) Ranking is 1054/3845, Q2, Q3 passed, score 10, finish time: 38:33 <br>
 [weekly contest 120, 01/19/2019](http://juliachencoding.blogspot.com/2019/01/weekly-contest-120.html) Ranking is 1630/3876, Q1, Q2 passed, score 7, finish time: 54:17 <br>
 weekly contest 121, 01/26/2019 Took a break for Chinese new year party<Br>
-
+weekly contest 111, 02/02/2019 Ranking is 1886/3485, Q2 passed, score 5, finish time: 31:52<br>
 **weekly contest 107**<br>
 I worked on hard level algorithm, the code had bugs in the contest so I could not pass online judge. <br>
 [Here](https://juliachencoding.blogspot.com/2018/10/ielts-reading.html) is the blog I wrote to work on my English reading skills. <br>
