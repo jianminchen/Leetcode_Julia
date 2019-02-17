@@ -7,9 +7,9 @@ Global ranking of contest 13904, 25 contests played<br>
 Highest ranking in the contest 393, lowest one is 1860. <br>
 Highest score is 9, lowest score is 0. <br><br>
 **All scores ...**<br>
-0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 10, 11, 11<br><br>
+0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 9, 10, 11, 11<br><br>
 **Scores order by time from 2017 to 2019**<br>
-3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7<br><br>
+3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7, 9<br><br>
 
 **Scores By month**<br>
 2017-04 [3, 9]<br>
@@ -19,7 +19,7 @@ Highest score is 9, lowest score is 0. <br><br>
 2018-11 [4, 8, 8, 11]<br>
 2018-12 [9, 5, 5, 7, 8]<br>
 2019-01 [5, 10, 7]<br>
-2019-02 [5]<br>
+2019-02 [5, 9]<br>
 
 <br>
 **Statistics**<br>
@@ -52,6 +52,8 @@ Total score: 136, average is 6.8 (updated on Jan. 10, 2019)<br><br>
 [weekly contest 120, 01/19/2019](http://juliachencoding.blogspot.com/2019/01/weekly-contest-120.html) Ranking is 1630/3876, Q1, Q2 passed, score 7, finish time: 54:17 <br>
 weekly contest 121, 01/26/2019 Took a break for Chinese new year party<Br>
 [weekly contest 122, 02/02/2019](http://juliachencoding.blogspot.com/2019/02/weekly-contest-122.html) Ranking is 1886/3485, Q2 passed, score 5, finish time: 31:52<br>
+<br>
+[weekly contest 124, 02/16/2019](https://juliachencoding.blogspot.com/2019/02/weekly-contest-124.html) Ranking is 1447/4174, Q1, Q2 passed, score 9, finish time: 0:59:42<br>
 <br>
 **weekly contest 107**<br>
 I worked on hard level algorithm, the code had bugs in the contest so I could not pass online judge. <br>
@@ -109,4 +111,9 @@ I solved one algorithm in the contest, but I had difficult time to solve an easy
 After the contest in over an hour, I wrote a solution for algorithm 3. 
 
 On January 9, 2019, I wrote a solution for algorithm 3. [Here](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/216247/C-How-to-push-myself-to-write-an-elegant-solution) is my Leetcode discuss sharing called "How to push myself to write an elegant solution" <br>
+
+**weekly contest 124**<br>
+I took one week break for Chinese new year spring break party in Delta, BC. I came back to play weekly contest as usual. 
+
+
 
