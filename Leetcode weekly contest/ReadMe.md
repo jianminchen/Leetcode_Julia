@@ -25,7 +25,7 @@ Highest score is 9, lowest score is 0. <br><br>
 **Statistics**<br>
 Total score: 136, average is 6.8 (updated on Jan. 10, 2019)<br><br>
 <br><br>
-[Jianmin Chen Leetcode profile](https://leetcode.com/jianminchen/)<br>
+[Jianmin Chen Leetcode profile](https://leetcode.com/jianminchen/) Ranking 1683 - Feb 17, 2019<br>
 
 Feb. 17, 2019 <br>
 Finished Contest: 30 <br>
