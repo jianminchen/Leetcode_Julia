@@ -179,6 +179,7 @@ I will keep the statistics update here:<br>
 
 **Easy level unspecified**<br>
 [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/discuss/214253/C-solution-written-after-the-contest)<br>
+[994 Rotten oranges](https://leetcode.com/problems/rotting-oranges/discuss/238665/C-Check-fresh-orange-nodes-by-four-neighbors-all-the-time)<br>
 
 **Medium level linked list**<br>
 [19. Remove Nth node from end of the list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/188621/C-readable-code)<br>
