@@ -30,8 +30,6 @@ Feb. 17, 2019 <br>
 Finished Contest: 30 <br>
 Rating    1683 <br>
 Global Ranking 14684/83337<br>
-
-
 [weekly contest 27, 04/08/2017](http://juliachencoding.blogspot.com/2017/04/leetcode-weekly-contest-27.html) Rank 950/1900, score: 3, Q1 passed<br>
 [weekly contest 28, 04/15/2017](http://juliachencoding.blogspot.com/2017/04/leetcode-weekly-contest-28.html) Rank is 393/ 1848, score is 9, Q1, Q2 passed, score 9's range is from ranking 170 to 393.<br><br>
 [weekly contest 35, June 3, 2017](http://juliachencoding.blogspot.com/2017/06/leetcode-weekly-contest-35.html) Ranking 760/1678, Q1, Q2 passed, score 9, finish time: 1:13:16<br><br>
