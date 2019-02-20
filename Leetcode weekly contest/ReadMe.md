@@ -115,7 +115,7 @@ After the contest in over an hour, I wrote a solution for algorithm 3.
 
 On January 9, 2019, I wrote a solution for algorithm 3. [Here](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/216247/C-How-to-push-myself-to-write-an-elegant-solution) is my Leetcode discuss sharing called "How to push myself to write an elegant solution" <br>
 
-**weekly contest 124**<br>
+**weekly contest 124**<br>  
 I took one week break for Chinese new year spring break party in Delta, BC. I came back to play weekly contest as usual. 
 
 
