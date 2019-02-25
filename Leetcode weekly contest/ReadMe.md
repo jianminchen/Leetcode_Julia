@@ -7,9 +7,9 @@ Global ranking of contest 13904, 25 contests played<br>
 Highest ranking in the contest 393, lowest one is 1860. <br>
 Highest score is 9, lowest score is 0. <br><br>
 **All scores ...**<br>
-0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 9, 10, 11, 11<br><br>
+0, 3, 3, 4, 4, 4, 5, 5, 5, 7, 7, 7, 7, 8, 8, 8, 9, 9, 9, 9, 9, 10, 10, 11, 11<br><br>
 **Scores order by time from 2017 to 2019**<br>
-3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7, 9<br><br>
+3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7, 9, 10<br><br>
 
 **Scores By month**<br>
 2017-04 {3, 9}<br>
@@ -19,7 +19,7 @@ Highest score is 9, lowest score is 0. <br><br>
 2018-11 {4, 8, 8, 11}<br>
 2018-12 {9, 5, 5, 7, 8}<br>
 2019-01 {5, 10, 7, skipped}<br>
-2019-02 {5, skipped, 9}<br>
+2019-02 {5, skipped, 9, 10}<br>
 
 <br>
 **Statistics**<br>
@@ -57,6 +57,12 @@ weekly contest 121, 01/26/2019 Took a break for Chinese new year party<Br>
 [weekly contest 122, 02/02/2019](http://juliachencoding.blogspot.com/2019/02/weekly-contest-122.html) Ranking is 1886/3485, Q2 passed, score 5, finish time: 31:52<br>
 <br>
 [weekly contest 124, 02/16/2019](https://juliachencoding.blogspot.com/2019/02/weekly-contest-124.html) Ranking is 1447/4174, Q1, Q2 passed, score 9, finish time: 0:59:42<br>
+[weekly contest 125, 02/23/2019](http://juliachencoding.blogspot.com/2019/02/weekly-contest-125.html) Ranking is 1847/4288, Q1, Q3 passed, score 10, finish time: 1:21:49<br> 
+ 
+ 
+ 
+ 
+ 
 <br>
 **weekly contest 107**<br>
 I worked on hard level algorithm, the code had bugs in the contest so I could not pass online judge. <br>
@@ -80,9 +86,7 @@ I solved question 1 and 3. And I did have problems to understand the question 2 
 
 I like to write down my experience with question 2. My problem was that I started to write code and then fixed the code, and then I found out that I should write a different solution since the requirement is different from what I thought. I should figure out the requirement first in the contest, because the time is limited. 
 
-I read the hard level algorithm at the very beginning, and this is the first time I spent first five minutes to read hard level algorithm in the contest. 
-
-
+I read the hard level algorithm at the very beginning, and this is the first time I spent first five minutes to read hard level algorithm in the contest. <br>
 
 **weekly contest 112**<br>
 
@@ -118,5 +122,5 @@ On January 9, 2019, I wrote a solution for algorithm 3. [Here](https://leetcode.
 **weekly contest 124**<br>  
 I took one week break for Chinese new year spring break party in Delta, BC. I came back to play weekly contest as usual. 
 
-
+**weekly contest 125**<br>  
 
