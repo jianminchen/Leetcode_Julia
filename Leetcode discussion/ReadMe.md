@@ -281,6 +281,7 @@ I will keep the statistics update here:<br>
 [927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest) Take me more than one hour (1 upvote Nov. 2, 2018)<br>
 <br>
 [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/discuss/223861/C-backtracking-algorithm) backtracking algorithm<br>
+[996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/244279/C-backtracking-and-depth-first-search)<br>
 
 **Hard level tree algorithms (solved 5 out 6 unlocked algorithms, shared 1)**<br><br>
 
