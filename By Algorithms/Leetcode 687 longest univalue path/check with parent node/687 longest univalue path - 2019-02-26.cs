@@ -44,6 +44,27 @@ namespace longest_univalue_path___compare_to_root
         ///      5a    5b
         /// First, we work on recursive function. Every node is to check with its parent value
         /// path value
+        /// Post order traversal, bottom up, three steps, 5a, 5b, 5c
+        /// step 1:
+        ///     dummy root
+        ///         | 
+        ///         5c
+        ///      /     \
+        ///      5a-1    5b
+        /// step 2:
+        ///     dummy root
+        ///         | 
+        ///         5c
+        ///      /     \
+        ///      5a-1    5b-1
+        /// step 3:
+        ///     dummy root
+        ///         | 
+        ///         5c-0
+        ///      /     \
+        ///      5a-1    5b-1
+        ///      
+        /// combination of step 1, 2, 3:
         ///    dummy root
         ///         | 
         ///         5c-0
