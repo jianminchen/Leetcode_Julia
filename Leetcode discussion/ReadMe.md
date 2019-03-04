@@ -42,6 +42,7 @@ I will keep the statistics update here:<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158926/C-solution-with-design-flaws-passing-only-43-out-of-68-test-cases) with design flaw, pass 43 out of 68 test cases<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158923/C-solution-using-recursive-function) copy the idea from most popular post<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/190183/C-recursive-solution) learn from a mock interview<br>
+[687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/244850/C-post-order-check-with-parent-value-with-step-by-step-illustration)C# post order - check with parent value with step by step illustration<br>
 [993 Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree/discuss/238645/C-preorder-traversal-and-use-a-dictionary-to-help)<br>
 <br><br>
 **Array easy level algorithms (solved 44, shared 24)**<br><br>
