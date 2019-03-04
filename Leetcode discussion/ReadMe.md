@@ -119,6 +119,7 @@ I will keep the statistics update here:<br>
 [925. Long pressed name](https://leetcode.com/problems/long-pressed-name/discuss/183969/C-quick-and-easy-just-learned-after-the-contest) Elegant solution learned after the contest<br>
 [929. Unique email addresses](https://leetcode.com/problems/unique-email-addresses/discuss/186739/C-readable-code)<br>
 [942. DI string match](https://leetcode.com/problems/di-string-match/discuss/194949/C-brute-force-solution-took-me-30-minutes-in-the-contest)<br>
+[1002. Find common characters](https://leetcode.com/problems/find-common-characters/discuss/247804/C-counting-sort-with-explanation)<br>
 
 **Hashtable easy level algorithm** (solved 25, shared 21)<br><br>
 [1. Two Sum](https://leetcode.com/problems/two-sum/discuss/177402/C-visited-elements-into-a-Hashtable)<br>
@@ -266,7 +267,7 @@ I will keep the statistics update here:<br>
 [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/discuss/216748/C-work-on-O(N)-time-complexity-solution) Work on optimal time complexity O(N) solution<br>
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/discuss/202624/C-using-stack-to-solve-the-algorithm)<br>
 [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/discuss/202627/C-using-stack-to-solve-the-problem)<br>
-
+[1003. Check if word is valid after substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/discuss/247795/C-using-stack-with-explanation)<br>
 
 **Hard level (solved 33, shared 5)**<br><br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/177442/C-practice-makes-perfect)<br>
