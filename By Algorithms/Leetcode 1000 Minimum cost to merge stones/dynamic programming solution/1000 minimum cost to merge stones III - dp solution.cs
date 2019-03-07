@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1000_minimum_cost_to_merge_stones_III
+namespace Leetcode_1000_minimum_cost_to_merge_stones
 {
     class Program
-    {
+    {        
         static void Main(string[] args)
         {
             var result = MergeStones(new int[] { 4, 6, 6, 4 }, 2);
-        }
+        }            
 
         /// <summary>
         /// code review March 7, 2019
@@ -58,12 +58,19 @@ namespace _1000_minimum_cost_to_merge_stones_III
 
                     dp[start, end] = int.MaxValue;
 
+                    // Julia likes to write some notes to help understand the code and reasoning here:
+                    // 1. brute force solution
+                    // 2. all subproblems will be exhausted
+                    // 3. argue that all subproblems will be solved already 
+                    // since for loop for variable span starts from K to go up
                     for (int split = start; split < end; split += K - 1)
                     {
                         dp[start, end] = Math.Min(dp[start, end], dp[start, split] + dp[split + 1, end]);
                     }
 
                     // add all elements together only if there are K elements. 
+                    // this is base case. Otherwise everything will be 0 all the time
+                    // we need to add some value to dp output 
                     if ((end - start) % (K - 1) == 0)
                     {
                         dp[start, end] += prefix[end + 1] - prefix[start];
@@ -75,3 +82,4 @@ namespace _1000_minimum_cost_to_merge_stones_III
         }
     }
 }
+
