@@ -63,6 +63,7 @@ namespace _1000_minimum_cost_to_merge_stones_III
                         dp[start, end] = Math.Min(dp[start, end], dp[start, split] + dp[split + 1, end]);
                     }
 
+                    // add all elements together only if there are K elements. 
                     if ((end - start) % (K - 1) == 0)
                     {
                         dp[start, end] += prefix[end + 1] - prefix[start];

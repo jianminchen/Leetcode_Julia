@@ -38,7 +38,7 @@ namespace _1000_merge_stones___study_code
         
             getPrefixSum(stones, K);
         
-            int result = mergeStonesToPiles(1, length, 1, stones);
+            int result = mergeStonesTopDown(1, length, 1, stones);
         
             return result == int.MaxValue ? -1 : result;
         }
@@ -60,58 +60,62 @@ namespace _1000_merge_stones___study_code
         /// <param name="targetPiles"></param>
         /// <param name="stones"></param>
         /// <returns></returns>
-        public static int mergeStonesToPiles(int start, int end, int targetPiles, int[] stones) 
+        private static int mergeStonesTopDown(int start, int end, int targetPiles, int[] stones) 
         {
+            // base case 1: memoization
             if (memo[start, end, targetPiles] != 0)
             {
                 return memo[start, end, targetPiles];
             }
 
-            var maxValue = int.MaxValue;  // not found
+            var maxValue = int.MaxValue;  
 
+            // base case 2: failure 
             if (end - start + 1 < targetPiles)
             {
                 return maxValue;
             }
 
+            // base case: only one element
             if (start == end)
             {
                 return (targetPiles == 1) ? 0 : maxValue;
             }
         
+            // recurrence: targetPiles == 1 
             if (targetPiles == 1) 
             {
-                int subMinCost = mergeStonesToPiles(start, end, numberK, stones);
+                int minimumCost = mergeStonesTopDown(start, end, numberK, stones);
 
-                if (subMinCost != maxValue)
+                memo[start, end, targetPiles] = minimumCost;
+
+                if (minimumCost != maxValue)
                 {
-                    memo[start, end, targetPiles] = prefixSum[end] - prefixSum[start - 1] + subMinCost;
-                }
-                else
-                {
-                    memo[start, end, targetPiles] = subMinCost;
-                }
+                    memo[start, end, targetPiles] = prefixSum[end] - prefixSum[start - 1] + minimumCost;
+                }               
 
                 return memo[start, end, targetPiles];
             }
 
             int minCost = int.MaxValue; // not found
 
+            // break into two subproblems:
+            // left part is to get into (targetPiles - 1) piles, right part is to get into one pile.
             for (int k = start; k <= end - 1; k++) 
             {
-                int leftCost = mergeStonesToPiles(start, k, targetPiles - 1, stones);
-                if (leftCost == maxValue)
+                int left = mergeStonesTopDown(start, k, targetPiles - 1, stones);
+                if (left == maxValue)
                 {
                     continue;
                 }
 
-                int rightCost = mergeStonesToPiles(k + 1, end, 1, stones);
-                if (rightCost == maxValue)
+                int right = mergeStonesTopDown(k + 1, end, 1, stones);
+                if (right == maxValue)
                 {
                     continue;
                 }
 
-                minCost = Math.Min(leftCost + rightCost, minCost);
+                minCost = Math.Min(left + right, minCost);
             }
         
             memo[start, end, targetPiles] = minCost;
