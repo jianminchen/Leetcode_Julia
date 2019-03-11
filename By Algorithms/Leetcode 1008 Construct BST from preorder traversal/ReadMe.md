@@ -9,6 +9,13 @@ Extra space is not a concern, but time efficient is biggest concern. There are f
 Two solutions, one is 3 minutes, one is 52 minutes. <br> The time I spent is 17 * 3 minutes. <br>
 
 
+**Ideas to improve performance**<br>
+
+One of ideas is to solve the problem using different approaches first, and then compare the difference. <br>
+
+After the contest, I also saw another post to determine the last index of left child, instead of first index of right child. It is also very easy to write and elegant solution. 
+
+
 
 
 
