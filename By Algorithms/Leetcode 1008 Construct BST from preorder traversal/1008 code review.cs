@@ -24,7 +24,7 @@ namespace Leetcode_1008
         /// <summary>
         /// 2019-03-11
         /// I like to review the code written in the contest and then make some improvements
-         
+        /// Try to write simple code. 
         /// </summary>
         /// <param name="preorder"></param>
         /// <returns></returns>
@@ -47,20 +47,13 @@ namespace Leetcode_1008
             if (start >= preorder.Length || start > end)
             {
                 return null;
-            }
+            }            
 
-            var rootValue = preorder[start];
+            var root = new TreeNode(preorder[start]);
 
-            if (start == end)
-            {
-                return new TreeNode(rootValue);
-            }
+            var lastIndex = search(preorder, root.val, start, end);
 
-            var root = new TreeNode(rootValue);
-            var newStart = start + 1;
-            var lastIndex = search(preorder, root.val, start, end);           
-
-            root.left  = preorderTraversal(preorder, newStart,      lastIndex);
+            root.left  = preorderTraversal(preorder, start + 1,     lastIndex);
             root.right = preorderTraversal(preorder, lastIndex + 1, end);
 
             return root;
@@ -76,16 +69,19 @@ namespace Leetcode_1008
         /// <returns></returns>
         private static int search(int[] preorder, int value, int start, int end)
         {
+            var lastIndex = start;
             for (int i = start; i <= end; i++)
             {
                 var current = preorder[i];
-                if (current <= value && (i == end || preorder[i + 1] > value))
+                if (current > value)
                 {
-                    return i;
+                    break;
                 }
+
+                lastIndex = i;
             }
 
-            return start; 
+            return lastIndex;
         }
     }
 }
