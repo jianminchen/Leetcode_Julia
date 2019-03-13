@@ -20,7 +20,7 @@ Highest score is 9, lowest score is 0. <br><br>
 2018-12 {9, 5, 5, 7, 8}<br>
 2019-01 {5, 10, 7, skipped}<br>
 2019-02 {5, skipped, 9, 10}<br>
-2019-03 {8}<br>
+2019-03 {8, 10}<br>
 
 <br>
 **Statistics**<br>
@@ -60,7 +60,7 @@ weekly contest 121, 01/26/2019 Took a break for Chinese new year party<Br>
 [weekly contest 124, 02/16/2019](https://juliachencoding.blogspot.com/2019/02/weekly-contest-124.html) Ranking is 1447/4174, Q1, Q2 passed, score 9, finish time: 0:59:42<br>
 [weekly contest 125, 02/23/2019](http://juliachencoding.blogspot.com/2019/02/weekly-contest-125.html) Ranking is 1847/4288, Q1, Q3 passed, score 10, finish time: 1:21:49<br> 
 [weekly contest 126, 03/02/2019](http://juliachencoding.blogspot.com/2019/03/weekly-contest-126.html) Ranking is 2117/ 4564, Q1, Q2 passed, score 8, finish time: 1:06:27<br>  
- 
+[weekly contest 127, 03/09/2019](http://juliachencoding.blogspot.com/2019/03/weekly-contest-127.html) Ranking is 2068 / 4734, Q1, Q4 passed, score 10, finish time: 2:15:57<br> 
  
  
  
