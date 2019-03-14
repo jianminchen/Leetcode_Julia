@@ -266,7 +266,7 @@ I will keep the statistics update here:<br>
 [1008. Construct a BST using preorder](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/253837/C-using-extra-space-to-avoid-all-possible-bugs) Using extra space to avoid bugs<br>
 [1008. Construct a BST using preorder](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/253854/C-code-written-in-weekly-contest-127) C# code written in weekly contest<br>
 [1008. Construct a BST using preorder](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/253858/C-How-to-write-elegant-solution) How to write an elegant solution><br>
-[1008. Construct a BST using preorder]() Write a linear time complexity solution - optimal time<br>
+[1008. Construct a BST using preorder](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%201008%20Construct%20BST%20from%20preorder%20traversal) Write a linear time complexity solution - optimal time<br>
   
 **Medium level stack algorithms (solved 2, total 18, shared 2)**<br>
 [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/discuss/216748/C-work-on-O(N)-time-complexity-solution) Work on optimal time complexity O(N) solution<br>
