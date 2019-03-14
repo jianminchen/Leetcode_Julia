@@ -263,6 +263,10 @@ I will keep the statistics update here:<br>
 [971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/214317/C-I-finally-made-it-work-with-13-submissions)<br>
 [971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/discuss/216247/C-How-to-push-myself-to-write-an-elegant-solution) How to push myself to write an elegant solution?<br>
 [998. Maximum binary tree II](https://leetcode.com/problems/maximum-binary-tree-ii/discuss/243011/C-recursive-solution)<br>
+[1008. Construct a BST using preorder](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/253837/C-using-extra-space-to-avoid-all-possible-bugs) Using extra space to avoid bugs<br>
+[1008. Construct a BST using preorder](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/253854/C-code-written-in-weekly-contest-127) C# code written in weekly contest<br>
+[1008. Construct a BST using preorder](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/discuss/253858/C-How-to-write-elegant-solution) How to write an elegant solution><br>
+[1008. Construct a BST using preorder]() Write a linear time complexity solution - optimal time<br>
   
 **Medium level stack algorithms (solved 2, total 18, shared 2)**<br>
 [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/discuss/216748/C-work-on-O(N)-time-complexity-solution) Work on optimal time complexity O(N) solution<br>
