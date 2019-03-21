@@ -291,6 +291,7 @@ I will keep the statistics update here:<br>
 [996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation)Learn from a casual coder<br>
 [1000. minimum cost to merge stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/discuss/250633/C-top-down-dynamic-programming-solution) top down dynamic programming - memoization <br>
 [1000. minimum cost to merge stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/discuss/250970/C-dynamic-programming-solution-with-explanations) dynamic programming - bottom up - How to hack one?<br>
+[1015. None repeat digit number count](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259667/C-Study-code-from-ranking-No.-1-in-weekly-contest-128) Study code from ranking No. 1 in weekly contest 128<br>
 **Hard level tree algorithms (solved 5 out 6 unlocked algorithms, shared 1)**<br><br>
 
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node) My practice, using hashset to mark visited<br>
