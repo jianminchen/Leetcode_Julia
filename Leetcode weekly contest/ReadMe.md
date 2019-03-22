@@ -135,7 +135,7 @@ One thing I learned is to find the source code for those players on leaderboard,
 
 I need to push myself to figure out if it is the good way for me to learn a hard level algorithm. I should figure out how those hard level algorithms can be solved in less than 10 minutes by so many players. I need to find out what I miss in my daily training and study.<br>
 
-[Blogs related to weekly contest 128](https://juliachencoding.blogspot.com/search?q=weekly+contest+128)Here are blogs written for weekly contest 128. <br>
+[weekly contest 128](https://juliachencoding.blogspot.com/search?q=weekly+contest+128) My favorite learning experience.<br>
 I am so exciting to reach the stage for me to challenge those hard level algorithms after the contest first. One day I can show up to solve in the contest. <br>
 
 
