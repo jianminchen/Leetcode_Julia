@@ -125,3 +125,17 @@ I took one week break for Chinese new year spring break party in Delta, BC. I ca
 
 **weekly contest 125**<br>  
 
+**Weekly contest 128**<br>
+
+This is the first time I pushed myself to spend time to study top 150 players and I like to learn how to solve the hard level algorithm in the contest from them. <br>
+
+I did not have time to work on hard level algorithms in past 24 contests at all, neither I have time to study hard level algorithm after the contest. In total there are around 20 hard level algorithms for me to work on. I did not have time to learn and figure out a solution at all. <br>
+
+One thing I learned is to find the source code for those players on leaderboard, instead of checking leadboard, I finally figured out those links are available and I should be able to read the code. <br>
+
+I need to push myself to figure out if it is the good way for me to learn a hard level algorithm. I should figure out how those hard level algorithms can be solved in less than 10 minutes by so many players. I need to find out what I miss in my daily training and study.<br>
+
+I am so exciting to reach the stage for me to challenge those hard level algorithms after the contest first. One day I can show up to solve in the contest. <br>
+
+
+
