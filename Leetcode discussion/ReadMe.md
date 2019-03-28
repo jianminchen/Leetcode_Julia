@@ -276,6 +276,7 @@ I will keep the statistics update here:<br>
 
 **Medium level union find algorithm**<br>
 [721. Accounts merge](https://leetcode.com/problems/accounts-merge/discuss/264069/C-Customize-a-union-find-algorithm) Union find algorithm<br>
+<br>
 **Hard level (solved 33, shared 5)**<br><br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/177442/C-practice-makes-perfect)<br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/217272/C-One-more-elegant-solution) One more elegant solution<br>
