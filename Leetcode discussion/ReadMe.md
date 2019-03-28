@@ -274,6 +274,8 @@ I will keep the statistics update here:<br>
 [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/discuss/202627/C-using-stack-to-solve-the-problem)<br>
 [1003. Check if word is valid after substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/discuss/247795/C-using-stack-with-explanation)<br>
 
+**Medium level union find algorithm**<br>
+[721. Accounts merge](https://leetcode.com/problems/accounts-merge/discuss/264069/C-Customize-a-union-find-algorithm) Union find algorithm<br>
 **Hard level (solved 33, shared 5)**<br><br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/177442/C-practice-makes-perfect)<br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/217272/C-One-more-elegant-solution) One more elegant solution<br>
