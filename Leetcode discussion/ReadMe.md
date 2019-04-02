@@ -79,6 +79,7 @@ I will keep the statistics update here:<br>
 [976 Largest perimeter triangle](https://leetcode.com/problems/largest-perimeter-triangle/discuss/218043/C-kind-of-greedy-algorithm) kind of greedy<br>
 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/222041/C-Get-absolution-value-first-and-then-sort-the-array) Solution written in contest 120<br>
 [997. Find town judge](https://leetcode.com/problems/find-the-town-judge/discuss/243015/C-using-fixed-size-of-the-array-to-help-tracking-all-town-judge-candidates)<br>
+[1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/discuss/265636/C-divisible-by-5-is-determined-by-right-most-digit-only) solution written in contest 130<br>
 
 **Math easy level algorithms (solved 27/ 32, shared 12)**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
@@ -227,6 +228,7 @@ I will keep the statistics update here:<br>
 [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/discuss/214256/C-find-maximum-one-in-the-array-and-then-flip-it-to-the-first-one-and-then-flip-to-last-one)<br>
 [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/218049/C-calculate-prefix-sum-and-save-it-using-residue-of-module-K-as-key)<br>
 [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/discuss/223315/C-readable-code) solution written in contest<br>
+[1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/discuss/265620/C-Run-breadth-first-search-from-all-numbers-1-on-border-of-matrix) written in contest 130<br>
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
@@ -273,6 +275,7 @@ I will keep the statistics update here:<br>
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/discuss/202624/C-using-stack-to-solve-the-algorithm)<br>
 [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/discuss/202627/C-using-stack-to-solve-the-problem)<br>
 [1003. Check if word is valid after substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/discuss/247795/C-using-stack-with-explanation)<br>
+[1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/discuss/265629/C-Use-stack-and-keep-numbers-in-stack-non-increasing-order) written in weekly contest 130<br>
 
 **Medium level union find algorithm**<br>
 [721. Accounts merge](https://leetcode.com/problems/accounts-merge/discuss/264069/C-Customize-a-union-find-algorithm) Union find algorithm<br>
