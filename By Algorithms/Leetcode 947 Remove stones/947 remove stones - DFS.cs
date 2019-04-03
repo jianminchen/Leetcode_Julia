@@ -81,7 +81,7 @@ namespace _947_remove_stones___DFS
                         graph[j][row] = true;
                     }
                 }
-                }
+            }
 
             int result = 0;
             for (int row = 0; row < Rows; row++)
