@@ -22,7 +22,7 @@ namespace _947_remove_stones___union_join
             var result = RemoveStones(stones);
         }
         
-        public static int[] Size = new int[1005];
+        public static int[] Size   = new int[1005];
         public static int[] Parent = new int[1005];
 
         /// <summary>
@@ -85,18 +85,20 @@ namespace _947_remove_stones___union_join
                 return;
             }
 
-            var id2IsParent = Size[id1] <= Size[id2];
+            if (Size[id1] < Size[id2])
+            {
+                swap(ref id1, ref id2);
+            };            
+            
+            Parent[id2] = id1;
+            Size[id1] += Size[id2];           
+        }
 
-            if (id2IsParent)
-            {
-                Parent[id1] = id2;
-                Size[id2] += Size[id1];
-            }
-            else
-            {
-                Parent[id2] = id1;
-                Size[id1] += Size[id2];
-            }
+        public static void swap(ref int x, ref int y)
+        {
+            var tmp = x;
+            x = y;
+            y = tmp; 
         }
 
         /// <summary>
