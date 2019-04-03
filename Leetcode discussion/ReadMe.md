@@ -222,6 +222,9 @@ I will keep the statistics update here:<br>
 [944. Delete columns to make sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/discuss/194943/C-I-learned-the-lesson-not-to-play-online-judge-in-the-contest)<br>
 [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/discuss/197791/C-hard-than-I-thought-in-the-contest)<br>
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/discuss/197797/C-my-tip-is-to-identify-minimum-use-cases)<br>
+[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267666/C-Use-tree-structure-to-implement-a-disjoint-set) Partial of union find algorithm<br>
+[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267677/C-apply-depth-first-search-in-a-graph) Apply depth first search in a graph<br>  
+[947. Most Stones Removed with Same Row or Column]() Practice 3<br>  
 [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/discuss/197803/C-the-greedy-algorithm-is-so-challenging)<br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes)<br>
 [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/discuss/211222/C-depth-first-search)<br>
@@ -229,6 +232,7 @@ I will keep the statistics update here:<br>
 [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/218049/C-calculate-prefix-sum-and-save-it-using-residue-of-module-K-as-key)<br>
 [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/discuss/223315/C-readable-code) solution written in contest<br>
 [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/discuss/265620/C-Run-breadth-first-search-from-all-numbers-1-on-border-of-matrix) written in contest 130<br>
+
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
