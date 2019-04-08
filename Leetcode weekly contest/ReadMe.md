@@ -7,9 +7,9 @@ Global ranking of contest 13904, 25 contests played<br>
 Highest ranking in the contest 393, lowest one is 1860. <br>
 Highest score is 9, lowest score is 0. <br><br>
 **All scores ...**<br>
-0, 3, 3, 4, 4, 4, 5, 5, 5, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 10, 10, 11, 11<br><br>
+0, 3, 3, 4, 4, 4, 5, 5, 5, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 10, 10, 11, 11, 16<br><br>
 **Scores order by time from 2017 to 2019**<br>
-3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7, 9, 10, 8, 6<br><br>
+3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7, 9, 10, 8, 6, 9, 9, 16<br><br>
 
 **Scores By month**<br>
 2017-04 {3, 9}<br>
@@ -20,7 +20,8 @@ Highest score is 9, lowest score is 0. <br><br>
 2018-12 {9, 5, 5, 7, 8}<br>
 2019-01 {5, 10, 7, skipped}<br>
 2019-02 {5, skipped, 9, 10}<br>
-2019-03 {8, 10, 6}<br>
+2019-03 {8, 10, 6, 9, 9}<br>
+2019-04 {16}
 
 <br>
 **Statistics**<br>
@@ -62,6 +63,9 @@ weekly contest 121, 01/26/2019 Took a break for Chinese new year party<Br>
 [weekly contest 126, 03/02/2019](http://juliachencoding.blogspot.com/2019/03/weekly-contest-126.html) Ranking is 2117/ 4564, Q1, Q2 passed, score 8, finish time: 1:06:27<br>  
 [weekly contest 127, 03/09/2019](http://juliachencoding.blogspot.com/2019/03/weekly-contest-127.html) Ranking is 2068 / 4734, Q1, Q4 passed, score 10, finish time: 2:15:57<br> 
 [weekly contest 128, 03/19/2019](http://juliachencoding.blogspot.com/2019/03/weekly-contest-128.html) Ranking is 1827/ 5165, Q1, Q2 solved, score 6, finish time: 0:41:39<br> 
+[weekly contest 129, 03/23/2019](http://juliachencoding.blogspot.com/2019/03/weekly-contest-129.html) Ranking is 1036/4456, Q1, Q3 solved, score 9, finish time: 1:08:40<br>
+[weekly contest 130, 03/30/2019](http://juliachencoding.blogspot.com/2019/03/weekly-contest-130.html) Ranking is 1925/5277, Q1, Q3 solved, score 9, finish time: 1:25:48<br>
+[weekly contest 131, 04/06/2019](http://juliachencoding.blogspot.com/2019/04/weekly-contest-131.html) Ranking is 1680/4894, Q1, Q2, Q3 solved, score 16, finish time: 1:20:55 * 9<br>
  
  
 <br>
