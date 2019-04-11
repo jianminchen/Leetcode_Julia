@@ -232,7 +232,7 @@ I will keep the statistics update here:<br>
 [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/218049/C-calculate-prefix-sum-and-save-it-using-residue-of-module-K-as-key)<br>
 [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/discuss/223315/C-readable-code) solution written in contest<br>
 [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/discuss/265620/C-Run-breadth-first-search-from-all-numbers-1-on-border-of-matrix) written in contest 130<br>
-
+[1024. Video stitiching](https://leetcode.com/problems/video-stitching/discuss/272976/C-greedy-algorithm-only-one-iteration-on-sorted-array) greedy algorithm on sorted array<br>
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
