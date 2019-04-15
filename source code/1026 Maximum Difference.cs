@@ -19,6 +19,11 @@ namespace _1026_Maximum_Difference
         {
         }
 
+        /// <summary>
+        /// the code was written in weekly contest 132
+        /// </summary>
+        /// <param name="root"></param>
+        /// <returns></returns>
         public int MaxAncestorDiff(TreeNode root)
         {
             var maxDiff = 0;
