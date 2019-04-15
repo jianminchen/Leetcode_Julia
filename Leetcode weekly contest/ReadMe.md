@@ -7,9 +7,9 @@ Global ranking of contest 13904, 25 contests played<br>
 Highest ranking in the contest 393, lowest one is 1860. <br>
 Highest score is 9, lowest score is 0. <br><br>
 **All scores ...**<br>
-0, 3, 3, 4, 4, 4, 5, 5, 5, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 10, 10, 11, 11, 16<br><br>
+0, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 10, 10, 11, 11, 16<br><br>
 **Scores order by time from 2017 to 2019**<br>
-3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7, 9, 10, 8, 6, 9, 9, 16<br><br>
+3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7, 9, 10, 8, 6, 9, 9, 16, 6<br><br>
 
 **Scores By month**<br>
 2017-04 {3, 9}<br>
@@ -21,7 +21,7 @@ Highest score is 9, lowest score is 0. <br><br>
 2019-01 {5, 10, 7, skipped}<br>
 2019-02 {5, skipped, 9, 10}<br>
 2019-03 {8, 10, 6, 9, 9}<br>
-2019-04 {16}
+2019-04 {16, 6}<br>
 
 <br>
 **Statistics**<br>
@@ -66,7 +66,7 @@ weekly contest 121, 01/26/2019 Took a break for Chinese new year party<Br>
 [weekly contest 129, 03/23/2019](http://juliachencoding.blogspot.com/2019/03/weekly-contest-129.html) Ranking is 1036/4456, Q1, Q3 solved, score 9, finish time: 1:08:40<br>
 [weekly contest 130, 03/30/2019](http://juliachencoding.blogspot.com/2019/03/weekly-contest-130.html) Ranking is 1925/5277, Q1, Q3 solved, score 9, finish time: 1:25:48<br>
 [weekly contest 131, 04/06/2019](http://juliachencoding.blogspot.com/2019/04/weekly-contest-131.html) Ranking is 1680/4894, Q1, Q2, Q3 solved, score 16, finish time: 1:20:55 * 9<br>
- 
+[weekly contest 132, 04/13/2019](http://juliachencoding.blogspot.com/2019/04/weekly-contest-132.html) Ranking is 2098/4765, Q2(6) 0:21:05, score 6, finish time: 0:21:05<br>
  
 <br>
 **weekly contest 107**<br>
@@ -142,5 +142,9 @@ I need to push myself to figure out if it is the good way for me to learn a hard
 [weekly contest 128](https://juliachencoding.blogspot.com/search?q=weekly+contest+128) My favorite learning experience.<br>
 I am so exciting to reach the stage for me to challenge those hard level algorithms after the contest first. One day I can show up to solve in the contest. <br>
 
+**Weekly contest 132**<br>
+I only solved one tree algorithm. I could not solve the first easy level tree algorithm using dynamic programming. I ran out of time, and the bug in the code is easy to tell. <br>
+What I like to do is to work hard on algorithm practice. I have to push myself to work on algorithm problem solving daily, so that I will get used to those basic algorithm again. <br>
 
+I have to get back to work on more graph algorithm, dynamic programming algorithm. <br>
 
