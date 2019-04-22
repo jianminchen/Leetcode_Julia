@@ -205,6 +205,8 @@ I will keep the statistics update here:<br>
 [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/223863/C-dynamic-programming) dynamic programming<br> 
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
 [130. Surrounded Regions](https://gist.github.com/jianminchen/ff3384e4f572095416130702bb1e25e0) Will share later<br>
+[402. Remove K digits](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack) optimal solution using stack<br>
+[402. Remove K digits](https://leetcode.com/problems/remove-k-digits/discuss/279637/C-brute-force-solution-time-consuming-and-struggling) brute force solution<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
 [915. Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/175949/C-two-iterations-of-the-array-O(N)-solution) use three iterations<br>
