@@ -235,6 +235,8 @@ I will keep the statistics update here:<br>
 [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/discuss/223315/C-readable-code) solution written in contest<br>
 [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/discuss/265620/C-Run-breadth-first-search-from-all-numbers-1-on-border-of-matrix) written in contest 130<br>
 [1024. Video stitiching](https://leetcode.com/problems/video-stitching/discuss/272976/C-greedy-algorithm-only-one-iteration-on-sorted-array) greedy algorithm on sorted array<br>
+[1031. Maximum Sum of Two Non-Overlapping Subarrays](http://juliachencoding.blogspot.com/2019/04/1031-maximum-sum-of-two-non-overlapping.html) painful experience documented in my own blog first<br>  
+  
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
@@ -296,6 +298,7 @@ I will keep the statistics update here:<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75027/Easy-Short-Concise-and-Fast-Java-DFS-3-ms-solution/78052) 1 upvotes!<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75034/Easiest-9ms-Java-Solution/78192) 3 upvotes<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
+[LeetCode 675. Cut Off Trees for Golf Event](http://juliachencoding.blogspot.com/2019/04/leetcode-675-cut-off-trees-for-golf.html) code written in one hour mock interview passed first half test cases<br>
 [927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest) Take me more than one hour (1 upvote Nov. 2, 2018)<br>
 <br>
 [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/discuss/223861/C-backtracking-algorithm) backtracking algorithm<br>
