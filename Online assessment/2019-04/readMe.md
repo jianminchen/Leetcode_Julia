@@ -56,3 +56,14 @@ Here are the algorithms I worked on:<br>
 895. Maximum Frequency Stack<br>
 
 I also saved all those random set with algorithms. <br>
+[229. Majority Element II](http://juliachencoding.blogspot.com/2019/04/229-majority-element-ii.html)<br>
+[402. Remove K Digits - brute force solution](https://leetcode.com/problems/remove-k-digits/discuss/279637/C-brute-force-solution-time-consuming-and-struggling) one sharing on Leetcode.com<br>
+[402. Remove K Digits - using stack](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack)<br>
+[1031. Maximum Sum of Two Non-Overlapping Subarrays](http://juliachencoding.blogspot.com/2019/04/1031-maximum-sum-of-two-non-overlapping.html)<br>
+[LeetCode 675. Cut Off Trees for Golf Event](http://juliachencoding.blogspot.com/2019/04/leetcode-675-cut-off-trees-for-golf.html)<br>
+
+[Leetcode 402: remove K digits - Using stack](http://juliachencoding.blogspot.com/2019/04/leetcode-402-remove-k-digits-using-stack_19.html) document my practice using my own blog<br>
+[Leetcode 75: Sort Colors](http://juliachencoding.blogspot.com/2019/04/leetcode-75-sort-color.html)<br>
+[Leetcode 402: remove K digits - Brute force solution](http://juliachencoding.blogspot.com/2019/04/leetcode-402-remove-k-digits.html)<br>
+
+Online assessment preparation is like a party, play with so many random set algorithms on Leetcode.com. 
