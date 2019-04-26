@@ -66,4 +66,4 @@ I also saved all those random set with algorithms. <br>
 [Leetcode 75: Sort Colors](http://juliachencoding.blogspot.com/2019/04/leetcode-75-sort-color.html)<br>
 [Leetcode 402: remove K digits - Brute force solution](http://juliachencoding.blogspot.com/2019/04/leetcode-402-remove-k-digits.html)<br>
 
-Online assessment preparation is like a party, play with so many random set algorithms on Leetcode.com. 
+Online assessment preparation is like a party, play with so many random set algorithms on Leetcode.com. The most important is to stay organized, no rush, and work on each algorithm and think about optimal solution. I also documented my suffering, painful experience since debugging. My weakness is in stack thinking, voting algorithm optimal solution, and also coding skills to write a few loops. <br>
