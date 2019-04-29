@@ -7,9 +7,9 @@ Global ranking of contest 13904, 25 contests played<br>
 Highest ranking in the contest 393, lowest one is 1860. <br>
 Highest score is 9, lowest score is 0. <br><br>
 **All scores ...**<br>
-0, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 10, 10, 11, 11, 16<br><br>
+0, 0, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 11, 11, 16<br><br>
 **Scores order by time from 2017 to 2019**<br>
-3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7, 9, 10, 8, 6, 9, 9, 16, 6<br><br>
+3, 9, 9, 0, 7, 3, 11, 4, 7, 4, 9, 4, 8, 8, 11, 9, 5, 5, 7, 8, 5, 10, 7, 9, 10, 8, 6, 9, 9, 16, 6, 0, 9<br><br>
 
 **Scores By month**<br>
 2017-04 {3, 9}<br>
@@ -21,7 +21,7 @@ Highest score is 9, lowest score is 0. <br><br>
 2019-01 {5, 10, 7, skipped}<br>
 2019-02 {5, skipped, 9, 10}<br>
 2019-03 {8, 10, 6, 9, 9}<br>
-2019-04 {16, 6}<br>
+2019-04 {16, 6, 0, 9}<br>
 
 <br>
 **Statistics**<br>
@@ -148,3 +148,9 @@ What I like to do is to work hard on algorithm practice. I have to push myself t
 
 I have to get back to work on more graph algorithm, dynamic programming algorithm. <br>
 
+**weekly contest 133**<br>
+I was interrupted in the contest. I chatted with my friend about housing renting issues. I could not concentrate and was disrupted more than five times. I did not solve any algorithm. <br>
+
+**weekly contest 134**<br>
+
+I solved the first two algorithms. [Here](http://juliachencoding.blogspot.com/2019/04/weekly-contest-114.html) is the blog I wrote after the contest. 
