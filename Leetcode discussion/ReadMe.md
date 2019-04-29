@@ -80,6 +80,7 @@ I will keep the statistics update here:<br>
 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/222041/C-Get-absolution-value-first-and-then-sort-the-array) Solution written in contest 120<br>
 [997. Find town judge](https://leetcode.com/problems/find-the-town-judge/discuss/243015/C-using-fixed-size-of-the-array-to-help-tracking-all-town-judge-candidates)<br>
 [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/discuss/265636/C-divisible-by-5-is-determined-by-right-most-digit-only) solution written in contest 130<br>
+[1033. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/discuss/282955/C-it-is-hard-to-understand-the-problem) took me 40 minutes to solve in the weekly contest<br>
 
 **Math easy level algorithms (solved 27/ 32, shared 12)**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
@@ -237,7 +238,8 @@ I will keep the statistics update here:<br>
 [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/discuss/265620/C-Run-breadth-first-search-from-all-numbers-1-on-border-of-matrix) written in contest 130<br>
 [1024. Video stitiching](https://leetcode.com/problems/video-stitching/discuss/272976/C-greedy-algorithm-only-one-iteration-on-sorted-array) greedy algorithm on sorted array<br>
 [1031. Maximum Sum of Two Non-Overlapping Subarrays](http://juliachencoding.blogspot.com/2019/04/1031-maximum-sum-of-two-non-overlapping.html) painful experience documented in my own blog first<br>  
-  
+[1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/discuss/282950/C-using-two-negative-values-to-mark-visited-1-for-the-mark-to-change-color) using DFS, mark visited and color change<br>
+[1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/282915/c-dynamic-programming-solution-readable-code) dynamic programming solution using List<int><br>
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
