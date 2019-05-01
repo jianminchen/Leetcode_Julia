@@ -306,7 +306,7 @@ I will keep the statistics update here:<br>
 <br>
 [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/discuss/223861/C-backtracking-algorithm) backtracking algorithm<br>
 [996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/244279/C-backtracking-and-depth-first-search)<br>
-[996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation)Learn from a casual coder<br>
+[996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation)Learn from a casual coder, 3 upvotes(May 1, 2019)<br>
 [1000. minimum cost to merge stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/discuss/250633/C-top-down-dynamic-programming-solution) top down dynamic programming - memoization <br>
 [1000. minimum cost to merge stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/discuss/250970/C-dynamic-programming-solution-with-explanations) dynamic programming - bottom up - How to hack one?<br>
 [1015. None repeat digit number count](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259667/C-Study-code-from-ranking-No.-1-in-weekly-contest-128) Study code from ranking No. 1 in weekly contest 128<br>
