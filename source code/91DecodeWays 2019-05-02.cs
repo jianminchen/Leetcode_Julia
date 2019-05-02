@@ -15,6 +15,12 @@ namespace _91_decode_ways
         /// <summary>
         /// 5/2/2019 code review 
         /// 91 Decode ways
+        /// I came cross three bugs and I had to use debugger to help me to figure out
+        /// 1. mix char with integer, s[i] - '0' is to convert to integer
+        /// 2. all results are zero, forget to increment one for the start
+        /// 3. apply step 1 for all instances, miss a few place
+        /// 4. missing edge case, tenth digit should exclude 0, 3 to 9. 0 is not considered by mistake. 
+        /// 5. missing edge case, 00 is not valid 
         /// </summary>
         /// <param name="s"></param>
         /// <returns></returns>
