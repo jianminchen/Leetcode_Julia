@@ -205,6 +205,8 @@ I will keep the statistics update here:<br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
 [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/223863/C-dynamic-programming) dynamic programming<br> 
 [Leetcode 75: Sort Colors](https://leetcode.com/problems/sort-colors/discuss/278391/C-Work-on-test-case-2-0-1-2-and-then-figure-out-the-idea) the optimal time complexity solution<br>
+[91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/285427/C-dynamic-programming-written-in-2018) Code written in 2018<br>
+[91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/285424/C-dynamic-programming-one-more-practice) Code written in 2019<br>
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
 [130. Surrounded Regions](https://gist.github.com/jianminchen/ff3384e4f572095416130702bb1e25e0) Will share later<br>
 [402. Remove K digits](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack) optimal solution using stack<br>
