@@ -260,7 +260,9 @@ I will keep the statistics update here:<br>
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/discuss/195820/C-level-by-level-using-queue-to-traverse-the-tree)<br>
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree)(1 upvote on Dec. 18, 2018)<br>
 [230. Kth Smallest Element in a BST]()<br>
-[236. Lowest Common Ancestor of a Binary Tree]()<br>
+[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288289/C-time-out-need-help-using-string-preorder-traversal) time out using string, need help<br>
+[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288284/C-time-out-need-help-using-List-preorder-traversal) time out using list, need help<br>
+[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288320/C-Work-on-the-algorithm-in-mock-interview) optimal solution bottom up with reasoning<br>
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/177741/C-seek-the-idea-to-improve-my-practice)<br>
 [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/discuss/201567/C-using-level-order-traversal)<br>
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/discuss/191303/C-subproblem-is-to-find-left-subtree's-maximum-in-BST)<br>
