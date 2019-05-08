@@ -21,6 +21,20 @@ namespace lowest_common_ancestor
 
         public static StringBuilder rootToP, rootToQ;
 
+        /// <summary>
+        /// Code written in May 6, 2019
+        /// Leetcode 236 lowest common ancestor in binary tree
+        /// I like to propose the idea to search the tree using preorder traversal, given two nodes p and q, 
+        /// the path to p and q will be recorded in a string. 
+        /// By comparing two paths both starting from root node, the lowest common ancestor can be found. 
+        /// 
+        /// Problem:
+        /// Time out in one of test cases. 
+        /// </summary>
+        /// <param name="root"></param>
+        /// <param name="p"></param>
+        /// <param name="q"></param>
+        /// <returns></returns>
         public TreeNode LowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q)
         {
             if (root == null || p == null || q == null)

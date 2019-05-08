@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lowest_common_ancestor_235_timeout
+namespace lowest_common_ancestor_236_timeout
 {
     public class TreeNode
     {
@@ -22,6 +22,18 @@ namespace lowest_common_ancestor_235_timeout
 
         public static List<TreeNode> rootToP, rootToQ;
 
+        /// <summary>
+        /// Leetcode 236 lowest common ancestor in binary tree
+        /// - in general case, I like to propose the idea to find both nodes in the tree first, 
+        /// and also the path infomration will be recorded. 
+        /// 
+        /// Problem found: 
+        /// Time out in one of test cases
+        /// </summary>
+        /// <param name="root"></param>
+        /// <param name="p"></param>
+        /// <param name="q"></param>
+        /// <returns></returns>
         public TreeNode LowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q)
         {
             if (root == null || p == null || q == null)
