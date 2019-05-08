@@ -81,6 +81,7 @@ I will keep the statistics update here:<br>
 [997. Find town judge](https://leetcode.com/problems/find-the-town-judge/discuss/243015/C-using-fixed-size-of-the-array-to-help-tracking-all-town-judge-candidates)<br>
 [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/discuss/265636/C-divisible-by-5-is-determined-by-right-most-digit-only) solution written in contest 130<br>
 [1033. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/discuss/282955/C-it-is-hard-to-understand-the-problem) took me 40 minutes to solve in the weekly contest<br>
+[1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/discuss/288663/C-It-took-me-34-minutes-three-submissions-in-weekly-contest) 34 minutes for an easy algorithm<br>
 
 **Math easy level algorithms (solved 27/ 32, shared 12)**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
