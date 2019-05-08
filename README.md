@@ -43,3 +43,5 @@ I like to write down my feeling and also encourage myself to adapt to medium lev
 Dec. 3, 2018
 
 I solve 325 algorithm. I plan to solve 4 medium level tree algorithms, 3 hard level tree algorithms, and solve as many stack medium level algorithms as possible before Dec. 9, 2018. There are 18 medium level stack algorithms. I need to take one code screen before Dec. 9, 2018, and I like to push myself hard to learn through the practice. 
+
+I failed to pass Indeed.com Japan code screen. The code challenges are really tough. It looks like hackerrank platform. 
