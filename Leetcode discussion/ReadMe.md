@@ -326,9 +326,7 @@ I will keep the statistics update here:<br>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/219630/C-Road-to-master-this-tree-algorithm) idea I learned from Taras comment from a casual coder blog<br>
 []()<br>
 []()<br>
-[]()<br>
-[]()<br>
-[]()<br>
+
 
 **My favorite algorithms**<br>
 **Union Find algorithm**<br>
