@@ -33,12 +33,3 @@ Leetcode 54 Spiral Matrix
 Leetcode 1024 video stitching
 Leetcode 1022 Sum of Root To Leaf Binary Numbers
 Leetcode 1021. Remove Outermost Parentheses
-Leetcode
-Leetcode
-Leetcode
-Leetcode
-Leetcode
-Leetcode
-
-
-
