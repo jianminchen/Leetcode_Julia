@@ -331,8 +331,8 @@ I will keep the statistics update here:<br>
 **My favorite algorithms**<br>
 **Union Find algorithm**<br>
 [947 remove stone](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign/tree/master/union%20join%20algorithm/Leetcode%20947%20Remove%20stones) I spent one week in 2019 March on this union find algorithm. Here are the folder to contain my code study.<br>
-[947 remove stone](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267666/C-Use-partial-of-union-find-algorithm-to-solve-the-problem)C# Use partial of union find algorithm to solve the problem<br>
-[947 remove stone](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267677/C-apply-depth-first-search-in-a-graph)C# apply depth first search in a graph<br>
+[947 remove stone](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267666/C-Use-partial-of-union-find-algorithm-to-solve-the-problem) C# Use partial of union find algorithm to solve the problem<br>
+[947 remove stone](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267677/C-apply-depth-first-search-in-a-graph) C# apply depth first search in a graph<br>
 I will spend time to share those solutions on Leetcode.com one by one. <br>
 Please wait. 
 
