@@ -265,6 +265,7 @@ I will keep the statistics update here:<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288289/C-time-out-need-help-using-string-preorder-traversal) time out using string, need help<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288284/C-time-out-need-help-using-List-preorder-traversal) time out using list, need help<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288320/C-Work-on-the-algorithm-in-mock-interview) optimal solution bottom up with reasoning<br>
+[236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/290650/C-various-topics-covered-through-2019-practice) various topics covered through 2019 practice<br>
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/discuss/177741/C-seek-the-idea-to-improve-my-practice)<br>
 [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/discuss/201567/C-using-level-order-traversal)<br>
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/discuss/191303/C-subproblem-is-to-find-left-subtree's-maximum-in-BST)<br>
