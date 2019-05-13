@@ -306,6 +306,7 @@ I will keep the statistics update here:<br>
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/discuss/177463/C-hard-level-algorithm-tough-learning-experience)<br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue) optimal solution using LinkedList<br>
 [239. Sliding Window Maximum](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20239%20Sliding%20window%20maximum) All submissions, SortedSet, timeout<br>
+[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/291891/C-Level-order-traversal-serialize-and-level-order-deserialize) First practice in December, 2018<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75027/Easy-Short-Concise-and-Fast-Java-DFS-3-ms-solution/78052) 1 upvotes!<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75034/Easiest-9ms-Java-Solution/78192) 3 upvotes<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
