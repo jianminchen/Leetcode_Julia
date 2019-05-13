@@ -105,6 +105,9 @@ namespace lowest_common_ancestor_236_timeout
         /// 0 - return false
         /// 1 - true - find p
         /// 2 - true - find q
+        /// Training purposes:
+        /// 1. understand backtracking
+        /// 2. build good habit to use back track for a few benefits
         /// </summary>
         /// <param name="root"></param>
         /// <param name="current"></param>
@@ -134,7 +137,7 @@ namespace lowest_common_ancestor_236_timeout
                 findQ = true;
             }
 
-            traversalPreorder(root.left, p, q, prefixP, prefixQ);
+            traversalPreorder(root.left,  p, q, prefixP, prefixQ);
             traversalPreorder(root.right, p, q, prefixP, prefixQ);
 
             if (!findP)
