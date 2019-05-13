@@ -11,7 +11,13 @@ namespace _1042_flower_plant_with_no_adjacent
         static void Main(string[] args)
         {
         }
-
+        /// <summary>
+        /// code review on May 13, 2019
+        /// code is written on weekly contest 136
+        /// </summary>
+        /// <param name="N"></param>
+        /// <param name="paths"></param>
+        /// <returns></returns>
         public int[] GardenNoAdj(int N, int[][] paths)
         {
             var onePathSet = new HashSet<int>();
