@@ -214,6 +214,7 @@ I will keep the statistics update here:<br>
 [402. Remove K digits](https://leetcode.com/problems/remove-k-digits/discuss/279637/C-brute-force-solution-time-consuming-and-struggling) brute force solution<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
+[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/discuss/296630/C-depth-first-search-with-explanation) Run depth first search to visit all nodes and edges in the graph<br>
 [915. Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/175949/C-two-iterations-of-the-array-O(N)-solution) use three iterations<br>
 [915. Partition Array into Disjoint Intervals](http://www.leetcode.com/problems/partition-array-into-disjoint-intervals/discuss/175945/Java-one-pass-7-lines/181376) one pass idea discuss<br>
 [916. Word Subsets](https://leetcode.com/problems/word-subsets/discuss/175937/C-using-counting-sort) using counting sort<br>
