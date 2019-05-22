@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _785_is_graph_bipartite
+namespace _785_is_graph_bipartite_DFS_2
 {
     class Program
     {
@@ -13,71 +13,65 @@ namespace _785_is_graph_bipartite
         }
 
         /// <summary>
-        /// code study
-        /// https://leetcode.com/problems/is-graph-bipartite/discuss/176266/Clean-and-easy-unionfind-in-JAVA
+        /// Code review: May 21, 2019
+        /// use depth first search to visit all nodes in the graph. 
+        /// The graph is provided with adjacent list. 
         /// </summary>
         /// <param name="graph"></param>
         /// <returns></returns>
-        public bool IsBipartite(int[][] graph)
+        public static bool IsBipartite(int[][] graph)
         {
-            var length = graph.Length;
+            if (graph == null || graph.Length == 0)
+                return false;
 
-            var unionFind = new UnionFind(length);
+            var nodes = graph.Length;
+            var colors = new int[nodes]; // 0 - not set, 1 - color one, 2 - second color
 
-            // traverse all vertex
-            for (int i = 0; i < graph.Length; i++)
-            {
-                int[] adjs = graph[i];
-
-                // for a given vertex graph[i], if it's connected with its any adj vertex, it's not bipartite
-                for (int j = 0; j < adjs.Length; j++)
+            /// graph may not be connected 
+            for (int i = 0; i < nodes; i++)
+            {   
+                // node is unvisited node
+                if (colors[i] == 0)
                 {
-                    if (unionFind.find(i) == unionFind.find(adjs[j]))
+                    // choose color 1 for node i - true/ 1, false/ 2
+                    if (runDFS(i, graph, true, colors) == false)
                     {
                         return false;
                     }
-
-                    unionFind.union(adjs[0], adjs[j]);
                 }
             }
+
             return true;
         }
 
-        internal class UnionFind
+        /// <summary>
+        /// color - true - 1, false - 2
+        /// </summary>
+        /// <param name="node"></param>
+        /// <param name="graph"></param>
+        /// <param name="color"></param>
+        /// <param name="colors"></param>
+        /// <returns></returns>
+        private static bool runDFS(int node, int[][] graph, bool color, int[] colors)
         {
-            int[] parent;
+            // if node is visited already, check it's color compatible or not
+            var visited = colors[node] != 0;
 
-            public UnionFind(int n)
+            if (visited)
+            {   
+                return (color && colors[node] == 1) || (!color && colors[node] == 2);
+            }
+            
+            // visit the node, set the color, and then visit neighbors
+            colors[node] = color == true ? 1 : 2;            
+
+            foreach (var neighbor in graph[node])
             {
-                parent = new int[n];
-                for (int i = 0; i < n; i++)
-                {
-                    parent[i] = i;
-                }
+                if (runDFS(neighbor, graph, !color, colors) == false)
+                    return false;
             }
 
-            public int find(int i)
-            {
-                if (parent[i] == i)
-                {
-                    return parent[i];
-                }
-
-                parent[i] = find(parent[i]);
-
-                return parent[i];
-            }
-
-            public void union(int i, int j)
-            {
-                int parentI = find(i);
-                int parentJ = find(j);
-
-                if (parentI != parentJ)
-                {
-                    parent[parentI] = parentJ;
-                }
-            }
+            return true;
         }
     }
 }

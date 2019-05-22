@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _785_is_graph_bipartite_DFS
+namespace _785_is_graph_bipartite_DFS_2
 {
     class Program
     {
@@ -29,20 +29,19 @@ namespace _785_is_graph_bipartite_DFS
 
             /// graph may not be connected 
             for (int i = 0; i < nodes; i++)
-            {      
-                bool color = false;
-                if (colors[i] == 0 || colors[i] == 1)
+            {   
+                // node is unvisited node
+                if (colors[i] == 0)
                 {
-                    color = true; 
-                }                
-
-                if ( runDFS(i, graph, color, colors) == false)
-                {
-                    return false; 
+                    // choose color 1 for node i - true/ 1, false/ 2
+                    if (runDFS(i, graph, true, colors) == false)
+                    {
+                        return false;
+                    }
                 }
             }
 
-            return true; 
+            return true;
         }
 
         /// <summary>
@@ -55,25 +54,24 @@ namespace _785_is_graph_bipartite_DFS
         /// <returns></returns>
         private static bool runDFS(int node, int[][] graph, bool color, int[] colors)
         {
-            // node has color    && (( color should be 1 && color is 2) || (color should be 2 && color is 1)
-            if(colors[node] != 0 && ((color && colors[node] == 2) || (!color && colors[node] == 1)))
-                return false;
+            // if node is visited already, check it's color compatible or not
+            var visited = colors[node] != 0;
 
-            if(colors[node] != 0 )
-                return true; // prevent deadloop 
-                
-            if(colors[node] == 0)
-            {
-                colors[node] = color == true? 1 : 2; 
+            if (visited)
+            {   
+                return (color && colors[node] == 1) || (!color && colors[node] == 2);
             }
             
+            // visit the node, set the color, and then visit neighbors
+            colors[node] = color == true ? 1 : 2;            
+
             foreach (var neighbor in graph[node])
-            {               
+            {
                 if (runDFS(neighbor, graph, !color, colors) == false)
                     return false;
             }
 
-            return true; 
+            return true;
         }
     }
 }
