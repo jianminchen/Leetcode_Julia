@@ -210,6 +210,7 @@ I will keep the statistics update here:<br>
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/285424/C-dynamic-programming-one-more-practice) Code written in 2019<br>
 [109. Convert sorted list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br>
 [130. Surrounded Regions](https://gist.github.com/jianminchen/ff3384e4f572095416130702bb1e25e0) Will share later<br>
+[241 Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/discuss/300481/C-brute-force-solution-with-memoization-practice-in-2019) practice in 2019 May - a Google interview algorithm<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/298514/C-apply-depth-first-search-and-also-backtracking-technique) learn from C# code written in 2017<br>
 [402. Remove K digits](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack) optimal solution using stack<br>
 [402. Remove K digits](https://leetcode.com/problems/remove-k-digits/discuss/279637/C-brute-force-solution-time-consuming-and-struggling) brute force solution<br>
