@@ -40,8 +40,16 @@ I like to write down my feeling and also encourage myself to adapt to medium lev
 
 [Life is tough to work with medium level algorithms](https://juliachencoding.blogspot.com/2018/11/life-is-tough-to-work-with-18-medium.html)<br>
 
-Dec. 3, 2018
+**Dec. 3, 2018** <br>
 
 I solve 325 algorithm. I plan to solve 4 medium level tree algorithms, 3 hard level tree algorithms, and solve as many stack medium level algorithms as possible before Dec. 9, 2018. There are 18 medium level stack algorithms. I need to take one code screen before Dec. 9, 2018, and I like to push myself hard to learn through the practice. 
 
-I failed to pass Indeed.com Japan code screen. The code challenges are really tough. It looks like hackerrank platform. 
+I failed to pass Indeed.com Japan code screen. The code challenges are really tough. It looks like hackerrank platform. <br>
+
+**May 27, 2019**<br>
+It is also very important for me to practice very often for all classical algorithms. I like to write a page to list all discussion posts I share by timeline. <br>
+
+I can go over my practice and see what are missing in my practice last week or last month. 
+
+
+
