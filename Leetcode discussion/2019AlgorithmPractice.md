@@ -9,6 +9,6 @@ I can easily find out what algorithms I solve be looking up my github page and s
 
 **2019 - May** <br>
 May 27 <br>
-241 Different Ways To Add Parentheses practice in 2019 May - a Google interview algorithm<br>
+[241 Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/discuss/300481/C-brute-force-solution-with-memoization-practice-in-2019) practice in 2019 May - a Google interview algorithm<br>
 
 
