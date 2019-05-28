@@ -13,7 +13,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 4/23<br>
 [957. Prison Cells After N Days]()<br>
 4/22<br>
-[75. Sort Colors](https://leetcode.com/problems/sort-colors/discuss/278391/C-Work-on-test-case-2-0-1-2-and-then-figure-out-the-idea)C# Work on test case [2, 0, 1, 2] and then figure out the idea<br>
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/discuss/278391/C-Work-on-test-case-2-0-1-2-and-then-figure-out-the-idea) C# Work on test case [2, 0, 1, 2] and then figure out the idea<br>
 [1031. Maximum Sum of Two Non-Overlapping Subarrays]()<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack) C# easy to write using stack with analysis<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/279637/C-brute-force-solution-time-consuming-and-struggling) C# brute force solution - time consuming and struggling<br>
