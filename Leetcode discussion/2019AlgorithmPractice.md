@@ -11,7 +11,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/discuss/282950/C-using-two-negative-values-to-mark-visited-1-for-the-mark-to-change-color) C# using two negative values to mark visited, -1 for the mark to change color<br>
 [1033. Moving Stones Until Consecutive]()<br>
 4/23<br>
-[957. Prison Cells After N Days]()<br>
+[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/discuss/301138/C-First-practice-in-April-2019)  C# First practice in April 2019<br>
 4/22<br>
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/discuss/278391/C-Work-on-test-case-2-0-1-2-and-then-figure-out-the-idea) C# Work on test case [2, 0, 1, 2] and then figure out the idea<br>
 [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/discuss/301133/C-Need-to-figure-out-how-to-write-more-efficient-code-less-time) Need to shorten the time<br>
