@@ -14,7 +14,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 [957. Prison Cells After N Days]()<br>
 4/22<br>
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/discuss/278391/C-Work-on-test-case-2-0-1-2-and-then-figure-out-the-idea) C# Work on test case [2, 0, 1, 2] and then figure out the idea<br>
-[1031. Maximum Sum of Two Non-Overlapping Subarrays]()<br>
+[1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/discuss/301133/C-Need-to-figure-out-how-to-write-more-efficient-code-less-time) Need to shorten the time<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack) C# easy to write using stack with analysis<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/279637/C-brute-force-solution-time-consuming-and-struggling) C# brute force solution - time consuming and struggling<br>
 4/15<br>
