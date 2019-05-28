@@ -18,7 +18,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack) C# easy to write using stack with analysis<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/279637/C-brute-force-solution-time-consuming-and-struggling) C# brute force solution - time consuming and struggling<br>
 4/15<br>
-[1026. Maximum Difference Between Node and Ancestor]()<br>
+[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/discuss/301059/C-recursive-solution-written-in-the-weekly-contest) code written in weekly contest<br>
 [1025. Divisor Game]()<br>
 4/10<br>
 [1024. Video Stitching](https://leetcode.com/problems/video-stitching/discuss/272976/C-greedy-algorithm-only-one-iteration-on-sorted-array) C# greedy algorithm only one iteration on sorted array<br>
