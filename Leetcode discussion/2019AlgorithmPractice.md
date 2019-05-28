@@ -9,7 +9,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 4/29<br>
 [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/282915/C-dynamic-programming-solution-readable-code) C# dynamic programming solution readable code<br>
 [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/discuss/282950/C-using-two-negative-values-to-mark-visited-1-for-the-mark-to-change-color) C# using two negative values to mark visited, -1 for the mark to change color<br>
-[1033. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/discuss/282955/C-it-is-hard-to-understand-the-problem) Try again fail again<br>
+[1033. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/discuss/282955/C-it-is-hard-to-understand-the-problem) Try again fail again and fail better<br>
 4/23<br>
 [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/discuss/301138/C-First-practice-in-April-2019)  C# First practice in April 2019<br>
 4/22<br>
