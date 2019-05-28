@@ -14,6 +14,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 [785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296630/C-depth-first-search-with-explanation) depth first search algorithm<br>
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/285424/C-dynamic-programming-one-more-practice) Code written in 2019<br>
 [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/discuss/288663/C-It-took-me-34-minutes-three-submissions-in-weekly-contest) 34 minutes for an easy algorithm<br>
+[1042. Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/discuss/301027/c-Good-practice-using-Hashset) code written in weekly contest<br>
 May 6 - 11<br>
 [235. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/288334/C-binary-search-O(logN)-algorithm) binary search in BST<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288289/C-time-out-need-help-using-string-preorder-traversal) time out using string, need help<br>
