@@ -20,7 +20,6 @@ I can easily find out what algorithms I solve by looking up my github page and s
 4/15<br>
 [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/discuss/301059/C-recursive-solution-written-in-the-weekly-contest) code written in weekly contest<br>
 [1025. Divisor Game](https://leetcode.com/problems/divisor-game/discuss/301116/C-recursive-function-practice-after-the-weekly-contest)  C# recursive function practice after the weekly contest<br>
-[1025. Divisor Game](https://leetcode.com/problems/divisor-game/discuss/301116/C-recursive-function-practice-after-the-weekly-contest)  C# recursive function practice after the weekly contest<br>
 [1025. Divisor Game](https://leetcode.com/problems/divisor-game/discuss/301120/C-dynamic-programming-solution-learned-in-April-2019)  dynamic programming solution - Attention Please!<br>
 4/10<br>
 [1024. Video Stitching](https://leetcode.com/problems/video-stitching/discuss/272976/C-greedy-algorithm-only-one-iteration-on-sorted-array) C# greedy algorithm only one iteration on sorted array<br>
