@@ -21,7 +21,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 [1026. Maximum Difference Between Node and Ancestor]()<br>
 [1025. Divisor Game]()<br>
 4/10<br>
-[1024. Video Stitching]()<br>
+[1024. Video Stitching](https://leetcode.com/problems/video-stitching/discuss/272976/C-greedy-algorithm-only-one-iteration-on-sorted-array) C# greedy algorithm only one iteration on sorted array<br>
 4/18<br>
 [1023. Camelcase Matching]()<br>
 [1022. Sum of Root To Leaf Binary Numbers]()<br>
