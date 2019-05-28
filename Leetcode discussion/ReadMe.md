@@ -247,6 +247,8 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/discuss/218049/C-calculate-prefix-sum-and-save-it-using-residue-of-module-K-as-key)<br>
 [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/discuss/223315/C-readable-code) solution written in contest<br>
 [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/discuss/265620/C-Run-breadth-first-search-from-all-numbers-1-on-border-of-matrix) written in contest 130<br>
+[1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/discuss/301145/C-My-practice-written-in-weekly-contest-131) written in the contest 131<br>
+[1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/discuss/301169/C-practice-review-after-the-contest) solution learned after the contest<br>
 [1024. Video stitiching](https://leetcode.com/problems/video-stitching/discuss/272976/C-greedy-algorithm-only-one-iteration-on-sorted-array) greedy algorithm on sorted array<br>
 [1031. Maximum Sum of Two Non-Overlapping Subarrays](http://juliachencoding.blogspot.com/2019/04/1031-maximum-sum-of-two-non-overlapping.html) painful experience documented in my own blog first<br>  
 [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/discuss/282950/C-using-two-negative-values-to-mark-visited-1-for-the-mark-to-change-color) using DFS, mark visited and color change<br>
