@@ -6,6 +6,28 @@ I can easily find out what algorithms I solve by looking up my github page and s
 2019 - February <br>
 2019 - March <br>
 2019 - April <br>
+4/29<br>
+[1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/282915/C-dynamic-programming-solution-readable-code) C# dynamic programming solution readable code<br>
+[1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/discuss/282950/C-using-two-negative-values-to-mark-visited-1-for-the-mark-to-change-color)C# using two negative values to mark visited, -1 for the mark to change color<br>
+[1033]()<br>
+4/23<br>
+[957]()<br>
+4/22<br>
+[75]()<br>
+[1031]()<br>
+[402]()<br>
+4/15<br>
+[1026]()<br>
+[1025]()<br>
+4/10<br>
+[1024]()<br>
+4/18<br>
+[1023]()<br>
+[1022]()<br>
+[1021]()<br>
+4/2<br>
+[947]()<br>
+[200]()<br>
 
 **2019 - May** <br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/88231/C-recursive-undirected-graph-DFS-with-backtracking-use-map-of-maps) Ask advice from the author - Amazon Senior SDE<br>
