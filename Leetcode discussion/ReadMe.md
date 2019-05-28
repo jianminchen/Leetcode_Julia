@@ -319,6 +319,7 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/75034/Easiest-9ms-Java-Solution/78192) 3 upvotes<br>
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/discuss/158584/Story-first-code-follows)<br>
 [LeetCode 675. Cut Off Trees for Golf Event](http://juliachencoding.blogspot.com/2019/04/leetcode-675-cut-off-trees-for-golf.html) code written in one hour mock interview passed first half test cases<br>
+[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/298133/C-depth-first-search-and-memoization-classical-algorithm) C# depth first search and memoization classical algorithm<br>
 [927. Three equal parts](https://leetcode.com/problems/three-equal-parts/discuss/183912/C-It-is-hard-level-algorithm-and-I-could-not-make-it-in-the-contest) Take me more than one hour (1 upvote Nov. 2, 2018)<br>
 <br>
 [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/discuss/223861/C-backtracking-algorithm) backtracking algorithm<br>
