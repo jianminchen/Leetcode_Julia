@@ -10,6 +10,8 @@ I can easily find out what algorithms I solve by looking up my github page and s
 **2019 - May** <br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/88231/C-recursive-undirected-graph-DFS-with-backtracking-use-map-of-maps) Ask advice from the author - Amazon Senior SDE<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/298514/C-apply-depth-first-search-and-also-backtracking-technique) learn from C# code written in 2017<br>
+[785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296637/C-union-find-algorithm-approach-with-detail-thinking-process) union find algorithm<br>
+[785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296630/C-depth-first-search-with-explanation) depth first search algorithm<br>
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/285424/C-dynamic-programming-one-more-practice) Code written in 2019<br>
 [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/discuss/288663/C-It-took-me-34-minutes-three-submissions-in-weekly-contest) 34 minutes for an easy algorithm<br>
 May 6 - 11<br>
