@@ -335,7 +335,7 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node) My practice, using hashset to mark visited<br>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/203070/Python-find-first-node-in-the-post-order-and-then-make-it-repeatable) idea I learned as interviewer<br>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/219630/C-Road-to-master-this-tree-algorithm) idea I learned from Taras comment from a casual coder blog<br>
-[]()<br>
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/discuss/301109/C-Double-Linked-List-and-HashMap-practice-1218-test-case-passed-May-2019) May 2019 pass 12/ 18 test cases<br>
 []()<br>
 
 
