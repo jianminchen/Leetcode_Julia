@@ -9,25 +9,26 @@ I can easily find out what algorithms I solve by looking up my github page and s
 4/29<br>
 [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/282915/C-dynamic-programming-solution-readable-code) C# dynamic programming solution readable code<br>
 [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/discuss/282950/C-using-two-negative-values-to-mark-visited-1-for-the-mark-to-change-color)C# using two negative values to mark visited, -1 for the mark to change color<br>
-[1033]()<br>
+[1033. Moving Stones Until Consecutive]()<br>
 4/23<br>
-[957]()<br>
+[957. Prison Cells After N Days]()<br>
 4/22<br>
-[75]()<br>
-[1031]()<br>
-[402]()<br>
+[75. Sort Colors]()<br>
+[1031. Maximum Sum of Two Non-Overlapping Subarrays]()<br>
+[402. Remove K Digits]()<br>
 4/15<br>
-[1026]()<br>
-[1025]()<br>
+[1026. Maximum Difference Between Node and Ancestor]()<br>
+[1025. Divisor Game]()<br>
 4/10<br>
-[1024]()<br>
+[1024. Video Stitching]()<br>
 4/18<br>
-[1023]()<br>
-[1022]()<br>
-[1021]()<br>
+[1023. Camelcase Matching]()<br>
+[1022. Sum of Root To Leaf Binary Numbers]()<br>
+[1021. Remove Outermost Parentheses]()<br>
 4/2<br>
-[947]()<br>
-[200]()<br>
+[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267666/C-Use-partial-of-union-find-algorithm-to-solve-the-problem)C# Use partial of union find algorithm to solve the problem<br>
+[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267677/C-apply-depth-first-search-in-a-graph)C# apply depth first search in a graph<br>
+[200. Number of Islands](https://leetcode.com/problems/number-of-islands/discuss/301038/C-depth-first-search-practice)C# depth first search practice<br>
 
 **2019 - May** <br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/88231/C-recursive-undirected-graph-DFS-with-backtracking-use-map-of-maps) Ask advice from the author - Amazon Senior SDE<br>
