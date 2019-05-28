@@ -48,6 +48,8 @@ May 6 - 11<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288284/C-time-out-need-help-using-List-preorder-traversal) time out using list, need help<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288320/C-Work-on-the-algorithm-in-mock-interview) optimal solution bottom up with reasoning<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/290650/C-various-topics-covered-through-2019-practice) various topics covered through 2019 practice<br>
+May 14 <br>
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/discuss/301109/C-Double-Linked-List-and-HashMap-practice-1218-test-case-passed-May-2019) May 2019 pass 12/ 18 test cases<br>
 May 24 <br>
 [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/298133/C-depth-first-search-and-memoization-classical-algorithm) C# depth first search and memoization classical algorithm<br>
 May 27 <br>
