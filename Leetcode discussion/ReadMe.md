@@ -31,6 +31,10 @@ I like to list all my sharings on Tree easy level algorithms, Array easy level a
 I will keep the statistics update here:<br>
 [My post on Leetcode.com discuss in detail](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/Statistics-LeetcodeDiscuss.pdf)<br>
 
+May 28, 2019<br>
+I also put together a page to list all practice in 2019. [Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/2019AlgorithmPractice.md) is the link. <br>
+
+
 **Tree easy level algorithms (solved 30, shared 5)**<br><br>
 
 
