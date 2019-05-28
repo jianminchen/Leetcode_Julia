@@ -24,7 +24,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 [1024. Video Stitching](https://leetcode.com/problems/video-stitching/discuss/272976/C-greedy-algorithm-only-one-iteration-on-sorted-array) C# greedy algorithm only one iteration on sorted array<br>
 4/18<br>
 [1023. Camelcase Matching]()<br>
-[1022. Sum of Root To Leaf Binary Numbers]()<br>
+[1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/301053/C-a-recursive-function-with-module-calculation) C# a recursive function with module calculation<br>
 [1021. Remove Outermost Parentheses]()<br>
 4/2<br>
 [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267666/C-Use-partial-of-union-find-algorithm-to-solve-the-problem)C# Use partial of union find algorithm to solve the problem<br>
