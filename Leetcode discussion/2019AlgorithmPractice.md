@@ -34,6 +34,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 **2019 - May** <br>
 May 11 <br>
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/discuss/290696/C-one-practice-brought-me-back-sweet-story-of-practice-in-2018) C# one practice brought me back sweet story of practice in 2018<br>
+[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/298133/C-depth-first-search-and-memoization-classical-algorithm) C# depth first search and memoization classical algorithm<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/88231/C-recursive-undirected-graph-DFS-with-backtracking-use-map-of-maps) Ask advice from the author - Amazon Senior SDE<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/298514/C-apply-depth-first-search-and-also-backtracking-technique) learn from C# code written in 2017<br>
 [785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296637/C-union-find-algorithm-approach-with-detail-thinking-process) union find algorithm<br>
