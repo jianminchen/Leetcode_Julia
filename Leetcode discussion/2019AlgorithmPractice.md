@@ -34,7 +34,6 @@ I can easily find out what algorithms I solve by looking up my github page and s
 **2019 - May** <br>
 May 11 <br>
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/discuss/290696/C-one-practice-brought-me-back-sweet-story-of-practice-in-2018) C# one practice brought me back sweet story of practice in 2018<br>
-[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/298133/C-depth-first-search-and-memoization-classical-algorithm) C# depth first search and memoization classical algorithm<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/88231/C-recursive-undirected-graph-DFS-with-backtracking-use-map-of-maps) Ask advice from the author - Amazon Senior SDE<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/298514/C-apply-depth-first-search-and-also-backtracking-technique) learn from C# code written in 2017<br>
 [785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296637/C-union-find-algorithm-approach-with-detail-thinking-process) union find algorithm<br>
@@ -49,6 +48,8 @@ May 6 - 11<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288284/C-time-out-need-help-using-List-preorder-traversal) time out using list, need help<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288320/C-Work-on-the-algorithm-in-mock-interview) optimal solution bottom up with reasoning<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/290650/C-various-topics-covered-through-2019-practice) various topics covered through 2019 practice<br>
+May 24 <br>
+[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/298133/C-depth-first-search-and-memoization-classical-algorithm) C# depth first search and memoization classical algorithm<br>
 May 27 <br>
 [241 Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/discuss/300481/C-brute-force-solution-with-memoization-practice-in-2019) practice in 2019 May - a Google interview algorithm<br>
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/300609/C-post-order-traversal-and-then-design-a-recursive-function-to-return-root-to-leaf-path-max-value) 2019 May practice<br>
