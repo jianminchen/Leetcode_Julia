@@ -33,6 +33,12 @@ namespace _1026_Maximum_Difference
             return maxDiff;
         }
 
+        /// <summary>
+        /// all leaf nodes will be tested. 
+        /// </summary>
+        /// <param name="root"></param>
+        /// <param name="hashSet"></param>
+        /// <param name="maxDiff"></param>
         private static void preorderTraversal(TreeNode root, HashSet<int> hashSet, ref int maxDiff)
         {
             hashSet.Add(root.val);
@@ -42,6 +48,8 @@ namespace _1026_Maximum_Difference
                 var array = hashSet.ToArray();
                 var diff = Math.Abs(array.Max() - array.Min());
                 maxDiff = maxDiff < diff ? diff : maxDiff;
+
+                hashSet.Remove(root.val);
                 return;
             }
 
@@ -56,6 +64,8 @@ namespace _1026_Maximum_Difference
                 var newSet = new HashSet<int>(hashSet);
                 preorderTraversal(root.right, newSet, ref maxDiff);
             }
+
+
         }
     }
 }
