@@ -1,6 +1,6 @@
 I like to list all algorithms I practice in 2019. I need to constantly find new algorithms to work on, and also review my past practice as well. 
 
-I can easily find out what algorithms I solve by looking up my github page and sorting by the date time. <br>
+I can easily find out what algorithms I solve by looking up my github page and sorting by the date time. [Here](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion/2019) is the folder to contain images of all algorithms I save in Leetcode source code folder.<br>
 
 2019 - January <br>
 2019 - February <br>
