@@ -42,7 +42,7 @@ May 11 <br>
 [785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296630/C-depth-first-search-with-explanation) depth first search algorithm<br>
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/285424/C-dynamic-programming-one-more-practice) Code written in 2019<br>
 [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/discuss/288663/C-It-took-me-34-minutes-three-submissions-in-weekly-contest) 34 minutes for an easy algorithm<br>
-[1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/cousins-in-binary-tree/discuss/238645/C-preorder-traversal-and-use-a-dictionary-to-help) how two small mistakes drag down my performance from 10 minutes to 50 minutes<br>
+[1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/discuss/287084/C-how-two-small-mistakes-drag-down-my-performance-from-10-minutes-to-50-minutes) how two small mistakes drag down my performance from 10 minutes to 50 minutes<br>
 [1042. Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/discuss/301027/c-Good-practice-using-Hashset) code written in weekly contest<br>
 May 6 - 11<br>
 [235. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/288334/C-binary-search-O(logN)-algorithm) binary search in BST<br>
