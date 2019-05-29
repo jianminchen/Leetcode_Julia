@@ -32,6 +32,7 @@ I can easily find out what algorithms I solve by looking up my github page and s
 [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267666/C-Use-partial-of-union-find-algorithm-to-solve-the-problem) C# Use partial of union find algorithm to solve the problem<br>
 [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/267677/C-apply-depth-first-search-in-a-graph) C# apply depth first search in a graph<br>
 [947. Most Stones Removed with Same Row or Column](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20947%20Remove%20stones) weekly contest ranking 5, 8, 12, 13, 16, 40, 58, 117, 176 players - code study<br>
+[947. Most Stones Removed with Same Row or Column](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20947%20Remove%20stones/union%20find) union find algorithm study - rank, size, path compression, common mistakes, while/ recursive implementation<br>
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/discuss/301038/C-depth-first-search-practice) C# depth first search practice<br>
 
 **2019 - May** <br>
