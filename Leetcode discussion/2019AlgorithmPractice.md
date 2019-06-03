@@ -62,4 +62,6 @@ May 24 <br>
 May 27 <br>
 [241 Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/discuss/300481/C-brute-force-solution-with-memoization-practice-in-2019) practice in 2019 May - a Google interview algorithm<br>
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/300609/C-post-order-traversal-and-then-design-a-recursive-function-to-return-root-to-leaf-path-max-value) 2019 May practice<br>
+June 3 <br>
+[1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/discuss/288663/C-It-took-me-34-minutes-three-submissions-in-weekly-contest) 34 minutes for an easy algorithm<br>
 
