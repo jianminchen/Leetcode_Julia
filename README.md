@@ -50,6 +50,6 @@ I failed to pass Indeed.com Japan code screen. The code challenges are really to
 It is also very important for me to practice very often for all classical algorithms. I like to write a page to list all discussion posts I share by timeline. <br>
 
 I can go over my practice and see what are missing in my practice last week or last month. 
-
+[Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/2019AlgorithmPractice.md) is the link of 2019 algorithm problems solved. 
 
 
