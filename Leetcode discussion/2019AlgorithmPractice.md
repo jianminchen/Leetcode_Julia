@@ -4,6 +4,9 @@ I can easily find out what algorithms I solve by looking up my github page and s
 
 2019 - January <br>
 2019 - February <br>
+Feb. 2 <br>
+[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/304946/C-SortDictionary-SortedList-SortedSet-all-are-used-in-one-solution) study code from a casual coder<br>
+[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/231134/C-leetcode-online-judge-for-C-test-case-is-problematic) C# leetcode online judge for C# test case is problematic<br>
 2019 - March <br>
 2019 - April <br>
 4/29<br>
