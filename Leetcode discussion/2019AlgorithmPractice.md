@@ -68,4 +68,4 @@ May 27 <br>
 **2019 - June** <br>
 June 3 <br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/304946/C-SortDictionary-SortedList-SortedSet-all-are-used-in-one-solution) study code from a casual coder<br>
-
+[1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305019/C-so-many-trial-and-error-in-my-first-practice) C# so many trial and error in my first practice<br> <br>
