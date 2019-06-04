@@ -69,3 +69,6 @@ May 27 <br>
 June 3 <br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/304946/C-SortDictionary-SortedList-SortedSet-all-are-used-in-one-solution) study code from a casual coder<br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305019/C-so-many-trial-and-error-in-my-first-practice) C# so many trial and error in my first practice<br> <br>
+[1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305079/C-minor-change-using-stack-second-practice-in-2019) Use stack to remove leading zero <br>
+[1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305095/C-Using-stack-and-a-while-loop-to-reduce-sum-to-0-or-1-with-carries) learn to use next two bit to carry<br>
+  
