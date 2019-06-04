@@ -128,7 +128,7 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [929. Unique email addresses](https://leetcode.com/problems/unique-email-addresses/discuss/186739/C-readable-code)<br>
 [942. DI string match](https://leetcode.com/problems/di-string-match/discuss/194949/C-brute-force-solution-took-me-30-minutes-in-the-contest)<br>
 [1002. Find common characters](https://leetcode.com/problems/find-common-characters/discuss/247804/C-counting-sort-with-explanation)<br>
-
+[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/discuss/305337/C-Brute-force-solution) brute force solution missed in weekly contest<br>
 **Hashtable easy level algorithm** (solved 25, shared 21)<br><br>
 [1. Two Sum](https://leetcode.com/problems/two-sum/discuss/177402/C-visited-elements-into-a-Hashtable)<br>
 [136. Single Number](https://leetcode.com/problems/single-number/discuss/177089/C-using-XOR) using XOR (1 upvote)<br>
