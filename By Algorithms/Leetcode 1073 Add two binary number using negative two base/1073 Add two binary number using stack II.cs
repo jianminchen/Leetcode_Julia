@@ -25,6 +25,10 @@ namespace _1073_add_two_binary_numbers
         /// expressed in negative value? What is the advantage to use -1? 
         /// Two possible carry values, -1 and 1. 
         /// 
+        /// Another idea is to think about carry for next two digits
+        /// 
+        /// study code:
+        /// https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/303831/ChineseC%2B%2B-1073.
         /// </summary>
         /// <param name="arr1"></param>
         /// <param name="arr2"></param>
@@ -40,50 +44,36 @@ namespace _1073_add_two_binary_numbers
             if (length1 > length2)
             {
                 return AddNegabinary(arr2, arr1); 
-            }
+            }            
 
-            var stack = new Stack<int>(); 
-
-            int carry = 0; 
-            // from rightmost digit to start to add two numbers digit by digit
+            var sumArray = new int[length2 + 5];            
+            
             for (int i = 0; i < length2; i++)
             {
                 var digit1 = arr2[length2 - 1 - i];
                 var digit2 = i < length1 ? arr1[length1 - 1 - i] : 0;
+                sumArray[i] = digit1 + digit2; 
+            }
 
-                var sum = digit1 + digit2 + carry;
-
-                if (sum == 0 || sum == 1)
+            var length = sumArray.Length;
+            for(int i = 0; i < length; i++)
+            {                
+                var digit = sumArray[i];
+                while (sumArray[i] >= 2 && sumArray[i + 1] > 0)
                 {
-                    stack.Push(sum);
-                    carry = 0; // reset, caught by online judge
+                    sumArray[i] -= 2;
+                    sumArray[i + 1]--; 
+                }
+
+                while (sumArray[i] >= 2)
+                {
+                    sumArray[i] -= 2;
+                    sumArray[i + 1]++;
+                    sumArray[i + 2]++; 
                 }                
-                else if (sum == 2)
-                {
-                    stack.Push(0);
-                    carry = -1; 
-                }
-                else if (sum == 3)
-                {
-                    stack.Push(1);
-                    carry = -1; // caught by online judge
-                }
-                else if (sum == -1)
-                {
-                    stack.Push(1);
-                    carry = 1;
-                }
             }
 
-            if (carry == 1)
-            {
-                stack.Push(1);
-            }
-            else if (carry == -1)
-            {
-                stack.Push(1);
-                stack.Push(1);
-            }
+            var stack = new Stack<int>(sumArray);
 
             // removing leading zero
             while (stack.Count > 1 && stack.Peek() == 0)
