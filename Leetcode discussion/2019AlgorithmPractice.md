@@ -1,3 +1,4 @@
+**Try again. Fail again. Fail better.**<br>
 I always like to use this quote to remind me to stay humble, and continue to push myself to practice one more algorithm every day. <br>
 “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” The “Fail Better” Quote by Samuel Beckett<br>
 
