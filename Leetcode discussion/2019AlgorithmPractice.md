@@ -71,4 +71,5 @@ June 3 <br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305019/C-so-many-trial-and-error-in-my-first-practice) C# so many trial and error in my first practice<br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305079/C-minor-change-using-stack-second-practice-in-2019) Use stack to remove leading zero <br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305095/C-Using-stack-and-a-while-loop-to-reduce-sum-to-0-or-1-with-carries) learn to use next two bit to carry<br>
+[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/discuss/305337/C-Brute-force-solution) brute force solution missed in weekly contest<br>
   
