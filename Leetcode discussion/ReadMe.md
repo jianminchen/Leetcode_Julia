@@ -254,7 +254,8 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/discuss/282950/C-using-two-negative-values-to-mark-visited-1-for-the-mark-to-change-color) using DFS, mark visited and color change<br>
 [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/282915/c-dynamic-programming-solution-readable-code) dynamic programming solution using List<int><br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305019/C-so-many-trial-and-error-in-my-first-practice) C# so many trial and error in my first practice<br> <br>
-  
+[1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305079/C-minor-change-using-stack-second-practice-in-2019) Use stack to remove leading zero <br>
+[1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305095/C-Using-stack-and-a-while-loop-to-reduce-sum-to-0-or-1-with-carries) learn to use next two bit to carry<br>
   
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
