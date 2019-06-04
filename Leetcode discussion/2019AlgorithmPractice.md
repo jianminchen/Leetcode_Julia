@@ -1,3 +1,6 @@
+I always like to use this quote to remind me to stay humble, and continue to push myself to practice one more algorithm every day. <br>
+“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” The “Fail Better” Quote by Samuel Beckett<br>
+
 I like to list all algorithms I practice in 2019. I need to constantly find new algorithms to work on, and also review my past practice as well. 
 
 I can easily find out what algorithms I solve by looking up my github page and sorting by the date time. [Here](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion/2019) is the folder to contain images of all algorithms I save in Leetcode source code folder.<br>
