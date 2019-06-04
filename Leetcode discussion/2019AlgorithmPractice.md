@@ -77,4 +77,6 @@ June 3 <br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305095/C-Using-stack-and-a-while-loop-to-reduce-sum-to-0-or-1-with-carries) learn to use next two bit to carry<br>
 [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/discuss/305337/C-Brute-force-solution) brute force solution missed in weekly contest<br>
 [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/discuss/305264/C-optimal-time-complexity-with-preprocessing-practice-in-2019) write code first and then figure out what is the idea<br>
-  
+June 4, 2019 <br>
+[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/305602/C-various-topics-covered-in-practice-from-2018-to-2019) various topics covered in practice from 2018 to 2019<br>  
+[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root) C# brute force on every node for cross path with detail explanation practice in 2019<br>  
