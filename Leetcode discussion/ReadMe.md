@@ -47,7 +47,7 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158923/C-solution-using-recursive-function) copy the idea from most popular post<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/190183/C-recursive-solution) learn from a mock interview<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/244850/C-post-order-check-with-parent-value-with-step-by-step-illustration) C# post order - check with parent value with step by step illustration<br>
-[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/305602/C-various-topics-covered-in-practice-from-2018-to-2019) various topics covered in practice from 2018 to 2019<br>  
+[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/305602/C-various-topics-covered-in-practice-from-2018-to-2019) various topics covered in practice from 2018 to 2019<br>
 [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root) C# brute force on every node for cross path with detail explanation practice in 2019<br>  
 [993 Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree/discuss/238645/C-preorder-traversal-and-use-a-dictionary-to-help)<br>
 <br><br>
