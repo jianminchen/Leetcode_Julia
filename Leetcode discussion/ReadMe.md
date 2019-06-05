@@ -34,6 +34,7 @@ I will keep the statistics update here:<br>
 May 28, 2019<br>
 I also put together a page to list all practice in 2019. [Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/2019AlgorithmPractice.md) is the link. <br>
 
+**Welcome to visit all my 2019 practice on Leetcode.com**. [Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/2019AlgorithmPractice.md) is the link. <br>
 
 **Tree easy level algorithms (solved 30, shared 5)**<br><br>
 
