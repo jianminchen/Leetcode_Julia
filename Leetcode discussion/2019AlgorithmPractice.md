@@ -12,7 +12,7 @@ Feb. 2 <br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/304946/C-SortDictionary-SortedList-SortedSet-all-are-used-in-one-solution) study code from a casual coder<br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/231134/C-leetcode-online-judge-for-C-test-case-is-problematic) C# leetcode online judge for C# test case is problematic<br>
 [996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/244279/C-backtracking-and-depth-first-search)<br>
-[996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation)Learn from a casual coder, 3 upvotes(May 1, 2019)<br>
+[996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation) Learn from a casual coder, 3 upvotes(May 1, 2019)<br>
 2019 - March <br>
 2019 - April <br>
 4/29<br>
