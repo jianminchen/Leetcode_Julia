@@ -43,6 +43,8 @@ Feb. 2 <br>
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/discuss/301038/C-depth-first-search-practice) C# depth first search practice<br>
 
 **2019 - May** <br>
+[996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/244279/C-backtracking-and-depth-first-search)<br>
+[996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation)Learn from a casual coder, 3 upvotes(May 1, 2019)<br>
 May 11 <br>
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/discuss/290696/C-one-practice-brought-me-back-sweet-story-of-practice-in-2018) C# one practice brought me back sweet story of practice in 2018<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/88231/C-recursive-undirected-graph-DFS-with-backtracking-use-map-of-maps) Ask advice from the author - Amazon Senior SDE<br>
