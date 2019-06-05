@@ -8,6 +8,10 @@ I can easily find out what algorithms I solve by looking up my github page and s
 
 2019 - January <br>
 [37. Sudoku solver](https://leetcode.com/problems/sudoku-solver/discuss/217272/C-One-more-elegant-solution) Another elegant solution learned from a casual coder<br>
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node) My practice, using hashset to mark visited<br>
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/203070/Python-find-first-node-in-the-post-order-and-then-make-it-repeatable) idea I learned as interviewer<br>
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/219630/C-Road-to-master-this-tree-algorithm) idea I learned from Taras comment from a casual coder blog<br>
+
 2019 - February <br>
 Feb. 2 <br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/304946/C-SortDictionary-SortedList-SortedSet-all-are-used-in-one-solution) study code from a casual coder<br>
