@@ -7,6 +7,7 @@ I like to list all algorithms I practice in 2019. I need to constantly find new 
 I can easily find out what algorithms I solve by looking up my github page and sorting by the date time. [Here](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion/2019) is the folder to contain images of all algorithms I save in Leetcode source code folder.<br>
 
 2019 - January <br>
+(37. Sudoku solver)[https://leetcode.com/problems/sudoku-solver/discuss/217272/C-One-more-elegant-solution] Another elegant solution learned from a casual coder<br>
 2019 - February <br>
 Feb. 2 <br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/304946/C-SortDictionary-SortedList-SortedSet-all-are-used-in-one-solution) study code from a casual coder<br>
