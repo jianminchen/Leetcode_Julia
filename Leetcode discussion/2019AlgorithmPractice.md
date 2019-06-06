@@ -61,6 +61,7 @@ May 11 <br>
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/discuss/290696/C-one-practice-brought-me-back-sweet-story-of-practice-in-2018) C# one practice brought me back sweet story of practice in 2018<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/88231/C-recursive-undirected-graph-DFS-with-backtracking-use-map-of-maps) Ask advice from the author - Amazon Senior SDE<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/298514/C-apply-depth-first-search-and-also-backtracking-technique) learn from C# code written in 2017<br>
+[399. Evaluate Division](http://juliachencoding.blogspot.com/2019/05/case-study-c-expert-and-algorithm-good.html) Case study: C# expert and algorithm good problem solver<br>
 [785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296637/C-union-find-algorithm-approach-with-detail-thinking-process) union find algorithm<br>
 [785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296630/C-depth-first-search-with-explanation) depth first search algorithm<br>
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/285424/C-dynamic-programming-one-more-practice) Code written in 2019<br>
