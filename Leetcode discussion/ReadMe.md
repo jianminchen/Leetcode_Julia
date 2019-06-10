@@ -363,7 +363,7 @@ Please wait.
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
 [Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html) <br>
 
-June 8 - 10 <br>
+June 8 - 10, 2019 <br>
 [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/309054/C-various-topics-covered-in-my-practice-in-2019) C# various topics covered in my practice in 2019<br>
 [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308475/C-learn-to-write-a-solution-after-the-weekly-contest-on-June-8-2019) C# learn to write a solution after the weekly contest on June 8, 2019<br>
 [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308895/C-counting-sort-and-depth-first-search-to-count-unique-substrings-practice-in-2019) C# counting sort and depth first search to count unique substrings practice in 2019 <br>
