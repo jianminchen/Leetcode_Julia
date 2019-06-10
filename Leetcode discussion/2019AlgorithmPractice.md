@@ -94,3 +94,9 @@ June 3 <br>
 June 4, 2019 <br>
 [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/305602/C-various-topics-covered-in-practice-from-2018-to-2019) various topics covered in practice from 2018 to 2019<br>   
 [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root) C# brute force on every node for cross path with detail explanation practice in 2019<br>  
+June 8 - 10 <br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/309054/C-various-topics-covered-in-my-practice-in-2019) C# various topics covered in my practice in 2019<br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308475/C-learn-to-write-a-solution-after-the-weekly-contest-on-June-8-2019) C# learn to write a solution after the weekly contest on June 8, 2019<br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308895/C-counting-sort-and-depth-first-search-to-count-unique-substrings-practice-in-2019) C# counting sort and depth first search to count unique substrings practice in 2019 <br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308882/C-case-study-%22AAB%22-to-figure-out-the-solution-in-2019) C# case study "AAB" to figure out the solution in 2019 <br>
+
