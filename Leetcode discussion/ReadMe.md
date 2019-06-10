@@ -362,5 +362,14 @@ Please wait.
 **My own blogs**<br><br> 
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
 [Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html) <br>
- 
+
+June 8 - 10 <br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/309054/C-various-topics-covered-in-my-practice-in-2019) C# various topics covered in my practice in 2019<br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308475/C-learn-to-write-a-solution-after-the-weekly-contest-on-June-8-2019) C# learn to write a solution after the weekly contest on June 8, 2019<br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308895/C-counting-sort-and-depth-first-search-to-count-unique-substrings-practice-in-2019) C# counting sort and depth first search to count unique substrings practice in 2019 <br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308882/C-case-study-%22AAB%22-to-figure-out-the-solution-in-2019) C# case study "AAB" to figure out the solution in 2019 <br>
+[1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/discuss/308474/c-using-stack-and-also-counting-sort) C# using stack and also counting sort<br>
+[1080. Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/308356/C-code-could-not-pass-large-test-case-in-weekly-contest) C# code could not pass large test case in weekly contest<br>
+[1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/discuss/308360/C-One-iteration-of-parsed-words) C# One iteration of parsed words<br>
+
 
