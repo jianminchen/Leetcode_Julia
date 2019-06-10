@@ -47,10 +47,11 @@ namespace _687_longest_univalue_path_V
             if (root == null)
                 return 0;
 
-            // inorder - left, root, right 
+            // post order - left, right, root 
             var left  = postOrderTraversalCalculatePath(root.left,  ref crossPath);
             var right = postOrderTraversalCalculatePath(root.right, ref crossPath);
             
+            // root node handling 
             var currentMax = 0;
             var currentMaxCrossRoot = 0;
             var rootVal = root.val;
