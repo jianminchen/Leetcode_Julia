@@ -34,6 +34,7 @@ I will keep the statistics update here:<br>
 May 28, 2019<br>
 I also put together a page to list all practice in 2019. [Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/2019AlgorithmPractice.md) is the link. <br>
 
+**Welcome to visit all my 2019 practice on Leetcode.com**. [Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/2019AlgorithmPractice.md) is the link. <br>
 
 **Tree easy level algorithms (solved 30, shared 5)**<br><br>
 
@@ -47,6 +48,8 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/158923/C-solution-using-recursive-function) copy the idea from most popular post<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/190183/C-recursive-solution) learn from a mock interview<br>
 [687. Longest univalue path](https://leetcode.com/problems/longest-univalue-path/discuss/244850/C-post-order-check-with-parent-value-with-step-by-step-illustration) C# post order - check with parent value with step by step illustration<br>
+[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/305602/C-various-topics-covered-in-practice-from-2018-to-2019) various topics covered in practice from 2018 to 2019<br>
+[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root) C# brute force on every node for cross path with detail explanation practice in 2019<br>  
 [993 Cousins in binary tree](https://leetcode.com/problems/cousins-in-binary-tree/discuss/238645/C-preorder-traversal-and-use-a-dictionary-to-help)<br>
 <br><br>
 **Array easy level algorithms (solved 44, shared 24)**<br><br>
@@ -128,7 +131,7 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [929. Unique email addresses](https://leetcode.com/problems/unique-email-addresses/discuss/186739/C-readable-code)<br>
 [942. DI string match](https://leetcode.com/problems/di-string-match/discuss/194949/C-brute-force-solution-took-me-30-minutes-in-the-contest)<br>
 [1002. Find common characters](https://leetcode.com/problems/find-common-characters/discuss/247804/C-counting-sort-with-explanation)<br>
-
+[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/discuss/305337/C-Brute-force-solution) brute force solution missed in weekly contest<br>
 **Hashtable easy level algorithm** (solved 25, shared 21)<br><br>
 [1. Two Sum](https://leetcode.com/problems/two-sum/discuss/177402/C-visited-elements-into-a-Hashtable)<br>
 [136. Single Number](https://leetcode.com/problems/single-number/discuss/177089/C-using-XOR) using XOR (1 upvote)<br>
@@ -338,6 +341,7 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [1015. None repeat digit number count](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259667/C-Study-code-from-ranking-No.-1-in-weekly-contest-128) Study code from ranking No. 1 in weekly contest 128<br>
 [1015. None repeat digit number count](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259737/C-standard-depth-first-search-with-back-tracking) standard depth first search back tracking technique<br>
 <br>
+[1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/discuss/305264/C-optimal-time-complexity-with-preprocessing-practice-in-2019) write code first and then figure out what is the idea<br>
 **Hard level tree algorithms (solved 5 out 6 unlocked algorithms, shared 1)**<br><br>
 
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node) My practice, using hashset to mark visited<br>
@@ -358,5 +362,14 @@ Please wait.
 **My own blogs**<br><br> 
 [Leetcode 437](http://juliachencoding.blogspot.com/2018/08/leetcode-437-path-sum-iii.html)<br>
 [Leetcode 501](http://juliachencoding.blogspot.com/2018/08/leetcode-501-find-mode-in-binary-search.html) <br>
- 
+
+June 8 - 10, 2019 <br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/309054/C-various-topics-covered-in-my-practice-in-2019) C# various topics covered in my practice in 2019<br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308475/C-learn-to-write-a-solution-after-the-weekly-contest-on-June-8-2019) C# learn to write a solution after the weekly contest on June 8, 2019<br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308895/C-counting-sort-and-depth-first-search-to-count-unique-substrings-practice-in-2019) C# counting sort and depth first search to count unique substrings practice in 2019 <br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308882/C-case-study-%22AAB%22-to-figure-out-the-solution-in-2019) C# case study "AAB" to figure out the solution in 2019 <br>
+[1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/discuss/308474/c-using-stack-and-also-counting-sort) C# using stack and also counting sort<br>
+[1080. Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/308356/C-code-could-not-pass-large-test-case-in-weekly-contest) C# code could not pass large test case in weekly contest<br>
+[1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/discuss/308360/C-One-iteration-of-parsed-words) C# One iteration of parsed words<br>
+
 

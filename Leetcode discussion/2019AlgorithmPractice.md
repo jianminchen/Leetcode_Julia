@@ -1,12 +1,29 @@
+**Try again. Fail again. Fail better.**<br>
+I always like to use this quote to remind me to stay humble, and continue to push myself to practice one more algorithm every day. <br>
+“Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” The “Fail Better” Quote by Samuel Beckett<br>
+
 I like to list all algorithms I practice in 2019. I need to constantly find new algorithms to work on, and also review my past practice as well. 
 
-I can easily find out what algorithms I solve by looking up my github page and sorting by the date time. [Here](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion/2019) is the folder to contain images of all algorithms I save in Leetcode source code folder.<br>
-
+I can easily find out what algorithms I solve by looking up my github page and sorting by the date time. [Here](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion/2019) is the folder to contain images of all algorithms I save in Leetcode source code folder.<br><br>
+**2018** <br>
+2018 - November <br>
+[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree) C# optimal time complexity O(h * h), h is the height of tree (3 upvotes!)<br><br>
+2018 - December <br>
+[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/207326/C-Give-node-an-index-based-on-parent-index-and-use-the-sum-to-check-completeness) Learn from a casual coder<br>
+[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes) C# preorder traversal and play with use case related to leaf nodes<br>
 2019 - January <br>
+[37. Sudoku solver](https://leetcode.com/problems/sudoku-solver/discuss/217272/C-One-more-elegant-solution) Another elegant solution learned from a casual coder<br>
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/201561/C-using-stack-to-maintain-the-order-and-brute-force-each-node-as-the-root-node) My practice, using hashset to mark visited<br>
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/203070/Python-find-first-node-in-the-post-order-and-then-make-it-repeatable) idea I learned as interviewer<br>
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/219630/C-Road-to-master-this-tree-algorithm) idea I learned from Taras comment from a casual coder blog<br>
+
+**2019** <br>
 2019 - February <br>
 Feb. 2 <br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/304946/C-SortDictionary-SortedList-SortedSet-all-are-used-in-one-solution) study code from a casual coder<br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/231134/C-leetcode-online-judge-for-C-test-case-is-problematic) C# leetcode online judge for C# test case is problematic<br>
+[996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/244279/C-backtracking-and-depth-first-search)<br>
+[996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation) Learn from a casual coder, 3 upvotes(May 1, 2019)<br>
 2019 - March <br>
 2019 - April <br>
 4/29<br>
@@ -39,10 +56,12 @@ Feb. 2 <br>
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/discuss/301038/C-depth-first-search-practice) C# depth first search practice<br>
 
 **2019 - May** <br>
+
 May 11 <br>
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/discuss/290696/C-one-practice-brought-me-back-sweet-story-of-practice-in-2018) C# one practice brought me back sweet story of practice in 2018<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/88231/C-recursive-undirected-graph-DFS-with-backtracking-use-map-of-maps) Ask advice from the author - Amazon Senior SDE<br>
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/298514/C-apply-depth-first-search-and-also-backtracking-technique) learn from C# code written in 2017<br>
+[399. Evaluate Division](http://juliachencoding.blogspot.com/2019/05/case-study-c-expert-and-algorithm-good.html) Case study: C# expert and algorithm good problem solver<br>
 [785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296637/C-union-find-algorithm-approach-with-detail-thinking-process) union find algorithm<br>
 [785 Is graph bipartite](https://leetcode.com/problems/is-graph-bipartite/discuss/296630/C-depth-first-search-with-explanation) depth first search algorithm<br>
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/285424/C-dynamic-programming-one-more-practice) Code written in 2019<br>
@@ -55,6 +74,9 @@ May 6 - 11<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288284/C-time-out-need-help-using-List-preorder-traversal) time out using list, need help<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288320/C-Work-on-the-algorithm-in-mock-interview) optimal solution bottom up with reasoning<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/290650/C-various-topics-covered-through-2019-practice) various topics covered through 2019 practice<br>
+June 10, 2019 <br>
+[236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/309381/c-recursive-function-design-to-return-stacktreenode-practice-in-2019) C# Recursive function design to return Stack<TreeNode> practice in 2019<br>
+  
 May 14 <br>
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/discuss/301109/C-Double-Linked-List-and-HashMap-practice-1218-test-case-passed-May-2019) May 2019 pass 12/ 18 test cases<br>
 May 24 <br>
@@ -62,7 +84,6 @@ May 24 <br>
 May 27 <br>
 [241 Different Ways To Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/discuss/300481/C-brute-force-solution-with-memoization-practice-in-2019) practice in 2019 May - a Google interview algorithm<br>
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/300609/C-post-order-traversal-and-then-design-a-recursive-function-to-return-root-to-leaf-path-max-value) 2019 May practice<br>
-
 [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/discuss/288663/C-It-took-me-34-minutes-three-submissions-in-weekly-contest) 34 minutes for an easy algorithm<br>
 
 **2019 - June** <br>
@@ -71,4 +92,18 @@ June 3 <br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305019/C-so-many-trial-and-error-in-my-first-practice) C# so many trial and error in my first practice<br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305079/C-minor-change-using-stack-second-practice-in-2019) Use stack to remove leading zero <br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305095/C-Using-stack-and-a-while-loop-to-reduce-sum-to-0-or-1-with-carries) learn to use next two bit to carry<br>
-  
+[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/discuss/305337/C-Brute-force-solution) brute force solution missed in weekly contest<br>
+[1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/discuss/305264/C-optimal-time-complexity-with-preprocessing-practice-in-2019) write code first and then figure out what is the idea<br>
+June 4, 2019 <br>
+[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/305602/C-various-topics-covered-in-practice-from-2018-to-2019) various topics covered in practice from 2018 to 2019<br>   
+[687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/discuss/165680/C-longest-path-cross-root) C# brute force on every node for cross path with detail explanation practice in 2019<br>  
+June 8 - 10 <br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/309054/C-various-topics-covered-in-my-practice-in-2019) C# various topics covered in my practice in 2019<br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308475/C-learn-to-write-a-solution-after-the-weekly-contest-on-June-8-2019) C# learn to write a solution after the weekly contest on June 8, 2019<br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308895/C-counting-sort-and-depth-first-search-to-count-unique-substrings-practice-in-2019) C# counting sort and depth first search to count unique substrings practice in 2019 <br>
+[1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/discuss/308882/C-case-study-%22AAB%22-to-figure-out-the-solution-in-2019) C# case study "AAB" to figure out the solution in 2019 <br>
+[1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/discuss/308474/c-using-stack-and-also-counting-sort) C# using stack and also counting sort<br>
+[1080. Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/308356/C-code-could-not-pass-large-test-case-in-weekly-contest) C# code could not pass large test case in weekly contest<br>
+[1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/discuss/308360/C-One-iteration-of-parsed-words) C# One iteration of parsed words<br>
+June 10, 2019 <br>
+[236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/309381/c-recursive-function-design-to-return-stacktreenode-practice-in-2019) C# Recursive function design to return Stack<TreeNode> practice in 2019<br>
