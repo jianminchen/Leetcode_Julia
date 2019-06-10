@@ -74,6 +74,9 @@ May 6 - 11<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288284/C-time-out-need-help-using-List-preorder-traversal) time out using list, need help<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/288320/C-Work-on-the-algorithm-in-mock-interview) optimal solution bottom up with reasoning<br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/290650/C-various-topics-covered-through-2019-practice) various topics covered through 2019 practice<br>
+June 10, 2019 <br>
+[236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/309381/c-recursive-function-design-to-return-stacktreenode-practice-in-2019) C# Recursive function design to return Stack<TreeNode> practice in 2019<br>
+  
 May 14 <br>
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/discuss/301109/C-Double-Linked-List-and-HashMap-practice-1218-test-case-passed-May-2019) May 2019 pass 12/ 18 test cases<br>
 May 24 <br>
@@ -102,4 +105,5 @@ June 8 - 10 <br>
 [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/discuss/308474/c-using-stack-and-also-counting-sort) C# using stack and also counting sort<br>
 [1080. Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/308356/C-code-could-not-pass-large-test-case-in-weekly-contest) C# code could not pass large test case in weekly contest<br>
 [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/discuss/308360/C-One-iteration-of-parsed-words) C# One iteration of parsed words<br>
-
+June 10, 2019 <br>
+[236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/309381/c-recursive-function-design-to-return-stacktreenode-practice-in-2019) C# Recursive function design to return Stack<TreeNode> practice in 2019<br>
