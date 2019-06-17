@@ -260,6 +260,7 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305079/C-minor-change-using-stack-second-practice-in-2019) Use stack to remove leading zero <br>
 [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/discuss/305095/C-Using-stack-and-a-while-loop-to-reduce-sum-to-0-or-1-with-carries) learn to use next two bit to carry<br>
 [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/discuss/313959/C-breadth-first-search-practice-in-2019) C# breadth first search practice in 2019<br>  
+[1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/discuss/313984/C-Try-to-solve-using-greedy-algorithm-practice-in-2019) C# Try to solve using greedy algorithm practice in 2019<br>
   
 **Medium level tree algorithms (solved 37, total 39, shared 29)**<br>
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/177724/C-solution-using-stack) using stack<br>
