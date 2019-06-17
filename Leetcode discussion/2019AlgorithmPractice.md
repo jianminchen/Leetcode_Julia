@@ -110,3 +110,4 @@ June 10, 2019 <br>
 June 17, 2019 <br>
 [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/discuss/313959/C-breadth-first-search-practice-in-2019) C# breadth first search practice in 2019<br>
 [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/discuss/313984/C-Try-to-solve-using-greedy-algorithm-practice-in-2019) C# Try to solve using greedy algorithm practice in 2019<br>
+[1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/discuss/314050/C-trial-and-error-practice-in-weekly-contest-141) C# trial and error practice in weekly contest 141<br>
