@@ -108,5 +108,5 @@ June 8 - 10 <br>
 June 10, 2019 <br>
 [236. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/309381/c-recursive-function-design-to-return-stacktreenode-practice-in-2019) C# Recursive function design to return Stack<TreeNode> practice in 2019<br>
 June 17, 2019 <br>
-[1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/discuss/313959/C-breadth-first-search-practice-in-2019) C# breadth first search practice in 2019<br>  
+[1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/discuss/313959/C-breadth-first-search-practice-in-2019) C# breadth first search practice in 2019<br>
 [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/discuss/313984/C-Try-to-solve-using-greedy-algorithm-practice-in-2019) C# Try to solve using greedy algorithm practice in 2019<br>
