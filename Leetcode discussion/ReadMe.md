@@ -89,6 +89,7 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/discuss/265636/C-divisible-by-5-is-determined-by-right-most-digit-only) solution written in contest 130<br>
 [1033. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/discuss/282955/C-it-is-hard-to-understand-the-problem) took me 40 minutes to solve in the weekly contest<br>
 [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/discuss/288663/C-It-took-me-34-minutes-three-submissions-in-weekly-contest) 34 minutes for an easy algorithm<br>
+[1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/discuss/314050/C-trial-and-error-practice-in-weekly-contest-141) C# trial and error practice in weekly contest 141<br>
 
 **Math easy level algorithms (solved 27/ 32, shared 12)**<br><br>
 [7. Reverse integer](https://leetcode.com/problems/reverse-integer/discuss/168151/C-Readable-code)<br>
