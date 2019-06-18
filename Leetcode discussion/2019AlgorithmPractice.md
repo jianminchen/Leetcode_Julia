@@ -111,3 +111,22 @@ June 17, 2019 <br>
 [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/discuss/313959/C-breadth-first-search-practice-in-2019) C# breadth first search practice in 2019<br>
 [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/discuss/313984/C-Try-to-solve-using-greedy-algorithm-practice-in-2019) C# Try to solve using greedy algorithm practice in 2019<br>
 [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/discuss/314050/C-trial-and-error-practice-in-weekly-contest-141) C# trial and error practice in weekly contest 141<br>
+  
+June 12 - 18 <br>
+377. Combination Sum IV <br>
+
+Recursive solution with timeout issue, [here](https://leetcode.com/problems/combination-sum-iv/discuss/314201/C-recursive-solution-with-timeout-issue-practice) is the link.<br>
+
+Dynamic programming, top down, memoization, [here](https://leetcode.com/problems/combination-sum-iv/discuss/314212/C-top-down-and-memoizaton-practice-in-2019) is the link.<br>
+
+Dynamic programming, bottom up, [here](https://leetcode.com/problems/combination-sum-iv/discuss/314215/C-bottom-up-dynamic-programming-solution) is the link.
+
+1091. Shortest Path in Binary Matrix<br>
+C# breadth first search practice in 2019 <br>
+[Here](https://leetcode.com/problems/shortest-path-in-binary-matrix/discuss/313959/C-breadth-first-search-practice-in-2019) is the link.<br>
+
+1090. Largest Values From Labels<br>
+[C# Try to solve using greedy algorithm practice in 2019](https://leetcode.com/problems/largest-values-from-labels/discuss/313984/C-Try-to-solve-using-greedy-algorithm-practice-in-2019)<br>
+
+
+  
