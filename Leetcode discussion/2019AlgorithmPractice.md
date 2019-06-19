@@ -114,11 +114,9 @@ June 17, 2019 <br>
   
 June 12 - 18 <br>
 377. Combination Sum IV <br>
-
+[C# various topics in my practice 2019](https://leetcode.com/problems/combination-sum-iv/discuss/314293/C-various-topics-in-my-practice-2019) <br>
 Recursive solution with timeout issue, [here](https://leetcode.com/problems/combination-sum-iv/discuss/314201/C-recursive-solution-with-timeout-issue-practice) is the link.<br>
-
 Dynamic programming, top down, memoization, [here](https://leetcode.com/problems/combination-sum-iv/discuss/314212/C-top-down-and-memoizaton-practice-in-2019) is the link.<br>
-
 Dynamic programming, bottom up, [here](https://leetcode.com/problems/combination-sum-iv/discuss/314215/C-bottom-up-dynamic-programming-solution) is the link.
 
 1091. Shortest Path in Binary Matrix<br>
