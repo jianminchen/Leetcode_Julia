@@ -10,6 +10,7 @@ namespace _518_coin_change_2___memoization
     {
         static void Main(string[] args)
         {
+            var result = Change(5, new int[] { 1, 2, 5 }); // should be 2
         }
 
         /// <summary>
@@ -20,7 +21,7 @@ namespace _518_coin_change_2___memoization
         /// <param name="amount"></param>
         /// <param name="coins"></param>
         /// <returns></returns>
-        public int Change(int amount, int[] coins)
+        public static int Change(int amount, int[] coins)
         {
             // order coins in order to prune recursion
             Array.Sort(coins);
@@ -42,13 +43,15 @@ namespace _518_coin_change_2___memoization
 
         /// <summary>
         /// depth first search
+        /// write case study using 3, [1, 2, 5]
+        /// 
         /// </summary>
         /// <param name="coins"></param>
         /// <param name="amount"></param>
         /// <param name="index"></param>
         /// <param name="map"></param>
         /// <returns></returns>
-        private int CountUsingDepthFirstSearch(int[] coins, int amount, int index, int[,] map)
+        private static int CountUsingDepthFirstSearch(int[] coins, int amount, int index, int[,] map)
         {
             if (amount == 0)
             {
@@ -66,6 +69,10 @@ namespace _518_coin_change_2___memoization
             }
 
             int count = 0;
+
+            ///Brute force minimum coin value - all possible options
+            ///case study: 3, [1, 2, 5], 3 coins
+            ///minimum coin can be 1, or 2 or 5; go through one by one
             for (int i = index; i < coins.Length; i++)
             {
                 if (coins[i] > amount) break;
