@@ -135,7 +135,7 @@ C#  First practice with timeout issue in 2019<br>
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/discuss/317377/C-DFS-practice-in-2017) C# DFS practice in 2017<br>
 [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/discuss/317680/C-first-practice-back-in-February-2017) C# first practice back in February 2017<br>
 
-Review 684 Redundant connection
+Review 684 Redundant connection<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) C# solution using union find algorithm implemented using array Aug 11 2018<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) C# solution using disjoint set algorithm to solve using Dictionary<Int, HashSet<int>><br>
 
