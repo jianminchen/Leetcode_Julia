@@ -143,6 +143,9 @@ Review 684 Redundant connection<br>
 I wrote my experience on this topic: [Consistent practice advice](https://leetcode.com/discuss/general-discussion/318537/consistent-practice-advice)<br>
 My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Consistent-Practice-Advice/296196).<br>
 
-
+**June 27, 2019**<br> 
+402. Remove K Digits <br>
+[C# Ideas I practice in 2019](https://leetcode.com/problems/remove-k-digits/discuss/321532/C-Ideas-I-practice-in-2019)<br>
+[C# slide window and bucket sort practice in 2019](https://leetcode.com/problems/remove-k-digits/discuss/321644/C-slide-window-and-bucket-sort-practice-in-2019)<br>
 
   
