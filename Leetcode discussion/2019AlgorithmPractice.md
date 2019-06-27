@@ -139,6 +139,9 @@ Review 684 Redundant connection<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) C# solution using union find algorithm implemented using array Aug 11 2018<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) C# solution using disjoint set algorithm to solve using Dictionary<Int, HashSet<int>><br>
 
+**June 26, 2019**<br>
+I wrote my experience on this topic: [Consistent practice advice](https://leetcode.com/discuss/general-discussion/318537/consistent-practice-advice)<br>
+My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Consistent-Practice-Advice/296196).<br>
 
 
 

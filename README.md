@@ -56,3 +56,6 @@ I can go over my practice and see what are missing in my practice last week or l
 I like to classify algorithms by categories, like https://github.com/Cappuccinuo/LeetCode. <br>
 It is important for me to get more oganized. One of ideas is to put algorithms together based on types, like backtracking, graph algorithm, or depth first search. <br>
 
+**June 26, 2019**
+I wrote my experience on this topic: [Consistent practice advice](https://leetcode.com/discuss/general-discussion/318537/consistent-practice-advice)<br>
+My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Consistent-Practice-Advice/296196).<br>
