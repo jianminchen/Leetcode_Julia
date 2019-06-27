@@ -99,11 +99,8 @@ namespace _402_remove_k_digits
                 if (k == 0)
                 {
                     for (int i = start; i < length; i++)
-                    {
-                        if (smallest.ToString().Length < length - k)
-                        {
-                            smallest.Append(number[i]);
-                        }
+                    {                        
+                        smallest.Append(number[i]);                       
                     }
 
                     break;
