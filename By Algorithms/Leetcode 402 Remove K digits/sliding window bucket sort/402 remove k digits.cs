@@ -71,14 +71,11 @@ namespace _402_remove_k_digits
                         break;
                     }
 
-                    if( (value - '0') > smallestDigit)
-                    {
-                        digits[number[index] - '0']--; // caught by debugger
+                    digits[digit]--; // caught by debugger
 
-                        start++;
-                        index++;
-                        k--;                        
-                    }
+                    start++;
+                    index++;
+                    k--;                                            
                 }                
 
                 // skip one more
