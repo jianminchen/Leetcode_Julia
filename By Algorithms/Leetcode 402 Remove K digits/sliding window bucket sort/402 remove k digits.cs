@@ -40,7 +40,7 @@ namespace _402_remove_k_digits
                 digits[digit]++;
             }
 
-            var samllestLength = length - k;
+            var smallestLength = length - k;
             var smallest = new StringBuilder();
 
             while (start < length)
@@ -92,7 +92,7 @@ namespace _402_remove_k_digits
                 }
 
                 // no more chars to be added - break
-                if (smallest.ToString().Length == samllestLength)
+                if (smallest.ToString().Length == smallestLength)
                     break;
 
                 // no more chars to remove - edge
