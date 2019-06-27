@@ -32,7 +32,7 @@ namespace _402_remove_k_digits
             var digits = new int[10];
             var length = number.Length;
             var start = 0;
-            var end = Math.Min(k, length - 1); // caught by debugger
+            var end   = Math.Min(k, length - 1); // caught by debugger, slide window size maximum is k + 1. 
 
             for (int i = start; i < end + 1; i++)
             {
@@ -40,26 +40,27 @@ namespace _402_remove_k_digits
                 digits[digit]++;
             }
 
-            var smallestLength = length - k;
+            var smallestLength = length - k; // k is changable, so need to declare a variable
             var smallest = new StringBuilder();
 
             while (start < length)
             {
                 var smallestDigit = -1;
                 
-                for (int i = 0; i <= 9; i++)
+                for (int digit = 0; digit <= 9; digit++)
                 {
-                    var count = digits[i];
+                    var count = digits[digit];
                     if (count > 0)
                     {
-                        smallest.Append((char)(i + '0'));
-                        digits[i]--;
-                        smallestDigit = i;  // caught by debugger  
+                        smallest.Append((char)(digit + '0'));
+                        digits[digit]--;
+                        smallestDigit = digit;  // caught by debugger  
                         break;
                     }                    
                 }
 
                 // remove digits 
+                // smallestDigit - skip digit until smallest digit is met
                 int index = start;
                 while (index < length && k > 0)
                 {
@@ -118,6 +119,7 @@ namespace _402_remove_k_digits
                 removeLeadingZeoro.Append(smallest[i]);                
             }
 
+            // return "0" intead of ""
             return removeLeadingZeoro.Length == 0 ? "0" : removeLeadingZeoro.ToString();
         }
     }
