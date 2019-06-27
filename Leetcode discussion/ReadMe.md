@@ -222,6 +222,8 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/discuss/298514/C-apply-depth-first-search-and-also-backtracking-technique) learn from C# code written in 2017<br>
 [402. Remove K digits](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack) optimal solution using stack<br>
 [402. Remove K digits](https://leetcode.com/problems/remove-k-digits/discuss/279637/C-brute-force-solution-time-consuming-and-struggling) brute force solution<br>
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/321532/C-Ideas-I-practice-in-2019) C# Ideas I practice in 2019<br>
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/321644/C-slide-window-and-bucket-sort-practice-in-2019) C# slide window and bucket sort practice in 2019<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
 [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/discuss/296630/C-depth-first-search-with-explanation) Run depth first search to visit all nodes and edges in the graph<br>
