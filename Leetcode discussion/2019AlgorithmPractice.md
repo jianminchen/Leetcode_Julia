@@ -150,6 +150,9 @@ My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Cons
 
 **July 2, 2019**<br>
 42. Trapping Rain Water<br>
+[C# First success submission back in May 2018](https://leetcode.com/problems/trapping-rain-water/discuss/325559/C-First-success-submission-back-in-May-2017)<br>
+
+56 Merge intervals<br>
 [C# First success submission back in May 2017](https://leetcode.com/problems/trapping-rain-water/discuss/325559/C-First-success-submission-back-in-May-2018)<br>
 [C# IComparer class definition practice in February 2017](https://leetcode.com/problems/merge-intervals/discuss/325614/C-IComparer-class-definition-practice-in-February-2017)<br>
 [C# various practice in 2019](https://leetcode.com/problems/merge-intervals/discuss/325624/C-various-practice-in-2019)<br>
