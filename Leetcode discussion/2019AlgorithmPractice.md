@@ -148,4 +148,6 @@ My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Cons
 [C# Ideas I practice in 2019](https://leetcode.com/problems/remove-k-digits/discuss/321532/C-Ideas-I-practice-in-2019)<br>
 [C# slide window and bucket sort practice in 2019](https://leetcode.com/problems/remove-k-digits/discuss/321644/C-slide-window-and-bucket-sort-practice-in-2019)<br>
 
-  
+**July 2, 2019**<br>
+42. Trapping Rain Water<br>
+[C# First success submission back in May 2018](https://leetcode.com/problems/trapping-rain-water/discuss/325559/C-First-success-submission-back-in-May-2018)<br>
