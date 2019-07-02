@@ -212,6 +212,8 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 
 **Medium level (solved 53, shared 20)**<br><br>
 [18. 4 Sum](https://leetcode.com/problems/4sum/discuss/128024/Time-complexity-O(N2)-space-complexity-O(N2)-use-visited-elements-in-the-array-to-build-hashmap) 1 upvote<br>
+[56. Merge intervals](https://leetcode.com/problems/trapping-rain-water/discuss/325559/C-First-success-submission-back-in-May-2018) C# First success submission back in May 2017<br>
+[56. Merge intervals](https://leetcode.com/problems/merge-intervals/discuss/325614/C-IComparer-class-definition-practice-in-February-2017) C# IComparer class definition practice in February 2017<br>
 [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/discuss/223863/C-dynamic-programming) dynamic programming<br> 
 [Leetcode 75: Sort Colors](https://leetcode.com/problems/sort-colors/discuss/278391/C-Work-on-test-case-2-0-1-2-and-then-figure-out-the-idea) the optimal time complexity solution<br>
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/discuss/285427/C-dynamic-programming-written-in-2018) Code written in 2018<br>
