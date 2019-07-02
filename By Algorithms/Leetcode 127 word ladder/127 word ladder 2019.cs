@@ -27,7 +27,7 @@ namespace _127_word_ladder
             }
 
             var dict = new HashSet<string>(wordDict);
-            if (!dict.Contains(beginWord) || !dict.Contains(endWord))
+            if (!dict.Contains(endWord))
                 return 0; 
 
             var queue = new Queue<string>();
