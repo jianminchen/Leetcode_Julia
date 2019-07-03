@@ -166,3 +166,10 @@ My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Cons
 [C# BFS practice in 2019](https://leetcode.com/problems/word-ladder/discuss/325683/C-BFS-practice-in-2019)<br>
 [C# BFS practice back I in June 2016](https://leetcode.com/problems/word-ladder/discuss/325658/C-BFS-practice-back-I-in-June-2016)<br>
 [C# BFS practice back II in June 2016](https://leetcode.com/problems/word-ladder/discuss/325668/C-BFS-practice-back-II-in-June-2016)<br>
+
+
+556. Next Greater Element III<br>
+[C# using stack practice in August 2018](https://leetcode.com/problems/next-greater-element-iii/discuss/325733/C-using-stack-practice-in-August-2018)
+
+
+
