@@ -335,6 +335,8 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 <br>
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/discuss/177462/C-Learn-one-thing-a-time) One thing a time<br>
 [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/discuss/177463/C-hard-level-algorithm-tough-learning-experience)<br>
+July 3, 2019<br>
+[97. Interleaving String](https://leetcode.com/problems/interleaving-string/discuss/326347/C-dynamic-programming-practice-in-August-2018) C# dynamic programming practice in August, 2018<br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/170002/C-optimal-solution-using-dequeue) optimal solution using LinkedList<br>
 [239. Sliding Window Maximum](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20239%20Sliding%20window%20maximum) All submissions, SortedSet, timeout<br>
 [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/291891/C-Level-order-traversal-serialize-and-level-order-deserialize) First practice in December, 2018<br>
