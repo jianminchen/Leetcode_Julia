@@ -171,5 +171,9 @@ My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Cons
 556. Next Greater Element III<br>
 [C# using stack practice in August 2018](https://leetcode.com/problems/next-greater-element-iii/discuss/325733/C-using-stack-practice-in-August-2018)
 
+July 3, 2019<br>
+97. Interleaving String<br>
+[
+C# dynamic programming practice in August, 2018](https://leetcode.com/problems/interleaving-string/discuss/326347/C-dynamic-programming-practice-in-August-2018)<br>
 
 
