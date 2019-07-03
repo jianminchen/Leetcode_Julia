@@ -14,6 +14,7 @@ namespace Leetcode556_nextGreaterElement
     {
         static void Main(string[] args)
         {
+            /*
             var result5 = NextGreaterElement(230241);
             Debug.Assert(result5 == 230412);
 
@@ -28,7 +29,7 @@ namespace Leetcode556_nextGreaterElement
             // 
             var result = NextGreaterElement(14123);
             Debug.Assert(result == 14132);
-
+            */
             var result2 = NextGreaterElement(218765);
             Debug.Assert(result2 == 251678);
         }
