@@ -404,3 +404,24 @@ C# breadth first search practice in 2019 <br>
 
 1090. Largest Values From Labels<br>
 [C# Try to solve using greedy algorithm practice in 2019](https://leetcode.com/problems/largest-values-from-labels/discuss/313984/C-Try-to-solve-using-greedy-algorithm-practice-in-2019)<br>
+
+July 4, 2019<br>
+I went over discuss on Leetcode.com, and then had chance to review my past practice; I quickly wrote posts to share my past practice as well. <br>
+88. Merge Sorted Array<br>
+
+[C# first practice back in August 2018](https://leetcode.com/problems/merge-sorted-array/discuss/326611/C-first-practice-back-in-August-2018)<br>
+
+212 Word search II<br>
+
+[C# First practice using Trie in 2017](https://leetcode.com/problems/word-search-ii/discuss/326680/C-First-practice-using-Trie-in-2017)<br>
+
+[C# practice using Trie and good explanation in detail](https://leetcode.com/problems/word-search-ii/discuss/326687/C-practice-using-Trie-and-good-explanation-in-detail)<br>
+[C# Using Trie with a case study practice in January 2018](https://leetcode.com/problems/word-search-ii/discuss/326693/C-Using-Trie-with-a-case-study-practice-in-January-2018)<br>
+
+57. Insert Interval<br>
+[C# First practice in 2017](https://leetcode.com/problems/insert-interval/discuss/326712/C-First-practice-in-2017)<br>
+[C# Sort intervals using start time first practice in 2017](https://leetcode.com/problems/insert-interval/discuss/326722/C-Sort-intervals-using-start-time-first-practice-in-2017)<br>
+
+28. Implement strStr()<br>
+
+[C# KMP algorithm practice in 2015](https://leetcode.com/problems/implement-strstr/discuss/326732/C-KMP-algorithm-practice-in-2015)<br>
