@@ -1,6 +1,8 @@
 June 24, 2019 <br>
 I will add algorithms later here. Stay tuned. <br>
 
+Two node's distance in binary tree<br>
+
 [Here](http://juliachencoding.blogspot.com/2019/07/amazon-phone-screen-find-shortest.html) is my blog about Amazon two node's distance algorithm on Leetcode.com.<br>
 
 **Root to p downward path** <br>
