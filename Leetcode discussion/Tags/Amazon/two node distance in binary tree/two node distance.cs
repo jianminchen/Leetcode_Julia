@@ -48,6 +48,16 @@ namespace binary_tree_two_node_distance
         public static int distance = -1;
         public static int countToP = 0; 
 
+        /// <summary>
+        /// July 4, 2019
+        /// calculate two node's distance in binary tree
+        /// write the answer for the post on Leetcode.com
+        /// https://leetcode.com/discuss/interview-question/125084/Amazon-Distance-between-2-nodes
+        /// </summary>
+        /// <param name="root"></param>
+        /// <param name="p"></param>
+        /// <param name="q"></param>
+        /// <returns></returns>
         public static int CalculateDistance(TreeNode root, TreeNode p, TreeNode q)
         {
             nodes.Clear();
