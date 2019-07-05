@@ -197,5 +197,7 @@ I went over discuss on Leetcode.com, and then had chance to review my past pract
 
 [C# KMP algorithm practice in 2015](https://leetcode.com/problems/implement-strstr/discuss/326732/C-KMP-algorithm-practice-in-2015)<br>
 
+140. Word Break II<br>
+[C# DFS with memoization practice in July 2019](https://leetcode.com/problems/word-break-ii/discuss/327851/C-DFS-with-memoization-practice-in-July-2019)<br>
 
 
