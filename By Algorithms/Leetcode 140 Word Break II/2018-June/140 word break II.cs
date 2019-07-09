@@ -14,10 +14,10 @@ namespace _140_word_break_II
 
         public static void RunTestcase1()
         {
-            var orginal = "catsanddog";            
+            var orginal = "catsanddog";
             var wordDict = new string[] { "cat", "cats", "and", "sand", "dog" };
 
-            var result = WordBreak(original, wordDict.ToList()); 
+            var result = WordBreak(original, wordDict.ToList());
         }
 
         /// <summary>
@@ -39,9 +39,9 @@ namespace _140_word_break_II
             var dict = new HashSet<string>(list);
             var orginalDict = new HashSet<string>(dict);
 
-            if (canWordBreakUsingDepthFirstSearch(original, dict))
+            if (RunTLETest(original, dict))
             {
-                depthFirstSearchHelper(original, orginalDict, 0, "", res);
+                RunDFS(original, orginalDict, 0, "", res);
             }
 
             return res;
@@ -53,28 +53,31 @@ namespace _140_word_break_II
         /// <param name="original"></param>
         /// <param name="dict"></param>
         /// <param name="start"></param>
-        /// <param name="wordByWord"></param>
-        /// <param name="res"></param>
-        private static void depthFirstSearchHelper(string original, HashSet<string> dict, int start, string wordByWord, IList<string> res)
+        /// <param name="selected"></param>
+        /// <param name="finalBreaks"></param>
+        private static void RunDFS(string original, HashSet<string> dict, int start, string selected, IList<string> finalBreaks)
         {
             // base case 
             if (start >= original.Length)
             {
-                res.Add(wordByWord);
+                finalBreaks.Add(selected);
                 return;
             }
 
-            var stringBuilder = new StringBuilder();
+            var word = new StringBuilder();
 
+            // brute force all possible words starting from start to the end
             for (int i = start; i < original.Length; i++)
             {
-                stringBuilder.Append(original[i]);
-                var current = stringBuilder.ToString();
+                word.Append(original[i]);
+                var current = word.ToString();
 
                 if (dict.Contains(current))
                 {
-                    var newItem = wordByWord.Length > 0 ? (wordByWord + " " + current) : current;
-                    depthFirstSearchHelper(original, dict, i + 1, newItem, res);
+                    // current selected
+                    var wordBreak = selected.Length > 0 ? (selected + " " + current) : current;
+
+                    RunDFS(original, dict, i + 1, wordBreak, finalBreaks);
                 }
             }
         }
@@ -85,7 +88,7 @@ namespace _140_word_break_II
         /// <param name="s"></param>
         /// <param name="wordDict"></param>
         /// <returns></returns>
-        private static bool canWordBreakUsingDepthFirstSearch(String s, HashSet<String> wordDict)
+        private static bool RunTLETest(String s, HashSet<String> wordDict)
         {     //Word Break I
             if (s == null || wordDict == null)
             {
@@ -106,7 +109,7 @@ namespace _140_word_break_II
 
                 if (wordDict.Contains(firstWord))
                 {
-                    if (canWordBreakUsingDepthFirstSearch(rest, wordDict))
+                    if (RunTLETest(rest, wordDict))
                     {
                         return true;
                     }
