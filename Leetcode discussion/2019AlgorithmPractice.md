@@ -130,6 +130,7 @@ June 22 - 24 <br>
 [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/316080/C-First-practice-with-timeout-issue-in-2019) 
 C#  First practice with timeout issue in 2019<br>
 [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/316265/C-Case-study-example-and-then-figure-out-how-to-remove-duplicate-practice-in-2019) First practice in 2019<br>
+[518. Coin Change 2](https://leetcode.com/problems/coin-change-2/discuss/316381/C-Practice-as-many-as-I-can-in-2019) All practices in 2019 <br>
 [78. Subsets](https://leetcode.com/problems/subsets/discuss/317294/C-backtracking-pattern-algorithm-review-in-2019) C# backtracking pattern algorithm review in 2019<br>
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/discuss/317298/C-backtracking-DFS-practice-in-2018) C# backtracking DFS practice in 2018<br>
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/discuss/317377/C-DFS-practice-in-2017) C# DFS practice in 2017<br>
