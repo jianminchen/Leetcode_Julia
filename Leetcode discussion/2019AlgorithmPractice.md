@@ -201,4 +201,9 @@ I went over discuss on Leetcode.com, and then had chance to review my past pract
 140. Word Break II<br>
 [C# DFS with memoization practice in July 2019](https://leetcode.com/problems/word-break-ii/discuss/327851/C-DFS-with-memoization-practice-in-July-2019)<br>
 
+July 15, 2019<br>
+[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/discuss/336029/C-slide-window-template-study-code-practice-in-2019)C# slide window template study code practice in 2019 <br>
+
+
+
 
