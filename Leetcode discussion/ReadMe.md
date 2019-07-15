@@ -425,3 +425,6 @@ I went over discuss on Leetcode.com, and then had chance to review my past pract
 28. Implement strStr()<br>
 
 [C# KMP algorithm practice in 2015](https://leetcode.com/problems/implement-strstr/discuss/326732/C-KMP-algorithm-practice-in-2015)<br>
+
+July 15, 2019<br>
+[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/discuss/336029/C-slide-window-template-study-code-practice-in-2019)C# slide window template study code practice in 2019 <br>
