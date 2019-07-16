@@ -209,5 +209,12 @@ July 16, 2019<br>
 [C# a while loop to practice in 2019](https://leetcode.com/problems/add-binary/discuss/336734/C-a-while-loop-to-practice-in-2019)<br>
 [C# Write a simple for loop practice in 2019](https://leetcode.com/problems/add-binary/discuss/336733/C-Write-a-simple-for-loop-practice-in-2019)<br>
 
+98. Validate Binary Search Tree<br>
+
+[C# post order traversal practice in 2019](https://leetcode.com/problems/validate-binary-search-tree/discuss/336766/C-post-order-traversal-practice-in-2019)<br>
+[C# preorder traversal and warmup stack practice in 2019](https://leetcode.com/problems/validate-binary-search-tree/discuss/336777/C-preorder-traversal-and-warmup-stack-practice-in-2019)<br>
+[C# preorder traversal practice in 2019](https://leetcode.com/problems/validate-binary-search-tree/discuss/336770/C-preorder-traversal-practice-in-2019)<br>
+[C# preorder traversal and previous node's val practice in 2019](https://leetcode.com/problems/validate-binary-search-tree/discuss/336772/C-preorder-traversal-and-previous-node's-val-practice-in-2019)<br>
+
 
 
