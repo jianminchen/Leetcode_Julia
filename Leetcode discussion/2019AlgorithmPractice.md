@@ -204,6 +204,10 @@ I went over discuss on Leetcode.com, and then had chance to review my past pract
 July 15, 2019<br>
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/discuss/336029/C-slide-window-template-study-code-practice-in-2019)C# slide window template study code practice in 2019 <br>
 
+July 16, 2019<br>
+67. Add Binary<br>
+[C# a while loop to practice in 2019](https://leetcode.com/problems/add-binary/discuss/336734/C-a-while-loop-to-practice-in-2019)<br>
+[C# Write a simple for loop practice in 2019](https://leetcode.com/problems/add-binary/discuss/336733/C-Write-a-simple-for-loop-practice-in-2019)<br>
 
 
 
