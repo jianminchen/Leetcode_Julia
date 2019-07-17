@@ -216,5 +216,8 @@ July 16, 2019<br>
 [C# preorder traversal practice in 2019](https://leetcode.com/problems/validate-binary-search-tree/discuss/336770/C-preorder-traversal-practice-in-2019)<br>
 [C# preorder traversal and previous node's val practice in 2019](https://leetcode.com/problems/validate-binary-search-tree/discuss/336772/C-preorder-traversal-and-previous-node's-val-practice-in-2019)<br>
 
+480. Sliding Window Median<br>
+[C# using List.BinarySearch API practice in 2019](https://leetcode.com/problems/sliding-window-median/discuss/336884/C-using-List.BinarySearch-API-practice-in-2019)<br>
+
 
 
