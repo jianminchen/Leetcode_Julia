@@ -219,5 +219,8 @@ July 16, 2019<br>
 480. Sliding Window Median<br>
 [C# using List.BinarySearch API practice in 2019](https://leetcode.com/problems/sliding-window-median/discuss/336884/C-using-List.BinarySearch-API-practice-in-2019)<br>
 
+July 18, 2019<br>
 
+164. Maximum Gap<br>
+[C# My first practice in 2018](https://leetcode.com/problems/maximum-gap/discuss/338436/C-My-first-practice-in-2018)<br>
 
