@@ -224,3 +224,5 @@ July 18, 2019<br>
 164. Maximum Gap<br>
 [C# My first practice in 2018](https://leetcode.com/problems/maximum-gap/discuss/338436/C-My-first-practice-in-2018)<br>
 
+72. Edit distance<br>
+[C# My practice history - dynamic programming](https://leetcode.com/problems/edit-distance/discuss/329708/C-My-practice-history-dynamic-programming)<br>
