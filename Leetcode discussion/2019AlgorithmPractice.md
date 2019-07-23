@@ -172,6 +172,9 @@ My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Cons
 556. Next Greater Element III<br>
 [C# using stack practice in August 2018](https://leetcode.com/problems/next-greater-element-iii/discuss/325733/C-using-stack-practice-in-August-2018)
 
+652. Find Duplicate Subtrees<br>
+[C# post order traversal and use serialized string to help](https://leetcode.com/problems/find-duplicate-subtrees/discuss/201570/C-post-order-traversal-and-use-serialized-string-to-help) Problems found in my first practice in Dec. 2018<br>
+
 July 3, 2019<br>
 97. Interleaving String<br>
 [
