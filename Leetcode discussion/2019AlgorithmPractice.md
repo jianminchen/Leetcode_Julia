@@ -201,8 +201,14 @@ I went over discuss on Leetcode.com, and then had chance to review my past pract
 
 [C# KMP algorithm practice in 2015](https://leetcode.com/problems/implement-strstr/discuss/326732/C-KMP-algorithm-practice-in-2015)<br>
 
-140. Word Break II<br>
+139. Word Break<br>
+[C# Dynamic programming practice in 2016](https://leetcode.com/problems/word-break/discuss/327429/C-Dynamic-programming-practice-in-2016) First time to share my practice in 2016<br>
+
+July 5, 2019<br>
+140. Word Break II (Hard level)<br>
 [C# DFS with memoization practice in July 2019](https://leetcode.com/problems/word-break-ii/discuss/327851/C-DFS-with-memoization-practice-in-July-2019)<br>
+[C# First practice in June 2018](https://leetcode.com/problems/word-break-ii/discuss/327342/C-First-practice-in-June-2018)<br>
+
 
 July 15, 2019<br>
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/discuss/336029/C-slide-window-template-study-code-practice-in-2019)C# slide window template study code practice in 2019 <br>
