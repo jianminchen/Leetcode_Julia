@@ -226,3 +226,8 @@ July 18, 2019<br>
 
 72. Edit distance<br>
 [C# My practice history - dynamic programming](https://leetcode.com/problems/edit-distance/discuss/329708/C-My-practice-history-dynamic-programming)<br>
+
+416. Partition Equal Subset Sum<br>
+[C# dynamic programming practice in 2019](https://leetcode.com/problems/partition-equal-subset-sum/discuss/329585/C-dynamic-programming-practice-in-2019)<br>
+[C# Knapsack problems review in July 2019](https://leetcode.com/problems/partition-equal-subset-sum/discuss/327497/C-Knapsack-problems-review-in-July-2019)<br>
+[C# depth first search and pruning practice in 2019 (July 7, 2019)](https://leetcode.com/problems/partition-equal-subset-sum/discuss/328610/C-depth-first-search-and-pruning-practice-in-2019)<br>
