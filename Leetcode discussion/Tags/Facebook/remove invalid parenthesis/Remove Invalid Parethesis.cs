@@ -45,6 +45,9 @@ namespace removeInvalidParentheses
 
             queue.Enqueue(str);
 
+            /* I believe that the level control has a bug - need to count how many nodes 
+             * in each level, and process level by level in the while loop
+             */
             while (queue.Count > 0)
             {
                 var current = queue.Dequeue(); 
