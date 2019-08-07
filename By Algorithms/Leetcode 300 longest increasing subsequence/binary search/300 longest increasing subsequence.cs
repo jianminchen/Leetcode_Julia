@@ -15,7 +15,11 @@ namespace _300_longest_increasing_subsequence___BS
 
         /// <summary>
         /// study code
-        /// https://leetcode.com/problems/longest-increasing-subsequence/discuss/350839/C-O(N2)-time-complexity-practice-in-July-2017
+        /// https://leetcode.com/problems/longest-increasing-subsequence/discuss/74824/JavaPython-Binary-search-O(nlogn)-time-with-explanation
+        /// Each time we only do one of the two:
+        /// 1. if x is larger than all tails, append it, increase the size by 1
+        /// 2. if tails[i-1] < x <= tails[i], update tails[i]
+        /// 
         /// Time complexity: O(nlogn), n is the length of input argument array
         /// </summary>
         /// <param name="numbers"></param>
