@@ -242,6 +242,10 @@ July 18, 2019<br>
 [C# Knapsack problems review in July 2019](https://leetcode.com/problems/partition-equal-subset-sum/discuss/327497/C-Knapsack-problems-review-in-July-2019)<br>
 [C# depth first search and pruning practice in 2019 (July 7, 2019)](https://leetcode.com/problems/partition-equal-subset-sum/discuss/328610/C-depth-first-search-and-pruning-practice-in-2019)<br>
 
+August 19, 2019<br>
+109 Convert sorted list to binary search tree<br>
+[C# - Inorder traversal idea with iterating the linked list node one by one](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br><br>
+
 August 22, 2019<br>
 33. Search in Rotated Sorted Array<br>
 [C# modified binary search practice on August 22, 2019](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/364923/C-modified-binary-search-practice-on-August-22-2019)<br>
