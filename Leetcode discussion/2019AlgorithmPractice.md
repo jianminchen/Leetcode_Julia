@@ -252,3 +252,21 @@ August 19, 2019<br>
 August 22, 2019<br>
 33. Search in Rotated Sorted Array<br>
 [C# modified binary search practice on August 22, 2019](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/364923/C-modified-binary-search-practice-on-August-22-2019)<br>
+
+August 23, 2019<br>
+Various ideas to practice in 2019. [Here](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/365301/C-various-practices-in-2019) is the link. <br>
+**Time Line: 2019 August 20**
+Onsite interview, whiteboard version with bugs on August 20, 2019, California, MPK, [here](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/365278/Case-study%3A-Road-to-executable-code-on-August-20-2019) is the link. 
+
+**Time Line: 2019 August 22**
+Optimal solution, avoid middle - 1 or middle + 1, practice on August 22, 2019. [Here](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/364923/C-modified-binary-search-practice-on-August-22-2019) is the link.
+
+**Time Line: 2019 August 23**
+Work on idea to define left half [start, middle - 1], practice on August 23, 2019. [here](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/365290/C-introduce-middle-1-and-middle-%2B-1-practice-in-August-23-2019) is the link.
+**Time Line: 2017**
+My practice in 2017. [Here](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/365033/C-binary-search-practice-in-Dec-2017) is the link.
+
+**Time Line: 2017**
+Common mistakes in binary search is my favorite research topic in 2017. [Here](http://juliachencoding.blogspot.com/2017/11/binary-search-algorithm.html) is the blog. 
+
+My mock interview practice in 2017, [here](http://juliachencoding.blogspot.com/2017/11/binary-search-is-always-my-favorite.html) is the blog with [source code link](https://gist.github.com/jianminchen/db779d5e2189e64a0d01416027caa7d9) in the blog as well.
