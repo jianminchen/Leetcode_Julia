@@ -242,6 +242,8 @@ July 18, 2019<br>
 [C# Knapsack problems review in July 2019](https://leetcode.com/problems/partition-equal-subset-sum/discuss/327497/C-Knapsack-problems-review-in-July-2019)<br>
 [C# depth first search and pruning practice in 2019 (July 7, 2019)](https://leetcode.com/problems/partition-equal-subset-sum/discuss/328610/C-depth-first-search-and-pruning-practice-in-2019)<br>
 
+August 17, 2019<br>
+[C# Learn how to construct long prefix suffix table practice in 2019](https://leetcode.com/problems/shortest-palindrome/discuss/361125/C-Learn-how-to-construct-long-prefix-suffix-table-practice-in-2019)<br><br>
 August 19, 2019<br>
 109 Convert sorted list to binary search tree<br>
 [C# - Inorder traversal idea with iterating the linked list node one by one](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/169375/C-bottom-up-approach-by-iterating-the-linked-list-node-one-by-one)<br><br>
