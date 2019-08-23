@@ -241,3 +241,7 @@ July 18, 2019<br>
 [C# dynamic programming practice in 2019](https://leetcode.com/problems/partition-equal-subset-sum/discuss/329585/C-dynamic-programming-practice-in-2019)<br>
 [C# Knapsack problems review in July 2019](https://leetcode.com/problems/partition-equal-subset-sum/discuss/327497/C-Knapsack-problems-review-in-July-2019)<br>
 [C# depth first search and pruning practice in 2019 (July 7, 2019)](https://leetcode.com/problems/partition-equal-subset-sum/discuss/328610/C-depth-first-search-and-pruning-practice-in-2019)<br>
+
+August 22, 2019<br>
+33. Search in Rotated Sorted Array<br>
+[C# modified binary search practice on August 22, 2019](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/364923/C-modified-binary-search-practice-on-August-22-2019)<br>
