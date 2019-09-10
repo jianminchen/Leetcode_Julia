@@ -270,3 +270,12 @@ My practice in 2017. [Here](https://leetcode.com/problems/search-in-rotated-sort
 Common mistakes in binary search is my favorite research topic in 2017. [Here](http://juliachencoding.blogspot.com/2017/11/binary-search-algorithm.html) is the blog. 
 
 My mock interview practice in 2017, [here](http://juliachencoding.blogspot.com/2017/11/binary-search-is-always-my-favorite.html) is the blog with [source code link](https://gist.github.com/jianminchen/db779d5e2189e64a0d01416027caa7d9) in the blog as well.
+
+**126. Word Ladder II**<br>
+
+[C# Time limit exceeded practice in 2019](https://leetcode.com/problems/word-ladder-ii/discuss/325653/C-Time-limit-exceeded-practice-in-2019)<br>
+[C# creative idea to create a graph and then construct shortest path map practice in 2019](https://leetcode.com/problems/word-ladder-ii/discuss/379124/C-creative-idea-to-create-a-graph-and-then-construct-shortest-path-map-practice-in-2019)<br>
+
+
+
+
