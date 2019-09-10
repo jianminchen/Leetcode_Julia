@@ -456,3 +456,7 @@ My mock interview practice in 2017, [here](http://juliachencoding.blogspot.com/2
 [C# Time limit exceeded practice in 2019](https://leetcode.com/problems/word-ladder-ii/discuss/325653/C-Time-limit-exceeded-practice-in-2019)<br>
 [C# creative idea to create a graph and then construct shortest path map practice in 2019](https://leetcode.com/problems/word-ladder-ii/discuss/379124/C-creative-idea-to-create-a-graph-and-then-construct-shortest-path-map-practice-in-2019)<br>
 
+simple version:<br>
+Find all paths from given start word and end word, also a dictionary of words to connect, one char to change every step. 
+
+[Brute force solution - using DFS - Sept. 2019](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign/tree/master/leetcode%20126%20word%20ladder%20II)<br>
