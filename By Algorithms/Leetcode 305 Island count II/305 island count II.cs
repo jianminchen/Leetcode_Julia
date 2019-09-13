@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,6 +23,11 @@ namespace _305_island_count_II
             positions[4] = new int[] {1,1};
 
             var count = numIsland2(m, n, positions);
+            Debug.Assert(count[0] == 1);
+            Debug.Assert(count[1] == 1);
+            Debug.Assert(count[2] == 2);
+            Debug.Assert(count[3] == 3);
+            Debug.Assert(count[4] == 1);
         }
 
         /// <summary>
@@ -77,7 +83,7 @@ namespace _305_island_count_II
 
                     if (nextRow < 0  || nextRow >= m ||
                         nextCol < 0  || nextCol >= n ||
-                       roots[current] == -1)
+                        roots[current] == -1)
                     {
                         continue; 
                     }
