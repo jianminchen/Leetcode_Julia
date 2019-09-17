@@ -1,2 +1,6 @@
-Sept. 9, 2019<br>
-I like to work on test cases for Leetcode algorithms. I think that a good problem solver should think about test cases, and also try to run the code more often, and push hard to think about possible problems. <br>
+Sept. 6, 2019<br>
+
+It is time for me to learn how to master an algorithm by looking to test cases. I need to learn how to break my own code, come out edge case, possible failures by looking at my own code. <br>
+
+I like to start from the first algorithm called 33. Search Rotated sorted array. <br>
+

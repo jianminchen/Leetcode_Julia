@@ -37,6 +37,9 @@ namespace _305_island_count_II
         /// n - columns of matrix 
         /// positions - element with value > 0 
         /// 
+        /// since all positions may not be sorted from top left to bottom down, row by row from top to down, 
+        /// column by column from left to right. It is necessary to check all four neighbors, if there is
+        /// one neighbor is part of island, two island should be unioned. 
         /// </summary>
         /// <param name="m"></param>
         /// <param name="n"></param>
