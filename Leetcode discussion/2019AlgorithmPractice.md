@@ -281,5 +281,8 @@ Find all paths from given start word and end word, also a dictionary of words to
 
 [Brute force solution - using DFS - Sept. 2019](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign/tree/master/leetcode%20126%20word%20ladder%20II)<br>
 
+**Sept. 23, 2019**<br>
+1202. Smallest String With Swaps<br>
 
+[C# union find algorithm practice in 2019](https://leetcode.com/problems/smallest-string-with-swaps/discuss/388924/C-union-find-algorithm-practice-in-2019)<br>
 
