@@ -462,3 +462,6 @@ simple version:<br>
 Find all paths from given start word and end word, also a dictionary of words to connect, one char to change every step. 
 
 [Brute force solution - using DFS - Sept. 2019](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign/tree/master/leetcode%20126%20word%20ladder%20II)<br>
+
+1200. Minimum Absolute Difference<br>
+[C# Sort the array and then find the minimum](https://leetcode.com/problems/minimum-absolute-difference/discuss/387639/C-Sort-the-array-and-then-find-the-minimum)
