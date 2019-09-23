@@ -328,6 +328,8 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 **Medium level union find algorithm**<br>
 [721. Accounts merge](https://leetcode.com/problems/accounts-merge/discuss/264069/C-Customize-a-union-find-algorithm) Union find algorithm<br>
 <br>
+[1202. Smallest String With Swaps<br>](https://leetcode.com/problems/smallest-string-with-swaps/discuss/388924/C-union-find-algorithm-practice-in-2019)C# union find algorithm practice in 2019<br><br>
+
 **Hard level (solved 33, shared 5)**<br><br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/177442/C-practice-makes-perfect)<br>
 [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/discuss/217272/C-One-more-elegant-solution) One more elegant solution<br>
