@@ -290,3 +290,5 @@ Find all paths from given start word and end word, also a dictionary of words to
 
 [C# union find algorithm practice in 2019](https://leetcode.com/problems/smallest-string-with-swaps/discuss/388924/C-union-find-algorithm-practice-in-2019)<br>
 
+[C# union find algorithm warmup practice in 2019](https://leetcode.com/problems/smallest-string-with-swaps/discuss/389547/C-union-find-algorithm-warmup-practice-in-2019)<br>
+
