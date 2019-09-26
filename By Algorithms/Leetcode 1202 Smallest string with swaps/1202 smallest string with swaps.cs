@@ -117,17 +117,21 @@ namespace unionFind
             return node == parent[node] ? node : parent[node] = findParent(parent, parent[node]);
         }
 
+        /// <summary>
+        /// Simplify API
+        /// </summary>
+        /// <param name="parent"></param>
+        /// <param name="first"></param>
+        /// <param name="second"></param>
         private static void union(int[] parent, int first, int second)
         {
-            int iterate = first;
-            var newParent = findParent(parent, second);
+            var firstParent  = findParent(parent, first);
+            var secondParent = findParent(parent, second);
 
-            while (iterate != newParent)
-            {
-                var tmp = findParent(parent, iterate);
-                parent[iterate] = newParent;
-                iterate = tmp;
-            }
+            if(firstParent == secondParent)
+                return;
+
+            parent[firstParent] = secondParent;             
         }
     }
 }
