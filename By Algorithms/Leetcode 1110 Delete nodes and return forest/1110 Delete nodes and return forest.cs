@@ -78,14 +78,19 @@ namespace _1110_delete_nodes_in_forest
             
             if(isDelete)
             {
-                if(parent != null && parent.left == root)
+                if (parent != null && parent.left == root)
+                {
                     parent.left = null;
-                if(parent != null && parent.right == root)
+                }
+
+                if (parent != null && parent.right == root)
+                {
                     parent.right = null;
+                }
             }
 
             var nextParent = isDelete? null : root; 
-            runDFS(root.left, to_delete, nodes, nextParent);
+            runDFS(root.left,  to_delete, nodes, nextParent);
             runDFS(root.right, to_delete, nodes, nextParent);
         }
     }
