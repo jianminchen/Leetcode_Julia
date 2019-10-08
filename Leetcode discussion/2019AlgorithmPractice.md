@@ -5,6 +5,7 @@ I always like to use this quote to remind me to stay humble, and continue to pus
 I like to list all algorithms I practice in 2019. I need to constantly find new algorithms to work on, and also review my past practice as well. 
 
 I can easily find out what algorithms I solve by looking up my github page and sorting by the date time. [Here](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion/2019) is the folder to contain images of all algorithms I save in Leetcode source code folder.<br><br>
+
 **2018** <br>
 2018 - November <br>
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree) C# optimal time complexity O(h * h), h is the height of tree (3 upvotes!)<br><br>
@@ -24,10 +25,12 @@ Feb. 2 <br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/231134/C-leetcode-online-judge-for-C-test-case-is-problematic) C# leetcode online judge for C# test case is problematic<br>
 [996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/244279/C-backtracking-and-depth-first-search)<br>
 [996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation) Learn from a casual coder, 3 upvotes(May 1, 2019)<br>
+<br>
 2019 - March <br>
 March 21, 2019<br>
 [1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259667/C-Study-code-from-ranking-No.-1-in-weekly-contest-128)C# Study code from ranking No. 1 in weekly contest 128 (4 upvotes up to Oct. 8, 2019)<br>
 [1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259737/C-standard-depth-first-search-with-back-tracking)C# standard depth first search with back tracking (1 upvotes up to Oct. 8, 2019)<br>
+<br>
 2019 - April <br>
 4/29<br>
 [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/282915/C-dynamic-programming-solution-readable-code) C# dynamic programming solution readable code<br>
