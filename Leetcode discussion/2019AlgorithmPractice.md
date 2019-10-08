@@ -28,8 +28,8 @@ Feb. 2 <br>
 <br>
 2019 - March <br>
 March 21, 2019<br>
-[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259667/C-Study-code-from-ranking-No.-1-in-weekly-contest-128)C# Study code from ranking No. 1 in weekly contest 128 (4 upvotes up to Oct. 8, 2019)<br>
-[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259737/C-standard-depth-first-search-with-back-tracking)C# standard depth first search with back tracking (1 upvotes up to Oct. 8, 2019)<br>
+[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259667/C-Study-code-from-ranking-No.-1-in-weekly-contest-128) C# Study code from ranking No. 1 in weekly contest 128 (4 upvotes up to Oct. 8, 2019)<br>
+[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259737/C-standard-depth-first-search-with-back-tracking) C# standard depth first search with back tracking (1 upvotes up to Oct. 8, 2019)<br>
 <br>
 2019 - April <br>
 4/29<br>
