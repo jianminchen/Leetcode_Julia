@@ -5,6 +5,7 @@ I always like to use this quote to remind me to stay humble, and continue to pus
 I like to list all algorithms I practice in 2019. I need to constantly find new algorithms to work on, and also review my past practice as well. 
 
 I can easily find out what algorithms I solve by looking up my github page and sorting by the date time. [Here](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion/2019) is the folder to contain images of all algorithms I save in Leetcode source code folder.<br><br>
+
 **2018** <br>
 2018 - November <br>
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree) C# optimal time complexity O(h * h), h is the height of tree (3 upvotes!)<br><br>
@@ -24,7 +25,12 @@ Feb. 2 <br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/231134/C-leetcode-online-judge-for-C-test-case-is-problematic) C# leetcode online judge for C# test case is problematic<br>
 [996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/244279/C-backtracking-and-depth-first-search)<br>
 [996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation) Learn from a casual coder, 3 upvotes(May 1, 2019)<br>
+<br>
 2019 - March <br>
+March 21, 2019<br>
+[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259667/C-Study-code-from-ranking-No.-1-in-weekly-contest-128) C# Study code from ranking No. 1 in weekly contest 128 (4 upvotes up to Oct. 8, 2019)<br>
+[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259737/C-standard-depth-first-search-with-back-tracking) C# standard depth first search with back tracking (1 upvotes up to Oct. 8, 2019)<br>
+<br>
 2019 - April <br>
 4/29<br>
 [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/282915/C-dynamic-programming-solution-readable-code) C# dynamic programming solution readable code<br>
@@ -32,7 +38,7 @@ Feb. 2 <br>
 [1033. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/discuss/282955/C-it-is-hard-to-understand-the-problem) Ever tried. Ever failed. No matter. Try again<br>
 4/23<br>
 [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/discuss/301138/C-First-practice-in-April-2019)  C# First practice in April 2019<br>
-4/22<br>
+4/22/2019<br>
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/discuss/278391/C-Work-on-test-case-2-0-1-2-and-then-figure-out-the-idea) C# Work on test case [2, 0, 1, 2] and then figure out the idea<br>
 [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/discuss/301133/C-Need-to-figure-out-how-to-write-more-efficient-code-less-time) Need to shorten the time<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack) C# easy to write using stack with analysis<br>

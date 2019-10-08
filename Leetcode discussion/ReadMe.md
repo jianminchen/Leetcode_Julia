@@ -364,7 +364,9 @@ July 3, 2019<br>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/203070/Python-find-first-node-in-the-post-order-and-then-make-it-repeatable) idea I learned as interviewer<br>
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/discuss/219630/C-Road-to-master-this-tree-algorithm) idea I learned from Taras comment from a casual coder blog<br>
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/discuss/301109/C-Double-Linked-List-and-HashMap-practice-1218-test-case-passed-May-2019) May 2019 pass 12/ 18 test cases<br>
-[]()<br>
+March 21, 2019<br>
+[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259667/C-Study-code-from-ranking-No.-1-in-weekly-contest-128) C# Study code from ranking No. 1 in weekly contest 128 (4 upvotes up to Oct. 8, 2019)<br>
+[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259737/C-standard-depth-first-search-with-back-tracking) C# standard depth first search with back tracking (1 upvotes up to Oct. 8, 2019)<br>
 
 
 **My favorite algorithms**<br>
