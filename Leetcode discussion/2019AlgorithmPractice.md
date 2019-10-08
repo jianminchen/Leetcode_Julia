@@ -25,6 +25,9 @@ Feb. 2 <br>
 [996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/244279/C-backtracking-and-depth-first-search)<br>
 [996. Number of squareful arrays](https://leetcode.com/problems/number-of-squareful-arrays/discuss/245490/C-depth-first-search-and-back-tracking-with-explanation) Learn from a casual coder, 3 upvotes(May 1, 2019)<br>
 2019 - March <br>
+March 21, 2019<br>
+[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259667/C-Study-code-from-ranking-No.-1-in-weekly-contest-128)C# Study code from ranking No. 1 in weekly contest 128 (4 upvotes up to Oct. 8, 2019)<br>
+[1012. Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/discuss/259737/C-standard-depth-first-search-with-back-tracking)C# standard depth first search with back tracking (1 upvotes up to Oct. 8, 2019)<br>
 2019 - April <br>
 4/29<br>
 [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/discuss/282915/C-dynamic-programming-solution-readable-code) C# dynamic programming solution readable code<br>
