@@ -38,7 +38,7 @@ March 21, 2019<br>
 [1033. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/discuss/282955/C-it-is-hard-to-understand-the-problem) Ever tried. Ever failed. No matter. Try again<br>
 4/23<br>
 [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/discuss/301138/C-First-practice-in-April-2019)  C# First practice in April 2019<br>
-4/22<br>
+4/22/2019<br>
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/discuss/278391/C-Work-on-test-case-2-0-1-2-and-then-figure-out-the-idea) C# Work on test case [2, 0, 1, 2] and then figure out the idea<br>
 [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/discuss/301133/C-Need-to-figure-out-how-to-write-more-efficient-code-less-time) Need to shorten the time<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/279635/C-easy-to-write-using-stack) C# easy to write using stack with analysis<br>
