@@ -45,10 +45,11 @@ namespace _1049_last_stone_weight_II
             for (int i = 0; i < length; i++)
             {
                 var current = stones[i];
+                
                 for (int j = sum / 2; j >= current; j--)
                 {
                     found[j] = found[j] | found[j - current];
-                }
+                }                
             }
 
             // Find maximum sum less and equal to sum/2. 
