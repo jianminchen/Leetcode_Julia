@@ -304,7 +304,10 @@ Oct. 12, 2019<br>
 [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/discuss/403761/c-count-l-as-1-and-r-as-1) C# count 'L' as -1 and 'R' as +1<br>
 [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/402910/c-bfs-search-starting-from-root-node-practice-in-2019) C# BFS search starting from root node practice in 2019<br>
 [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/discuss/402856/c-timeout-issue-are-so-rewarding-in-my-practice-in-2019) C# timeout issue are so rewarding in my practice in 2019<br>
+Oct. 5, 2019<br>
+[1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/398348/C-dynamic-programming-solution-practice-in-2019) C# dynamic programming solution practice in 2019<br>
 
 Review two practice back in 2017
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402367/c-apply-some-matrix-technique-practice-in-2017) C# Apply some matrix technique practice in 2017<br>
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402366/C-First-practice-straightforward-solution-in-2017) C# First practice - straightforward solution in 2017<br>
+
