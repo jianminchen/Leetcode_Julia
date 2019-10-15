@@ -310,6 +310,8 @@ Sept. 26, 2019<br>
 Sept. 30, 2019<br>
 [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/discuss/394428/C-Use-hash-map-and-hash-set-to-solve-the-problem) C# Use hash map and hash set to solve the problem<br>
 [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/discuss/394419/C-sliding-window-to-achieve-linear-time-complexity-practice-in-2019) C# sliding window to achieve linear time complexity practice in 2019<br>
+
+**October 2019**<br>
 Oct. 5, 2019<br>
 [1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/398348/C-dynamic-programming-solution-practice-in-2019) C# dynamic programming solution practice in 2019<br>
 Oct. 11, 2019<br>
