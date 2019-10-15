@@ -320,7 +320,7 @@ Oct. 12, 2019<br>
 [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/discuss/403768/c-loop-on-each-direction-starting-from-king-position-practice) C# Loop on each direction starting from king position practice<br>
 [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/discuss/403761/c-count-l-as-1-and-r-as-1) C# count 'L' as -1 and 'R' as +1<br>
 
-Review two practice back in 2017
+Review two practice back in 2017<br>
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402367/c-apply-some-matrix-technique-practice-in-2017) C# Apply some matrix technique practice in 2017<br>
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402366/C-First-practice-straightforward-solution-in-2017) C# First practice - straightforward solution in 2017<br>
 
