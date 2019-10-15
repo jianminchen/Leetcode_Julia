@@ -299,15 +299,29 @@ Find all paths from given start word and end word, also a dictionary of words to
 [C# union find algorithm warmup practice in 2019](https://leetcode.com/problems/smallest-string-with-swaps/discuss/389547/C-union-find-algorithm-warmup-practice-in-2019)<br>
 
 **Oct. 15, 2019**<br>
+<br>
+
+Sept. 23, 2019<br>
+[1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/discuss/388924/C-union-find-algorithm-practice-in-2019) C# union find algorithm practice in 2019<br>
+Sept. 24, 2019<br>
+[1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/discuss/389547/C-union-find-algorithm-warmup-practice-in-2019) C# union find algorithm warmup practice in 2019<br>
+<br>
+Sept. 26, 2019<br>
+[1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/discuss/391262/C-preorder-traversal-practice-in-2019) C# preorder traversal practice in 2019<br>
+Sept. 30, 2019<br>
+[1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/discuss/394428/C-Use-hash-map-and-hash-set-to-solve-the-problem) C# Use hash map and hash set to solve the problem<br>
+[1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/discuss/394419/C-sliding-window-to-achieve-linear-time-complexity-practice-in-2019) C# sliding window to achieve linear time complexity practice in 2019<br>
+Oct. 5, 2019<br>
+[1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/398348/C-dynamic-programming-solution-practice-in-2019) C# dynamic programming solution practice in 2019<br>
+Oct. 11, 2019<br>
+[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/402910/c-bfs-search-starting-from-root-node-practice-in-2019) C# BFS search starting from root node practice in 2019<br>
+[966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/discuss/402856/c-timeout-issue-are-so-rewarding-in-my-practice-in-2019) C# timeout issue are so rewarding in my practice in 2019<br>
 Oct. 12, 2019<br>
 [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/discuss/403768/c-loop-on-each-direction-starting-from-king-position-practice) C# Loop on each direction starting from king position practice<br>
 [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/discuss/403761/c-count-l-as-1-and-r-as-1) C# count 'L' as -1 and 'R' as +1<br>
-[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/discuss/402910/c-bfs-search-starting-from-root-node-practice-in-2019) C# BFS search starting from root node practice in 2019<br>
-[966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/discuss/402856/c-timeout-issue-are-so-rewarding-in-my-practice-in-2019) C# timeout issue are so rewarding in my practice in 2019<br>
-Oct. 5, 2019<br>
-[1218. Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/discuss/398348/C-dynamic-programming-solution-practice-in-2019) C# dynamic programming solution practice in 2019<br>
 
 Review two practice back in 2017
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402367/c-apply-some-matrix-technique-practice-in-2017) C# Apply some matrix technique practice in 2017<br>
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402366/C-First-practice-straightforward-solution-in-2017) C# First practice - straightforward solution in 2017<br>
+
 
