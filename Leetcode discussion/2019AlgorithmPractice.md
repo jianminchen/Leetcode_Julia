@@ -280,6 +280,7 @@ My mock interview practice in 2017, [here](http://juliachencoding.blogspot.com/2
 **126. Word Ladder II**<br>
 
 [C# Time limit exceeded practice in 2019](https://leetcode.com/problems/word-ladder-ii/discuss/325653/C-Time-limit-exceeded-practice-in-2019)<br>
+Sept. 12, 2019<br>
 [C# creative idea to create a graph and then construct shortest path map practice in 2019](https://leetcode.com/problems/word-ladder-ii/discuss/379124/C-creative-idea-to-create-a-graph-and-then-construct-shortest-path-map-practice-in-2019)<br>
 
 simple version:<br>
