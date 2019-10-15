@@ -322,6 +322,8 @@ Oct. 12, 2019<br>
 [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/discuss/403761/c-count-l-as-1-and-r-as-1) C# count 'L' as -1 and 'R' as +1<br>
 
 Review two practice back in 2017<br>
+I found the blog written in May 2016, just one month before my first Amazon onsite interview in the city of Vancouver. I was shy at that time, I used to talk to myself, Julia should be "I". I learn the way to describe myself using she/ her/ Julia. So sweet to read the blog written in 2016. Sweet memory. <br>
+[48. Rotate image](http://juliachencoding.blogspot.com/2016/05/leetcode-48-rotate-image.html) is the blog. <br>
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402367/c-apply-some-matrix-technique-practice-in-2017) C# Apply some matrix technique practice in 2017<br>
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402366/C-First-practice-straightforward-solution-in-2017) C# First practice - straightforward solution in 2017<br>
 
