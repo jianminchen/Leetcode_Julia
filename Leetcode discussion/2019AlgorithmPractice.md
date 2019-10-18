@@ -327,4 +327,9 @@ I found the blog written in May 2016, just one month before my first Amazon onsi
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402367/c-apply-some-matrix-technique-practice-in-2017) C# Apply some matrix technique practice in 2017<br>
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/discuss/402366/C-First-practice-straightforward-solution-in-2017) C# First practice - straightforward solution in 2017<br>
 
+Review 54 Spiral matrix <br>
+**54 Spiral matrix**<br>
+[54 Spiral matrix](https://leetcode.com/problems/spiral-matrix/discuss/337032/C-straightforward-solution-written-in-2015) My first practice back in 2015<br>
+[54 Spiral matrix](https://leetcode.com/problems/spiral-matrix/discuss/274057/C-a-few-ideas-to-expedite-the-problem-solving) a few ideas to expedite the problem solving <br>
+[54 Spiral matrix](https://leetcode.com/problems/spiral-matrix/discuss/407992/C-Using-direction-array-and-no-extra-space-for-visit-marking-practice-in-2018) optimal space - direction array<br>
 
