@@ -333,3 +333,9 @@ Review 54 Spiral matrix <br>
 [54 Spiral matrix](https://leetcode.com/problems/spiral-matrix/discuss/274057/C-a-few-ideas-to-expedite-the-problem-solving) a few ideas to expedite the problem solving <br>
 [54 Spiral matrix](https://leetcode.com/problems/spiral-matrix/discuss/407992/C-Using-direction-array-and-no-extra-space-for-visit-marking-practice-in-2018) optimal space - direction array<br>
 
+Oct 19 - Oct. 21 <br>
+1234. Replace the Substring for Balanced String<br>
+[1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/discuss/409064/C-sliding-window-technique-extra-time-needed) C# sliding window technique - extra time needed <br>
+[1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/discuss/409185/C-Code-study%3A-a-solution-can-be-written-in-two-loops) C# Code study: a solution can be written in two loops<br>
+[1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/discuss/409254/C-code-study%3A-Weekly-contest-159-ranking-No.-1-binary-search) C# code study: Weekly contest 159 ranking No. 1 - binary search<br>
+
