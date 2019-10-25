@@ -15,6 +15,11 @@ namespace _1128_Number_of_dominos
         /// <summary>
         /// Oct. 25, 2019
         /// 1128. Number of Equivalent Domino Pairs
+        /// Failed test case:
+        /// 1. [[1,2],[1,2],[1,1],[1,2],[2,2]] should be 3, not 0
+        /// 2. [[1,2],[1,2],[1,1],[1,2],[2,2]] should be 3, not 2
+        /// 3. [[1,1],[2,2],[1,1],[1,2],[1,2],[1,1]] should be 4, not 7
+        /// 
         /// </summary>
         /// <param name="dominoes"></param>
         /// <returns></returns>
