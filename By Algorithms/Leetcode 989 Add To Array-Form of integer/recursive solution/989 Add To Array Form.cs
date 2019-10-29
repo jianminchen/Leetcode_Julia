@@ -25,7 +25,7 @@ namespace _989_Add_To_Array_Form
         public static IList<int> AddToArrayForm(int[] A, int K) 
         {
             if(K == 0)
-            {
+            {               
                 return A.ToList(); 
             }
         
