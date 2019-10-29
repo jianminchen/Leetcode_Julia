@@ -353,3 +353,5 @@ Oct. 21 - Oct. 25, 2019<br>
 Oct. 29, 2019<br>
 [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/discuss/415630/C-Design-algorithm-using-DFS-similar-to-Sudoku-solver) Design algorithm using DFS similar to Sudoku solver<br>
 [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/416195/C-Learn-IEnumerable-Skip-and-Take-API) C# Learn IEnumerable Skip and Take API<br>
+[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/416282/C-iterative-solution) 
+C# iterative solution<br>
