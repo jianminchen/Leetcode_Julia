@@ -355,3 +355,4 @@ Oct. 29, 2019<br>
 [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/416195/C-Learn-IEnumerable-Skip-and-Take-API) C# Learn IEnumerable Skip and Take API<br>
 [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/416282/C-iterative-solution) 
 C# iterative solution<br>
+[1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/416367/C-A-solution-with-readable-code-using-DFS) C# A solution with readable code using DFS<br>
