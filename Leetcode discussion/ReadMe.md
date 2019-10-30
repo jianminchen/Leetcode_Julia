@@ -467,3 +467,21 @@ Find all paths from given start word and end word, also a dictionary of words to
 
 1200. Minimum Absolute Difference<br>
 [C# Sort the array and then find the minimum](https://leetcode.com/problems/minimum-absolute-difference/discuss/387639/C-Sort-the-array-and-then-find-the-minimum)
+
+Oct. 21 - Oct. 25, 2019<br>
+[1170. Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/discuss/413413/C-Sort-first-and-then-get-count-of-smallest-character) C# Sort first and then get count of smallest character<br>
+[985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/discuss/413410/C-Using-dynamic-programming-to-track-sum-of-even-numbers) C# Using dynamic programming to track sum of even numbers<br>
+[1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/discuss/413394/C-Learn-from-three-failed-test-cases) C# Learn from three failed test cases<br>
+[999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/discuss/412915/C-work-on-directions-and-also-boundary-check-carefully) C# work on directions and also boundary check carefully<br>
+[1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/discuss/412905/C-Good-learning-experience) C# Good learning experience<br>
+[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/discuss/412901/C-optimal-time-and-space-complexity) C# optimal time and space complexity<br>
+[1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/412900/C-Counting-sort-technique) C# Counting sort technique<br>
+[1051. Height Checker](https://leetcode.com/problems/height-checker/discuss/412893/C-Solve-60-easy-level-algorithms-No-1-of-60) C# Solve 60 easy level algorithms - No 1 of 60<br>
+ 
+
+Oct. 29, 2019<br>
+[1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/discuss/415630/C-Design-algorithm-using-DFS-similar-to-Sudoku-solver) Design algorithm using DFS similar to Sudoku solver<br>
+[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/416195/C-Learn-IEnumerable-Skip-and-Take-API) C# Learn IEnumerable Skip and Take API<br>
+[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/416282/C-iterative-solution) 
+C# iterative solution<br>
+[1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/discuss/416367/C-A-solution-with-readable-code-using-DFS) C# A solution with readable code using DFS<br>
