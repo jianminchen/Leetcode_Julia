@@ -359,3 +359,7 @@ C# iterative solution<br>
 
 Oct. 31, 2019<br>
 [475. Heaters](https://leetcode.com/problems/heaters/discuss/417821/C-binary-search-to-avoid-timeout-issue) C# binary search to avoid timeout issue<br>
+
+Nov. 2, 2019<br>
+[1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419477/C-preprocess-the-array-first) C# - preprocess the array first<br>
+[1247. Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/discuss/419458/c-learn-from-two-test-cases) C# learn from two test cases<br>
