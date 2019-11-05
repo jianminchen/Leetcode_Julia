@@ -363,3 +363,7 @@ Oct. 31, 2019<br>
 Nov. 2, 2019<br>
 [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419477/C-preprocess-the-array-first) C# - preprocess the array first<br>
 [1247. Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/discuss/419458/c-learn-from-two-test-cases) C# learn from two test cases<br>
+
+Nov. 5, 2019<br>
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/discuss/421606/C-dynamic-programming-using-O(1)-space) 
+C# dynamic programming using O(1) space<br>
