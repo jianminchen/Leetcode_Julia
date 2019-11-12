@@ -489,3 +489,6 @@ C# iterative solution<br>
 Nov. 4, 2019<br>
 [1247. Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/discuss/419458/C-learn-from-two-test-cases) C# learn from two test cases<br>
 [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419477/C-preprocess-the-array-first) C# - preprocess the array first<br>
+
+Nov., 12, 2019<br>
+[1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/discuss/427629/C-Work-on-basics-while-loop) C# Work on basics - while loop<br>
