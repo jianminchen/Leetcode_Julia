@@ -372,3 +372,6 @@ C# count chars in "ablon" and then calculate minimum value by a factor<br>
 
 Nov. 14, 2019<br>
 [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/discuss/429230/C-Fail-three-times-to-succeed) C# Fail three times to succeed<br>
+[299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/discuss/429331/C-digit-count-and-comparison-count) C# digit count and comparison count of same digit same position<br>
+
+
