@@ -370,6 +370,9 @@ C# dynamic programming using O(1) space<br>
 [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/discuss/427688/C-count-chars-in-%22ablon%22-and-then-calculate-minimum-value-by-a-factor) 
 C# count chars in "ablon" and then calculate minimum value by a factor<br>
 
+Nov., 12, 2019<br>
+[1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/discuss/427629/C-Work-on-basics-while-loop) C# Work on basics - while loop<br>
+
 Nov. 14, 2019<br>
 [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/discuss/429230/C-Fail-three-times-to-succeed) C# Fail three times to succeed<br>
 [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/discuss/429331/C-digit-count-and-comparison-count) C# digit count and comparison count of same digit same position<br>
