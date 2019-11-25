@@ -380,6 +380,6 @@ Nov. 14, 2019<br>
 Nov. 24, 2019<br>
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/435402/C-mock-interview-performance-with-code-review-in-2019) C# mock interview performance with code review in 2019<br>
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/discuss/435396/c-using-level-by-level-traversal-practice-in-2019) C# using level by level traversal practice in 2019<br>
-[https://leetcode.com/problems/sqrtx/discuss/435381/c-binary-search-practice-with-challenges-in-2019](C# binary search practice with challenges in 2019) C# binary search practice with challenges in 2019<br>
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/discuss/435381/c-binary-search-practice-with-challenges-in-2019) C# binary search practice with challenges in 2019<br>
 
 
