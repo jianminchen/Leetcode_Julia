@@ -377,4 +377,9 @@ Nov. 14, 2019<br>
 [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/discuss/429230/C-Fail-three-times-to-succeed) C# Fail three times to succeed<br>
 [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/discuss/429331/C-digit-count-and-comparison-count) C# digit count and comparison count of same digit same position<br>
 
+Nov. 24, 2019<br>
+[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/435402/C-mock-interview-performance-with-code-review-in-2019) C# mock interview performance with code review in 2019<br>
+[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/discuss/435396/c-using-level-by-level-traversal-practice-in-2019) C# using level by level traversal practice in 2019<br>
+[https://leetcode.com/problems/sqrtx/discuss/435381/c-binary-search-practice-with-challenges-in-2019](C# binary search practice with challenges in 2019) C# binary search practice with challenges in 2019<br>
+
 
