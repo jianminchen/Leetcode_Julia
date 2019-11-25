@@ -490,5 +490,10 @@ Nov. 4, 2019<br>
 [1247. Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/discuss/419458/C-learn-from-two-test-cases) C# learn from two test cases<br>
 [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419477/C-preprocess-the-array-first) C# - preprocess the array first<br>
 
-Nov., 12, 2019<br>
+Nov. 12, 2019<br>
 [1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/discuss/427629/C-Work-on-basics-while-loop) C# Work on basics - while loop<br>
+
+Nov. 24, 2019<br>
+[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/437163/c-mock-interview-practice-on-nov-24-2019) C# mock interview practice on Nov 24, 2019<br>
+[207. Course Schedule](https://leetcode.com/problems/course-schedule/discuss/437166/c-mock-interview-practice-on-nov-24-2019) C# mock interview practice on Nov. 24, 2019<br>
+[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/discuss/437168/c-mock-interview-practice-on-nov-24-2019) C# mock interview practice on Nov 24, 2019<br>
