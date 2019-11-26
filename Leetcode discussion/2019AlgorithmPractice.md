@@ -382,4 +382,7 @@ Nov. 24, 2019<br>
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/discuss/435396/c-using-level-by-level-traversal-practice-in-2019) C# using level by level traversal practice in 2019<br>
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/discuss/435381/c-binary-search-practice-with-challenges-in-2019) C# binary search practice with challenges in 2019<br>
 
-
+Nov. 24, 2019<br>
+[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/437163/c-mock-interview-practice-on-nov-24-2019) C# mock interview practice on Nov 24, 2019<br>
+[207. Course Schedule](https://leetcode.com/problems/course-schedule/discuss/437166/c-mock-interview-practice-on-nov-24-2019) C# mock interview practice on Nov. 24, 2019<br>
+[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/discuss/437168/c-mock-interview-practice-on-nov-24-2019) C# mock interview practice on Nov 24, 2019<br>
