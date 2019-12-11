@@ -2,7 +2,7 @@
 
 Preparation is very important for online assessment. I did make a mistake to take Amazon online assessment in March 2019 without any preparation. I failed to work on an algorithm since I was nervous, and I did not know that I had to write from scratch and wrote code to pass all test cases. There is no bargain, take it or lose it. <br>
 
-So I pushed myself hard to work on April another giant software company online assement. How do I work on preparation?<br>
+So I pushed myself hard to work on April Microsoft online assement. How do I work on preparation?<br>
 
 I wrote a blog to document my experience. <br>
 [How to train myself daily on algorithm?](http://juliachencoding.blogspot.com/2019/04/how-to-train-myself-daily-on-algorithm.html)<br>
