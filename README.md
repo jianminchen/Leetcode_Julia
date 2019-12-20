@@ -53,7 +53,8 @@ I can go over my practice and see what are missing in my practice last week or l
 [Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/2019AlgorithmPractice.md) is the link of 2019 algorithm problems solved. 
 
 **June 23, 2019**<br>
-I like to classify algorithms by categories, like https://github.com/Cappuccinuo/LeetCode. <br>
+I like to classify algorithms by categories, like https://github.com/Cappuccinuo/LeetCode. <br> 
+[Here](https://github.com/jianminchen/LeetCode-36) is the link to access my forked version on Dec. 20, 2019. <br>
 It is important for me to get more oganized. One of ideas is to put algorithms together based on types, like backtracking, graph algorithm, or depth first search. <br>
 
 **June 26, 2019**
