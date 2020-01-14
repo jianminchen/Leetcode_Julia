@@ -11,3 +11,8 @@ Jan. 8 2020<br>
 
 Jan. 13, 2020<br>
 [419. Battleships in a Board]() Plan to work on<br>
+
+
+Jan. 14, 2020<br>
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/480483/C-brute-force-solution-written-for-mock-interview-on-January-13-2020
+) C# brute force solution written for mock interview on January 13, 2020<br>
