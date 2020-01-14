@@ -16,3 +16,9 @@ Jan. 13, 2020<br>
 Jan. 14, 2020<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/480483/C-brute-force-solution-written-for-mock-interview-on-January-13-2020
 ) C# brute force solution written for mock interview on January 13, 2020<br>
+
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/480553/C-brute-force-solution-with-backtracking-practice-in-2020
+) C# brute force solution with backtracking practice in 2020<br>
+
+
+
