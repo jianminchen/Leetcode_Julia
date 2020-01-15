@@ -20,5 +20,7 @@ Jan. 14, 2020<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/480553/C-brute-force-solution-with-backtracking-practice-in-2020
 ) C# brute force solution with backtracking practice in 2020<br>
 
-
+Jan. 15, 2020<br>
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/481351/C-work-with-brute-force-solution-to-enumerate-all-possible-combinations-k-digits) C# work with brute force solution to enumerate all possible combinations k digits
+<br>
 
