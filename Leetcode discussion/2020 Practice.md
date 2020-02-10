@@ -25,4 +25,4 @@ Jan. 15, 2020<br>
 <br>
 
 Feb. 9, 2020<br>
-[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/504546/C-Avoid-using-hashmap-and-sorting-practice-in-2020) C#  Avoid using hashmap and sorting practice in 2020<br>
+[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/504546/C-Avoid-using-hashmap-and-sorting-practice-in-2020) C#  Optimal time complexity linear time in 2020<br>
