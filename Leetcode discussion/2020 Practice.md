@@ -24,3 +24,5 @@ Jan. 15, 2020<br>
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/discuss/481351/C-work-with-brute-force-solution-to-enumerate-all-possible-combinations-k-digits) C# work with brute force solution to enumerate all possible combinations k digits
 <br>
 
+Feb. 9, 2020<br>
+[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/504546/C-Avoid-using-hashmap-and-sorting-practice-in-2020) C#  Avoid using hashmap and sorting practice in 2020<br>
