@@ -29,3 +29,7 @@ Feb. 9, 2020<br>
 
 March 1, 2020<br>
 [322 coin change](https://leetcode.com/problems/coin-change/discuss/526395/C-dynamic-programming-bottom-up-practice-in-June-2019) My practice back in June 2019<br>
+
+[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/526895/C-Learning-experience-as-an-interviewer-on-March-1-2020) C# Learning experience as an interviewer on March 1, 2020<br>
+
+
