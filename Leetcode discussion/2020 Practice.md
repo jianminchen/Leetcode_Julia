@@ -26,3 +26,6 @@ Jan. 15, 2020<br>
 
 Feb. 9, 2020<br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/504546/C-Avoid-using-hashmap-and-sorting-practice-in-2020) C#  Optimal time complexity linear time in 2020<br>
+
+March 1, 2020<br>
+[322 coin change](https://leetcode.com/problems/coin-change/discuss/526395/C-dynamic-programming-bottom-up-practice-in-June-2019) My practice back in June 2019<br>
