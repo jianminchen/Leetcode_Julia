@@ -37,6 +37,10 @@ March 2, 2020 10:00 PM mock interview as an interviewer<br>
 
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/discuss/527884/C-my-practice-after-mock-interview-on-March-3-2020#_=_) C# work on prefix sum<br>
 
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/discuss/528012/C-Having-fun-to-work-on-easy-level-algorithm-practice-in-2020) C# Having fun to work on easy level algorithm practice in 2020
+<br>
+
+
 
 
 
