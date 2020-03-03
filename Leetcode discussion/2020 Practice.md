@@ -32,4 +32,12 @@ March 1, 2020<br>
 
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/526895/C-Learning-experience-as-an-interviewer-on-March-1-2020) C# Learning experience as an interviewer on March 1, 2020<br>
 
+March 2, 2020 10:00 PM mock interview as an interviewer<br>
+[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/527824/Learn-from-mock-interview-experience%3A-A-small-case-study-leads-to-elegant-solution) A 30 minutes mock interview study<br>
+
+
+
+
+
+
 
