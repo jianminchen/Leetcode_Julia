@@ -35,6 +35,10 @@ March 1, 2020<br>
 March 2, 2020 10:00 PM mock interview as an interviewer<br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/527824/Learn-from-mock-interview-experience%3A-A-small-case-study-leads-to-elegant-solution) A 30 minutes mock interview study<br>
 
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/discuss/527884/C-my-practice-after-mock-interview-on-March-3-2020#_=_) C# work on prefix sum<br>
+
+
+
 
 
 
