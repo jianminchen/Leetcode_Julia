@@ -40,6 +40,12 @@ March 2, 2020 10:00 PM mock interview as an interviewer<br>
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/discuss/528012/C-Having-fun-to-work-on-easy-level-algorithm-practice-in-2020) C# Having fun to work on easy level algorithm practice in 2020
 <br>
 
+March 4, 2020<br>
+[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/discuss/529058/C-Apply-two-data-structures%3A-SortedDictionary-and-SortedSet) C# Apply two data structures: SortedDictionary and SortedSet<br>
+
+
+
+
 
 
 
