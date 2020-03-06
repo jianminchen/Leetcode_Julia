@@ -9,6 +9,10 @@ I can easily find out what algorithms I solve by looking up my github page and s
 **2018** <br>
 2018 - November <br>
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree) C# optimal time complexity O(h * h), h is the height of tree (3 upvotes!)<br><br>
+
+Nov. 24, 2018<br>
+[894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/discuss/197396/C-Similar-to-two-sum-problem) C# Similar to two sum problem<br>
+
 2018 - December <br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/207326/C-Give-node-an-index-based-on-parent-index-and-use-the-sum-to-check-completeness) Learn from a casual coder<br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes) C# preorder traversal and play with use case related to leaf nodes<br>
