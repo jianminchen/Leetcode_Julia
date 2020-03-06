@@ -6,10 +6,11 @@ I like to list all algorithms I practice in 2019. I need to constantly find new 
 
 I can easily find out what algorithms I solve by looking up my github page and sorting by the date time. [Here](https://github.com/jianminchen/Leetcode_Julia/tree/master/Leetcode%20discussion/2019) is the folder to contain images of all algorithms I save in Leetcode source code folder.<br><br>
 
+**2018** <br>
+
 August 2018<br>
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/discuss/531016/C-go-ahead-to-work-on-nonzero-numbers) C# go ahead to work on nonzero numbers<br>
 
-**2018** <br>
 2018 - November <br>
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/191290/C-optimal-time-complexity-O(h-*-h)-h-is-the-height-of-tree) C# optimal time complexity O(h * h), h is the height of tree (3 upvotes!)<br><br>
 
