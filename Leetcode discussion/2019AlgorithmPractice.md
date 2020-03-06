@@ -96,6 +96,8 @@ May 27 <br>
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/300609/C-post-order-traversal-and-then-design-a-recursive-function-to-return-root-to-leaf-path-max-value) 2019 May practice<br>
 [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/discuss/288663/C-It-took-me-34-minutes-three-submissions-in-weekly-contest) 34 minutes for an easy algorithm<br>
 
+[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/discuss/172729/C-readable-code-with-some-pruning-ideas) C# readable code with some pruning ideas<br>
+
 **2019 - June** <br>
 June 3 <br>
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/discuss/304946/C-SortDictionary-SortedList-SortedSet-all-are-used-in-one-solution) study code from a casual coder<br>
