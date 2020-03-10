@@ -48,10 +48,10 @@ March 4, 2020<br>
 
 March 10, 2020<br>
 [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/discuss/535465/C-start-from-each-rotten-orange-to-apply-BFS-approach-more-work) C# start from each rotten orange to apply BFS approach - more work<br>
-practice time: Feb. 2019
+practice time: Feb. 2019<br>
 [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/discuss/238665/C-Check-fresh-orange-nodes-by-four-neighbors-all-the-time) C# Check fresh orange nodes by four neighbors all the time<br>
 
-practice time: March 10, 2020
+practice time: March 10, 2020<br>
 [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/discuss/535414/C-discussion-how-to-choose-less-error-prone-mapping-function-rows-%2B-columns) C# discussion how to choose less error-prone mapping function - rows + columns<br>
 
 [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/discuss/535419/C-Having-fun-to-practice-more-ideas-in-2020) C# Having fun to practice more ideas in 2020<br>
