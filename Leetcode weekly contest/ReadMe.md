@@ -152,5 +152,10 @@ I have to get back to work on more graph algorithm, dynamic programming algorith
 I was interrupted in the contest. I chatted with my friend about housing renting issues. I could not concentrate and was disrupted more than five times. I did not solve any algorithm. <br>
 
 **weekly contest 134**<br>
-
+April 27, 2019<br>
 I solved the first two algorithms. [Here](http://juliachencoding.blogspot.com/2019/04/weekly-contest-114.html) is the blog I wrote after the contest. 
+
+March 13, 2020 <br>
+
+I have to go back to weekly contest, and I should push myself hard at least once two hours every week, work on contest. It is good for my brain and also maintain my desire to be a best programmer in the world. 
+
