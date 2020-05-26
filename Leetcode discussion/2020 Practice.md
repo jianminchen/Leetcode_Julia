@@ -56,6 +56,14 @@ practice time: March 10, 2020<br>
 
 [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/discuss/535419/C-Having-fun-to-practice-more-ideas-in-2020) C# Having fun to practice more ideas in 2020<br>
 
+May 26, 2020<br>
+236. Lowest Common Ancestor of a Binary Tree<br>
+May 1, 2020<br>
+[C# Postorder traversal and count nodes found practice in 2020](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/606995/C-Postorder-traversal-and-count-nodes-found-practice-in-2020) Learn idea from ex-facebook engineer<br>
+May 25, 2020<br>
+[C# Tuple<TreeNode, int> design talk and quick practice in May 25 2020](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/652064/c-tupletreenode-int-design-talk-and-quick-practice-in-may-25-2020) First warmup<br>
+[C# Tuple<TreeNode, int> design talk and second practice on May 25 2020](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/652087/c-tupletreenode-int-design-talk-and-second-practice-on-may-25-2020) Second practice to warmup<br>
+
 
 
 
