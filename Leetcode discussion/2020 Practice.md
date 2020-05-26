@@ -64,7 +64,10 @@ May 25, 2020<br>
 [C# Tuple<TreeNode, int> design talk and quick practice in May 25 2020](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/652064/c-tupletreenode-int-design-talk-and-quick-practice-in-may-25-2020) First warmup<br>
 [C# Tuple<TreeNode, int> design talk and second practice on May 25 2020](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/652087/c-tupletreenode-int-design-talk-and-second-practice-on-may-25-2020) Second practice to warmup<br>
 
-
+May 26, 2020<br>
+236. Lowest Common Ancestor of a Binary Tree<br>
+[C# Find path from root to p practice on May 26, 2020](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/653946/C-Find-path-from-root-to-p-practice-on-May-26-2020) Backtracking preorder traversal<br>
+[C# Critic my own code written on May 7, 2019](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/653910/C-critic-my-own-code-written-on-May-7-2019)Critic my own code written on May 7 2019<br>
 
 
 
