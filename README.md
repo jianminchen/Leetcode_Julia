@@ -60,3 +60,10 @@ It is important for me to get more oganized. One of ideas is to put algorithms t
 **June 26, 2019**
 I wrote my experience on this topic: [Consistent practice advice](https://leetcode.com/discuss/general-discussion/318537/consistent-practice-advice)<br>
 My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Consistent-Practice-Advice/296196).<br>
+
+**May 29, 2020**
+Learning is life long. I am 53 year old and 10 years younger than Donald Trump. Donald chose to compete for US president 6 years ago. I like to work on something exciting as well. 
+
+[Here](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/655847/my-showcase-of-problem-solving-using-c) is my 236 Lowest common ancestor in binary tree show case. 
+
+What I do is to conintue to learn as an interviewer. I like to explore one classical tree algorithm and then taste how talent people solve them from different angles. Problem solving and crafting skills are amazing to learn and copy from the world toppest talent in the world. 
