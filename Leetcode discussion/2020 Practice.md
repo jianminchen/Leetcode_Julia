@@ -67,7 +67,7 @@ May 25, 2020<br>
 May 26, 2020<br>
 236. Lowest Common Ancestor of a Binary Tree<br>
 [C# Find path from root to p practice on May 26, 2020](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/653946/C-Find-path-from-root-to-p-practice-on-May-26-2020) Backtracking preorder traversal<br>
-[C# Critic my own code written on May 7, 2019](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/653910/C-critic-my-own-code-written-on-May-7-2019)Critic my own code written on May 7 2019<br>
+[C# Critic my own code written on May 7, 2019](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/653910/C-critic-my-own-code-written-on-May-7-2019)Critic my own code written on May 7 2019<br> 
 
 414. Third Maximum Number<br>
 2018 August 15<br>
