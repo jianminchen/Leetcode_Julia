@@ -83,7 +83,13 @@ June 3, 2020<br>
 2020 June<br>
 [C# SortedSet and minimum heap warm up practice in June 2020](https://leetcode.com/problems/third-maximum-number/discuss/667232/C-SortedSet-and-minimum-heap-warm-up-practice-in-June-2020)<br>
 [C# My practice showcase in 2020](https://leetcode.com/problems/third-maximum-number/discuss/668667/c-my-practice-showcase-in-2020)<br>
-[]()<br>
+
+June 4, 2020<br>
+[C# post order - check parent node and compare warmup practice in June 2020](https://leetcode.com/problems/longest-univalue-path/discuss/670763/C-post-order-check-parent-node-and-compare-warmup-practice-in-June-2020)<br>
+
+
+
+
 
 
 
