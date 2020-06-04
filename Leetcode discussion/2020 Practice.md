@@ -75,6 +75,17 @@ May 26, 2020<br>
 2020 June 2 <br>
 [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/discuss/667232/C-SortedSet-and-minimum-heap-warm-up-practice-in-June-2020) C# SortedSet and minimum heap warm up practice in June 2020<br>
 
+June 3, 2020<br>
+414. Third Maximum Number<br>
+2018 August 15<br>
+[C# work on basics practice on August 15 2018](https://leetcode.com/problems/third-maximum-number/discuss/668630/c-work-on-basics-practice-in-august-15-2018)<br>
+[C# solution using SortedSet](https://leetcode.com/problems/third-maximum-number/discuss/160464/C-solution-using-SortedSet)<br>
+2020 June<br>
+[C# SortedSet and minimum heap warm up practice in June 2020](https://leetcode.com/problems/third-maximum-number/discuss/667232/C-SortedSet-and-minimum-heap-warm-up-practice-in-June-2020)<br>
+[C# My practice showcase in 2020](https://leetcode.com/problems/third-maximum-number/discuss/668667/c-my-practice-showcase-in-2020)<br>
+[]()<br>
+
+
 
 
 
