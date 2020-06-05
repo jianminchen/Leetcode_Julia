@@ -87,6 +87,13 @@ June 3, 2020<br>
 June 4, 2020<br>
 [C# post order - check parent node and compare warmup practice in June 2020](https://leetcode.com/problems/longest-univalue-path/discuss/670763/C-post-order-check-parent-node-and-compare-warmup-practice-in-June-2020)<br>
 
+215. Kth Largest Element in an Array<br>
+
+[C# SortedDictionary minimum heap practice in 2020](https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/670920/c-sorteddictionary-minimum-heap-practice)<br>
+
+[C# SortedDictionary minimum heap practice II in June 2020](https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/670951/C-SortedDictionary-minimum-heap-practice-II-in-June-2020)<br>
+
+
 
 
 
