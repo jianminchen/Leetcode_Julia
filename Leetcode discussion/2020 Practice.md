@@ -96,6 +96,14 @@ June 11, 2020<br>
 
 [C# SortedDictionary minimum heap practice II in June 2020](https://leetcode.com/problems/kth-largest-element-in-an-array/discuss/670951/C-SortedDictionary-minimum-heap-practice-II-in-June-2020)<br>
 
+23 minimum Heap - merge k sorted lists<br>
+
+August 11, 2018<br>
+[C# solution using minimum heap](https://leetcode.com/problems/merge-k-sorted-lists/discuss/158834/C-solution-using-minimum-heap)<br>
+July 14, 2019<br>
+[C# Using SortedDictionary](https://leetcode.com/problems/merge-k-sorted-lists/discuss/334793/C-define-minimum-heap-using-SortedDictionary-practice-in-2019)<br>
+2015 August <br>
+[C# merge two lists idea practice in August 2015](https://leetcode.com/problems/merge-k-sorted-lists/discuss/682562/C-merge-two-lists-idea-practice-in-August-2015)<br>
 
 
 
