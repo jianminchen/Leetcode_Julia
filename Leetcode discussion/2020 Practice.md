@@ -105,6 +105,13 @@ July 14, 2019<br>
 2015 August <br>
 [C# merge two lists idea practice in August 2015](https://leetcode.com/problems/merge-k-sorted-lists/discuss/682562/C-merge-two-lists-idea-practice-in-August-2015)<br>
 
+June 15, 2020
+4. Median of Two Sorted Arrays<br>
+[C# warmup practice on June 15, 2020](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/689272/C-warmup-practice-on-June-15-2020)<br>
+[C# review my practice in June 2018](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/689106/C-review-my-practice-in-June-2018)<br>
+
+
+
 
 
 
