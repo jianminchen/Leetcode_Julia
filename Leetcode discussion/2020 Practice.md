@@ -110,7 +110,12 @@ June 15, 2020
 [C# warmup practice on June 15, 2020](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/689272/C-warmup-practice-on-June-15-2020)<br>
 [C# review my practice in June 2018](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/689106/C-review-my-practice-in-June-2018)<br>
 
+Trie data structure<br>
 
+I also like to build a show case based on data structure - Trie<br>
+
+212 - Word search II<br>
+[C# Trie showcase starting from 2018](https://leetcode.com/problems/word-search-ii/discuss/689320/C-Trie-showcase-starting-from-2018)<br>
 
 
 
