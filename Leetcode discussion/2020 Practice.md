@@ -116,6 +116,7 @@ I also like to build a show case based on data structure - Trie<br>
 
 212 - Word search II<br>
 [C# Trie showcase starting from 2018](https://leetcode.com/problems/word-search-ii/discuss/689320/C-Trie-showcase-starting-from-2018)<br>
+[C# Trie data structure DFS algorithm practice in June 2020](https://leetcode.com/problems/word-search-ii/discuss/689384/C-Trie-data-structure-DFS-algorithm-practice-in-June-2020)<br>
 
 
 
