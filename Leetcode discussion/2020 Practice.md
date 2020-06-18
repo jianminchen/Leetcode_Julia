@@ -121,6 +121,20 @@ June 16, 2020<br>
 [C# Trie design challenge and DFS algorithm practice in June 2018](https://leetcode.com/problems/word-search-ii/discuss/690869/c-trie-design-challenge-and-dfs-algorithm-practice-in-june-2018)
 
 
+415. Add Strings<br>
+Problem statement<br>
+Given two nonnegative integer numbers as string, calculate sum of two numbers.<br>
+
+Sept 15, 2018<br>
+
+[C# my first practice has stack overflow issue on Sept 15 2018](https://leetcode.com/problems/add-strings/discuss/170832/C-my-first-practice-has-stack-overflow-issue-on-Sept-15-2018)<br>
+
+[C# iterative solution using a for loop](https://leetcode.com/problems/add-strings/discuss/170839/C-iterative-solution-using-a-for-loop)<br>
+
+[C# Warmup practice on June 17, 2020](https://leetcode.com/problems/add-strings/discuss/692785/C-code-review-my-last-practice-on-Sept.-15-2018)<br>
+
+[C# My showcase of practice starting from Sept. 2018](https://leetcode.com/problems/add-strings/discuss/692866/C-My-showcase-of-practice-starting-from-Sept.-2018)<br>
+
 
 
 
