@@ -30,6 +30,6 @@ June 18, 2020<br>
 [17. Interview prep tips by @topcat - ](https://leetcode.com/discuss/career/216554/from-0-to-clearing-uberappleamazonlinkedingoogle)<br>
 [Facebook interview question list by @suresh_reddy - ](https://leetcode.com/discuss/interview-question/675445/facebook-interview-experiences-all-combined-from-lc-till-date-07-jun-2020)<br>
 [18. Most consistent ways of dealing with the series of stock problems by @fun4LeetCode - ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108870/Most-consistent-ways-of-dealing-with-the-series-of-stock-problems)<br>
-[19. DFS for beginners by @StefanPochmann - ](https://leetcode.com/problems/reconstruct-itinerary/discuss/78768/Short-Ruby-Python-Java-C%2B%2B)
+[19. DFS for beginners by @StefanPochmann - ](https://leetcode.com/problems/reconstruct-itinerary/discuss/78768/Short-Ruby-Python-Java-C%2B%2B)<br>
 [20. Article on Trie. General Template and List of problems by @igooglethings - ](https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems)<br>
 [21. Binary Search for Beginners by @wh0ami - ](https://leetcode.com/discuss/general-discussion/691825/Binary-Search-for-Beginners-Problems-or-Patterns-or-Sample-solutions)<br>
