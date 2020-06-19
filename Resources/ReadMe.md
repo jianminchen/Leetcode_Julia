@@ -33,3 +33,11 @@ June 18, 2020<br>
 [19. DFS for beginners by @StefanPochmann - ](https://leetcode.com/problems/reconstruct-itinerary/discuss/78768/Short-Ruby-Python-Java-C%2B%2B)<br>
 [20. Article on Trie. General Template and List of problems by @igooglethings - ](https://leetcode.com/discuss/general-discussion/680706/Article-on-Trie.-General-Template-and-List-of-problems)<br>
 [21. Binary Search for Beginners by @wh0ami - ](https://leetcode.com/discuss/general-discussion/691825/Binary-Search-for-Beginners-Problems-or-Patterns-or-Sample-solutions)<br>
+
+**My favorite ones**<br>
+
+[17.System Design template by @topcat - ](https://leetcode.com/discuss/career/229177/my-system-design-template)<br>
+[Facebook interview question list by @suresh_reddy - ](https://leetcode.com/discuss/interview-question/675445/facebook-interview-experiences-all-combined-from-lc-till-date-07-jun-2020)<br>
+
+
+
