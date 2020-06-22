@@ -131,7 +131,9 @@ Sept 15, 2018<br>
 [C# Warmup practice on June 17, 2020](https://leetcode.com/problems/add-strings/discuss/692785/C-code-review-my-last-practice-on-Sept.-15-2018)<br>
 [C# My showcase of practice starting from Sept. 2018](https://leetcode.com/problems/add-strings/discuss/692866/C-My-showcase-of-practice-starting-from-Sept.-2018)<br>
 
-
+June 22, 2020<br>
+720. Longest Word in Dictionary<br>
+[C# My showcase of practice starting from August 2018](https://leetcode.com/problems/longest-word-in-dictionary/discuss/700899/C-My-showcase-of-practice-starting-from-August-2018)<br>
 
 
 
