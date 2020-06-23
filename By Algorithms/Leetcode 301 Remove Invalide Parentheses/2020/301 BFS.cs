@@ -84,8 +84,9 @@ namespace _301_remove_invalid_parentheses___2020
                         continue; // continue to iterate all index positions 
                     }
 
-                    // think about test case: ())(() -> "()(()" and "())()"
-                    // there will be four items in the queue
+                    // think about test case: ())(() -> minimum is to remove two parentheses
+                    // Strings with one char removed are not working, then BFS goes to second remove
+                    // Four strings will be in the queue. 
                     // "))(()", 0, '('
                     // "()(()", 1, ')'
                     // "())()", 3, '('
