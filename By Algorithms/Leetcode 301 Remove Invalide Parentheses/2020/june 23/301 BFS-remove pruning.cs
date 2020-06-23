@@ -59,7 +59,7 @@ namespace _301_remove_invalid_parentheses___2020
                     }                                        
 
                     // remove visit char from the string
-                    var skipCurrent = search.Remove(index);
+                    var skipCurrent = search.Remove(index, 1);
 
                     //Check the string is valid
                     if (IsValidParentheses(skipCurrent))
@@ -73,8 +73,10 @@ namespace _301_remove_invalid_parentheses___2020
                     // Four strings will be in the queue. 
                     // "))(()", 0
                     // "()(()", 1
+                    // "()(()", 2
                     // "())()", 3
-                    // "())((", 5
+                    // "())()", 4 
+                    // "())((", 5     
                     if (set.Count == 0)
                     {
                         queue.Enqueue(new Tuple<string, int>(skipCurrent, index));
