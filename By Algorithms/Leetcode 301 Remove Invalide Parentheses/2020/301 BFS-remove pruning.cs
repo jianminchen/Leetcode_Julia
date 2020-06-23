@@ -12,7 +12,7 @@ namespace _301_remove_invalid_parentheses___2020
         {
             //var reuslt  = RemoveInvalidParentheses("()"); // original one valid or not - step 1
             //var result2 = RemoveInvalidParentheses("())"); // need to remove one parentheses - step 2
-            var result3 = RemoveInvalidParentheses("())(()"); 
+            var result3 = RemoveInvalidParentheses("())(()");
         }
 
         /// <summary>
@@ -22,27 +22,29 @@ namespace _301_remove_invalid_parentheses___2020
         /// <returns></returns>
         public static IList<string> RemoveInvalidParentheses(string s)
         {
-            var list = new List<String>();
+            var set = new HashSet<string>(); 
 
             // return if it is valid
             if (IsValidParentheses(s))
             {
-                list.Add(s);
-                return list;
-            }            
-           
-            //The queue only contains invalid middle steps
+                set.Add(s);
+                return set.ToList();
+            }
+
+            // How to design a queue - BFS to solve the problem? 
+            // think about a string to remove two parentheses, "())(()", 
+            // those strings with one char removed should be enqueued for next removal of char
             var queue = new Queue<Tuple<string, int>>();
 
-            //The 2-Tuple is (string, startIndex)                          
-            queue.Enqueue(new Tuple<string, int>(s, 0));
+            //The 2-Tuple is (string, startIndex)                        
+            queue.Enqueue(new Tuple<string, int>(s, 0));            
 
             while (queue.Count > 0)
             {
                 var current = queue.Dequeue();
 
-                var search  = current.Item1;
-                var start   = current.Item2;               
+                var search = current.Item1;
+                var start = current.Item2;               
 
                 // Start from last removal position 
                 for (int index = start; index < search.Length; ++index)
@@ -54,23 +56,15 @@ namespace _301_remove_invalid_parentheses___2020
                     if (!isParenthese)
                     {
                         continue;
-                    }
-
-                    // Fact 1: Do not repeatedly remove from consecutive ones
-                    // For example, ))) - only remove first ), skip rest consecutive ones
-                    // same as previous one
-                    if (index != start && search[index - 1] == visit)
-                    {
-                        continue;
-                    }
+                    }                                        
 
                     // remove visit char from the string
-                    var skipCurrent = search.Substring(0, index) + search.Substring(index + 1);
+                    var skipCurrent = search.Remove(index);
 
                     //Check the string is valid
                     if (IsValidParentheses(skipCurrent))
                     {
-                        list.Add(skipCurrent);
+                        set.Add(skipCurrent);
                         continue; // continue to iterate all index positions 
                     }
 
@@ -81,14 +75,14 @@ namespace _301_remove_invalid_parentheses___2020
                     // "()(()", 1
                     // "())()", 3
                     // "())((", 5
-                    if (list.Count == 0)  
+                    if (set.Count == 0)
                     {
                         queue.Enqueue(new Tuple<string, int>(skipCurrent, index));
                     }
                 }
             }
 
-            return list;
+            return set.ToList();
         }
 
         /// <summary>
@@ -105,7 +99,7 @@ namespace _301_remove_invalid_parentheses___2020
             for (int i = 0; i < s.Length; ++i)
             {
                 var visit = s[i];
-                var isOpen  = visit == '(';
+                var isOpen = visit == '(';
                 var isClose = visit == ')';
 
                 if (isOpen)
@@ -127,6 +121,6 @@ namespace _301_remove_invalid_parentheses___2020
             }
 
             return count == 0;
-        }        
+        }
     }
 }
