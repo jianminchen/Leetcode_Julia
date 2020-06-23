@@ -141,8 +141,8 @@ June 22, 2020<br>
 [C# BFS warmup practice in 2020](https://leetcode.com/problems/remove-invalid-parentheses/discuss/701047/C-BFS-warmup-practice-in-2020)<br>
 June 23, 2020<br>
 BFS algorithm - keep minimum steps to make it work first<br>
-[C# BFS approach without pruning practice in June 2020](https://leetcode.com/problems/remove-invalid-parentheses/discuss/702517/C-BFS-approach-without-pruning-practice-in-June-2020)
-
+[C# BFS approach without pruning practice in June 2020](https://leetcode.com/problems/remove-invalid-parentheses/discuss/702517/C-BFS-approach-without-pruning-practice-in-June-2020)<br>
+[C# My showcase of practice starting from 2017](https://leetcode.com/problems/remove-invalid-parentheses/discuss/701011/C-My-showcase-of-practice-starting-from-2017)<br>
 
 
 
