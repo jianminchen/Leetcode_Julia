@@ -59,7 +59,7 @@ namespace _301_remove_invalid_parentheses___2020
                     }                                        
 
                     // remove visit char from the string
-                    var skipCurrent = search.Remove(index);
+                    var skipCurrent = search.Remove(index, 1);
 
                     //Check the string is valid
                     if (IsValidParentheses(skipCurrent))
@@ -70,11 +70,13 @@ namespace _301_remove_invalid_parentheses___2020
 
                     // think about test case: ())(() -> minimum is to remove two parentheses
                     // Strings with one char removed are not working, then BFS goes to second remove
-                    // Four strings will be in the queue. 
+                    // Six strings will be in the queue, duplicated can be pruned if needed. 
                     // "))(()", 0
                     // "()(()", 1
+                    // "()(()", 2
                     // "())()", 3
-                    // "())((", 5
+                    // "())()", 4 
+                    // "())((", 5     
                     if (set.Count == 0)
                     {
                         queue.Enqueue(new Tuple<string, int>(skipCurrent, index));

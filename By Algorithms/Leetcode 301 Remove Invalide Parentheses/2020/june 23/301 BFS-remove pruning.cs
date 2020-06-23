@@ -70,7 +70,7 @@ namespace _301_remove_invalid_parentheses___2020
 
                     // think about test case: ())(() -> minimum is to remove two parentheses
                     // Strings with one char removed are not working, then BFS goes to second remove
-                    // Four strings will be in the queue. 
+                    // Six strings will be in the queue, duplicated can be pruned if needed. 
                     // "))(()", 0
                     // "()(()", 1
                     // "()(()", 2
