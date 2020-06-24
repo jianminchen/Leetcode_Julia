@@ -148,7 +148,7 @@ June 24, 2020<br>
 208. Implement Trie (Prefix Tree)<br>
 [C# Trie algorithm practice in June 2020](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/703925/c-trie-algorithm-practice-in-june-2020)<br>
 
-46. Permutations<br>
+46. Permutations<br> 
 [C# DFS algorithm with backtracking practice on June 2020](https://leetcode.com/problems/permutations/discuss/703917/c-dfs-algorithm-with-backtracking-practice-on-june-2020)<br>
 
 
