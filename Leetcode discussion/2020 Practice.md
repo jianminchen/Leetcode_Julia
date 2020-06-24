@@ -151,6 +151,12 @@ June 24, 2020<br>
 46. Permutations<br> 
 [C# DFS algorithm with backtracking practice on June 2020](https://leetcode.com/problems/permutations/discuss/703917/c-dfs-algorithm-with-backtracking-practice-on-june-2020)<br>
 
+116. Populating Next Right Pointers in Each Node<br>
+[C# tree level by level order traversal practice in June 2020](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/discuss/704071/C-tree-level-by-level-order-traversal-practice-in-June-2020)<br>
+3. Longest Substring Without Repeating Characters<br>
+[C# slide window optimal time algorithm practice in June 2020](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/704066/c-slide-window-optimal-time-algorithm-practice-in-june-2020)<br>
+
+
 
 
 
