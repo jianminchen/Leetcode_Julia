@@ -144,6 +144,12 @@ BFS algorithm - keep minimum steps to make it work first<br>
 [C# BFS approach without pruning practice in June 2020](https://leetcode.com/problems/remove-invalid-parentheses/discuss/702517/C-BFS-approach-without-pruning-practice-in-June-2020)<br>
 [C# My showcase of practice starting from 2017](https://leetcode.com/problems/remove-invalid-parentheses/discuss/701011/C-My-showcase-of-practice-starting-from-2017)<br>
 
+June 24, 2020<br>
+208. Implement Trie (Prefix Tree)<br>
+[C# Trie algorithm practice in June 2020](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/703925/c-trie-algorithm-practice-in-june-2020)<br>
+
+46. Permutations<br>
+[C# DFS algorithm with backtracking practice on June 2020](https://leetcode.com/problems/permutations/discuss/703917/c-dfs-algorithm-with-backtracking-practice-on-june-2020)<br>
 
 
 
