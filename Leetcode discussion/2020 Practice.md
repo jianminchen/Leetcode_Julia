@@ -157,6 +157,14 @@ June 24, 2020<br>
 [C# slide window optimal time algorithm practice in June 2020](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/704066/c-slide-window-optimal-time-algorithm-practice-in-june-2020)<br>
 [C# My showcase of learning starting from 2015 April](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/704122/C-My-showcase-of-learning-starting-from-2015-April)<br>
 
+3. Longest Substring Without Repeating Characters<br>
+2020 June 24<br>
+[C# slide window optimal time algorithm practice in June 2020](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/704066/c-slide-window-optimal-time-algorithm-practice-in-june-2020)
+**Two nested loop**<br>
+2020 June 25<br>
+[C# warmup practice in June 25 2020](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/705503/C-warmup-practice-in-June-25-2020)<br>
+**One loop**<br>
+
 
 
 
