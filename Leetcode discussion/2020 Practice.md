@@ -165,6 +165,9 @@ June 24, 2020<br>
 [C# warmup practice in June 25 2020](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/705503/C-warmup-practice-in-June-25-2020)<br>
 **One loop**<br>
 
+34. Find First and Last Position of Element in Sorted Array<br>
+[C# binary search algorithm practice on June 26, 2020](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/706801/C-binary-search-algorithm-practice-on-June-26-2020)<br>
+
 
 
 
