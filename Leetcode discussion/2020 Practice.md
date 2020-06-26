@@ -168,7 +168,7 @@ June 24, 2020<br>
 34. Find First and Last Position of Element in Sorted Array<br>
 [C# binary search algorithm practice on June 26, 2020](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/706801/C-binary-search-algorithm-practice-on-June-26-2020)<br>
 
-
+[C# binary search algorithm showcase starting from August 2018](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/706868/C-binary-search-algorithm-showcase-starting-from-August-2018)
 
 
 
