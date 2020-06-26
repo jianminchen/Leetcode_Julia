@@ -174,8 +174,7 @@ June 26, 2020<br>
 688. Knight Probability in Chessboard<br>
 [C# mock interview practice with time limit exceeded problem in June 2020](https://leetcode.com/problems/knight-probability-in-chessboard/discuss/707017/C-mock-interview-practice-with-time-limit-exceeded-problem-in-June-2020)<br>
 [C# Review my first practice in June 2018](https://leetcode.com/problems/knight-probability-in-chessboard/discuss/707014/C-Review-my-first-practice-in-June-2018)<br>
-
-
+[C# My showcase of problem solving starting from June 2018](https://leetcode.com/problems/knight-probability-in-chessboard/discuss/707062/C-My-showcase-of-problem-solving-starting-from-June-2018)<br>
 
 
 
