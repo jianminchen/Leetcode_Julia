@@ -70,7 +70,7 @@ What I do is to conintue to learn as an interviewer. I like to explore one class
 
 **June 28, 2020**<br>
 9:29 AM - Willingdon church service time - stay at home - coffee break - milk break<br>
-I started slowly to workon Leetcode mock interview day by day, now I just completed more than 4 mock interviews. I learn the importance of training and solve unknown algorithms in limit time. I like to push myself to learn and work on my crafting skills. <br>
+I started slowly to work on Leetcode mock interview day by day, now I just completed more than 4 mock interviews. I learn the importance of training and solve unknown algorithms in limit time. I like to push myself to learn and work on my crafting skills. <br>
 
 I stopped my practice from January to June since I started to be a stock investor, a learner and so scared to go through the market crash and recovery. Holding my 10 years full time saving to play with stock market as an investor. <br>
 
