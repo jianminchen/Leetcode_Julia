@@ -69,9 +69,12 @@ Learning is life long. I am 53 year old and 10 years younger than Donald Trump. 
 What I do is to conintue to learn as an interviewer. I like to explore one classical tree algorithm and then taste how talent people solve them from different angles. Problem solving and crafting skills are amazing to learn and copy from the world toppest talent in the world. 
 
 **June 28, 2020**<br>
-9:29 AM - Willingdon church service time - stay at home - coffee break - milk break
-I started slowly to workon Leetcode mock interview day by day, now I just completed more than 4 mock interviews. I learn the importance of training and solve unknown algorithms in limit time. I like to push myself to learn and work on my crafting skills. 
+9:29 AM - Willingdon church service time - stay at home - coffee break - milk break<br>
+I started slowly to workon Leetcode mock interview day by day, now I just completed more than 4 mock interviews. I learn the importance of training and solve unknown algorithms in limit time. I like to push myself to learn and work on my crafting skills. <br>
 
-I stopped my practice from January to June since I started to be a stock investor, a learner and so scared to go through the market crash and recovery. Holding my 10 years full time saving to play with stock market as an investor. 
+I stopped my practice from January to June since I started to be a stock investor, a learner and so scared to go through the market crash and recovery. Holding my 10 years full time saving to play with stock market as an investor. <br>
 
-I got invited to apply Facebook again on June 5, 2020. I decided to start this journey again, and worked on my career since I know that it is so important for me and also business I work for. A person with great crafting skills, hundreds of hours working on foundations should not fail at work. We should put faith in hardwork, sweat, failures, struggles and cheers. 
+I got invited to apply Facebook again on June 5, 2020. I decided to start this journey again, and worked on my career since I know that it is so important for me and also business I work for. A person with great crafting skills, hundreds of hours working on foundations should not fail at work. We should put faith in hardwork, sweat, failures, struggles and cheers. <br>
+
+Thank you Facebook Seattle. I will work hard to prepare Facebook phone screen in early July 2020. Stay on the course. 
+
