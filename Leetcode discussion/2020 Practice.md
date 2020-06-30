@@ -180,6 +180,10 @@ June 29, 2020<br>
 [C# Showcase how to solve the problem starting from 2015](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/712028/C-Showcase-how-to-solve-the-problem-starting-from-2015)<br>
 [How to analyze the problem starting from brute force solution?](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/712053/How-to-analyze-the-problem-starting-from-brute-force-solution)<br>
 
+June 29, 2020<br>
+382. Linked List Random Node<br>
+[C# mock interview practice on June 29 2020](https://leetcode.com/problems/linked-list-random-node/discuss/713537/C-mock-interview-practice-on-June-29-2020)<br>
+
 
 
 
