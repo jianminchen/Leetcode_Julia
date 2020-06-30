@@ -184,6 +184,15 @@ June 29, 2020<br>
 382. Linked List Random Node<br>
 [C# mock interview practice on June 29 2020](https://leetcode.com/problems/linked-list-random-node/discuss/713537/C-mock-interview-practice-on-June-29-2020)<br>
 
+382. Linked List Random Node<br>
+C# mock interview practice on June 29 2020<br>
+https://leetcode.com/problems/linked-list-random-node/discuss/713537/C-mock-interview-practice-on-June-29-2020<br>
+
+724. Find Pivot Index<br>
+[C# mock interview practice on June 29, 2020](https://leetcode.com/problems/find-pivot-index/discuss/713563/C-mock-interview-practice-on-June-29-2020)<br>
+
+599. Minimum Index Sum of Two Lists<br>
+[C# mock interview practice on June 29, 2020](https://leetcode.com/problems/minimum-index-sum-of-two-lists/discuss/713569/C-mock-interview-practice-on-June-29-2020)<br>
 
 
 
