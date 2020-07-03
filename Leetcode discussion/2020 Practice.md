@@ -202,6 +202,18 @@ July 2, 2020<br>
 911. Online Election<br>
 [C# mock interview practice on July 2 2020](https://leetcode.com/problems/online-election/discuss/717073/C-mock-interview-practice-on-July-2-2020)<br>
 
+124 Maximum path sum <br>
+[Showcase how I learn to solve in 15 minutes starting from 2015](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718295/Showcase-how-I-learn-to-solve-in-15-minutes-starting-from-2015)<br>
+2019 Nov.25<br>
+[Mock interview practice with insights](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/437163/C-mock-interview-practice-on-Nov-24-2019-with-insights)<br>
+2019 May 27 <br>
+[C# post order traversal and then design a recursive function to return root to leaf path max value](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/300609/C-post-order-traversal-and-then-design-a-recursive-function-to-return-root-to-leaf-path-max-value)<br>
+2016 August 4 <br>
+[2016 practice - need improvements](http://juliachencoding.blogspot.com/2016/08/leetcode-124-binary-tree-maximum-path.html)<br>
+[C# code review practice in July 2015](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718271/C-code-review-practice-in-July-2015)<br>
+[C# code review practice in July 2015](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718275/C-code-review-practice-in-July-2015)<br>
+[C# code review practice in August 2016](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718283/C-code-review-practice-in-August-2016)<br>
+
 
 
 
