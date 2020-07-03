@@ -198,8 +198,9 @@ June 29, 2020<br>
 [Case study: dynamic programming solution on January 26, 2018](https://leetcode.com/problems/regular-expression-matching/discuss/716835/Case-study%3A-dynamic-programming-solution-on-January-26-2018)<br>
 [C# My showcase of practice starting from 2017](https://leetcode.com/problems/regular-expression-matching/discuss/716792/C-My-showcase-of-practice-starting-from-2017)<br>
 
-
-
+July 2, 2020<br>
+911. Online Election<br>
+[C# mock interview practice on July 2 2020](https://leetcode.com/problems/online-election/discuss/717073/C-mock-interview-practice-on-July-2-2020)<br>
 
 
 
