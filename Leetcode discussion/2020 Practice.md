@@ -216,9 +216,13 @@ July 3, 2020<br>
 [C# code review practice in July 2015](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718275/C-code-review-practice-in-July-2015)<br>
 [C# code review practice in August 2016](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718283/C-code-review-practice-in-August-2016)<br>
 
+July 3, 2020<br>
+438. Find All Anagrams in a String<br>
+[C# using counting sort](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/177395/C-using-counting-sort)<br>
+Add a case study - take 10 minutes to write a case study how to approach the problem. 
 
-
-
+Most frequent asked algorithms from Facebook phone screen: https://www.1point3acres.com/<br>
+973, 314, 238, 438, 227, 523, 953, 670, 145, 463, 145, 953, 124<br>
 
 
 
