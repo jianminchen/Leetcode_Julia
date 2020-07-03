@@ -202,6 +202,8 @@ July 2, 2020<br>
 911. Online Election<br>
 [C# mock interview practice on July 2 2020](https://leetcode.com/problems/online-election/discuss/717073/C-mock-interview-practice-on-July-2-2020)<br>
 
+July 3, 2020<br>
+
 124 Maximum path sum <br>
 [Showcase how I learn to solve in 15 minutes starting from 2015](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718295/Showcase-how-I-learn-to-solve-in-15-minutes-starting-from-2015)<br>
 2019 Nov.25<br>
