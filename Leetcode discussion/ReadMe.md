@@ -502,3 +502,7 @@ Nov. 24, 2019<br>
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/437163/c-mock-interview-practice-on-nov-24-2019) C# mock interview practice on Nov 24, 2019<br>
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/discuss/437166/c-mock-interview-practice-on-nov-24-2019) C# mock interview practice on Nov. 24, 2019<br>
 [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/discuss/437168/c-mock-interview-practice-on-nov-24-2019) C# mock interview practice on Nov 24, 2019<br>
+
+Phone screen: 输入是”123456789”，可以在任意位置加上多个+或-的运算符，最后结果要是100。输出所有的可能组合。简单的dfs题。比如”123-45-67+89 = 100”<br>
+[Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Practice%20history/2020%20June%20to%20July%20Facebook%20phone%20screen/ExpressionTo100.cs)<br>
+
