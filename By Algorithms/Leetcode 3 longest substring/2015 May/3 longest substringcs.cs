@@ -10,6 +10,7 @@ namespace _3_longest_substring_2015_5
     {
         static void Main(string[] args)
         {
+            var result = LengthOfLongestSubstring("aab"); 
         }
 
         /// <summary>
@@ -18,7 +19,7 @@ namespace _3_longest_substring_2015_5
         /// </summary>
         /// <param name="s"></param>
         /// <returns></returns>
-        public int LengthOfLongestSubstring(string s)
+        public static int LengthOfLongestSubstring(string s)
         {
             int len = s.Length;
 
@@ -74,7 +75,7 @@ namespace _3_longest_substring_2015_5
             return maxLen;
         }
 
-        public void arraysFill(int[] a, int val)
+        public static void arraysFill(int[] a, int val)
         {
             for (int i = 0; i < 256; i++)
                 a[i] = val;
