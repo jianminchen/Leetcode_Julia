@@ -157,19 +157,75 @@ June 24, 2020<br>
 [C# slide window optimal time algorithm practice in June 2020](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/704066/c-slide-window-optimal-time-algorithm-practice-in-june-2020)<br>
 [C# My showcase of learning starting from 2015 April](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/704122/C-My-showcase-of-learning-starting-from-2015-April)<br>
 
+3. Longest Substring Without Repeating Characters<br>
+2020 June 24<br>
+[C# slide window optimal time algorithm practice in June 2020](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/704066/c-slide-window-optimal-time-algorithm-practice-in-june-2020)
+**Two nested loop**<br>
+2020 June 25<br>
+[C# warmup practice in June 25 2020](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/705503/C-warmup-practice-in-June-25-2020)<br>
+**One loop**<br>
 
+34. Find First and Last Position of Element in Sorted Array<br>
+[C# binary search algorithm practice on June 26, 2020](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/706801/C-binary-search-algorithm-practice-on-June-26-2020)<br>
 
+[C# binary search algorithm showcase starting from August 2018](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/706868/C-binary-search-algorithm-showcase-starting-from-August-2018)
 
+June 26, 2020<br>
+688. Knight Probability in Chessboard<br>
+[C# mock interview practice with time limit exceeded problem in June 2020](https://leetcode.com/problems/knight-probability-in-chessboard/discuss/707017/C-mock-interview-practice-with-time-limit-exceeded-problem-in-June-2020)<br>
+June 29, 2020<br>
+84. Largest Rectangle in Histogram<br>
+[C# Review my first practice in June 2018](https://leetcode.com/problems/knight-probability-in-chessboard/discuss/707014/C-Review-my-first-practice-in-June-2018)<br>
+[C# My showcase of problem solving starting from June 2018](https://leetcode.com/problems/knight-probability-in-chessboard/discuss/707062/C-My-showcase-of-problem-solving-starting-from-June-2018)<br>
+[C# Showcase how to solve the problem starting from 2015](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/712028/C-Showcase-how-to-solve-the-problem-starting-from-2015)<br>
+[How to analyze the problem starting from brute force solution?](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/712053/How-to-analyze-the-problem-starting-from-brute-force-solution)<br>
 
+June 29, 2020<br>
+382. Linked List Random Node<br>
+[C# mock interview practice on June 29 2020](https://leetcode.com/problems/linked-list-random-node/discuss/713537/C-mock-interview-practice-on-June-29-2020)<br>
 
+382. Linked List Random Node<br>
+[C# mock interview practice on June 29 2020](https://leetcode.com/problems/linked-list-random-node/discuss/713537/C-mock-interview-practice-on-June-29-2020)<br>
 
+724. Find Pivot Index<br>
+[C# mock interview practice on June 29, 2020](https://leetcode.com/problems/find-pivot-index/discuss/713563/C-mock-interview-practice-on-June-29-2020)<br>
 
+599. Minimum Index Sum of Two Lists<br>
+[C# mock interview practice on June 29, 2020](https://leetcode.com/problems/minimum-index-sum-of-two-lists/discuss/713569/C-mock-interview-practice-on-June-29-2020)<br>
 
+10. Regular expression matching<br>
+[Case study: dynamic programming solution with a bug on March 29, 2018](https://leetcode.com/problems/regular-expression-matching/discuss/716812/Case-study%3A-dynamic-programming-solution-with-a-bug-on-March-29-2020)<br>
+[Case study: dynamic programming solution on January 26, 2018](https://leetcode.com/problems/regular-expression-matching/discuss/716835/Case-study%3A-dynamic-programming-solution-on-January-26-2018)<br>
+[C# My showcase of practice starting from 2017](https://leetcode.com/problems/regular-expression-matching/discuss/716792/C-My-showcase-of-practice-starting-from-2017)<br>
 
+July 2, 2020<br>
+911. Online Election<br>
+[C# mock interview practice on July 2 2020](https://leetcode.com/problems/online-election/discuss/717073/C-mock-interview-practice-on-July-2-2020)<br>
 
+July 3, 2020<br>
 
+124 Maximum path sum <br>
+[Showcase how I learn to solve in 15 minutes starting from 2015](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718295/Showcase-how-I-learn-to-solve-in-15-minutes-starting-from-2015)<br>
+2019 Nov.25<br>
+[Mock interview practice with insights](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/437163/C-mock-interview-practice-on-Nov-24-2019-with-insights)<br>
+2019 May 27 <br>
+[C# post order traversal and then design a recursive function to return root to leaf path max value](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/300609/C-post-order-traversal-and-then-design-a-recursive-function-to-return-root-to-leaf-path-max-value)<br>
+2016 August 4 <br>
+[2016 practice - need improvements](http://juliachencoding.blogspot.com/2016/08/leetcode-124-binary-tree-maximum-path.html)<br>
+[C# code review practice in July 2015](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718271/C-code-review-practice-in-July-2015)<br>
+[C# code review practice in July 2015](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718275/C-code-review-practice-in-July-2015)<br>
+[C# code review practice in August 2016](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/718283/C-code-review-practice-in-August-2016)<br>
 
+July 3, 2020<br>
+438. Find All Anagrams in a String<br>
+[C# using counting sort](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/177395/C-using-counting-sort)<br>
+Add a case study - take 10 minutes to write a case study how to approach the problem. 
 
+Most frequent asked algorithms from Facebook phone screen: https://www.1point3acres.com/<br>
+973, 314, 238, 438, 227, 523, 953, 670, 145, 463, 145, 953, 124, 47, 435<br>
+
+47. Permutations II<br>
+[C# DFS backtracking unique key practice on July 3, 2020](https://leetcode.com/problems/permutations-ii/discuss/718491/C-DFS-backtracking-unique-key-practice-on-July-3-2020)
 
 
 
