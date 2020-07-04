@@ -224,5 +224,8 @@ Add a case study - take 10 minutes to write a case study how to approach the pro
 Most frequent asked algorithms from Facebook phone screen: https://www.1point3acres.com/<br>
 973, 314, 238, 438, 227, 523, 953, 670, 145, 463, 145, 953, 124<br>
 
+47. Permutations II<br>
+[C# DFS backtracking unique key practice on July 3, 2020](https://leetcode.com/problems/permutations-ii/discuss/718491/C-DFS-backtracking-unique-key-practice-on-July-3-2020)
+
 
 
