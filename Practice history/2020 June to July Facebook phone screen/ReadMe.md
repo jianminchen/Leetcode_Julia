@@ -162,6 +162,10 @@ Most frequent asked algorithms from Facebook phone screen: https://www.1point3ac
 47. Permutations II<br>
 [C# DFS backtracking unique key practice on July 3, 2020](https://leetcode.com/problems/permutations-ii/discuss/718491/C-DFS-backtracking-unique-key-practice-on-July-3-2020)
 
+July 5, 2020<br>
+76. Minimum Window Substring<br>
+[Showcase of problem solving starting from 2015](https://leetcode.com/problems/minimum-window-substring/discuss/721637/showcase-of-problem-solving-starting-from-2015)<br>
+
 
 
 
