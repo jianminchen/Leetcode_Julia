@@ -1,6 +1,7 @@
 July 3, 2020<br>
 
 Rush to prepare for Facebook phone screen. [Here](http://juliachencoding.blogspot.com/search/label/2020%20Facebook%20phone%20screen) are my blogs. <br>
+[Here](http://juliachencoding.blogspot.com/search?q=facebook+onsite&updated-max=2018-03-27T20:17:00-07:00&max-results=20&start=40&by-date=false&token=CkH_AL_iQQQgAP8A_wD___73gt2mAvv7zPDIz83Oy8vLys7KxsjJysvPx83MxcrGysrLyMrJx8_Oz8zHzsbJxs3__hAoITxci0hB5TaFUABaCwndSN1H9n9-EBADYOKNxKoE) are the link to look up my 2018 Facebook phone screen, 2019 phone screen and onsite. I should have organized better for those two important phone screens and one onsite interview. <br>
 
 I got an email about invitation for phone screen again in May 2020. So I started to work on algorithms again. I like to show case my preparation as well, so I can monitor my progress and help myself to be a competitive programmer in the world. <br>
 
