@@ -247,3 +247,8 @@ July 6 2020<br>
 993. Cousins in Binary Tree<br>
 [C# mock interview practice on July 6, 2020](https://leetcode.com/problems/cousins-in-binary-tree/discuss/723319/C-mock-interview-practice-on-July-6-2020)<br>
 [C# review my practice in March 2019](https://leetcode.com/problems/cousins-in-binary-tree/discuss/724532/C-review-my-practice-in-March-2019)<br>
+
+July 7, 2020<br>
+1027. Longest Arithmetic Sequence<br>
+[C# mock interview practice with TLE bug practice on July 7, 2020](https://leetcode.com/problems/longest-arithmetic-sequence/discuss/724667/c-mock-interview-practice-with-tle-bug-practice-on-july-7-2020)<br>
+
