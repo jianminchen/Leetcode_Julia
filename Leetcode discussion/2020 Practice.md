@@ -233,6 +233,10 @@ July 6 2020<br>
 [C# using hashset practice in January 2019](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/discuss/723674/C-using-hashset-practice-in-January-2019)<br>
 [C# Elegant solution written after mock interview on July 6, 2020](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/discuss/723641/C-Elegant-solution-written-after-mock-interview-on-July-6-2020)<br>
 
+811. Subdomain Visit Count<br>
+[C# review my practice in May 2019](https://leetcode.com/problems/subdomain-visit-count/discuss/723439/C-review-my-practice-in-May-2019)<br>
+[C# Mock interview practice on July 6 2020](https://leetcode.com/problems/subdomain-visit-count/discuss/724481/C-Mock-interview-practice-on-July-6-2020)<br>
+
 
 
 
