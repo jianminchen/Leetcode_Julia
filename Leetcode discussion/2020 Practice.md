@@ -227,5 +227,12 @@ Most frequent asked algorithms from Facebook phone screen: https://www.1point3ac
 47. Permutations II<br>
 [C# DFS backtracking unique key practice on July 3, 2020](https://leetcode.com/problems/permutations-ii/discuss/718491/C-DFS-backtracking-unique-key-practice-on-July-3-2020)
 
+July 6 2020<br>
+961. N-Repeated Element in Size 2N Array<br>
+[C# ugly code written in mock interview on July 6 2020](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/discuss/723686/c-ugly-code-written-in-mock-interview-on-july-6-2020)<br>
+[C# using hashset practice in January 2019](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/discuss/723674/C-using-hashset-practice-in-January-2019)<br>
+[C# Elegant solution written after mock interview on July 6, 2020](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/discuss/723641/C-Elegant-solution-written-after-mock-interview-on-July-6-2020)<br>
+
+
 
 
