@@ -252,3 +252,6 @@ July 7, 2020<br>
 1027. Longest Arithmetic Sequence<br>
 [C# mock interview practice with TLE bug practice on July 7, 2020](https://leetcode.com/problems/longest-arithmetic-sequence/discuss/724667/c-mock-interview-practice-with-tle-bug-practice-on-july-7-2020)<br>
 
+958. Check Completeness of a Binary Tree<br>
+[C# mock interview practice on July 7, 2020](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/724659/C-mock-interview-practice-on-July-7-2020)<br>
+
