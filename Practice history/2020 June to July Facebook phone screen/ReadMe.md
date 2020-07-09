@@ -167,6 +167,51 @@ July 5, 2020<br>
 76. Minimum Window Substring<br>
 [Showcase of problem solving starting from 2015](https://leetcode.com/problems/minimum-window-substring/discuss/721637/showcase-of-problem-solving-starting-from-2015)<br>
 
+July 6 2020<br>
+961. N-Repeated Element in Size 2N Array<br>
+[C# ugly code written in mock interview on July 6 2020](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/discuss/723686/c-ugly-code-written-in-mock-interview-on-july-6-2020)<br>
+[C# using hashset practice in January 2019](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/discuss/723674/C-using-hashset-practice-in-January-2019)<br>
+[C# Elegant solution written after mock interview on July 6, 2020](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/discuss/723641/C-Elegant-solution-written-after-mock-interview-on-July-6-2020)<br>
+
+811. Subdomain Visit Count<br>
+[C# review my practice in May 2019](https://leetcode.com/problems/subdomain-visit-count/discuss/723439/C-review-my-practice-in-May-2019)<br>
+[C# Mock interview practice on July 6 2020](https://leetcode.com/problems/subdomain-visit-count/discuss/724481/C-Mock-interview-practice-on-July-6-2020)<br>
+
+81. Search in Rotated Sorted Array II<br>
+[C# binary search algorithm with compromise edge case July 6 2020](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/723328/C-binary-search-algorithm-with-compromise-edge-case-July-6-2020)<br>
+993. Cousins in Binary Tree<br>
+[C# mock interview practice on July 6, 2020](https://leetcode.com/problems/cousins-in-binary-tree/discuss/723319/C-mock-interview-practice-on-July-6-2020)<br>
+
+81. Search in Rotated Sorted Array II<br>
+[C# binary search algorithm with compromise edge case July 6 2020](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/723328/C-binary-search-algorithm-with-compromise-edge-case-July-6-2020)<br>
+993. Cousins in Binary Tree<br>
+[C# mock interview practice on July 6, 2020](https://leetcode.com/problems/cousins-in-binary-tree/discuss/723319/C-mock-interview-practice-on-July-6-2020)<br>
+[C# review my practice in March 2019](https://leetcode.com/problems/cousins-in-binary-tree/discuss/724532/C-review-my-practice-in-March-2019)<br>
+
+July 7, 2020<br>
+1027. Longest Arithmetic Sequence<br>
+[C# mock interview practice with TLE bug practice on July 7, 2020](https://leetcode.com/problems/longest-arithmetic-sequence/discuss/724667/c-mock-interview-practice-with-tle-bug-practice-on-july-7-2020)<br>
+
+958. Check Completeness of a Binary Tree<br>
+[C# mock interview practice on July 7, 2020](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/724659/C-mock-interview-practice-on-July-7-2020)<br>
+
+503. Next Greater Element II<br>
+July 8, 2020<br>
+[C# mock interview case study with a bug on July 8, 2020](https://leetcode.com/problems/next-greater-element-ii/discuss/726658/c-mock-interview-case-study-with-a-bug-on-july-8-2020)<br>
+[C# Fix the bug in my mock interview on July 8 2020](https://leetcode.com/problems/next-greater-element-ii/discuss/726649/C-Fix-the-bug-in-my-mock-interview-on-July-8-2020)<br>
+July 10, 2019<br>
+[C# work on O(N) time complexity solution](https://leetcode.com/problems/next-greater-element-ii/discuss/216748/C-work-on-O(N)-time-complexity-solution)<br>
+
+July 8, 2020<br>
+1146. Snapshot Array<br>
+[C# Mock interview practice on July 8 2020](https://leetcode.com/problems/snapshot-array/discuss/726289/c-mock-interview-practice-on-july-8-2020)<br>
+
+278. First Bad Version<br>
+[C# binary search practice on July 8, 2020](https://leetcode.com/problems/first-bad-version/discuss/727499/C-binary-search-practice-on-July-8-2020)<br>
+[C# review binary search practice in August 2018](https://leetcode.com/problems/first-bad-version/discuss/726286/C-review-binary-search-practice-in-August-2018)<br>
+
+July 4, 2020<br>
+[C# mock interview case study practice on July 4 2020](https://leetcode.com/problems/validate-binary-search-tree/discuss/727546/C-mock-interview-case-study-practice-on-July-4-2020)
 
 
 
