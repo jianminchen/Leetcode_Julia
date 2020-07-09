@@ -270,4 +270,6 @@ July 8, 2020<br>
 [C# binary search practice on July 8, 2020](https://leetcode.com/problems/first-bad-version/discuss/727499/C-binary-search-practice-on-July-8-2020)<br>
 [C# review binary search practice in August 2018](https://leetcode.com/problems/first-bad-version/discuss/726286/C-review-binary-search-practice-in-August-2018)<br>
 
+July 4, 2020<br>
+[C# mock interview case study practice on July 4 2020](https://leetcode.com/problems/validate-binary-search-tree/discuss/727546/C-mock-interview-case-study-practice-on-July-4-2020)
 
