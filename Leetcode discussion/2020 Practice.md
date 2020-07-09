@@ -255,3 +255,9 @@ July 7, 2020<br>
 958. Check Completeness of a Binary Tree<br>
 [C# mock interview practice on July 7, 2020](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/724659/C-mock-interview-practice-on-July-7-2020)<br>
 
+503. Next Greater Element II<br>
+July 8, 2020<br>
+[C# mock interview case study with a bug on July 8, 2020](https://leetcode.com/problems/next-greater-element-ii/discuss/726658/c-mock-interview-case-study-with-a-bug-on-july-8-2020)<br>
+[C# Fix the bug in my mock interview on July 8 2020](https://leetcode.com/problems/next-greater-element-ii/discuss/726649/C-Fix-the-bug-in-my-mock-interview-on-July-8-2020)<br>
+July 10, 2019<br>
+[C# work on O(N) time complexity solution](https://leetcode.com/problems/next-greater-element-ii/discuss/216748/C-work-on-O(N)-time-complexity-solution)<br>
