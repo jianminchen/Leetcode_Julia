@@ -265,3 +265,9 @@ July 10, 2019<br>
 July 8, 2020<br>
 1146. Snapshot Array<br>
 [C# Mock interview practice on July 8 2020](https://leetcode.com/problems/snapshot-array/discuss/726289/c-mock-interview-practice-on-july-8-2020)<br>
+
+278. First Bad Version<br>
+[C# binary search practice on July 8, 2020](https://leetcode.com/problems/first-bad-version/discuss/727499/C-binary-search-practice-on-July-8-2020)<br>
+[C# review binary search practice in August 2018](https://leetcode.com/problems/first-bad-version/discuss/726286/C-review-binary-search-practice-in-August-2018)<br>
+
+
