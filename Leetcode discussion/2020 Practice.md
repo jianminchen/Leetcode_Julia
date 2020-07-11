@@ -285,4 +285,5 @@ July 10, 2020<br>
 [C# It took me 85 minutes to make it work in mock interview](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/729442/C-It-took-me-85-minutes-to-make-it-work-in-mock-interview)<br>
 2019 June 8, 2019<br>
 [C# code could not pass large test case in weekly contest](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/308356/C-code-could-not-pass-large-test-case-in-weekly-contest)<br>
+It is so challenge for me to push myself one week to prepare 2020 July 20 Facebook phone screen. 
 
