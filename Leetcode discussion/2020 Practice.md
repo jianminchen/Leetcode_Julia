@@ -277,5 +277,12 @@ July 4, 2020<br>
 [C# dynamic programming makes perfect](http://juliachencoding.blogspot.com/2020/07/mock-interview-jump-to-last-stone.html)<br>
 [C# dynamic programming - similar to BFS timeout issue](https://leetcode.com/problems/frog-jump/discuss/729087/C-dynamic-programming-similar-to-BFS-timeout-issue)<br>
 
+July 10, 2020<br>
+1080 Insufficient Nodes in Root to Leaf Paths<br>
+[C# Three test cases to help using post order traversal](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/730715/c-simple-solution-using-post-order-traversal)<br>
 
+2020 July 10<br>
+[C# It took me 85 minutes to make it work in mock interview](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/729442/C-It-took-me-85-minutes-to-make-it-work-in-mock-interview)<br>
+2019 June 8, 2019<br>
+[C# code could not pass large test case in weekly contest](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/308356/C-code-could-not-pass-large-test-case-in-weekly-contest)<br>
 
