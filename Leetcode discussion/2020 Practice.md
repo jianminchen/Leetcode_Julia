@@ -287,3 +287,7 @@ July 10, 2020<br>
 [C# code could not pass large test case in weekly contest](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/308356/C-code-could-not-pass-large-test-case-in-weekly-contest)<br>
 It is so challenge for me to push myself one week to prepare 2020 July 20 Facebook phone screen. 
 
+July 13, 2020<br>
+733. Flood Fill<br>
+[C# Breadth first search practice on July 13, 2020](https://leetcode.com/problems/flood-fill/discuss/734754/c-breadth-first-search-practice-on-july-13-2020)<br>
+
