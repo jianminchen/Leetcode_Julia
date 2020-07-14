@@ -299,4 +299,10 @@ Dec. 2018<br>
 Dec. 2018<br>
 [C# Review time limit exceeded practice in Dec. 2018](https://leetcode.com/problems/minimum-area-rectangle/discuss/734932/C-Review-time-limit-exceeded-practice-in-Dec.-2018)<br>
 
+July 14, 2020<br>
+328. Odd Even Linked List<br>
+[C# LinkedList challenge](https://leetcode.com/problems/odd-even-linked-list/discuss/736462/C-LinkedList-challenge)<br>
+142. Linked List Cycle II<br>
+[C# Fast and slow two runners practice on July 14, 2020](https://leetcode.com/problems/linked-list-cycle-ii/discuss/736453/C-Fast-and-slow-two-runners-practice-on-July-14-2020)<br>
+
 
