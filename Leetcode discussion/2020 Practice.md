@@ -293,7 +293,7 @@ July 13, 2020<br>
 
 939. Minimum Area Rectangle<br>
 July 13, 2020<br>
-[C# brute force solution based on top left corner](https://leetcode.com/problems/minimum-area-rectangle/discuss/734848/C-brute-force-solution-based-on-top-left-corner)<br>>
+[C# brute force solution based on top left corner](https://leetcode.com/problems/minimum-area-rectangle/discuss/734848/C-brute-force-solution-based-on-top-left-corner)<br>
 Dec. 2018<br>
 [C# review my practice in Dec. 2018](https://leetcode.com/problems/minimum-area-rectangle/discuss/734864/C-review-my-practice-in-Dec.-2018)<br>
 Dec. 2018<br>
