@@ -291,8 +291,7 @@ July 13, 2020<br>
 733. Flood Fill<br>
 [C# Breadth first search practice on July 13, 2020](https://leetcode.com/problems/flood-fill/discuss/734754/c-breadth-first-search-practice-on-july-13-2020)<br>
 
-
-939. Minimum Area Rectangle
+939. Minimum Area Rectangle<br>
 July 13, 2020<br>
 [C# brute force solution based on top left corner](https://leetcode.com/problems/minimum-area-rectangle/discuss/734848/C-brute-force-solution-based-on-top-left-corner)<br>>
 Dec. 2018<br>
