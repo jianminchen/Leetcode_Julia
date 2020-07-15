@@ -277,5 +277,32 @@ July 4, 2020<br>
 [C# dynamic programming makes perfect](http://juliachencoding.blogspot.com/2020/07/mock-interview-jump-to-last-stone.html)<br>
 [C# dynamic programming - similar to BFS timeout issue](https://leetcode.com/problems/frog-jump/discuss/729087/C-dynamic-programming-similar-to-BFS-timeout-issue)<br>
 
+July 10, 2020<br>
+1080 Insufficient Nodes in Root to Leaf Paths<br>
+[C# Three test cases to help using post order traversal](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/730715/c-simple-solution-using-post-order-traversal)<br>
+
+2020 July 10<br>
+[C# It took me 85 minutes to make it work in mock interview](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/729442/C-It-took-me-85-minutes-to-make-it-work-in-mock-interview)<br>
+2019 June 8, 2019<br>
+[C# code could not pass large test case in weekly contest](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/discuss/308356/C-code-could-not-pass-large-test-case-in-weekly-contest)<br>
+It is so challenge for me to push myself one week to prepare 2020 July 20 Facebook phone screen. 
+
+July 13, 2020<br>
+733. Flood Fill<br>
+[C# Breadth first search practice on July 13, 2020](https://leetcode.com/problems/flood-fill/discuss/734754/c-breadth-first-search-practice-on-july-13-2020)<br>
+
+939. Minimum Area Rectangle<br>
+July 13, 2020<br>
+[C# brute force solution based on top left corner](https://leetcode.com/problems/minimum-area-rectangle/discuss/734848/C-brute-force-solution-based-on-top-left-corner)<br>
+Dec. 2018<br>
+[C# review my practice in Dec. 2018](https://leetcode.com/problems/minimum-area-rectangle/discuss/734864/C-review-my-practice-in-Dec.-2018)<br>
+Dec. 2018<br>
+[C# Review time limit exceeded practice in Dec. 2018](https://leetcode.com/problems/minimum-area-rectangle/discuss/734932/C-Review-time-limit-exceeded-practice-in-Dec.-2018)<br>
+
+July 14, 2020<br>
+328. Odd Even Linked List<br>
+[C# LinkedList challenge](https://leetcode.com/problems/odd-even-linked-list/discuss/736462/C-LinkedList-challenge)<br>
+142. Linked List Cycle II<br>
+[C# Fast and slow two runners practice on July 14, 2020](https://leetcode.com/problems/linked-list-cycle-ii/discuss/736453/C-Fast-and-slow-two-runners-practice-on-July-14-2020)<br>
 
 
