@@ -245,6 +245,7 @@ July 14, 2020<br>
 142. Linked List Cycle II<br>
 [C# Fast and slow two runners practice on July 14, 2020](https://leetcode.com/problems/linked-list-cycle-ii/discuss/736453/C-Fast-and-slow-two-runners-practice-on-July-14-2020)<br>
 
+4 more mock interviews on interviewing.io as an interviewee. One mock interview from a friend this coming Saturday. <br>
 Count down three days. Party is over for phone screen! Chao! (Mexico goodbye!)<br> 
 
 
