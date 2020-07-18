@@ -248,6 +248,7 @@ July 14, 2020<br>
 4 more mock interviews on interviewing.io as an interviewee. One mock interview from a friend this coming Saturday. <br>
 Count down three days. Party is over for phone screen! Chao! (Mexico goodbye!)<br> 
 
-
+Also I will start to work on algorithms on leetcode mock interview phone screen nonstop for two days. <br>
+I will plan to work on 10 to 20 algorithms a day. I need to get ideas how to improve myself in terms of problem solving. 
 
 
