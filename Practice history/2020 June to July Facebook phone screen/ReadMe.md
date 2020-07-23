@@ -291,6 +291,8 @@ July 20, 2020<br>
 855 Exam room<br>
 [C# Review my practice with wrong answer](https://leetcode.com/problems/exam-room/discuss/751465/C-Review-my-practice-with-wrong-answer)<br>
 
+203. Remove Linked List Elements<br>
+[C# Iterative solution](https://leetcode.com/problems/remove-linked-list-elements/discuss/743109/C-Iterative-solution)<br>
 
 July 17 - 20, 2020 Weekend code marathon is [here](http://juliachencoding.blogspot.com/2020/07/leetcode-phone-screen-mock-interview.html). <br>
 Say goodbye to Facebook phone screen. [Here](http://juliachencoding.blogspot.com/2020/07/say-goodbye-to-facebook-phone-screen.html) is the blog. <br>
