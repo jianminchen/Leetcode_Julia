@@ -245,10 +245,25 @@ July 14, 2020<br>
 142. Linked List Cycle II<br>
 [C# Fast and slow two runners practice on July 14, 2020](https://leetcode.com/problems/linked-list-cycle-ii/discuss/736453/C-Fast-and-slow-two-runners-practice-on-July-14-2020)<br>
 
+1376. Time Needed to Inform All Employees<br>
+[C# Optimal solution using stack](https://leetcode.com/problems/time-needed-to-inform-all-employees/discuss/741523/C-Optimal-solution-using-stack)<br>
+
+July 18, 2020<br>
+[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/discuss/743438/C-Need-to-work-on-a-simple-case-study)<br>
+
+July 19, 2020<br>
+[Leetcode discuss: 332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/discuss/742915/C-DFS-algorithm-with-tough-decisions-to-make)<br>
+
+304. Range Sum Query 2D - Immutable<br>
+(C# preprocess matrix to calculate left top corner area)[https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/743616/C-preprocess-matrix-to-calculate-left-top-corner-area]<br>
+
 4 more mock interviews on interviewing.io as an interviewee. One mock interview from a friend this coming Saturday. <br>
 Count down three days. Party is over for phone screen! Chao! (Mexico goodbye!)<br> 
 
 Also I will start to work on algorithms on leetcode mock interview phone screen nonstop for two days. <br>
-I will plan to work on 10 to 20 algorithms a day. I need to get ideas how to improve myself in terms of problem solving. 
+I will plan to work on 10 to 20 algorithms a day. I need to get ideas how to improve myself in terms of problem solving. <br>
+
+July 17 - 20, 2020 Weekend code marathon is [here](http://juliachencoding.blogspot.com/2020/07/leetcode-phone-screen-mock-interview.html). <br>
+Say goodbye to Facebook phone screen. [Here](http://juliachencoding.blogspot.com/2020/07/say-goodbye-to-facebook-phone-screen.html) is the blog. 
 
 
