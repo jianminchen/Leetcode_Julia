@@ -292,7 +292,12 @@ July 20, 2020<br>
 [C# Review my practice with wrong answer](https://leetcode.com/problems/exam-room/discuss/751465/C-Review-my-practice-with-wrong-answer)<br>
 
 203. Remove Linked List Elements<br>
+Practice from July 18 to 20, 2020<br>
 [C# Iterative solution](https://leetcode.com/problems/remove-linked-list-elements/discuss/743109/C-Iterative-solution)<br>
+[C# practice with a test case verification](https://leetcode.com/problems/remove-linked-list-elements/discuss/751552/c-practice-with-a-test-case-verification)<br>
+
+Practice on July 2018
+[C# recursive solution quick and easy to write](https://leetcode.com/problems/remove-linked-list-elements/discuss/751585/C-recursive-solution-quick-and-easy-to-write)<br>
 
 1110. Delete Nodes And Return Forest<br>
 [C# quick practice for Facebook phone screen July 20 2020](https://leetcode.com/problems/delete-nodes-and-return-forest/discuss/751474/c-quick-practice-for-facebook-phone-screen-july-20-2020)<br>
