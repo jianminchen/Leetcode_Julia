@@ -252,6 +252,9 @@ July 17, 2020<br>
 July 18, 2020<br>
 [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/discuss/743438/C-Need-to-work-on-a-simple-case-study)<br>
 
+935. Knight Dialer<br>
+[C# Need to move fast](https://leetcode.com/problems/knight-dialer/discuss/743416/C-Need-to-move-fast)<br>
+
 July 19, 2020<br>
 [Leetcode discuss: 332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/discuss/742915/C-DFS-algorithm-with-tough-decisions-to-make)<br>
 
