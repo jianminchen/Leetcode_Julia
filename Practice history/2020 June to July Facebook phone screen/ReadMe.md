@@ -245,6 +245,7 @@ July 14, 2020<br>
 142. Linked List Cycle II<br>
 [C# Fast and slow two runners practice on July 14, 2020](https://leetcode.com/problems/linked-list-cycle-ii/discuss/736453/C-Fast-and-slow-two-runners-practice-on-July-14-2020)<br>
 
+July 17, 2020<br>
 1376. Time Needed to Inform All Employees<br>
 [C# Optimal solution using stack](https://leetcode.com/problems/time-needed-to-inform-all-employees/discuss/741523/C-Optimal-solution-using-stack)<br>
 
