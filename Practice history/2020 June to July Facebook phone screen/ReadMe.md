@@ -255,7 +255,7 @@ July 19, 2020<br>
 [Leetcode discuss: 332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/discuss/742915/C-DFS-algorithm-with-tough-decisions-to-make)<br>
 
 304. Range Sum Query 2D - Immutable<br>
-(C# preprocess matrix to calculate left top corner area)[https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/743616/C-preprocess-matrix-to-calculate-left-top-corner-area]<br>
+[C# preprocess matrix to calculate left top corner area](https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/743616/C-preprocess-matrix-to-calculate-left-top-corner-area)<br>
 
 4 more mock interviews on interviewing.io as an interviewee. One mock interview from a friend this coming Saturday. <br>
 Count down three days. Party is over for phone screen! Chao! (Mexico goodbye!)<br> 
