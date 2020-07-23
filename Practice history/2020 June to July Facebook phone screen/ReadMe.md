@@ -261,11 +261,31 @@ July 19, 2020<br>
 304. Range Sum Query 2D - Immutable<br>
 [C# preprocess matrix to calculate left top corner area](https://leetcode.com/problems/range-sum-query-2d-immutable/discuss/743616/C-preprocess-matrix-to-calculate-left-top-corner-area)<br>
 
+394. Decode String<br>
+[C# Stack is helpful to parse nested](https://leetcode.com/problems/decode-string/discuss/744920/C-Stack-is-helpful-to-parse-nested)<br>
+
 4 more mock interviews on interviewing.io as an interviewee. One mock interview from a friend this coming Saturday. <br>
 Count down three days. Party is over for phone screen! Chao! (Mexico goodbye!)<br> 
 
 Also I will start to work on algorithms on leetcode mock interview phone screen nonstop for two days. <br>
 I will plan to work on 10 to 20 algorithms a day. I need to get ideas how to improve myself in terms of problem solving. <br>
+
+July 20, 2020<br>
+8:00 AM - 11:00 AM Review tree algorithms on Leetcode.com. Start from hard level, finished over 20 tree algorithms. <br>
+106. Construct Binary Tree from Inorder and Postorder Traversal<br>
+[C# Review my own code](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/discuss/746159/c-review-my-own-code)<br>
+
+834. Sum of Distances in Tree (Hard level)<br>
+[C# code review practice in January 2019](https://leetcode.com/problems/sum-of-distances-in-tree/discuss/746076/C-code-review-practice-in-January-2019)<br>
+
+636. Exclusive Time of Functions<br>
+[C# My first practice with problem understanding requirement](https://leetcode.com/problems/exclusive-time-of-functions/discuss/745353/C-My-first-practice-with-problem-understanding-requirement)<br>
+
+July 20, 2020<br>
+205. Isomorphic Strings<br>
+[C# Understand Isomorphic strings](https://leetcode.com/problems/isomorphic-strings/discuss/744925/c-understand-isomorphic-strings)<br>
+
+
 
 July 17 - 20, 2020 Weekend code marathon is [here](http://juliachencoding.blogspot.com/2020/07/leetcode-phone-screen-mock-interview.html). <br>
 Say goodbye to Facebook phone screen. [Here](http://juliachencoding.blogspot.com/2020/07/say-goodbye-to-facebook-phone-screen.html) is the blog. 
