@@ -1,4 +1,4 @@
-Advice from ex-Google intern, Amzon-intern - July 22, 2020, one of my mock interviewers in July 2020<br>
+Advice from ex-Google intern, Amzon-intern - July 22, 2020, one of my mock interviewers in July 2020.<br> [Stonyan Biner](https://www.linkedin.com/in/stoyanbinev/) shared his advice through Linkedin.com. 
 <br><br><br>
 No. 1 [System design](https://github.com/shashank88/system_design)<br>
 No. 2 [System design - Harvard CS 76](https://github.com/checkcheckzz/system-design-interview)<br>
