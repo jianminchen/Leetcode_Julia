@@ -296,7 +296,7 @@ Practice from July 18 to 20, 2020<br>
 [C# Iterative solution](https://leetcode.com/problems/remove-linked-list-elements/discuss/743109/C-Iterative-solution)<br>
 [C# practice with a test case verification](https://leetcode.com/problems/remove-linked-list-elements/discuss/751552/c-practice-with-a-test-case-verification)<br>
 
-Practice on July 2018
+Practice on July 2018<br>
 [C# recursive solution quick and easy to write](https://leetcode.com/problems/remove-linked-list-elements/discuss/751585/C-recursive-solution-quick-and-easy-to-write)<br>
 
 1110. Delete Nodes And Return Forest<br>
