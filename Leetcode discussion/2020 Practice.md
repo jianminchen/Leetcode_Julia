@@ -310,7 +310,7 @@ July 17, 2020<br>
 [C# Optimal solution using stack](https://leetcode.com/problems/time-needed-to-inform-all-employees/discuss/741523/C-Optimal-solution-using-stack)<br>
 
 July 18, 2020<br>
-979. Distribute Coins in Binary Tree<br.
+979. Distribute Coins in Binary Tree<br>
 [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/discuss/743438/C-Need-to-work-on-a-simple-case-study)<br>
 
 935. Knight Dialer<br>
