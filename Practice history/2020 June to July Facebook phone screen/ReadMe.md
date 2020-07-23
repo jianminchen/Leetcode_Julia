@@ -285,11 +285,13 @@ July 20, 2020<br>
 205. Isomorphic Strings<br>
 [C# Understand Isomorphic strings](https://leetcode.com/problems/isomorphic-strings/discuss/744925/c-understand-isomorphic-strings)<br>
 
+108. Convert Sorted Array to Binary Search Tree<br>
+[C# Recursive function practice](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss/751444/C-Recursive-function-practice)<br>
+
 July 17 - 20, 2020 Weekend code marathon is [here](http://juliachencoding.blogspot.com/2020/07/leetcode-phone-screen-mock-interview.html). <br>
 Say goodbye to Facebook phone screen. [Here](http://juliachencoding.blogspot.com/2020/07/say-goodbye-to-facebook-phone-screen.html) is the blog. <br>
 
-108. Convert Sorted Array to Binary Search Tree<br>
-[C# Recursive function practice](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/discuss/751444/C-Recursive-function-practice)<br>
+
 
 
 
