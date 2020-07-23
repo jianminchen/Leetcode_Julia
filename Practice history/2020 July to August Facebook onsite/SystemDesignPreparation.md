@@ -1,4 +1,11 @@
 Advice from ex-Google intern, Amzon-intern - July 22, 2020, one of my mock interviewers in July 2020<br>
+<br><br><br>
+No. 1 [System design](https://github.com/shashank88/system_design)<br>
+No. 2 [System design - Harvard CS 76](https://github.com/checkcheckzz/system-design-interview)<br>
+No. 3 [System design primer][https://github.com/donnemartin/system-design-primer<br>
+
+
+
 The first one gives a brief overview of how the interview will go and the kinds of topics covered. I would suggest reading through but not spending much time on the blogs provides as you would like to focus on pure preparation. If you have the time, check out the Harvard CS76 course mentioned but pick out the lectures specifically on scalability. <br>
 
 The 2nd one has the most examples of interview scenarios, read through to get the type of stuff that would be presented and tasks that await.<br>
