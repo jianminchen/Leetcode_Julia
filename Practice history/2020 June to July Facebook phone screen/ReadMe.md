@@ -294,6 +294,9 @@ July 20, 2020<br>
 203. Remove Linked List Elements<br>
 [C# Iterative solution](https://leetcode.com/problems/remove-linked-list-elements/discuss/743109/C-Iterative-solution)<br>
 
+1110. Delete Nodes And Return Forest<br>
+[C# quick practice for Facebook phone screen July 20 2020](https://leetcode.com/problems/delete-nodes-and-return-forest/discuss/751474/c-quick-practice-for-facebook-phone-screen-july-20-2020)<br>
+
 July 17 - 20, 2020 Weekend code marathon is [here](http://juliachencoding.blogspot.com/2020/07/leetcode-phone-screen-mock-interview.html). <br>
 Say goodbye to Facebook phone screen. [Here](http://juliachencoding.blogspot.com/2020/07/say-goodbye-to-facebook-phone-screen.html) is the blog. <br>
 
