@@ -2,7 +2,7 @@ Advice from ex-Google intern, Amzon-intern - July 22, 2020, one of my mock inter
 <br><br><br>
 No. 1 [System design](https://github.com/shashank88/system_design)<br>
 No. 2 [System design - Harvard CS 76](https://github.com/checkcheckzz/system-design-interview)<br>
-No. 3 [System design primer][https://github.com/donnemartin/system-design-primer]<br>
+No. 3 [System design primer](https://github.com/donnemartin/system-design-primer)<br>
 
 
 
