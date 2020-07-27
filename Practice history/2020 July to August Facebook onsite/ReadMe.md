@@ -5,7 +5,12 @@ I have to push myself to work on more challenge task to prepare onsite interview
 
 July 27, 2020<br>
 Read dummy for scalability. [Here](https://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism) is the article.<br>
-Read article next. [idemotent](http://joycse06.github.io/blog/2016/09/designing-good-background-jobs-idempotence/) <br>
+Read article next. [idempotent](http://joycse06.github.io/blog/2016/09/designing-good-background-jobs-idempotence/) <br>
+
+Redis list<br>
+Active mQ<br>
+RabbitMQ<br>
+Snappy <br>
 
 
 
