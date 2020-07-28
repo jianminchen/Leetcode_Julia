@@ -27,3 +27,5 @@ Snappy <br>
 8. Microsoft Azure CDN<br>
 9. CDN77<br>
 10. Leaseweb<br>
+
+[What Is a Reverse Proxy Server?](https://www.nginx.com/resources/glossary/reverse-proxy-server/)<br>
