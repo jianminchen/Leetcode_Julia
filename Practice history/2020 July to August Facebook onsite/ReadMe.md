@@ -16,3 +16,14 @@ Snappy <br>
 
 [Caching To Scale Web Applications](http://venkateshcm.com/2014/05/Caching-To-Scale-Web-Applications/)<br>
 
+[Best CDN providers of 2020 to speed up any website](https://www.techradar.com/news/the-best-cdns-of-2018)<br>
+1. Cloudflare<br>
+2. Fastly<br>
+3. KeyCDN<br>
+4. MetaCDN<br>
+5. StackPath<br>
+6. Akamai<br>
+7. Amazon CloudFront<br>
+8. Microsoft Azure CDN<br>
+9. CDN77<br>
+10. Leaseweb<br>
