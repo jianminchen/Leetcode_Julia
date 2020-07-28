@@ -38,5 +38,5 @@ I went through the basics, and then google the keyword and find some articles to
 **DB basics: types of DB's (SQL vs noSQL etc ), hashing and indexing, EAV based databases, Sharding, caching for databases, master-slave etc**<br>
 
 Master-slave databases - <br>
-[Database Master-Slave Replication in the Cloud](https://mariadb.com/resources/blog/database-master-slave-replication-in-the-cloud/)<br>
+[Database Master-Slave Replication in the Cloud](https://mariadb.com/resources/blog/database-master-slave-replication-in-the-cloud/)<br> [Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Practice%20history/2020%20July%20to%20August%20Facebook%20onsite/DatabaseMaster-SlaveReplication.md) is my notes.
 
