@@ -29,3 +29,6 @@ Snappy <br>
 10. Leaseweb<br>
 
 [What Is a Reverse Proxy Server?](https://www.nginx.com/resources/glossary/reverse-proxy-server/)<br>
+
+July 28, 2020<br>
+[Understanding the EAV data model and when to use it](https://inviqa.com/blog/understanding-eav-data-model-and-when-use-it)<br>
