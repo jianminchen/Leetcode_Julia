@@ -32,3 +32,11 @@ Snappy <br>
 
 July 28, 2020<br>
 [Understanding the EAV data model and when to use it](https://inviqa.com/blog/understanding-eav-data-model-and-when-use-it)<br>
+
+I went through the basics, and then google the keyword and find some articles to read:<br>
+
+**DB basics: types of DB's (SQL vs noSQL etc ), hashing and indexing, EAV based databases, Sharding, caching for databases, master-slave etc**<br>
+
+Master-slave databases - <br>
+[Database Master-Slave Replication in the Cloud](https://mariadb.com/resources/blog/database-master-slave-replication-in-the-cloud/)<br>
+
