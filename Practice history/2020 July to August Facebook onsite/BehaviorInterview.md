@@ -75,6 +75,10 @@ Personal projects<br>
 4. Mock interview on interviewing.io<br>
 5. Pramp mock interview <br>
 6. Work on system design study<br> 
+7. coding blogs<br>
+8. Quora.com asking questions<br>
+9. Stackexchange.com code review<br>
+
 
 My goal of career - having a life<br>
 1. Have a stable job, and seek opportunities to learn <br>
@@ -95,3 +99,8 @@ My goal of career - having a life<br>
 16. Home price pressure in Vancouver area<br>
 17. Frugal life style, minimalism <br>
 18. Willindon church activities - 2010 - 2015<br>
+
+Build wealth<br>
+1. Stock portfolios<br>
+2. Beginners - struggle of learning, mistakes <br>
+
