@@ -40,3 +40,5 @@ I went through the basics, and then google the keyword and find some articles to
 Master-slave databases - <br>
 [Database Master-Slave Replication in the Cloud](https://mariadb.com/resources/blog/database-master-slave-replication-in-the-cloud/)<br> [Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Practice%20history/2020%20July%20to%20August%20Facebook%20onsite/DatabaseMaster-SlaveReplication.md) is my notes.
 
+Concurrency topic:<br>
+[Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)<br>
