@@ -49,17 +49,21 @@ Sales team<br>
 Technologies:<br>
 1. Microsoft SQL server intelligent solution<br>
 2. Microsoft Excel sheet powerpivot analysis<br>
-3. SQL DBA and Microsoft SSIS, etc. 
-4. Html, CSS, JavaScript, JQuery framework
-5. C# programming language study
-6. JavaScript programming language study
-7. CSS learning and practice
-8. Pluralsight.com courses - two years
-9. Frontendmasters.com courses - one year
-10. LinkedIn learning - six months
-11. Leetcode practice 2015 January - 2020 July
-12. Microsoft Excel
-13. ...
+3. SQL DBA and Microsoft SSIS, etc. <br>
+4. Html, CSS, JavaScript, JQuery framework<br>
+5. C# programming language study<br>
+6. JavaScript programming language study<br>
+7. CSS learning and practice<br>
+8. Pluralsight.com courses - two years<br>
+9. Frontendmasters.com courses - one year<br>
+10. LinkedIn learning - six months<br>
+11. Leetcode practice 2015 January - 2020 July<br>
+12. Microsoft Excel<br>
+13. Microsoft Visual studo<br>
+14. Google chrome web browser<br>
+15. Firefox web browser<br>
+16. Mobile website project - CSS, and Bootstrap CSS<br>
+17. <br>
 
 Business analysis:<br>
 
