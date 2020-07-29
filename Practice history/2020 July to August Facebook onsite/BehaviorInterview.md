@@ -7,7 +7,7 @@ Projects to work on:<br>
 4. Work with market team<br>
 5. Work with accounting team<br>
 6. Work on production team<br>
-7. Work on payment - credit card company<br>
+7. Work on payment<br>
 8. Work with system administrator<br>
 9. Work on RESTFUL API study and research<br>
 10. Work on quality control - website, content, research <br>
@@ -31,7 +31,7 @@ Company website:<br>
 5. Front end redesign - <br>
 6. Database backup, creation, and source control<br>
 7. SQL server 2005, 2008, and free version <br>
-8. JavaScript <br>
+8. ...
 
 Designers<br>
 1. How to work with designers? <br>
@@ -44,6 +44,41 @@ Marketing coordinates<br>
 1. Marketing team - <br>
 
 Sales team<br>
+1. Team meeting<br>
+2. Installation of management software, open order analysis<br>
+3. ...
+
+Production team<br>
+1. Check invenotry application<br>
+2. Dormant items, short items, and active items categories, sales amount/ usage last 3month, 6 months, 12 months<br>
+3. production team - search feature - <br>
+
+Engineering team<br>
+1. Work with power supplies - <br>
+2. Work with understanding tools needed<br>
+
+Work with outsourcing company<br>
+1. Vacation planning<br>
+2. Virus issues - one week vacation in 2018 <br>
+3. Ransom attack virus - computer got virus <br>
+4. Server was down - source control - <br>
+
+Work with mistakes<br>
+1. Order mistakes, order shipping emails etc., Microsoft Navision, application<br>
+2. Ransom attacks - source control, github - 2018<br>
+3. Team change - open to learn <br>
+4. Credit card payments - webpage nonsecure, credit card company, JavaScript code, encryption etc. - <br>
+5. Network issues - $2/ monthly website alert<br>
+6. Mobile device - website testing challengs, Google mobile website tool<br>
+7. Sales analysis - overhead - Microsoft Navision internal reports, audits from accounting team<br>
+8. Cache issue - website - image update, website cache settings <br>
+9. IIS server update - work with consultant, work on administration by myself<br>
+10. Front end challenge - CSS, html, image sliding...<br>
+11. Productoverview.aspx.cs - huge C# file breakdown...<br>
+12. Code for humans - rewrite C# code...<br>
+13. Coding style - rewrite regional sales report...<br>
+14. 2 yr project to send monthly reports for each agent ...<br>
+
 
 
 Technologies:<br>
@@ -75,32 +110,3 @@ Personal projects<br>
 4. Mock interview on interviewing.io<br>
 5. Pramp mock interview <br>
 6. Work on system design study<br> 
-7. coding blogs<br>
-8. Quora.com asking questions<br>
-9. Stackexchange.com code review<br>
-
-
-My goal of career - having a life<br>
-1. Have a stable job, and seek opportunities to learn <br>
-2. Personal finance - stock market, investment - 2018 - 2020<br>
-3. Work on my citizenship - 2010 - 2015 - Canadian citizenship<br>
-4. Paid off my home equity line in Florida - from 2010 - 2018<br>
-5. Learn JavaScript - 6 months learning <br>
-6. Sponsor application 2018 - 2020<br>
-7. Work with various designers, marketing team<br>
-8. Go through open source projects of website development<br>
-9. Handle stress of mobile phone version of website issues<br>
-10. Go over hay fever issues - 2018 - 2020<br>
-11. Improve my own crafting skills - C# code and others in general<br>
-12. Weight control - 2015 - 2018, 30 lb weight control<br>
-13. Project planning, and coding project - long term evaluation <br>
-14. Coronavirus - project - two weeks vacation challenges<br>
-15. Vacation planning - Christmas break, Spring festival, and all others<br>
-16. Home price pressure in Vancouver area<br>
-17. Frugal life style, minimalism <br>
-18. Willindon church activities - 2010 - 2015<br>
-
-Build wealth<br>
-1. Stock portfolios<br>
-2. Beginners - struggle of learning, mistakes <br>
-
