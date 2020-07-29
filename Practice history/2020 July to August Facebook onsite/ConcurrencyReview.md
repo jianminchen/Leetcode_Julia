@@ -12,3 +12,5 @@ Time slicing<br>
 Race conditions<br>
 
 Lecture notes from Colorado university. [Introduction concurrency](https://www.cs.colorado.edu/~kena/classes/5828/f14/lectures/04-introconcurrency.pdf) <br>
+
+Take a break, study the case study from concurrency book, 15.1 Combinatorial systems: rules and tactics, page 424. <br>
