@@ -23,6 +23,29 @@ Projects to work on:<br>
 20. Factory sales<br>
 21. Work on agent monthly sales, regional sales, daily open order, and top sales items, last 10 years etc. <br>
 
+Company website:<br>
+1. Search feature<br>
+2. Product listing<br>
+3. Backoffice <br>
+4. Backoffice CSS style <br>
+5. Front end redesign - <br>
+6. Database backup, creation, and source control<br>
+7. SQL server 2005, 2008, and free version <br>
+8. ...
+
+Designers<br>
+1. How to work with designers? <br>
+2. Tips to succeed to work with designers<br>
+3. Data gathering, requirement, spec sheet and content management<br>
+4. Work with third party software tool<br>
+5. 
+
+Marketing coordinates<br>
+1. Marketing team - <br>
+
+Sales team<br>
+
+
 Technologies:<br>
 1. Microsoft SQL server intelligent solution<br>
 2. Microsoft Excel sheet powerpivot analysis<br>
