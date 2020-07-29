@@ -35,6 +35,8 @@ Technologies:<br>
 9. Frontendmasters.com courses - one year
 10. LinkedIn learning - six months
 11. Leetcode practice 2015 January - 2020 July
+12. Microsoft Excel
+13. ...
 
 Business analysis:<br>
 
