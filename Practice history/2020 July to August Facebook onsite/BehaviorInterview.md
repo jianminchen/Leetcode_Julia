@@ -115,7 +115,9 @@ Mistakes lack of innovations, life lessons<br>
 1. Subscribe more than two years of Netflix, watch "drop dead diva" TV series. Waste time on too much entertainment.<br>
 2. Too shy to write and share my own experience as a software programmer from 2010 to 2015 January. Not open until August 2019 my first Facebook onsite interview.<br>
 3. Deal with personal confidence issues. For example, felt depressed for a day or two around Nov. 2018. Housing issues in Canada and real estate price bubble after 2018.<br>
-4. Deal with feelings of lonely, social isolation of living as a singlep person. <br>
+4. Deal with feelings of lonely, social isolation of living as a single person. <br>
 5. Do not understand business, How Amazon and other technology companies booming. <br>
 6. Shy away from stock market from 2009 to 2019. <br>
-7. 
+7. Limit myself to Christian connections, tennis court connections, relatives and old friends circle. <br>
+8. Do not talk back and defend my own rights. People cheat on me, auto mechanics, autoshop I chose, and people I chose to work business with. <br>
+9. ...
