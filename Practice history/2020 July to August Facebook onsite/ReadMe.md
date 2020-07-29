@@ -42,3 +42,6 @@ Master-slave databases - <br>
 
 Concurrency topic:<br>
 [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)<br>
+
+[System design algorithms](https://github.com/resumejob/system-design-algorithms)<br>
+[Leetcode system design top voted topics](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=most_votes&query=)<br>
