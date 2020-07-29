@@ -94,7 +94,7 @@ Technologies:<br>
 10. LinkedIn learning - six months<br>
 11. Leetcode practice 2015 January - 2020 July<br>
 12. Microsoft Excel<br>
-13. Microsoft Visual studo<br>
+13. Microsoft Visual studio<br>
 14. Google chrome web browser<br>
 15. Firefox web browser<br>
 16. Mobile website project - CSS, and Bootstrap CSS<br>
