@@ -31,7 +31,7 @@ Company website:<br>
 5. Front end redesign - <br>
 6. Database backup, creation, and source control<br>
 7. SQL server 2005, 2008, and free version <br>
-8. ...
+8. JavaScript <br>
 
 Designers<br>
 1. How to work with designers? <br>
