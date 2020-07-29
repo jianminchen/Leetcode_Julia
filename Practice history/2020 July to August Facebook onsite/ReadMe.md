@@ -45,3 +45,10 @@ Concurrency topic:<br>
 
 [System design algorithms](https://github.com/resumejob/system-design-algorithms)<br>
 [Leetcode system design top voted topics](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=most_votes&query=)<br>
+
+July 29, 2020<br>
+My job is to go over the network top down book version 7, 2017. I like to spend a few hours to study, and also take some notes. <br>
+Best candidate should enjoy reading time - network used to be my research area. I did not have chance to review content and I do like to see how good the text book can be written, how those network area research helps to advance teaching. <br>
+
+I love to see those case studies of Netflix, and update on application layer. <br>
+
