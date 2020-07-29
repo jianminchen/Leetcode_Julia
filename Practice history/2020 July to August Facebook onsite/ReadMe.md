@@ -51,4 +51,10 @@ My job is to go over the network top down book version 7, 2017. I like to spend 
 Best candidate should enjoy reading time - network used to be my research area. I did not have chance to review content and I do like to see how good the text book can be written, how those network area research helps to advance teaching. <br>
 
 I love to see those case studies of Netflix, and update on application layer. <br>
+Page 190/856<br>
+2.6.4 Case Studies: Netflix, YouTube, and Kankan<br>
+
+Netflix embodies many of the key principles discussed earlier in this section, including adaptive
+streaming and CDN distribution. However, because Netflix uses its own private CDN, which distributes
+only video (and not Web pages), Netflix has been able to simplify and tailor its CDN design.<br>
 
