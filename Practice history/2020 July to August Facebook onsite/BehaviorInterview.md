@@ -7,7 +7,7 @@ Projects to work on:<br>
 4. Work with market team<br>
 5. Work with accounting team<br>
 6. Work on production team<br>
-7. Work on payment<br>
+7. Work on payment - credit card company<br>
 8. Work with system administrator<br>
 9. Work on RESTFUL API study and research<br>
 10. Work on quality control - website, content, research <br>
