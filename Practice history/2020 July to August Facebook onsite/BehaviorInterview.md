@@ -75,3 +75,23 @@ Personal projects<br>
 4. Mock interview on interviewing.io<br>
 5. Pramp mock interview <br>
 6. Work on system design study<br> 
+
+My goal of career - having a life<br>
+1. Have a stable job, and seek opportunities to learn <br>
+2. Personal finance - stock market, investment - 2018 - 2020<br>
+3. Work on my citizenship - 2010 - 2015 - Canadian citizenship<br>
+4. Paid off my home equity line in Florida - from 2010 - 2018<br>
+5. Learn JavaScript - 6 months learning <br>
+6. Sponsor application 2018 - 2020<br>
+7. Work with various designers, marketing team<br>
+8. Go through open source projects of website development<br>
+9. Handle stress of mobile phone version of website issues<br>
+10. Go over hay fever issues - 2018 - 2020<br>
+11. Improve my own crafting skills - C# code and others in general<br>
+12. Weight control - 2015 - 2018, 30 lb weight control<br>
+13. Project planning, and coding project - long term evaluation <br>
+14. Coronavirus - project - two weeks vacation challenges<br>
+15. Vacation planning - Christmas break, Spring festival, and all others<br>
+16. Home price pressure in Vancouver area<br>
+17. Frugal life style, minimalism <br>
+18. Willindon church activities - 2010 - 2015<br>
