@@ -112,7 +112,7 @@ Personal projects<br>
 5. Pramp mock interview <br>
 6. Work on system design study<br> 
 
-Mistakes lack of innovations, life lessons<br>
+Mistakes lack of judgement, innovations, life lessons<br>
 1. Subscribe more than two years of Netflix, watch "drop dead diva" TV series. Waste time on too much entertainment.<br>
 2. Too shy to write and share my own experience as a software programmer from 2010 to 2015 January. Not open until August 2019 my first Facebook onsite interview.<br>
 3. Deal with personal confidence issues. For example, felt depressed for a day or two around Nov. 2018. Housing issues in Canada and real estate price bubble after 2018.<br>
@@ -122,3 +122,16 @@ Mistakes lack of innovations, life lessons<br>
 7. Limit myself to Christian connections, tennis court connections, relatives and old friends circle. <br>
 8. Do not talk back and defend my own rights. People cheat on me, auto mechanics, autoshop I chose, and people I chose to work business with. <br>
 9. 2015 - work on Shopify project, but I did not learn about Shopify business, stock went up 10 times more from 2015 to 2019, and four times more from 2019 to 2020. <br>
+
+10 lessons<br>
+1. I should work on system design study early in 2010.<br>
+2. Technology is not so hard for me to learn. I do think that it is important for me to read more technologies and computer science in theory;<br>
+3. Work on my crafting skills early starting from June 2010. <br>
+
+Things I did good at my last 10 years<br>
+1. It is hard for me to survive as a software programmer. I chose to stay at the same company, so that I can develop so many skills through those years. <br>
+2. I did save enough money for me to survive, and also have chance to understand better about business, how I should value the time I have. <br>
+3. I did have time to help business grow, and then I also gained so many skills slowly. <br>
+4. I can quickly work on research, and then solve a problem using Excel sheet, prototype using other form of applications.<br>
+
+
