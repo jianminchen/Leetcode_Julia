@@ -121,4 +121,4 @@ Mistakes lack of innovations, life lessons<br>
 6. Shy away from stock market from 2009 to 2019. <br>
 7. Limit myself to Christian connections, tennis court connections, relatives and old friends circle. <br>
 8. Do not talk back and defend my own rights. People cheat on me, auto mechanics, autoshop I chose, and people I chose to work business with. <br>
-9. ...
+9. 2015 - work on Shopify project, but I did not learn about Shopify business, stock went up 10 times more from 2015 to 2019, and four times more from 2019 to 2020. <br>
