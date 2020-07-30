@@ -134,4 +134,13 @@ Things I did good at my last 10 years<br>
 3. I did have time to help business grow, and then I also gained so many skills slowly. <br>
 4. I can quickly work on research, and then solve a problem using Excel sheet, prototype using other form of applications.<br>
 
+Why I choose to write Leetcode discuss post? <br>
+1. I do think that it is best use of my time. I can write down my thought process, how to analyze the problem, and also case study method is important for me to be a problem solver; <br>
+2. It is challenge to have peak performance all the times; <br>
+3. It is important for me to push myself to think hard as a problem solver; Leetcode practice is a very good start to be an excellent problem solver;<br>
+4. It is a good habit to write down my practice, and therefore I can track where I spend my time, my improvement of overall problem solving skills. 
+5. It is best place for me to reach audience and also work on crafting skills;<br>
+6. Career is short as a 53 years old; I do think that it is important for me to share and learn in the same time. <br>
 
+Revenue/ Reduce the cost<br>
+1. I need to look into those numbers, how I help the business to grow revenue? 
