@@ -22,6 +22,7 @@ Projects to work on:<br>
 19. econmerce store open source, ebay store, Shopify<br>
 20. Factory sales<br>
 21. Work on agent monthly sales, regional sales, daily open order, and top sales items, last 10 years etc. <br>
+22. Sales team - a website - clone of existing website -<br>
 
 Company website:<br>
 1. Search feature<br>
