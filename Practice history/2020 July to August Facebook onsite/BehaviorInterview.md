@@ -19,7 +19,7 @@ Projects to work on:<br>
 16. Website security and administration: SQL injection attack<br>
 17. Work on CSS coding style<br>
 18. Work on team building skill<br> 
-19. econmerce store open source, ebay store, Shopify<br>
+19. econmerce store open source (DotNetNuke), ebay store, Shopify<br>
 20. Factory sales<br>
 21. Work on agent monthly sales, regional sales, daily open order, and top sales items, last 10 years etc. <br>
 22. Sales team - a website - clone of existing website - similar to [the link](https://www.codewithc.com/asp-net-projects-with-source-code/)<br>
