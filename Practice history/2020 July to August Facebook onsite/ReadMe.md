@@ -60,3 +60,5 @@ Netflix embodies many of the key principles discussed earlier in this section, i
 streaming and CDN distribution. However, because Netflix uses its own private CDN, which distributes
 only video (and not Web pages), Netflix has been able to simplify and tailor its CDN design.<br>
 
+July 30, 2020<br>
+I spent a few hours to read application layer protocols. I also like to find very short and good lecture notes on this topic.<br>
