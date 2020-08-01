@@ -62,3 +62,8 @@ only video (and not Web pages), Netflix has been able to simplify and tailor its
 
 July 30, 2020<br>
 I spent a few hours to read application layer protocols. I also like to find very short and good lecture notes on this topic.<br>
+
+July 31, 2020<br>
+I spent a few hours to go over university of waterloo distributed database book notes. <br>
+
+Introduction computer network, [here](http://www.scs.stanford.edu/09au-cs144/notes/) is the course I like to review from Stanford. <br>
