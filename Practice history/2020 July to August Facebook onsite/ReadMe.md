@@ -67,3 +67,9 @@ July 31, 2020<br>
 I spent a few hours to go over university of waterloo distributed database book notes. <br>
 
 Introduction computer network, [here](http://www.scs.stanford.edu/09au-cs144/notes/) is the course I like to review from Stanford. <br>
+
+August 2, 2920<br>
+Recommendation from my interviewee on interviewing.io. He solved the algorithm to construct binary from postorder and inorder list, and  he solved using much elegant solution compared to mine. <br>
+https://github.com/chiphuyen/machine-learning-systems-design<br>
+https://www.hiredintech.com/courses<br>
+https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/design#specific-topics (aggregated everything)<br>
