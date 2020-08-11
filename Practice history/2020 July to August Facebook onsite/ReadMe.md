@@ -68,8 +68,12 @@ I spent a few hours to go over university of waterloo distributed database book 
 
 Introduction computer network, [here](http://www.scs.stanford.edu/09au-cs144/notes/) is the course I like to review from Stanford. <br>
 
-August 2, 2920<br>
+August 2, 2020<br>
 Recommendation from my interviewee on interviewing.io. He solved the algorithm to construct binary from postorder and inorder list, and  he solved using much elegant solution compared to mine. <br>
 https://github.com/chiphuyen/machine-learning-systems-design<br>
 https://www.hiredintech.com/courses<br>
 https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/design#specific-topics (aggregated everything)<br>
+
+August 9 -11, 2020<br>
+Work on content from [tianpan.com system design](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)<br>
+I watched the tech talk on TAO data store over 10 times, and it took me two to three days to understand architecture. The most important is to build strong interest to learn and understand the challenge of the problem solving. <br>
