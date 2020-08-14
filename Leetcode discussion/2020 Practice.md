@@ -349,4 +349,8 @@ July 20, 2020<br>
 July 17 - 20, 2020 Weekend code marathon is [here](http://juliachencoding.blogspot.com/2020/07/leetcode-phone-screen-mock-interview.html). <br>
 Say goodbye to Facebook phone screen. [Here](http://juliachencoding.blogspot.com/2020/07/say-goodbye-to-facebook-phone-screen.html) is the blog. 
 
+August 14, 2020<br>
+76. Minimum Window Substring<br>
+[C# using extra map to help track sliding window](https://leetcode.com/problems/minimum-window-substring/discuss/792082/C-using-extra-map-to-help-track-sliding-window)<br>
+
 
