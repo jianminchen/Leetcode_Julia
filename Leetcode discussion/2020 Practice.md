@@ -352,5 +352,4 @@ Say goodbye to Facebook phone screen. [Here](http://juliachencoding.blogspot.com
 August 14, 2020<br>
 76. Minimum Window Substring<br>
 [C# using extra map to help track sliding window](https://leetcode.com/problems/minimum-window-substring/discuss/792082/C-using-extra-map-to-help-track-sliding-window)<br>
-
-
+[C# Work on easy level algorithms first](https://leetcode.com/problems/minimum-window-substring/discuss/797473/C-Work-on-easy-level-algorithm-first)<br>
