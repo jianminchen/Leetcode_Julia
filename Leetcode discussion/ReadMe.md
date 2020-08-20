@@ -302,7 +302,7 @@ I also put together a page to list all practice in 2019. [Here](https://github.c
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158908/C-solution-using-union-find-algorithm-implemented-using-array) union find using array<br>
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/158915/C-solution-using-disjoint-set-algorithm-to-solve-using-DictionarylessInt-HashSetlessintgreatergreater) using Dictionary<Int, HashSet<int>><br>
 [701 Insert into a binary search tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/discuss/196909/C-ask-when-the-inserted-value-will-be-a-root-node)<br>
-[841 binary tree pruning](https://leetcode.com/problems/binary-tree-pruning/discuss/196911/C-two-use-cases-when-the-node-with-value-0-to-be-deleted)<br>
+[814 binary tree pruning](https://leetcode.com/problems/binary-tree-pruning/discuss/196911/C-two-use-cases-when-the-node-with-value-0-to-be-deleted)<br>
 [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/discuss/196517/C-it-is-important-to-know-how-to-construct-a-graph-using-a-hashmap)<br>  
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/206186/C-preorder-traversal-and-play-with-use-case-related-to-leaf-nodes)<br>
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/discuss/207326/C-Give-node-an-index-based-on-parent-index-and-use-the-sum-to-check-completeness)<br>
