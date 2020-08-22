@@ -353,3 +353,8 @@ August 14, 2020<br>
 76. Minimum Window Substring<br>
 [C# using extra map to help track sliding window](https://leetcode.com/problems/minimum-window-substring/discuss/792082/C-using-extra-map-to-help-track-sliding-window)<br>
 [C# Work on easy level algorithms first](https://leetcode.com/problems/minimum-window-substring/discuss/797473/C-Work-on-easy-level-algorithm-first)<br>
+
+August 21, 2020<br>
+1530. Number of Good Leaf Nodes Pairs<br>
+
+[C# Find root to leaf node path using 0 and 1 two digit string](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/discuss/804733/C-Find-root-to-leaf-node-path-using-0-and-1-two-digit-string)<br>
