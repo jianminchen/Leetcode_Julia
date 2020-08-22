@@ -356,5 +356,4 @@ August 14, 2020<br>
 
 August 21, 2020<br>
 1530. Number of Good Leaf Nodes Pairs<br>
-
 [C# Find root to leaf node path using 0 and 1 two digit string](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/discuss/804733/C-Find-root-to-leaf-node-path-using-0-and-1-two-digit-string)<br>
