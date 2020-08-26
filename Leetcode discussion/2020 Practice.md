@@ -357,3 +357,7 @@ August 14, 2020<br>
 August 21, 2020<br>
 1530. Number of Good Leaf Nodes Pairs<br>
 [C# Find root to leaf node path using 0 and 1 two digit string](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/discuss/804733/C-Find-root-to-leaf-node-path-using-0-and-1-two-digit-string)<br>
+
+August 25, 2020<br>
+1372 Longest ZigZag Path in a Binary Tree<br>
+[C# preorder traversal with optimal space and time complexity](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/discuss/811758/C-preorder-traversal-with-optimal-space-and-time-complexity)<br>
