@@ -361,3 +361,7 @@ August 21, 2020<br>
 August 25, 2020<br>
 1372 Longest ZigZag Path in a Binary Tree<br>
 [C# preorder traversal with optimal space and time complexity](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/discuss/811758/C-preorder-traversal-with-optimal-space-and-time-complexity)<br>
+
+August 28, 2020<br>
+105 Construct Binary Tree from Preorder and Inorder Traversal<br>
+[C# optimal time complexity is important](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/817403/C-optimal-time-complexity-is-important)<br>
