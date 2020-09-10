@@ -382,4 +382,6 @@ August 31, 2020<br>
 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree<br>
 [C# preorder traversal the original tree and find target](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/discuss/822280/c-preorder-traversal-the-original-tree-and-find-target)<br>
 
+889. Construct Binary Tree from Preorder and Postorder Traversal<br>
+[C# Find right subtree root node in postorder traversal list](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/discuss/840424/C-Find-right-subtree-root-node-in-postorder-traversal-list)<br>
 
