@@ -385,3 +385,10 @@ August 31, 2020<br>
 889. Construct Binary Tree from Preorder and Postorder Traversal<br>
 [C# Find right subtree root node in postorder traversal list](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/discuss/840424/C-Find-right-subtree-root-node-in-postorder-traversal-list)<br>
 
+Sept. 15, 2020<br>
+146. LRU Cache<br>
+Using C# LinkedList and LinkedListNode two classes<br>
+[C# double linked list and hashmap two data structures to play roles](https://leetcode.com/problems/lru-cache/discuss/848598/C-double-linked-list-and-hashmap-two-data-structures-to-play-roles)<br>
+
+
+
