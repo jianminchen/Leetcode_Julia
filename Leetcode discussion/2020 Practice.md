@@ -390,5 +390,9 @@ Sept. 15, 2020<br>
 Using C# LinkedList and LinkedListNode two classes<br>
 [C# double linked list and hashmap two data structures to play roles](https://leetcode.com/problems/lru-cache/discuss/848598/C-double-linked-list-and-hashmap-two-data-structures-to-play-roles)<br>
 
+Sept. 22, 2020<br>
+146. LRU Cache<br>
+[C# Double linked list using dummy head and tail](https://leetcode.com/problems/lru-cache/discuss/859760/C-Double-linked-list-using-dummy-head-and-tail)<br>
+
 
 
