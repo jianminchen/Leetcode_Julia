@@ -506,3 +506,6 @@ Nov. 24, 2019<br>
 Phone screen: 输入是”123456789”，可以在任意位置加上多个+或-的运算符，最后结果要是100。输出所有的可能组合。简单的dfs题。比如”123-45-67+89 = 100”<br>
 [Here](https://github.com/jianminchen/Leetcode_Julia/blob/master/Practice%20history/2020%20June%20to%20July%20Facebook%20phone%20screen/ExpressionTo100.cs)<br>
 
+2020 - I put all my practice in another page. <br>
+[2020 practice](https://github.com/jianminchen/Leetcode_Julia/blob/master/Leetcode%20discussion/2020%20Practice.md)<br>
+
