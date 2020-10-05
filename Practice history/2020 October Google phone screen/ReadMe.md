@@ -2,3 +2,9 @@ Oct. 1, 2020 <br>
 I am preparing for Google phone screen. I like to work on more algorithms and write code continuously. Ideas like weekend coding marathon, week day coding marathon, system design on pramp.com, mock interviews on interviewing.io. <br>
 
 I also like to learn from lessons from Microsoft phone screen, and also Facebook phone screen and onsite experience as well. <br>
+
+Oct. 4, 2020<br>
+301. Remove Invalid Parentheses<br>
+[C# Understand difference between return all valid strings and any valid string](https://leetcode.com/problems/remove-invalid-parentheses/discuss/880695/C-Understand-difference-between-return-all-valid-strings-and-any-valid-string)<br>
+My mock interview performance <br>
+[Algorithm interview: Find one valid string to remove minimum number of invalid parentheses from a string](http://juliachencoding.blogspot.com/2020/10/algorithm-interview-find-one-valid.html)<br>
