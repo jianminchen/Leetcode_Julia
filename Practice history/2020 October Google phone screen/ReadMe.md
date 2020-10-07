@@ -16,6 +16,14 @@ Oct. 3, 2020<br>
 Pramp.com system design mock interviews<br>
 Oct. 3, 2020<br>
 Pastebin<br>
+As interviewee<br>
 [system design: Pastebin](https://gist.github.com/jianminchen/4f753f2ae88a430118101ef7befde64b)<br>
 
+Oct. 4, 2020 10:00 AM, Sunday <br>
+[Sales Rank](https://gist.github.com/jianminchen/a1faadae2928621c6c311d49d9898415)
+
+Oct. 3, 2020<br>
+As interviewer<br>
+[AWS cloud](https://gist.github.com/jianminchen/55003be35b9dbfeb70eae433ba1944d8)<br>
+Systemd design drawing tool: https://awwapp.com/b/uhm7lrqfdtvdk/<br>
 
