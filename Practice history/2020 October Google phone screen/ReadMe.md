@@ -14,7 +14,7 @@ Oct. 3, 2020<br>
 862. Shortest Subarray with Sum at Least K<br>
 [C# A few steps to solve a hard level algorithm](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/discuss/877884/c-a-few-steps-to-solve-a-hard-level-algorithm)<br>
 
-System design<br>
+<B>System design</B><br>
 Pramp.com system design mock interviews<br>
 As interviewee<br>
 
@@ -30,5 +30,5 @@ As interviewer<br>
 [AWS cloud](https://gist.github.com/jianminchen/55003be35b9dbfeb70eae433ba1944d8)<br>
 Systemd design drawing tool: https://awwapp.com/b/uhm7lrqfdtvdk/<br>
 
-Behavior mock interviews<br>
+<B>Behavior mock interviews</B><br>
 
