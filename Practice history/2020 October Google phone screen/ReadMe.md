@@ -14,9 +14,10 @@ Oct. 3, 2020<br>
 [C# A few steps to solve a hard level algorithm](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/discuss/877884/c-a-few-steps-to-solve-a-hard-level-algorithm)<br>
 
 Pramp.com system design mock interviews<br>
-Oct. 3, 2020<br>
-Pastebin<br>
 As interviewee<br>
+
+Oct. 3, 2020 8:00 AM<br>
+Pastebin<br>
 [system design: Pastebin](https://gist.github.com/jianminchen/4f753f2ae88a430118101ef7befde64b)<br>
 
 Oct. 4, 2020 10:00 AM, Sunday <br>
