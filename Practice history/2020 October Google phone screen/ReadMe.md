@@ -32,6 +32,7 @@ Systemd design drawing tool: https://awwapp.com/b/uhm7lrqfdtvdk/<br>
 
 <B>Behavior mock interviews</B><br>
 
+<B>Coding blogs</B><br>
 Blogs written with tag: Google phone screen 2020, Google phone screen. <br>
-[Coding blogs]()<br>
+[Coding blogs](http://juliachencoding.blogspot.com/search/label/google%20phone%20screen%202020)<br>
 
