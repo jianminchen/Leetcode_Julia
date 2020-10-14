@@ -62,7 +62,7 @@ I wrote my experience on this topic: [Consistent practice advice](https://leetco
 My writing is [here](https://leetcode.com/discuss/general-discussion/318537/Consistent-Practice-Advice/296196).<br>
 
 **May 29, 2020**
-Learning is life long. I am 53 year old and 10 years younger than Donald Trump. Donald chose to compete for US president 6 years ago. I like to work on something exciting as well. 
+Learning is life long. I am 53 year old and 20 years younger than Donald Trump. Donald chose to compete for US president 6 years ago. I like to work on something exciting as well. 
 
 [Here](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/655847/my-showcase-of-problem-solving-using-c) is my 236 Lowest common ancestor in binary tree show case. 
 
