@@ -36,3 +36,24 @@ Systemd design drawing tool: https://awwapp.com/b/uhm7lrqfdtvdk/<br>
 Blogs written with tag: Google phone screen 2020, Google phone screen. <br>
 [Coding blogs](http://juliachencoding.blogspot.com/search/label/google%20phone%20screen%202020)<br>
 
+Oct. 13, 2020<br>
+
+77. Combinations<br>
+[C# brute force solution to enumerate all possible combinations](https://leetcode.com/problems/combinations/discuss/893454/C-Depth-first-search-practice8888)<br>
+
+22. Generate Parentheses<br>
+[C# brute force solution to enumerate all possible combinations](https://leetcode.com/problems/generate-parentheses/discuss/893425/C-brute-force-solution-to-enumerate-all-possible-combinations)<br>
+
+79. Word Search<br>
+[C# Word search - DFS algorithm](https://leetcode.com/problems/word-search/discuss/893316/C-Word-search-DFS-algorithm)<br>
+[C# code review my practice on June 14 2017](https://leetcode.com/problems/word-search/discuss/893254/C-code-review-my-practice-on-June-14-2017)<br>
+[C# my practice in July 2015](https://leetcode.com/problems/word-search/discuss/893240/C-my-practice-in-July-2015)<br>
+
+560. Subarray Sum Equals K<br>
+[C# I learned from my own mock interview performance](https://leetcode.com/problems/subarray-sum-equals-k/discuss/893230/C-I-learned-from-my-own-mock-interview-performance)<br>
+542. 01 Matrix<br>
+[C# Apply breadth first search to find shortest distance](https://leetcode.com/problems/01-matrix/discuss/893221/C-Apply-breadth-first-search-to-find-shortest-distance)<br>
+
+54. Spiral Matrix<br>
+[C# practice on interviewing dot io as an interviewee](https://leetcode.com/problems/spiral-matrix/discuss/893124/C-practice-on-interviewing-dot-io-as-an-interviewee)<br>
+
