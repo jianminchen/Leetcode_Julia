@@ -57,3 +57,5 @@ Oct. 13, 2020<br>
 54. Spiral Matrix<br>
 [C# practice on interviewing dot io as an interviewee](https://leetcode.com/problems/spiral-matrix/discuss/893124/C-practice-on-interviewing-dot-io-as-an-interviewee)<br>
 
+85. Maximal Rectangle<br>
+[C# Review my practice on August 1, 2017](https://leetcode.com/problems/maximal-rectangle/discuss/893826/C-Review-my-practice-on-August-1-2017)<br>
