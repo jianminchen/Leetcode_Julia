@@ -96,6 +96,7 @@ namespace _435_word_square
             // a
             // b
             // a
+            // The idea is that ith column should be same as ith row for i = 0 to 3
             var prefix = "";
             for (int i = 0; i < level; i++)
             {   //            level - index
