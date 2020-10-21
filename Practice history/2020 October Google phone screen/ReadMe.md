@@ -59,3 +59,12 @@ Oct. 13, 2020<br>
 
 85. Maximal Rectangle<br>
 [C# Review my practice on August 1, 2017](https://leetcode.com/problems/maximal-rectangle/discuss/893826/C-Review-my-practice-on-August-1-2017)<br>
+
+Oct. 20, 2020<br>
+
+336. Palindrome Pairs<br>
+
+[C# Hard level algorithms to go over quickly](https://leetcode.com/problems/palindrome-pairs/discuss/903543/C-Hard-level-algorithms-to-go-over-quickly)<br>
+
+472. Concatenated Words<br>
+[C# break into hashSet + DP problem](https://leetcode.com/problems/concatenated-words/discuss/903610/c-break-into-hashset-dp-problem)<br>
