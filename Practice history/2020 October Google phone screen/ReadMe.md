@@ -65,3 +65,6 @@ Oct. 20, 2020<br>
 [C# Hard level algorithms to go over quickly](https://leetcode.com/problems/palindrome-pairs/discuss/903543/C-Hard-level-algorithms-to-go-over-quickly)<br>
 472. Concatenated Words<br>
 [C# break into hashSet + DP problem](https://leetcode.com/problems/concatenated-words/discuss/903610/c-break-into-hashset-dp-problem)<br>
+
+425. Word square<br>
+[Trie practice](https://github.com/jianminchen/Leetcode_Julia/blob/master/By%20Algorithms/Leetcode%20425%20Word%20Square/Leetcode%20425%20word%20square.cs)
