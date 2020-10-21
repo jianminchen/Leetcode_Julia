@@ -68,3 +68,7 @@ Oct. 20, 2020<br>
 
 425. Word square<br>
 [Trie practice](https://github.com/jianminchen/Leetcode_Julia/blob/master/By%20Algorithms/Leetcode%20425%20Word%20Square/Leetcode%20425%20word%20square.cs)
+
+Oct. 21, 2020<br>
+358 rearrange string k distance apart<br>
+[Two array for frequency and next valid position](https://github.com/jianminchen/Leetcode_Julia/blob/master/By%20Algorithms/Leetcode%20358%20rearrange%20string%20k%20distance%20apart/358%20rearrange%20string%20k%20distance.cs)
