@@ -73,4 +73,24 @@ Oct. 21, 2020<br>
 358 rearrange string k distance apart<br>
 [Two array for frequency and next valid position](https://github.com/jianminchen/Leetcode_Julia/blob/master/By%20Algorithms/Leetcode%20358%20rearrange%20string%20k%20distance%20apart/358%20rearrange%20string%20k%20distance.cs)<br>
 [C# Using SortedSet, LinkedList and counting sort](https://github.com/jianminchen/Leetcode_Julia/tree/master/By%20Algorithms/Leetcode%20358%20rearrange%20string%20k%20distance%20apart/Csharp%20Heap)<br>
-[]()<br>
+Oct. 22, 2020<br>
+
+287. Find the Duplicate Number<br>
+[C# swap values in two index positions in the array](https://leetcode.com/problems/find-the-duplicate-number/discuss/906380/C-swap-values-in-two-index-positions-in-the-array) <br>
+73. Set Matrix Zeroes<br>
+[C# Using first row and first column to store settings](https://leetcode.com/problems/set-matrix-zeroes/discuss/906429/C-Using-first-row-and-first-column-to-store-settings)<br>
+48. Rotate Image<br>
+[C# reverse rows first and then swap along left top to bottom right](https://leetcode.com/problems/rotate-image/discuss/906632/C-reverse-rows-first-and-then-swap-along-left-top-to-bottom-right)<br>
+784. Letter Case Permutation<br>
+[C# Make it quick and easy to write](https://leetcode.com/problems/letter-case-permutation/discuss/907487/C-Make-it-quick-and-easy-to-write)<br>
+
+78. Subsets<br>
+[C# Every number has two options - either in subset or not in](https://leetcode.com/problems/subsets/discuss/906728/C-Every-number-has-two-options-either-in-subset-or-not-in)<br>
+[C# iterative solution to practice bit manipulation](https://leetcode.com/problems/subsets/discuss/906742/C-iterative-solution-to-practice-bit-manipulation)<br>
+494. Target Sum<br>
+[C# 7 steps to be dynamic programming genius](https://leetcode.com/problems/target-sum/discuss/906470/C-7-steps-to-be-dynamic-programming-genius)<br>
+216. Combination Sum III<br>
+[C# Design a depth first search algorithm](https://leetcode.com/problems/combination-sum-iii/discuss/906822/C-Design-a-depth-first-search-algorithm)<br>
+
+
+
