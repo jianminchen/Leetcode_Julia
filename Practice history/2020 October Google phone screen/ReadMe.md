@@ -95,6 +95,12 @@ Oct. 22, 2020<br>
 17. Letter Combinations of a Phone Number<br>
 [C# My practice in February 2017](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/907536/C-My-practice-in-February-2017)<br>
 
+Oct. 24, 2020 3:08 PM <br>
+I only have two weeks to prepare Google phone screen. I start to learn the importance to go over hard level algorithms, taste hard feelings to fail to solve algorithms. <br>
+I will work on [those useful links on Leetcode.com](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode/742440). <br>
+Go over more algorithm on this [Leetcode pattern Google](https://seanprashad.com/leetcode-patterns/), go over hard level, medium level algorithms.<br>
+I also like to go over at least 100 hard level algorithms, take 10 minutes for each algorithm, and then study solution written by [grand yang](https://www.cnblogs.com/grandyang/p/4606334.html). <br>
+I am speculating and try to push myself to think hard, and gain some muscle to deal with unknown algorithms. <br>
 
 
 
