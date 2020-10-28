@@ -102,5 +102,14 @@ Go over more algorithm on this [Leetcode pattern Google](https://seanprashad.com
 I also like to go over at least 100 hard level algorithms, take 10 minutes for each algorithm, and then study solution written by [grand yang](https://www.cnblogs.com/grandyang/p/4606334.html). <br>
 I am speculating and try to push myself to think hard, and gain some muscle to deal with unknown algorithms. <br>
 
+Oct. 26, 2020<br>
+41. First Missing Positive<br>
+[Constant space](https://leetcode.com/problems/first-missing-positive/discuss/911500/C-constant-space-algorithm)<br>
 
+378. Kth Smallest Element in a Sorted Matrix<br>
+[First practice - C# SortedList<int, Tuple<int, int>> - Minimum heap idea](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/911607/c-maintain-a-list-to-track-index-position-of-each-row)<br>
+378. Kth Smallest Element in a Sorted Matrix<br>
+[Second practice - C# SortedSet<Tuple<int, int, int>> - minimum heap idea](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/911626/second-practice-c-sortedsettupleint-int-int-minimum-heap-idea)<br>
+218. The Skyline Problem<br>
+[First practice - C# Maximum heap idea](https://leetcode.com/problems/the-skyline-problem/discuss/911737/first-practice-c-maximum-heap-idea)<br>
 
