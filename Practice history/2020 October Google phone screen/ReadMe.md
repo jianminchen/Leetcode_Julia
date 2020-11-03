@@ -113,3 +113,5 @@ Oct. 26, 2020<br>
 218. The Skyline Problem<br>
 [First practice - C# Maximum heap idea](https://leetcode.com/problems/the-skyline-problem/discuss/911737/first-practice-c-maximum-heap-idea)<br>
 
+Nov. 3, 2020
+Interview preparation sharing - [Here](https://leetcode.com/discuss/career/216554/from-0-to-clearing-uberappleamazonlinkedingoogle) is the link. <br>
