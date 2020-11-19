@@ -21,3 +21,22 @@ Nov. 18, 2020 <br>
 [First practice - Union find - C# - Find loop - children hashset](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/discuss/940643/First-practice-Union-find-C-Find-loop-children-hashset)<br>
 418. Sentence Screen Fitting<br>
 [Failed practice](https://leetcode.com/problems/sentence-screen-fitting/discuss/941860/Failed-practice-C-Mock-interview)<br>
+
+249. Group Shifted Strings<br>
+[First practice - C# - Mock interview](https://leetcode.com/problems/group-shifted-strings/discuss/941871/First-practice-C-Mock-interview)<br>
+
+1057. Campus Bikes<br>
+[First practice - C# - TLE error - BFS from all bikes](https://leetcode.com/problems/campus-bikes/discuss/938826/First-practice-C-TLE-error-BFS-from-all-bikes)<br>
+[Second practice - C# - Learn - Sorting](https://leetcode.com/problems/campus-bikes/discuss/939748/Second-practice-C-Learn-Sorting)<br>
+[Third practice - C# - SortedDictionary - Sorting](https://leetcode.com/problems/campus-bikes/discuss/939838/Third-practice-C-SortedDictionary-Sorting)<br>
+[Fourth practice - C# - SortedSet<Tuple<int, int, int> - TLE exception](https://leetcode.com/problems/campus-bikes/discuss/939853/Fourth-practice-C-SortedSetlessTuplelessint-int-intgreater-TLE-exception)<br>
+[Fifth practice - C# - Dictionary<int, List<int>> - Sort keys](https://leetcode.com/problems/campus-bikes/discuss/939876/Fifth-practice-C-Dictionarylessint-Listlessintgreatergreater-Sort-keys)<br>
+359. Logger Rate Limiter<br>
+[First practice - C# - weekly contest](https://leetcode.com/problems/logger-rate-limiter/discuss/941878/First-practice-C-weekly-contest)<br>
+
+1110. Delete Nodes And Return Forest<br>
+[Third practice - C# - mock interview](https://leetcode.com/problems/delete-nodes-and-return-forest/discuss/941884/Third-practice-C-mock-interview)<br>
+1095. Find in Mountain Array<br>
+[First practice - C# - Binary search](https://leetcode.com/problems/find-in-mountain-array/discuss/941887/First-practice-C-Binary-search)<br>
+852. Peak Index in a Mountain Array<br>
+[First practice - C# mock interview](https://leetcode.com/problems/peak-index-in-a-mountain-array/discuss/941892/First-practice-C-mock-interview)<br>
