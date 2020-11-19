@@ -78,49 +78,22 @@ Nov. 13, 2020<br>
 221. Maximal Square<br>
 [First practice - C# - dynamic programming](https://leetcode.com/problems/maximal-square/discuss/941922/First-practice-C-dynamic-programming)<br>
 
-1087. Brace Expansion
-
-
-1047. Remove All Adjacent Duplicates In String
-
-Nov. 13, 2020
-
-392. Is Subsequence
-
-
-773. Sliding Puzzle
-
-Nov. 13, 2020
-First practice - C# - BFS - mapping board two ways - Failed 17/32
-
-https://leetcode.com/problems/sliding-puzzle/discuss/934762/First-practice-C-BFS-mapping-board-two-ways-Failed-1732
-
-
-Second practice - C# - BFS - copy idea and code - string.ToCharArray
-
-https://leetcode.com/problems/sliding-puzzle/discuss/934803/Second-practice-C-BFS-copy-idea-and-code-string.ToCharArray
-
-Nov. 13, 2020<br>
-
-1182. Shortest Distance to Target Color<br>
-
-1138. Alphabet Board Path<br>
-
-
-
-
 1087. Brace Expansion<br>
-
-
 1047. Remove All Adjacent Duplicates In String<br>
-
 Nov. 13, 2020<br>
-
 392. Is Subsequence<br>
-
-
 773. Sliding Puzzle<br>
-
+Nov. 13, 2020<br>
+[First practice - C# - BFS - mapping board two ways - Failed 17/32](https://leetcode.com/problems/sliding-puzzle/discuss/934762/First-practice-C-BFS-mapping-board-two-ways-Failed-1732)<br>
+[Second practice - C# - BFS - copy idea and code - string.ToCharArray](https://leetcode.com/problems/sliding-puzzle/discuss/934803/Second-practice-C-BFS-copy-idea-and-code-string.ToCharArray)<br>
+Nov. 13, 2020<br>
+1182. Shortest Distance to Target Color<br>
+1138. Alphabet Board Path<br>
+1087. Brace Expansion<br>
+1047. Remove All Adjacent Duplicates In String<br>
+Nov. 13, 2020<br>
+392. Is Subsequence<br>
+773. Sliding Puzzle<br>
 Nov. 13, 2020<br>
 [First practice - C# - BFS - mapping board two ways - Failed 17/32](https://leetcode.com/problems/sliding-puzzle/discuss/934762/First-practice-C-BFS-mapping-board-two-ways-Failed-1732)<br>
 [Second practice - C# - BFS - copy idea and code - string.ToCharArray](https://leetcode.com/problems/sliding-puzzle/discuss/934803/Second-practice-C-BFS-copy-idea-and-code-string.ToCharArray)<br>
