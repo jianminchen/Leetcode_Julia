@@ -74,6 +74,7 @@ Nov. 14, 2020<br>
 1153. String Transforms Into Another String - hard level<br>
 partial solution - Need to take different approach<br>
 [First practice - C# DFS + Failed - 26 chars in loop](https://leetcode.com/problems/string-transforms-into-another-string/discuss/935070/First-practice-C-DFS-%2B-Failed-26-chars-in-loop)<br>
+Nov. 13, 2020<br>
 221. Maximal Square<br>
 [First practice - C# - dynamic programming](https://leetcode.com/problems/maximal-square/discuss/941922/First-practice-C-dynamic-programming)<br>
 
