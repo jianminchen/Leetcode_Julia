@@ -63,3 +63,17 @@ Nov. 14, 2020
 1657. Determine if Two Strings Are Close<br>
 [Content unfinished code - C# - DFS - TLE concern - too hard to complete](https://leetcode.com/problems/determine-if-two-strings-are-close/discuss/936091/Content-unfinished-code-C-DFS-TLE-concern-too-hard-to-complete)<br>
 [Second practice - C# - copy idea - Ask questions](https://leetcode.com/problems/determine-if-two-strings-are-close/discuss/936127/Second-practice-C-copy-idea-Ask-questions)<br>
+
+1658. Minimum Operations to Reduce X to Zero<br>
+[First practice - C# - copy idea - Edge case challenges](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/discuss/936201/First-practice-C-copy-idea-Edge-case-challenges)<br>
+Nov. 14, 2020<br>
+1657. Determine if Two Strings Are Close<br>
+[Content unfinished code - C# - DFS - TLE concern - too hard to complete](https://leetcode.com/problems/determine-if-two-strings-are-close/discuss/936091/Content-unfinished-code-C-DFS-TLE-concern-too-hard-to-complete)<br>
+[Second practice - C# - copy idea - Ask questions](https://leetcode.com/problems/determine-if-two-strings-are-close/discuss/936127/Second-practice-C-copy-idea-Ask-questions)<br>
+[1656. Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/discuss/941911/First-practice-C-weekly-contest)<br>
+1153. String Transforms Into Another String - hard level<br>
+partial solution - Need to take different approach<br>
+[First practice - C# DFS + Failed - 26 chars in loop](https://leetcode.com/problems/string-transforms-into-another-string/discuss/935070/First-practice-C-DFS-%2B-Failed-26-chars-in-loop)<br>
+221. Maximal Square<br>
+[First practice - C# - dynamic programming](https://leetcode.com/problems/maximal-square/discuss/941922/First-practice-C-dynamic-programming)<br>
+
