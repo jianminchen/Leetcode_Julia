@@ -40,3 +40,13 @@ Nov. 18, 2020 <br>
 [First practice - C# - Binary search](https://leetcode.com/problems/find-in-mountain-array/discuss/941887/First-practice-C-Binary-search)<br>
 852. Peak Index in a Mountain Array<br>
 [First practice - C# mock interview](https://leetcode.com/problems/peak-index-in-a-mountain-array/discuss/941892/First-practice-C-mock-interview)<br>
+
+801. Minimum Swaps To Make Sequences Increasing<br>
+[My first four submission - C# - fail to define subproblems](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/discuss/937230/My-first-four-submission-C-fail-to-define-subproblems)<br>
+
+[JavaScript - Dp solution - Learn from the interviewee](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/discuss/937529/JavaScript-Dp-solution-Learn-from-the-interviewee)<br>
+[Third practice - C# - DP](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/discuss/937533/Third-practice-C-DP)<br>
+
+1592. Rearrange Spaces Between Words<br>
+[First practice - C# - mock interview](https://leetcode.com/problems/rearrange-spaces-between-words/discuss/941901/First-practice-C-mock-interview)<br>
+
