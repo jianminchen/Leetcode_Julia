@@ -50,3 +50,16 @@ Nov. 18, 2020 <br>
 1592. Rearrange Spaces Between Words<br>
 [First practice - C# - mock interview](https://leetcode.com/problems/rearrange-spaces-between-words/discuss/941901/First-practice-C-mock-interview)<br>
 
+1658. Minimum Operations to Reduce X to Zero
+
+
+First practice - C# - copy idea - Edge case challenges
+
+https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/discuss/936201/First-practice-C-copy-idea-Edge-case-challenges
+
+
+Nov. 14, 2020
+
+1657. Determine if Two Strings Are Close<br>
+[Content unfinished code - C# - DFS - TLE concern - too hard to complete](https://leetcode.com/problems/determine-if-two-strings-are-close/discuss/936091/Content-unfinished-code-C-DFS-TLE-concern-too-hard-to-complete)<br>
+[Second practice - C# - copy idea - Ask questions](https://leetcode.com/problems/determine-if-two-strings-are-close/discuss/936127/Second-practice-C-copy-idea-Ask-questions)<br>
