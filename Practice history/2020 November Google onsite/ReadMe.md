@@ -100,8 +100,36 @@ Second practice - C# - BFS - copy idea and code - string.ToCharArray
 
 https://leetcode.com/problems/sliding-puzzle/discuss/934803/Second-practice-C-BFS-copy-idea-and-code-string.ToCharArray
 
-Nov. 13, 2020
+Nov. 13, 2020<br>
 
-1182. Shortest Distance to Target Color
+1182. Shortest Distance to Target Color<br>
 
-1138. Alphabet Board Path
+1138. Alphabet Board Path<br>
+
+
+
+
+1087. Brace Expansion<br>
+
+
+1047. Remove All Adjacent Duplicates In String<br>
+
+Nov. 13, 2020<br>
+
+392. Is Subsequence<br>
+
+
+773. Sliding Puzzle<br>
+
+Nov. 13, 2020<br>
+[First practice - C# - BFS - mapping board two ways - Failed 17/32](https://leetcode.com/problems/sliding-puzzle/discuss/934762/First-practice-C-BFS-mapping-board-two-ways-Failed-1732)<br>
+[Second practice - C# - BFS - copy idea and code - string.ToCharArray](https://leetcode.com/problems/sliding-puzzle/discuss/934803/Second-practice-C-BFS-copy-idea-and-code-string.ToCharArray)<br>
+Nov. 13, 2020<br>
+1182. Shortest Distance to Target Color<br>
+1138. Alphabet Board Path<br>
+975. Odd Even Jump<br>
+[First practice - C# - Linear search - TLE problem](https://leetcode.com/problems/odd-even-jump/discuss/933616/First-practice-C-Linear-search-TLE-problem)<br>
+[Second practice - C# - List.BinarySearch - TLE problem](https://leetcode.com/problems/odd-even-jump/discuss/933619/Second-practice-C-List.BinarySearch-TLE-problem)<br>
+[Third practice - C# - Copy idea - BST - DIY](https://leetcode.com/problems/odd-even-jump/discuss/933660/Third-practice-C-Copy-idea-BST-DIY)<br>
+[Fourth practice - C# - SortedSet.GetViewBetween - TLE problem](https://leetcode.com/problems/odd-even-jump/discuss/933715/Fourth-practice-C-SortedSet.GetViewBetween-TLE-problem)<br>
+[Fifth practice - C# - SortedSet - Stack - Next large pattern](https://leetcode.com/problems/odd-even-jump/discuss/933901/Fifth-practice-C-SortedSet-Stack-Next-large-pattern)<br>
