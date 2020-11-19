@@ -133,3 +133,6 @@ Nov. 13, 2020<br>
 [Third practice - C# - Copy idea - BST - DIY](https://leetcode.com/problems/odd-even-jump/discuss/933660/Third-practice-C-Copy-idea-BST-DIY)<br>
 [Fourth practice - C# - SortedSet.GetViewBetween - TLE problem](https://leetcode.com/problems/odd-even-jump/discuss/933715/Fourth-practice-C-SortedSet.GetViewBetween-TLE-problem)<br>
 [Fifth practice - C# - SortedSet - Stack - Next large pattern](https://leetcode.com/problems/odd-even-jump/discuss/933901/Fifth-practice-C-SortedSet-Stack-Next-large-pattern)<br>
+Nov. 4, 2020<br>
+940. Distinct Subsequences II<br>
+[First practice - C# - DP + GeeksForGeeks + DIY](https://leetcode.com/problems/distinct-subsequences-ii/discuss/923642/First-practice-C-DP-%2B-GeeksForGeeks-%2B-DIY)<br>
