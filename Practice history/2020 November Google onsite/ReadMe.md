@@ -4,6 +4,8 @@ I started to work on system design again, and also more algorithm practice.<br>
 727 minimum window subsequence <br>
 [My first practice](https://github.com/jianminchen/Leetcode_Julia/blob/master/Practice%20history/2020%20November%20Google%20onsite/algorithms/727%20minimum%20subsequence.cs)<br>
 
+I made decision to purchase Leetcode premium for one year subscription. I like to finish 14 set of Google mock onsite interview algorithms first. <br>
+
 Nov. 18, 2020<br>
 737. Sentence Similarity II<br>
 [First practice - C# - Union find - Failed](https://leetcode.com/problems/sentence-similarity-ii/discuss/941261/First-practice-C-Union-find-Failed)<br>
