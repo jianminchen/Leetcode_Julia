@@ -20,7 +20,7 @@ namespace _737_sentence_similarity_II__UF
         /// Time complexity:
         /// Time Complexity: O(N log P + P), where N is the maximum length of words1 and words2, 
         /// and P is the length of pairs. If we used union-by-rank, this complexity improves to 
-        /// O(N * \alpha(P) + P), close to O(N + P), where \alphaα is the Inverse-Ackermann function.
+        /// O(N * a(P) + P), close to O(N + P), where α is the Inverse-Ackermann function.
         /// </summary>
         /// <param name="words1"></param>
         /// <param name="words2"></param>
@@ -82,6 +82,8 @@ namespace _737_sentence_similarity_II__UF
         /// <summary>
         /// Union Find class
         /// I should be able to write it in less than 10 minutes
+        /// Just remember - Union
+        /// 
         /// </summary>
         class DSU
         {
@@ -112,6 +114,7 @@ namespace _737_sentence_similarity_II__UF
 
             /// <summary>
             /// It is just to assign one's parent's parent to other node's parent. 
+            /// It is Find(x) vs Find(y), not calling parent[x], parent[y]. 
             /// </summary>
             /// <param name="x"></param>
             /// <param name="y"></param>
