@@ -14,9 +14,13 @@ namespace _737_sentence_similarity_II__UF
 
         /// <summary>
         /// Nov. 19, 2020
-        /// 
+        /// Union find algorithm
         /// study code
         /// https://leetcode.com/problems/sentence-similarity-ii/solution/
+        /// Time complexity:
+        /// Time Complexity: O(N log P + P), where N is the maximum length of words1 and words2, 
+        /// and P is the length of pairs. If we used union-by-rank, this complexity improves to 
+        /// O(N * \alpha(P) + P), close to O(N + P), where \alphaα is the Inverse-Ackermann function.
         /// </summary>
         /// <param name="words1"></param>
         /// <param name="words2"></param>
