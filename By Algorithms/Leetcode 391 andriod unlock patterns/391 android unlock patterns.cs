@@ -38,6 +38,12 @@ namespace _391_android_unlock_patterns
             return result;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="index"></param>
+        /// <param name="last"></param>
+        /// <returns></returns>
         private bool isValid(int index, int last) 
         {
             if (used[index])
