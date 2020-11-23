@@ -109,3 +109,6 @@ Nov. 13, 2020<br>
 Nov. 4, 2020<br>
 940. Distinct Subsequences II<br>
 [First practice - C# - DP + GeeksForGeeks + DIY](https://leetcode.com/problems/distinct-subsequences-ii/discuss/923642/First-practice-C-DP-%2B-GeeksForGeeks-%2B-DIY)<br>
+
+329. Longest Increasing Path in a Matrix<br>
+[Second practice - C# - DFS - DP - DAG - graph algorithm](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/946782/Second-practice-C-DFS-DP-DAG-graph-algorithm)<br>
