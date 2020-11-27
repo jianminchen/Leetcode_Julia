@@ -127,3 +127,21 @@ Helpful Channels by Rank [According to me] :<br>
 
 
 
+222. Count Complete Tree Nodes<br>
+[Mock phone interview - C# - Binary search idea - Enjoy learning](https://leetcode.com/problems/count-complete-tree-nodes/discuss/950145/mock-phone-interview-c-binary-search-idea-enjoy-learning)<br>
+1079. Letter Tile Possibilities<br>
+[Mock interview - C# - Brute force](https://leetcode.com/problems/letter-tile-possibilities/discuss/950073/mock-interview-c-brute-force)<br>
+1042. Flower Planting With No Adjacent<br>
+[My practice - C# - Failed test case - Tips to shorten time](https://leetcode.com/problems/flower-planting-with-no-adjacent/discuss/950052/my-practice-c-failed-test-case-tips-to-shorten-time)<br>
+1055. Shortest Way to Form String<br>
+[First practice - C#](https://leetcode.com/problems/shortest-way-to-form-string/discuss/949476/first-practice-c)<br>
+616. Add Bold Tag in String<br>
+[First practice - C# - Study and learn - Brute force](https://leetcode.com/problems/add-bold-tag-in-string/discuss/949412/first-practice-c-study-and-learn-brute-force)<br>
+346. Moving Average from Data Stream<br>
+[First practice - C# - LinkedList - Deque](https://leetcode.com/problems/moving-average-from-data-stream/discuss/951144/First-practice-C-LinkedList-Deque)<br>
+1219. Path with Maximum Gold<br>
+[C# - DFS](https://leetcode.com/problems/path-with-maximum-gold/discuss/949353/C-DFS)<br>
+674. Longest Continuous Increasing Subsequence<br>
+[Mock interview - C# - Define variables - start/ end - play with logic](https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/951148/Mock-interview-C-Define-variables-start-end-two-logic-checking)<br>
+562. Longest Line of Consecutive One in Matrix<br>
+[Mock interview practice - C# - reading skills](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/discuss/951157/Mock-interview-practice-C-reading-skills)<br>
