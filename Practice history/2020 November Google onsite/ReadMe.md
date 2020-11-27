@@ -117,17 +117,17 @@ Nov. 27, 2020<br>
 https://leetcode.com/discuss/interview-experience/949582/google-new-grad-l3-pending<br>
 
 Helpful Channels by Rank [According to me] :<br>
-https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA ( Best one for everything )<br>
+[Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA) ( Best one for everything )<br>
 
-https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw ( Very good, when it comes to learning new Data Structures )<br>
+[Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) ( Very good, when it comes to learning new Data Structures )<br>
 
-https://www.youtube.com/user/purpongie ( Very Good for learning Graph problems )<br>
+[WilliamFiset](https://www.youtube.com/user/purpongie) ( Very Good for learning Graph problems )<br>
 
-https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g ( Good for random medium problems. Does not always solve the most effecient way, but it is good enough )<br>
+[Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) ( Good for random medium problems. Does not always solve the most effecient way, but it is good enough )<br>
 
-https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA ( Same as the above )<br>
+[Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA) ( Same as the above )<br>
 
-https://www.youtube.com/channel/UCamg61pfZpRnTp5-L4XEM1Q ( Solves a lot of hard problems. Even if you don't understand her soll, if you watch her code you can figure out yourself )<br>
+[happygirlzt](https://www.youtube.com/channel/UCamg61pfZpRnTp5-L4XEM1Q) ( Solves a lot of hard problems. Even if you don't understand her soll, if you watch her code you can figure out yourself )<br>
 
 
 
