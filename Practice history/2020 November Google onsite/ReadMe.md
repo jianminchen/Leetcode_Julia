@@ -50,16 +50,10 @@ Nov. 18, 2020 <br>
 1592. Rearrange Spaces Between Words<br>
 [First practice - C# - mock interview](https://leetcode.com/problems/rearrange-spaces-between-words/discuss/941901/First-practice-C-mock-interview)<br>
 
-1658. Minimum Operations to Reduce X to Zero
+1658. Minimum Operations to Reduce X to Zero<br>
+[First practice - C# - copy idea - Edge case challenges](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/discuss/936201/First-practice-C-copy-idea-Edge-case-challenges)<br>
 
-
-First practice - C# - copy idea - Edge case challenges
-
-https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/discuss/936201/First-practice-C-copy-idea-Edge-case-challenges
-
-
-Nov. 14, 2020
-
+Nov. 14, 2020<br>
 1657. Determine if Two Strings Are Close<br>
 [Content unfinished code - C# - DFS - TLE concern - too hard to complete](https://leetcode.com/problems/determine-if-two-strings-are-close/discuss/936091/Content-unfinished-code-C-DFS-TLE-concern-too-hard-to-complete)<br>
 [Second practice - C# - copy idea - Ask questions](https://leetcode.com/problems/determine-if-two-strings-are-close/discuss/936127/Second-practice-C-copy-idea-Ask-questions)<br>
@@ -131,6 +125,15 @@ Helpful Channels by Rank [According to me] :<br>
 [Mock phone interview - C# - Binary search idea - Enjoy learning](https://leetcode.com/problems/count-complete-tree-nodes/discuss/950145/mock-phone-interview-c-binary-search-idea-enjoy-learning)<br>
 1079. Letter Tile Possibilities<br>
 [Mock interview - C# - Brute force](https://leetcode.com/problems/letter-tile-possibilities/discuss/950073/mock-interview-c-brute-force)<br>
+June 9, 2019<br>
+[C# learn to write a solution after the weekly contest on June 8, 2019](https://leetcode.com/problems/letter-tile-possibilities/discuss/308475/C-learn-to-write-a-solution-after-the-weekly-contest-on-June-8-2019)<br>
+June 9, 2019
+[C# case study "AAB" to figure out the solution in 2019](https://leetcode.com/problems/letter-tile-possibilities/discuss/308882/C-case-study-%22AAB%22-to-figure-out-the-solution-in-2019)<br>
+C# - Learn the code - hard to understand - need to verify<br>
+[Learn the idea - C# - Add debug output](https://leetcode.com/problems/letter-tile-possibilities/discuss/951246/Learn-the-idea-C-Add-debug-output)<br>
+[C# case study "AAB" to figure out the solution in 2019]
+(https://leetcode.com/problems/letter-tile-possibilities/discuss/308882/C-case-study-%22AAB%22-to-figure-out-the-solution-in-2019)<br>
+
 1042. Flower Planting With No Adjacent<br>
 [My practice - C# - Failed test case - Tips to shorten time](https://leetcode.com/problems/flower-planting-with-no-adjacent/discuss/950052/my-practice-c-failed-test-case-tips-to-shorten-time)<br>
 1055. Shortest Way to Form String<br>
