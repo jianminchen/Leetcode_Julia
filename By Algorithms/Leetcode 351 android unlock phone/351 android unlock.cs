@@ -10,6 +10,7 @@ namespace _351_android_unlock
     {
         static void Main(string[] args)
         {
+
         }
 
         private int[][] jumps;
