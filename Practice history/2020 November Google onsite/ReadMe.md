@@ -173,4 +173,14 @@ Nov. 23, 2020<br>
 [Third practice - C# - DP - Idea is copied - 64. Minimum Path Sum](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/947996/Third-practice-C-DP-Idea-is-copied-64.-Minimum-Path-Sum)<br>
 [7 benefits to master the algorithm - C# - interviewer/ee - Graph](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/948920/7-benefits-to-master-the-algorithm-C-intervieweree-Graph)<br>
 
-
+64. Minimum Path Sum<br>
+Nov. 24, 2020<br>
+[DP solution](https://leetcode.com/problems/minimum-path-sum/discuss/947932/C-Dynamic-programming-solution-mock-interview)
+329. Longest Increasing Path in a Matrix<br>
+Nov. 23, 2020<br>
+[Second practice - C# - DFS - DP - DAG - graph algorithm](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/946782/Second-practice-C-DFS-DP-DAG-graph-algorithm)<br>
+Dec. 2, 2019<br>
+[C# depth first search and memoization classical algorithm](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/discuss/298133/C-depth-first-search-and-memoization-classical-algorithm)<br>
+1145. Binary Tree Coloring Game<br>
+[First practice - C# - Level order traversal](https://leetcode.com/problems/binary-tree-coloring-game/discuss/944925/First-practice-C-Level-order-traversal)<br>
+[Second practice - C# - copy idea and code - My thoughts](https://leetcode.com/problems/binary-tree-coloring-game/discuss/945957/Second-practice-C-copy-idea-and-code-My-thoughts)<br>
