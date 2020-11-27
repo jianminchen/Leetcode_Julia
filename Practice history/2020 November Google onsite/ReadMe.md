@@ -145,3 +145,16 @@ Helpful Channels by Rank [According to me] :<br>
 [Mock interview - C# - Define variables - start/ end - play with logic](https://leetcode.com/problems/longest-continuous-increasing-subsequence/discuss/951148/Mock-interview-C-Define-variables-start-end-two-logic-checking)<br>
 562. Longest Line of Consecutive One in Matrix<br>
 [Mock interview practice - C# - reading skills](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/discuss/951157/Mock-interview-practice-C-reading-skills)<br>
+
+844. Backspace String Compare<br>
+[C# using stack](https://leetcode.com/problems/backspace-string-compare/discuss/183094/C-using-stack)<br>
+989. Add to Array-Form of Integer<br>
+Oct. 29, 2019<br>
+[C# Learn IEnumerable Skip and Take API](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/416195/C-Learn-IEnumerable-Skip-and-Take-API)<br>
+[C# iterative solution](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/416282/C-iterative-solution)<br>
+Nov. 26, 2020<br>
+[Mock interview - C# - While loop - reduce lines of code](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/951180/Mock-interview-C-While-loop-reduce-lines-of-code)<br>
+Actionable items:<br>
+Need to review more C# IEnumerable, and learn how to expedite my coding. <br>
+
+
