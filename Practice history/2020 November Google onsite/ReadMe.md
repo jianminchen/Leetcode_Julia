@@ -156,5 +156,21 @@ Nov. 26, 2020<br>
 [Mock interview - C# - While loop - reduce lines of code](https://leetcode.com/problems/add-to-array-form-of-integer/discuss/951180/Mock-interview-C-While-loop-reduce-lines-of-code)<br>
 Actionable items:<br>
 Need to review more C# IEnumerable, and learn how to expedite my coding. <br>
+1042. Flower Planting With No Adjacent<br>
+[My practice - C# - Failed test case - Tips to shorten time](https://leetcode.com/problems/flower-planting-with-no-adjacent/discuss/950052/My-practice-C-Failed-test-case-Tips-to-shorten-time)<br>
+May 28, 2019<br>
+[c# Good practice using Hashset](https://leetcode.com/problems/flower-planting-with-no-adjacent/discuss/301027/c-Good-practice-using-Hashset)<br>
+Nov. 25, 2020<br>
+[Third practice - C# - lee215 - copy idea and code](https://leetcode.com/problems/flower-planting-with-no-adjacent/discuss/949177/Third-practice-C-lee215-copy-idea-and-code)<br>
+681. Next Closest Time<br>
+Nov. 24, 2020<br>
+[First practice - C# - mock phone screen](https://leetcode.com/problems/next-closest-time/discuss/948027/First-practice-C-mock-phone-screen)<br>
+[Second practice - C# - Brute force all possible minutes](https://leetcode.com/problems/next-closest-time/discuss/948048/Second-practice-C-Brute-force-all-possible-minutes)<br>
+1368. Minimum Cost to Make at Least One Valid Path in a Grid<br>
+Nov. 23, 2020<br>
+[First practice - C# - BFS - Case study](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/947182/First-practice-C-BFS-Case-study)<br>
+[Second practice - C# - no cost direction first - case study](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/947884/Second-practice-C-no-cost-direction-first-case-study)<br>
+[Third practice - C# - DP - Idea is copied - 64. Minimum Path Sum](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/947996/Third-practice-C-DP-Idea-is-copied-64.-Minimum-Path-Sum)<br>
+[7 benefits to master the algorithm - C# - interviewer/ee - Graph](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/948920/7-benefits-to-master-the-algorithm-C-intervieweree-Graph)<br>
 
 
