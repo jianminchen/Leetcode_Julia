@@ -131,8 +131,7 @@ June 9, 2019
 [C# case study "AAB" to figure out the solution in 2019](https://leetcode.com/problems/letter-tile-possibilities/discuss/308882/C-case-study-%22AAB%22-to-figure-out-the-solution-in-2019)<br>
 C# - Learn the code - hard to understand - need to verify<br>
 [Learn the idea - C# - Add debug output](https://leetcode.com/problems/letter-tile-possibilities/discuss/951246/Learn-the-idea-C-Add-debug-output)<br>
-[C# case study "AAB" to figure out the solution in 2019]
-(https://leetcode.com/problems/letter-tile-possibilities/discuss/308882/C-case-study-%22AAB%22-to-figure-out-the-solution-in-2019)<br>
+[C# case study "AAB" to figure out the solution in 2019](https://leetcode.com/problems/letter-tile-possibilities/discuss/308882/C-case-study-%22AAB%22-to-figure-out-the-solution-in-2019)<br>
 
 1042. Flower Planting With No Adjacent<br>
 [My practice - C# - Failed test case - Tips to shorten time](https://leetcode.com/problems/flower-planting-with-no-adjacent/discuss/950052/my-practice-c-failed-test-case-tips-to-shorten-time)<br>
