@@ -241,16 +241,16 @@ Leetcode premium -> Google -> 6 months - level <br>
 https://igotanoffer.com/blogs/tech/google-software-engineer-interview<br>
 https://www.quora.com/What-does-the-interview-feedback-form-template-look-like-at-tech-companies<br>
 
-At the end of each interview your interviewer will grade your performance using a standardised feedback form that summarizes the attributes Google looks for in a candidate. That form is constantly evolving, but we have listed the main components we know of at the time of writing this article below.
+At the end of each interview your interviewer will grade your performance using a standardised feedback form that summarizes the attributes Google looks for in a candidate. That form is constantly evolving, but we have listed the main components we know of at the time of writing this article below.<br>
 
-A) Questions asked
-In the first section of the form the interviewer fills in the questions they asked you. These questions are then shared with your future interviewers so you don't get asked the same questions twice.
+A) Questions asked<br>
+In the first section of the form the interviewer fills in the questions they asked you. These questions are then shared with your future interviewers so you don't get asked the same questions twice.<br>
 
-B) Attribute scoring
-Each interviewer will assess you on the four main attributes Google looks for when hiring:
+B) Attribute scoring<br>
+Each interviewer will assess you on the four main attributes Google looks for when hiring:<br>
 
-General cognitive ability. This is often referred to as "GCA" by Googlers. The company wants to hire smart engineers who can learn and adapt to new situations. Here your interviewer will try to understand how you solve hard problems and how you learn.
-Role-related knowledge and experience. This is often referred to as "RRK" or "RRKE" internally. The company wants to make sure that you have the right experience, domain expertise and competencies for the position you're applying for. For instance if you're applying for a "Softwate Engineer - Mobile" position then you'll be expected to have in depth knowledge about mobile.
-Leadership. Google looks for a particular type of leadership called “emergent leadership.” You'll typically be working in cross-functional teams at Google, and different team members are expected to step up and lead at different times in the lifecycle of a project when their skills are needed.
-Googleyness (i.e. culture fit). The company wants to make sure Google is the right environment for you. Your interviewer will check whether you naturally exhibit the company's values including: being comfortable with ambiguity, having a bias to action, and a collaborative nature.
-Depending on the exact job you're applying for these attributes might be broken down further. For instance, "Role-related knowledge and experience" could be broken down into "Security architecture" or "Incident response" for a site reliability engineer role. But the total number of attributes does not usually exceed six or seven.
+General cognitive ability. This is often referred to as "GCA" by Googlers. The company wants to hire smart engineers who can learn and adapt to new situations. Here your interviewer will try to understand how you solve hard problems and how you learn.<br>
+Role-related knowledge and experience. This is often referred to as "RRK" or "RRKE" internally. The company wants to make sure that you have the right experience, domain expertise and competencies for the position you're applying for. For instance if you're applying for a "Softwate Engineer - Mobile" position then you'll be expected to have in depth knowledge about mobile.<br>
+Leadership. Google looks for a particular type of leadership called “emergent leadership.” You'll typically be working in cross-functional teams at Google, and different team members are expected to step up and lead at different times in the lifecycle of a project when their skills are needed.<br>
+Googleyness (i.e. culture fit). The company wants to make sure Google is the right environment for you. Your interviewer will check whether you naturally exhibit the company's values including: being comfortable with ambiguity, having a bias to action, and a collaborative nature.<br>
+Depending on the exact job you're applying for these attributes might be broken down further. For instance, "Role-related knowledge and experience" could be broken down into "Security architecture" or "Incident response" for a site reliability engineer role. But the total number of attributes does not usually exceed six or seven.<br>
