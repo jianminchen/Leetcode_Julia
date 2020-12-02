@@ -218,3 +218,18 @@ binary search algorithm on binary search trees and sorted arrays<br>
 Dijkstra and A-star<br>
 Merge sort and Quick sort<br>
 Dynamic Programming, Greedy Algorithms, Recursion<br>
+
+Leetcode premium<br>
+Top Google questions<br>
+Google playground<br>
+
+The strategy for Google phone screen<br>
+The strategy that I finalized for 1st Phone Interview<br>
+I had 15 days in my hands.<br>
+I planned to complete Easy and Medium Leetcode questions in LeetCode Top Google 50 questions.<br>
+No graph problems and advance algorithms like Dijsktra, KMP, etc.<br>
+Focus more on Dynamic Programming especially Tabulation.<br>
+Practice a few GlassDoor Google Interview Questions.<br>
+Keep on practicing Google questions as much as I can for the next 15 days continuously.<br>
+Practice Classic Dynamic Programming questions.<br>
+
