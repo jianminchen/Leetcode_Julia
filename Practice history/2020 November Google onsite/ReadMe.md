@@ -233,3 +233,7 @@ Practice a few GlassDoor Google Interview Questions.<br>
 Keep on practicing Google questions as much as I can for the next 15 days continuously.<br>
 Practice Classic Dynamic Programming questions.<br>
 
+Dec. 2, 2020<br>
+Leetcode premium -> Google -> 6 months - level <br>
+52 hard level algorithm - I plan to go over them one by one.<br>
+78 medium level algorithms - I plan to go over them one by one.<br>
