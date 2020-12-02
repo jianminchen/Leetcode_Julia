@@ -186,3 +186,35 @@ Dec. 2, 2019<br>
 1145. Binary Tree Coloring Game<br>
 [First practice - C# - Level order traversal](https://leetcode.com/problems/binary-tree-coloring-game/discuss/944925/First-practice-C-Level-order-traversal)<br>
 [Second practice - C# - copy idea and code - My thoughts](https://leetcode.com/problems/binary-tree-coloring-game/discuss/945957/Second-practice-C-copy-idea-and-code-My-thoughts)<br>
+
+Dec. 2, 2020<br>
+Google onsite<br>
+
+[Google interview part-3 on-site](https://medium.com/@jayshah_84248/google-interview-part-3-on-site-928b22b51139)<br>
+Feedback is typically broken down into four categories (Analytical Ability, Coding, Experience, and Communication) and you are given a score from 1.0 to 4.0 overall, where 2.8 is the threshold of hire vs. no-hire. Interviewer feedback is collated and sent to a hiring committee, which ultimately decides whether to move forward with an offer, reject the candidate.<br>
+If your average score is below 2.8 then the feedback is not even forwarded to the hiring committee and you receive a rejection.<br>
+Segment tree/ Red black tree/ Dijkstra <br>
+Google is not only looking for the best coders but they are looking for the best coders who can express their thoughts while coding.<br>
+
+Data structures:<br>
+Stacks and Queues<br>
+Heaps (Don’t ignore this data structure)<br>
+Hashmaps (Very important data structure)<br>
+Binary Tree, Binary Search Tree<br>
+Linked List<br>
+Double ended queue<br>
+Tries (Prefix-tree)<br>
+Segment Tree<br>
+Graph<br>
+Disjoint sets<br>
+
+Algorithms:<br>
+Depth First Search<br>
+Breadth First Search<br>
+Recursive and iterative pre-order traversal<br>
+Recursive and iterative post-order traversal<br>
+Recursive and iterative in-order traversal<br>
+binary search algorithm on binary search trees and sorted arrays<br>
+Dijkstra and A-star<br>
+Merge sort and Quick sort<br>
+Dynamic Programming, Greedy Algorithms, Recursion<br>
