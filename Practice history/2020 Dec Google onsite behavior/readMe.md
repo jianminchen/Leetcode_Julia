@@ -29,4 +29,7 @@ Move to Ebay version setup. <br> Later move to Shopify project. <br>
 20. Leetcode 2015 - 2020, Hackerrank 2015 - 2018, stackexchange code review 2016 - 2018<br>
 21. Difficult projects - directions at work, projects at work<br>
 
+Ambiguity at work, self-learner, collaborate <br>
+Miss deadline, difficult situation<br>
+
 
