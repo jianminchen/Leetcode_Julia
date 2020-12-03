@@ -31,5 +31,9 @@ Move to Ebay version setup. <br> Later move to Shopify project. <br>
 
 Ambiguity at work, self-learner, collaborate <br>
 Miss deadline, difficult situation<br>
-
-
+What should I do better?<br>
+How to collaborate with coworkers? <br>
+First three months, behavior interviews - survey - feedback - lighting overhead is too dim - small group meetings - project planning - <br>
+Hard to predict what is next? <br>
+difficult project - 2012 - sales.mplighting.com <br>
+source code found on website - C#, database - SQL script - login, user administration, - add features to work on Excel sheet download, form to fill. - less than a few months<br>
