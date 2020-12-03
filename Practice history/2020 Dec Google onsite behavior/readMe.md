@@ -19,6 +19,14 @@ Move to Ebay version setup. <br> Later move to Shopify project. <br>
 10. Coding challenges - rewrite, code review, The art of readable code - 2014, 2016 stackexchange.com code review, and start to code C# on Hackerrank and Leetcode discuss.<br>
 11. Learn CSS and html - read book head first CSS and html 5 <br>
 12. Learn functional programming language in 2016 - JavaScript programming language - six months <br>
-13. New graduate from BCIT joining the company, design website using html, CSS and JavaScript and Jquery, and I needed to work on rest of development. It was in 2012. <br>
+13. New graduate from BCIT joining the company, design website using html, CSS and JavaScript and Jquery, and I needed to work on rest of development. It was in March 2012. <br>
+14. First coworker - web programmer April 2010 - March 2012 <br> Second web programmer - March 2012 - March 2013 ?<br>
+15. Work with coworkers - feedback from coworkers etc. Kieko - feedback - she worked on CSS, html and JavaScript, but she did not learn how to write backend. 10 months.<br>
+16. Work with another two designers - what are difficult projects? <br>
+17. Ransom attack -> github source control -> 2017 <br>
+18. SQL server injection attack -> 2016 ? virus, firewall, architecture<br>
+19. Code review, rewrite C# code, html, CSS learning - two year subscription - frontendmaster, and pluralsight etc. 2017 - 2018?<br>
+20. Leetcode 2015 - 2020, Hackerrank 2015 - 2018, stackexchange code review 2016 - 2018<br>
+21. Difficult projects - directions at work, projects at work<br>
 
 
