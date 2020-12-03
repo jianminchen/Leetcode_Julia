@@ -19,5 +19,6 @@ Move to Ebay version setup. <br> Later move to Shopify project. <br>
 10. Coding challenges - rewrite, code review, The art of readable code - 2014, 2016 stackexchange.com code review, and start to code C# on Hackerrank and Leetcode discuss.<br>
 11. Learn CSS and html - read book head first CSS and html 5 <br>
 12. Learn functional programming language in 2016 - JavaScript programming language - six months <br>
+13. New graduate from BCIT joining the company, design website using html, CSS and JavaScript and Jquery, and I needed to work on rest of development. It was in 2012. <br>
 
 
