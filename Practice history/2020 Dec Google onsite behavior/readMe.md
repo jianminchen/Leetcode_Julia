@@ -12,5 +12,12 @@ Difficult - remote hosting project - Windows NT event log - how to set up / cowo
 4. Ecommerce store - open source project - DotNetNuke - setup ecommerce store, shipping, tax, international and all others. First three months to setup. Free version. <br>
 Move to Ebay version setup. <br> Later move to Shopify project. <br>
 5. SQL server DBA, architecture of software - MP Lighting website, ASP.NET website, web form, CSS/ html/ JavaScript/ JQuery front end. <br>
-6. Experience of ownership of website. First year (365 days) no sick day, and no vacation. Career planning...
-7. work on website development, and adminstration of SQL server, web server, front end and back end. How to learn and what to learn? Pluralsight until 2016
+6. Experience of ownership of website. First year (365 days) no sick day, and no vacation. Career planning...<br>
+7. work on website development, and adminstration of SQL server, web server, front end and back end. How to learn and what to learn? Pluralsight until 2016.<br>
+8. Experience of SQL server DBA - transaction log, disk full -> remove transaction log-> SQL trace, and look up SQL server DBA scripts, and all other area. <br>
+9. Network challenges - internal website/ external website - subscribe $2/ month for website alert. <br>
+10. Coding challenges - rewrite, code review, The art of readable code - 2014, 2016 stackexchange.com code review, and start to code C# on Hackerrank and Leetcode discuss.<br>
+11. Learn CSS and html - read book head first CSS and html 5 <br>
+12. Learn functional programming language in 2016 - JavaScript programming language - six months <br>
+
+
