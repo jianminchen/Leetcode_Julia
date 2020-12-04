@@ -102,3 +102,30 @@ Be able to send out million dollars shipping order daily twice automatically - s
 Source control using github, Microsoft Visual studio, etc.<br>
 Signals - analytical skills, save money - inventory, purchase; analytical skills - Excel, script and application development; communication - <br>
 **fifth story**<br>
+
+Evaluate you project <br>
+
+We'll be looking for: <br>
+
+Define clear goals<br>
+Develop a plan<br>
+Delegate tasks<br>
+Manage progress<br>
+Maintain focus<br>
+Remain adaptable and offer space for creativity <br>
+
+Explain thought process - how to solve the problems? <br>
+Share with moments - Get it right <br>
+
+We will be evaluating you on: <br>
+Communication and leadership style<br>
+Navigating complexity and ambiguity<br>
+Working with teams<br>
+Vision <br>
+Delivering results<br>
+Authentic, knowledge, humble ...<br>
+Not most knowledge person in the room<br>
+
+Vision - change the world - make it better <br>
+status quo - how we do things <br>
+
