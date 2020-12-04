@@ -51,3 +51,54 @@ Take a few courses on ASP.NET, and then start to come out ideas how to rewrite t
 Website front end - JavaScript, CSS and Jquery - my coding skills <br>
 power supplies review - dive deep - check inventory application - dormant items - total amount - quantity analysis<br>
 
+
+It is structured in 4 parts:<br>
+A. Mission & Ten things we know to be true (Google’s 10 Core Values / Leadership Principles)<br>
+1. Focus on the user and all else will follow.<br>
+2. It’s best to do one thing really, really well.<br>
+3. Fast is better than slow.<br>
+4. Democracy on the web works<br>
+5. You don’t need to be at your desk to need an answer.<br>
+6. You can make money without doing evil.<br>
+7. There’s always more information out there.<br>
+8. The need for information crosses all borders.<br>
+9. You can be serious without a suit.<br>
+10. Great just isn’t good enough.<br>
+
+B. Two most important things in a recruit, behavioral questions and how to prepare (STAR method)<br>
+Googleyness. The first thing they measure here is cognitive ability, for example, they’ll ask you: Tell me about a tough problem you solved, how did you solve me, walk me through it.<br>
+Preparation: 5 stories (full story + shortened into: situation, task, actions, result) + 3 x answers to 20 most common behavioral questions - examples in the video<br>
+
+But one more highlight here in terms of leadership - or at least one more interesting keyword - is emergent leadership. I noticed various Google HR leaders referincing it throughout the years; whta does this mean: it’s essentially your ability to step in when there is a peoblem and step out when they are no longer needed. Would be great if you could also make this stand out in one of your prepared stories.<br>
+
+Sales or posted invoice/ open order/ BOM/ Cost analysis <br>
+Tough problems - 5 stories <br>
+**First story**<br>
+1. Net sales -> work on net sales formula, CAD/ USA, net sale formula, commission, overhead, split commission, shared by multiple agents - C# programming - <br>
+Enterprise database -> my own database on database server <br>
+2. Second steps: Write 7 SQL script, readMe, how to document, add region information, fiscal year/ month sale, categorize the item - build a dictionary to map BOM to product - over 500 lines of SQL script<br>
+Excel sheet - powerpivot -> first access directly -> concern the available user limit -> slow down the system, big size of Excel sheet -> hard to refresh -> convert to C# programming<br>
+3. Last 10 years, condition format -> sales amount/ quantity<br>
+1. 2010 - 2011, the report can adapt to change quickly in less than a few minutes, and reports are generated visually. - analysis and reporting - Technology: Excel, pivot, SQL script, Excel features. Before weeks - Windows Form application -> Excel sheet - powerpviot - loading 10 year sales<br>
+4. Different tabs - based on area, province, customer name, city etc. 
+**Second story**<br>
+Website maintenance - database update, programming - interface - mix html, css, JavaScript<br>
+website user friendly - instant update<br>
+Work with Suzen - project - add more categories - commercial, house, and residential<br>
+Work with Suzen - project - power supplies - Export all design database tables into Excel sheet - > share the story<br>
+Less code<br>
+Collaborate - work with image rending application photos - <br>
+mentor - CSS and html - show them how to update images - <br>
+Source control <br>
+product update - reduce the time to complete the task -> integrate the product, search feature together. One person team <br>
+Database design - concern of SQL injection attack - Contact database -> web product<br>
+**third story**<br>
+Export/ import feature from Microsoft enterprise system -> open order, shipped order -> website database -> order query, notification emails<br>
+Challenge - Navision - add extra column for shipping email<br>
+Handling conflicts<br>
+Deletion of quotes - <br>
+Be able to send out million dollars shipping order daily twice automatically - save at least 30 minutes a day to answer the emails - <br>
+**fourth story**<br>
+Source control using github, Microsoft Visual studio, etc.<br>
+Signals - analytical skills, save money - inventory, purchase; analytical skills - Excel, script and application development; communication - <br>
+**fifth story**<br>
