@@ -37,3 +37,12 @@ First three months, behavior interviews - survey - feedback - lighting overhead 
 Hard to predict what is next? <br>
 difficult project - 2012 - sales.mplighting.com <br>
 source code found on website - C#, database - SQL script - login, user administration, - add features to work on Excel sheet download, form to fill. - less than a few months<br>
+Advice from coworkers - <br>
+2019 - Calculating sold item - SQL script - Excel sheet - pivot table - manual examination<br>
+2017 - Check inventory application - Add last 30 days, 60 days, 90 days, 120 days sale/ quantities<br>
+Review the whole application - rewrite the code - add new features, and help to make informed decision. <br>
+Too busy to work on important projects. Take some time to work on the application. <br>
+architecture - coding - project management <br>
+sales and quotes - reports for each region/ agent - 500 pdf files/ month <br> 
+how to come out the design for me to work on? Using Microsoft Excel, VB script - SQL scripts  <br>
+Monitor SQL server disk space, and database size, and other important metrics. <br>
