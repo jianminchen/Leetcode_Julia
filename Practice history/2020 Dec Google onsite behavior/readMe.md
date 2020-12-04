@@ -48,4 +48,6 @@ how to come out the design for me to work on? Using Microsoft Excel, VB script -
 Monitor SQL server disk space, and database size, and other important metrics. <br>
 Behavior - project managment - <br>
 Take a few courses on ASP.NET, and then start to come out ideas how to rewrite the code. <br>
+Website front end - JavaScript, CSS and Jquery - my coding skills <br>
+power supplies review - dive deep - check inventory application - dormant items - total amount - quantity analysis<br>
 
