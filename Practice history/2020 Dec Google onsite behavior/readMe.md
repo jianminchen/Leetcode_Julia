@@ -46,3 +46,6 @@ architecture - coding - project management <br>
 sales and quotes - reports for each region/ agent - 500 pdf files/ month <br> 
 how to come out the design for me to work on? Using Microsoft Excel, VB script - SQL scripts  <br>
 Monitor SQL server disk space, and database size, and other important metrics. <br>
+Behavior - project managment - <br>
+Take a few courses on ASP.NET, and then start to come out ideas how to rewrite the code. <br>
+
