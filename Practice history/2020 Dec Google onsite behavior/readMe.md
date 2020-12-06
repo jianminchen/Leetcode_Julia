@@ -129,3 +129,24 @@ Not most knowledge person in the room<br>
 Vision - change the world - make it better <br>
 status quo - how we do things <br>
 
+A difficult problem? <br>
+Best difficult problem - problem solver as a software programmer, the code I wrote for Amazon online code screen in 2014/ 205, the quality of my code written from 2010 to 2015 first five years. Those crafting skills can not just be acquired by hard working. My difficult problem is to rewrite the website I developed from 2013 to 2015. <br>
+
+Work with marketing and design team. <br>
+How to work better? I did work with different designers and learn how to do good research? <br>
+
+Mix css and Java Script and html - take a lot of course pluralsight, and read a few books, start to learn how to work on my crafting skills. <br>
+I work on hundred problems on leetcode, hackerrank over 20 contests. <br>
+
+How to make it better? <br>
+Pay and ask people to review<br>
+Joel - stackexchange CEO - his interview - learn code review website <br>
+
+Communication and work with team members- <br>
+Revenue went down, and one time - 10 months after she worked and she got terminated early.<br> 
+I understood the business and how things work here.<br> 
+
+Website code written - bug - database - remove an term in website database - this is not difficult. I took one week and allow myself to review adminstration of IIS and review how to troubleshooting.<br>
+
+what is really difficult project to work on? <br>
+
