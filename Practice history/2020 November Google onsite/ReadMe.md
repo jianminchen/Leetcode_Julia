@@ -254,3 +254,13 @@ Role-related knowledge and experience. This is often referred to as "RRK" or "RR
 Leadership. Google looks for a particular type of leadership called “emergent leadership.” You'll typically be working in cross-functional teams at Google, and different team members are expected to step up and lead at different times in the lifecycle of a project when their skills are needed.<br>
 Googleyness (i.e. culture fit). The company wants to make sure Google is the right environment for you. Your interviewer will check whether you naturally exhibit the company's values including: being comfortable with ambiguity, having a bias to action, and a collaborative nature.<br>
 Depending on the exact job you're applying for these attributes might be broken down further. For instance, "Role-related knowledge and experience" could be broken down into "Security architecture" or "Incident response" for a site reliability engineer role. But the total number of attributes does not usually exceed six or seven.<br>
+
+Dec. 7, 2020<br>
+I took three day vacations to prepare for onsite interview. <br>
+[30 hard level algorithms: google - Leetcode premium](http://juliachencoding.blogspot.com/2020/12/30-hard-level-algorithms-google.html) is the blog. <br>
+[Leetcode discuss: 715. Range Module](https://leetcode.com/problems/range-module/discuss/963791/First-practice-C-study-and-learn-copy-ideas)<br>
+[Leetcode discuss: 552. Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/discuss/963849/First-practice-C-30-hard-level-DP)<br>
+[Leetcode discuss: 1499. Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/discuss/963907/First-practice-C-Deque-TLE-6465)<br>
+[Leetcode discuss: 1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/discuss/964058/First-practice-C-Binary-Search-Deadloop-concern)<br>
+[Leetcode discuss: 308. Range Sum Query 2D - Mutable](http://juliachencoding.blogspot.com/2020/12/leetcode-discuss-308-range-sum-query-2d.html)<br>
+[Leetcode discuss: 1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/discuss/964214/First-practice-C-BFS-obstacle-as-third-dimension-Learning)<br>
