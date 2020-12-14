@@ -264,3 +264,8 @@ I took three day vacations to prepare for onsite interview. <br>
 [Leetcode discuss: 1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/discuss/964058/First-practice-C-Binary-Search-Deadloop-concern)<br>
 [Leetcode discuss: 308. Range Sum Query 2D - Mutable](http://juliachencoding.blogspot.com/2020/12/leetcode-discuss-308-range-sum-query-2d.html)<br>
 [Leetcode discuss: 1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/discuss/964214/First-practice-C-BFS-obstacle-as-third-dimension-Learning)<br>
+
+Dec. 13, 2020<br>
+I recorded a video to celebrate my onsite interview. [Here](https://www.youtube.com/watch?v=c4tyRYSzXNk) is the link. <br>
+I just could not believe that I could solve so many algorithms in last two months, and spent so many hours to learn so many algorithms. I learn to be patient and solve hard level algorithms.<br>
+
