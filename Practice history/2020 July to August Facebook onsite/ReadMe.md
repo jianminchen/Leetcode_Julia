@@ -77,3 +77,7 @@ https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/des
 August 9 -11, 2020<br>
 Work on content from [tianpan.com system design](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)<br>
 I watched the tech talk on TAO data store over 10 times, and it took me two to three days to understand architecture. The most important is to build strong interest to learn and understand the challenge of the problem solving. <br>
+
+Dec. 30, 2020<br>
+I could not get offer from Google and Facebook in 2020. I like to write down some notes to share with others. It feels much better since I have more experience to share. Hard work makes my life much better in 2020. <br>
+[Leetcode 600 questions beyond - strategies and tips](https://leetcode.com/discuss/general-discussion/994399/Leetcode-600-questions-beyond-strategies-and-tips)<br>
