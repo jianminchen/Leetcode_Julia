@@ -78,3 +78,8 @@ I got invited to apply Facebook again on June 5, 2020. I decided to start this j
 
 Thank you Facebook Seattle. I will work hard to prepare Facebook phone screen in early July 2020. Stay on the course. 
 
+Dec. 30, 2020<br>
+I could not get offer from Google and Facebook in 2020. I like to write down some notes to share with others. It feels much better since I have more experience to share. Hard work makes my life much better in 2020. <br>
+[Leetcode 600 questions beyond - strategies and tips](https://leetcode.com/discuss/general-discussion/994399/Leetcode-600-questions-beyond-strategies-and-tips)<br>
+
+
