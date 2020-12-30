@@ -269,3 +269,7 @@ Dec. 13, 2020<br>
 I recorded a video to celebrate my onsite interview. [Here](https://www.youtube.com/watch?v=c4tyRYSzXNk) is the link. <br>
 I just could not believe that I could solve so many algorithms in last two months, and spent so many hours to learn so many algorithms. I learn to be patient and solve hard level algorithms.<br>
 
+Dec. 30, 2020<br>
+I could not get offer from Google and Facebook in 2020. I like to write down some notes to share with others. It feels much better since I have more experience to share. Hard work makes my life much better in 2020. <br>
+[Leetcode 600 questions beyond - strategies and tips](https://leetcode.com/discuss/general-discussion/994399/Leetcode-600-questions-beyond-strategies-and-tips)<br>
+
