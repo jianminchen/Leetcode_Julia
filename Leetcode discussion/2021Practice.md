@@ -2,6 +2,9 @@
 I continued to work on Leetcode algorithm practice. <br>
 
 Dec. 30, 2020<br>
+253. Meeting Rooms II<br>
+[First practice - C# - SortedSet - Challenges - +-0.1 to separate start from end time](https://leetcode.com/problems/meeting-rooms-ii/discuss/994791/First-practice-C-SortedSet-Challenges-%2B-0.1-to-separate-start-from-end-time)<br>
+
 273. Integer to English Words<br>
 [First practice - C# - Check list - Take more than one hour](https://leetcode.com/problems/integer-to-english-words/discuss/994880/First-practice-C-Check-list-Take-more-than-one-hour)<br>
 
