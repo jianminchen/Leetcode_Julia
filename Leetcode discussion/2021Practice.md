@@ -1,5 +1,9 @@
 
 I continued to work on Leetcode algorithm practice. <br>
+Nov. 10, 2020<br>
+737. Sentence Similarity II<br>
+[First practice - C# - Union find - Failed](https://leetcode.com/problems/sentence-similarity-ii/discuss/941261/First-practice-C-Union-find-Failed)<br>
+[Second practice - C# - DFS - brute force - Working solution](https://leetcode.com/problems/sentence-similarity-ii/discuss/994482/Second-practice-C-DFS-brute-force-Working-solution)<br>
 
 Dec. 30, 2020<br>
 253. Meeting Rooms II<br>
