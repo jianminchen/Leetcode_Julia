@@ -10,7 +10,7 @@ Jan. 6, 2021<br>
 [First try - Hard to understand - C# - dynamic programming - research](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/1006707/First-try-Hard-to-understand-C-dynamic-programming-research)<br>
 [Prepare facts to review - C# - dynamic programming - hard to copy ideas](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/discuss/1006780/Prepare-facts-to-review-C-dynamic-programming-hard-to-copy-ideas)<br>
 
-January 2021<br>
+January 12, 2021<br>
 
 1448. Count Good Nodes in Binary Tree<br>
 [First practice - C# - Maximum value in the path](https://leetcode.com/problems/count-good-nodes-in-binary-tree/discuss/1013774/first-practice-c-maximum-value-in-the-path)<br>
