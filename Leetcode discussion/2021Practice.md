@@ -1,5 +1,15 @@
 
 I continued to work on Leetcode algorithm practice. <br>
+
+Dec. 30, 2020<br>
+273. Integer to English Words<br>
+[First practice - C# - Check list - Take more than one hour](https://leetcode.com/problems/integer-to-english-words/discuss/994880/First-practice-C-Check-list-Take-more-than-one-hour)<br>
+
+Jan. 5, 2021<br>
+158. Read N Characters Given Read4 II - Call multiple times<br>
+[Troubleshooting - C# - "abcde", [1, 4], ["a", "bcde"] - Simulation](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/discuss/1003661/Troubleshooting-C-%22abcde%22-1-4-%22a%22-%22bcde%22-Simulation)<br>
+[Working solution - C# - two lessons - variable - while or if](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/discuss/1003668/Working-solution-C-two-lessons-variable-while-or-if)<br>
+
 1150. Check If a Number Is Majority Element in a Sorted Array<br>
 Jan. 5, 2021<br>
 1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows<br>
