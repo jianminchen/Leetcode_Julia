@@ -2,6 +2,10 @@
 I continued to work on Leetcode algorithm practice. <br>
 
 Jan. 6, 2021<br>
+839. Similar String Groups<br>
+[Lesson learned - C# - Union Find - FindParent API - Union API - Failed](https://leetcode.com/problems/similar-string-groups/discuss/1005411/Lesson-learned-C-Union-Find-FindParent-API-Union-API-Failed)<br>
+[Second practice - C# - Union Find - Union API lesson learned](https://leetcode.com/problems/similar-string-groups/discuss/1005423/Second-practice-C-Union-Find-Union-API-lesson-learned)<br>
+
 123. Best Time to Buy and Sell Stock III<br>
 [C# - dynamic programming - case study - choose DP first always](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/1005542/C-dynamic-programming-case-study-choose-DP-first-always)<br>
 [C# - mock interview - performance - design issue](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/1005578/C-mock-interview-performance-design-issue)<br>
