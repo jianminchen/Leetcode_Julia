@@ -1,5 +1,10 @@
 
 I continued to work on Leetcode algorithm practice. <br>
+1150. Check If a Number Is Majority Element in a Sorted Array<br>
+Jan. 5, 2021<br>
+1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows<br>
+[First practice - C# - TLE 35/71 - DFS](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/discuss/1003811/First-practice-C-TLE-3571-DFS)<br>
+[Second practice - C# - copy idea - Time complexity - Each row maximum cost - Sorting](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/discuss/1003834/Second-practice-C-copy-idea-Time-complexity-Each-row-maximum-cost-Sorting)<br>
 
 Jan. 6, 2021<br>
 839. Similar String Groups<br>
