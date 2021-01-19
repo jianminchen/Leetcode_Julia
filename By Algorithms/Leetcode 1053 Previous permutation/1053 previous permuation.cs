@@ -13,7 +13,7 @@ namespace _1053_previous_premutations
             var result = PrevPermOpt1(new int[]{3, 2, 1});
         }
 
-        public int[] PrevPermOpt1(int[] numbers)
+        public static int[] PrevPermOpt1(int[] numbers)
         {
             if (numbers == null || numbers.Length == 0)
             {
