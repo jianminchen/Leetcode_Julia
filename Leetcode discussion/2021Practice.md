@@ -51,3 +51,11 @@ January 12, 2021<br>
 25. Reverse Nodes in k-Group<br>
 [C# - Mock interview - Reverse first k nodes - recursive rest of linked list](https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/1013994/c-mock-interview-reverse-first-k-nodes-recursive-rest-of-linked-list)<br>
 
+Jan 15, 2021<br>
+1081. Smallest Subsequence of Distinct Characters<br>
+[First practice - C# - Deque - Stumble over 7 times](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/discuss/1018766/first-practice-c-deque-stumble-over-7-times)<br>
+1081. Smallest Subsequence of Distinct Characters<br>
+[First practice - C# - Deque - Stumble over 7 times](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/discuss/1018766/first-practice-c-deque-stumble-over-7-times)<br>
+
+
+
