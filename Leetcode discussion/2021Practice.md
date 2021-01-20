@@ -54,8 +54,10 @@ January 12, 2021<br>
 Jan 15, 2021<br>
 1081. Smallest Subsequence of Distinct Characters<br>
 [First practice - C# - Deque - Stumble over 7 times](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/discuss/1018766/first-practice-c-deque-stumble-over-7-times)<br>
-1081. Smallest Subsequence of Distinct Characters<br>
-[First practice - C# - Deque - Stumble over 7 times](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/discuss/1018766/first-practice-c-deque-stumble-over-7-times)<br>
+1053. Previous Permutation With One Swap<br>
+[First practice - C# - backward - upper bound 10000 - last occurrence](https://leetcode.com/problems/previous-permutation-with-one-swap/discuss/1023478/first-practice-c-backward-upper-bound-10000-last-occurrence)<br>
+
+
 
 
 
