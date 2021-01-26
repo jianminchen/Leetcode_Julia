@@ -56,7 +56,10 @@ Jan 15, 2021<br>
 [First practice - C# - Deque - Stumble over 7 times](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/discuss/1018766/first-practice-c-deque-stumble-over-7-times)<br>
 1053. Previous Permutation With One Swap<br>
 [First practice - C# - backward - upper bound 10000 - last occurrence](https://leetcode.com/problems/previous-permutation-with-one-swap/discuss/1023478/first-practice-c-backward-upper-bound-10000-last-occurrence)<br>
-
+1375. Bulb Switcher III<br>
+[First practice - C# - O(1) to check all lights are blue - 30+ minutes](https://leetcode.com/problems/bulb-switcher-iii/discuss/1028628/First-practice-C-O(1)-to-check-all-lights-are-blue-30%2B-minutes)<br>
+1576. Replace All ?'s to Avoid Consecutive Repeating Characters<br>
+[First practice - C# - "abc" - 20+ minutes](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/discuss/1028626/first-practice-c-abc-20-minutes)<br>
 
 
 
