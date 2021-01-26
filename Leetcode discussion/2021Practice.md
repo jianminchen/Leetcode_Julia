@@ -63,9 +63,9 @@ Jan. 21, 2021<br>
 [First practice - C# - "abc" - 20+ minutes](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/discuss/1028626/first-practice-c-abc-20-minutes)<br>
 
 Leetcode premium | Mock onsite interviews<br>
-[Google mock onsite]()<br>
+[Google mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-discuss-google-mock-onsite.html)<br>
 [Microsoft mock onsite](http://juliachencoding.blogspot.com/search/label/Microsoft%20mock%20onsite)<br>
-[Facebook mock onsite]()<br>
+[Facebook mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-premium-facebook-onsite.html)<br>
 
 
 
