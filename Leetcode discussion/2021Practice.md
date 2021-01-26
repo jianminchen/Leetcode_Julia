@@ -66,6 +66,6 @@ Leetcode premium | Mock onsite interviews<br>
 [Google mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-discuss-google-mock-onsite.html)<br>
 [Microsoft mock onsite](http://juliachencoding.blogspot.com/search/label/Microsoft%20mock%20onsite)<br>
 [Facebook mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-premium-facebook-onsite.html)<br>
-
+[Facebook mock online assessment](https://juliachencoding.blogspot.com/2021/01/leetcode-premium-facebook-online.html)<br>
 
 
