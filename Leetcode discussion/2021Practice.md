@@ -62,6 +62,24 @@ Jan. 21, 2021<br>
 1576. Replace All ?'s to Avoid Consecutive Repeating Characters<br>
 [First practice - C# - "abc" - 20+ minutes](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/discuss/1028626/first-practice-c-abc-20-minutes)<br>
 
+Jan. 30 - 31<br>
+34. Find First and Last Position of Element in Sorted Array<br>
+[C# | 2016-06-26 | My first practice | Binary search algorithm
+](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/1043038/c-2016-06-26-my-first-practice-binary-search-algorithm)<br>
+
+38. Count and Say<br>
+[C# | 2018-09-20 | First practice | Quick review](https://leetcode.com/problems/count-and-say/discuss/1043099/c-2018-09-20-first-practice-quick-review)<br>
+
+259. 3Sum Smaller<br>
+[C# | Sorting | two pointer sliding window](https://leetcode.com/problems/3sum-smaller/discuss/1043294/c-sorting-two-pointer-sliding-window)<br>
+
+237. Delete Node in a Linked List<br>
+[C# | mock online assessment | remove node.next node in linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/1044272/c-mock-online-assessment-remove-nodenext-node-in-linked-list)<br>
+
+232. Implement Queue using Stacks<br>
+[C# | mock online assessment | using two stacks](https://leetcode.com/problems/implement-queue-using-stacks/discuss/1044322/c-mock-online-assessment-using-two-stacks)<br>
+
+
 Leetcode premium | Mock onsite interviews<br>
 [Google mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-discuss-google-mock-onsite.html)<br>
 [Microsoft mock onsite](http://juliachencoding.blogspot.com/search/label/Microsoft%20mock%20onsite)<br>
