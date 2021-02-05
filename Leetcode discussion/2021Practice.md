@@ -75,6 +75,18 @@ Jan. 30 - 31<br>
 232. Implement Queue using Stacks<br>
 [C# | mock online assessment | using two stacks](https://leetcode.com/problems/implement-queue-using-stacks/discuss/1044322/c-mock-online-assessment-using-two-stacks)<br>
 <br>
+
+8. String to Integer (atoi)<br>
+[C# | First practice | 2015-06-19 | Quick review](https://leetcode.com/problems/string-to-integer-atoi/discuss/1045698/c-first-practice-2015-06-19-quick-review)<br>
+125. Valid Palindrome<br>
+[First practice | C# | 2016-08-19 | Growth mindset](https://leetcode.com/problems/valid-palindrome/discuss/1045555/first-practice-c-2016-08-19-growth-mindset)<br>
+125. Valid Palindrome<br>
+[Second practice | C# | 2017-03-09 | LINQ](https://leetcode.com/problems/valid-palindrome/discuss/1045574/second-practice-c-2017-03-09-linq)<br>
+125. Valid Palindrome<br>
+[Third practice | C# | 2017-03-11 | char API IsLetterOrDigit](https://leetcode.com/problems/valid-palindrome/discuss/1045577/third-practice-c-2017-03-11-char-api-isletterordigit)<br>
+
+
+
 Leetcode premium | Mock onsite interviews<br>
 [Google mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-discuss-google-mock-onsite.html)<br>
 [Microsoft mock onsite](http://juliachencoding.blogspot.com/search/label/Microsoft%20mock%20onsite)<br>
