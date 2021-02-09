@@ -12,5 +12,14 @@ Creating, evolving, and versioning microservice APIs and contracts<br>
 10/14/2020 • 2 minutes to read • Edit Online<br>
 [Hypermedia in RESTful applications](https://www.infoq.com/articles/mark-baker-hypermedia/)<br>
 
+Feb. 9, 2021<br>
+study notes:<br>
+45 minute video <br>
+https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3317<br>
+Free <br>
+Create and deploy a cloud-native ASP.NET Core microservice<br>
+https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/<br>
+Review architecture - 8 minutes <br>
+https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/3-solution-architecture<br>
 
 
