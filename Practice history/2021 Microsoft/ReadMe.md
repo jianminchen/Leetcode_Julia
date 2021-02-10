@@ -21,5 +21,6 @@ Create and deploy a cloud-native ASP.NET Core microservice<br>
 https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/<br>
 Review architecture - 8 minutes <br>
 https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/3-solution-architecture<br>
+[Deploy to Azure Kubernetes service - (AKS)](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Deploy-to-Azure-Kubernetes-Service-(AKS))<br>
 
 
