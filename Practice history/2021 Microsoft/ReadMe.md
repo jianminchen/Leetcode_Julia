@@ -22,5 +22,7 @@ https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/<br>
 Review architecture - 8 minutes <br>
 https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/3-solution-architecture<br>
 [Deploy to Azure Kubernetes service - (AKS)](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Deploy-to-Azure-Kubernetes-Service-(AKS))<br>
+Feb. 10, 2021<br>
 [Putting your events on a diet](https://particular.net/blog/putting-your-events-on-a-diet)<br>
+[eShopOnContainers with NServiceBus](https://github.com/Particular/eShopOnContainers/tree/archive)<br>
 
