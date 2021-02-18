@@ -85,6 +85,16 @@ Jan. 30 - 31<br>
 125 Valid Palindrome<br>
 [Third practice | C# | 2017-03-11 | char API IsLetterOrDigit](https://leetcode.com/problems/valid-palindrome/discuss/1045577/third-practice-c-2017-03-11-char-api-isletterordigit)<br>
 
+Feb. 18, 2021<br>
+5. Longest Palindromic Substring<br>
+[C# | 2021-Feb-18 | two dimension dp | iterate on length from 1 to maximum](https://leetcode.com/problems/longest-palindromic-substring/discuss/1071799/c-2021-feb-18-two-dimension-dp-iterate-on-length-from-1-to-maximum)<br>
+[C# | 2021-Feb-18 | two dimension dp | iterate on length from 1 to maximum](https://leetcode.com/problems/longest-palindromic-substring/discuss/1071799/C-or-2021-Feb-18-or-two-dimension-dp-or-iterate-on-length-from-1-to-maximum)<br>
+973. K Closest Points to Origin<br>
+[C# | 2021-Feb-18 | SortedSet<Tuple<double,int>> | maximum heap with size K](https://leetcode.com/problems/k-closest-points-to-origin/discuss/1071836/c-2021-feb-18-sortedsettupledoubleint-maximum-heap-with-size-k)<br>
+[C# | 2019-Jan-02 | TLE | SortedDictionary](https://leetcode.com/problems/k-closest-points-to-origin/discuss/1071844/C-or-2019-Jan-02-or-TLE-or-SortedDictionary)<br>
+[C# |2019-Jan-02 | TLE | Dictionary<int, HashSet<int>>](https://leetcode.com/problems/k-closest-points-to-origin/discuss/1071853/C-or2019-Jan-02-or-TLE-or-Dictionarylessint-HashSetlessintgreatergreater)<br>
+
+
 
 
 Leetcode premium | Mock onsite interviews<br>
