@@ -115,6 +115,14 @@ Feb. 18, 2021<br>
 1214. Two Sum BSTs<br>
 [C# | 2021-02-18 | preorder traversal | two hashSets](https://leetcode.com/problems/two-sum-bsts/discuss/1072069/C-or-2021-02-18-or-preorder-traversal-or-two-hashSets)<br>
 
+1331. Rank Transform of an Array<br>
+[C# | Sorting | distinct values | 2-18-2021](https://leetcode.com/problems/rank-transform-of-an-array/discuss/1072073/C-or-Sorting-or-distinct-values-or-2-18-2021)<br>
+
+59. Spiral Matrix II<br>
+[C# | 2021-02-18 | direction array | visited array | automatic direction change | clockwise](https://leetcode.com/problems/spiral-matrix-ii/discuss/1071992/C-or-2021-02-18-or-direction-array-or-visited-array-or-automatic-direction-change-or-clockwise)<br>
+
+
+
 Leetcode premium | Mock onsite interviews<br>
 [Google mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-discuss-google-mock-onsite.html)<br>
 [Microsoft mock onsite](http://juliachencoding.blogspot.com/search/label/Microsoft%20mock%20onsite)<br>
