@@ -112,7 +112,8 @@ Feb. 18, 2021<br>
 1022. Sum of Root To Leaf Binary Numbers<br>
 [C# | Mock online assessment | Tree | Recursive | Calculation challenge | 2021-Feb-19](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/1081250/C-or-Mock-online-assessment-or-Tree-or-Recursive-or-Calculation-challenge-or-2021-Feb-19)<br>
 
-
+1214. Two Sum BSTs<br>
+[C# | 2021-02-18 | preorder traversal | two hashSets](https://leetcode.com/problems/two-sum-bsts/discuss/1072069/C-or-2021-02-18-or-preorder-traversal-or-two-hashSets)<br>
 
 Leetcode premium | Mock onsite interviews<br>
 [Google mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-discuss-google-mock-onsite.html)<br>
