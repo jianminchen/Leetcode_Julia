@@ -121,6 +121,8 @@ Feb. 18, 2021<br>
 59. Spiral Matrix II<br>
 [C# | 2021-02-18 | direction array | visited array | automatic direction change | clockwise](https://leetcode.com/problems/spiral-matrix-ii/discuss/1071992/C-or-2021-02-18-or-direction-array-or-visited-array-or-automatic-direction-change-or-clockwise)<br>
 
+994. Rotting Oranges<br>
+[C# | BFS | Starting from rotten orange | 2021-02-18](https://leetcode.com/problems/rotting-oranges/discuss/1071986/C-or-BFS-or-Starting-from-rotten-orange-or-2021-02-18)<br>
 
 
 Leetcode premium | Mock onsite interviews<br>
