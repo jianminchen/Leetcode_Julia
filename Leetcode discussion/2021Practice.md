@@ -109,7 +109,8 @@ Feb. 18, 2021<br>
 1331. Rank Transform of an Array<br>
 [C# | Sorting | distinct values | 2-18-2021](https://leetcode.com/problems/rank-transform-of-an-array/discuss/1072073/c-sorting-distinct-values-2-18-2021)<br>
 
-
+1022. Sum of Root To Leaf Binary Numbers<br>
+[C# | Mock online assessment | Tree | Recursive | Calculation challenge | 2021-Feb-19](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/1081250/C-or-Mock-online-assessment-or-Tree-or-Recursive-or-Calculation-challenge-or-2021-Feb-19)<br>
 
 
 
