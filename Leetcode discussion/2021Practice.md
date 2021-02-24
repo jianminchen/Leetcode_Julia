@@ -96,6 +96,21 @@ Feb. 18, 2021<br>
 [C# |2019-Jan-02 | TLE | Dictionary<int, HashSet<int>>](https://leetcode.com/problems/k-closest-points-to-origin/discuss/1071853/C-or2019-Jan-02-or-TLE-or-Dictionarylessint-HashSetlessintgreatergreater)<br>
 [C# | 2019 | timeout is really a challenging problem to solve](https://leetcode.com/problems/k-closest-points-to-origin/discuss/218029/C-timeout-is-really-a-challenging-problem-to-solve)<br>
 
+Feb. 19, 2021<br>
+1258. Synonymous Sentences<br>
+[C# | mock online assessment | Extra one hour | Union Find | DFS | Copy one line](https://leetcode.com/problems/synonymous-sentences/discuss/1073592/c-mock-online-assessment-extra-one-hour-union-find-dfs-copy-one-line)<br>
+[C# | DFS | Backtracking | Union find | StringComparison.Ordinal | more challenges](https://leetcode.com/problems/synonymous-sentences/discuss/1073566/c-dfs-backtracking-union-find-stringcomparisonordinal-more-challenges)<br>
+1128. Number of Equivalent Domino Pairs<br>
+[C# | Counting sort | Combination subroutine | 2021-Feb-18](https://leetcode.com/problems/number-of-equivalent-domino-pairs/discuss/1073274/c-counting-sort-combination-subroutine-2021-feb-18)<br>
+
+Feb. 18, 2021<br>
+346. Moving Average from Data Stream
+[C# | Queue | actual size not maximum | O(1) to remove first one and add current one](https://leetcode.com/problems/moving-average-from-data-stream/discuss/1072105/c-queue-actual-size-not-maximum-o1-to-remove-first-one-and-add-current-one)<br>
+1331. Rank Transform of an Array<br>
+[C# | Sorting | distinct values | 2-18-2021](https://leetcode.com/problems/rank-transform-of-an-array/discuss/1072073/c-sorting-distinct-values-2-18-2021)<br>
+
+
+
 
 
 Leetcode premium | Mock onsite interviews<br>
