@@ -104,7 +104,7 @@ Feb. 19, 2021<br>
 [C# | Counting sort | Combination subroutine | 2021-Feb-18](https://leetcode.com/problems/number-of-equivalent-domino-pairs/discuss/1073274/c-counting-sort-combination-subroutine-2021-feb-18)<br>
 
 Feb. 18, 2021<br>
-346. Moving Average from Data Stream
+346. Moving Average from Data Stream<br>
 [C# | Queue | actual size not maximum | O(1) to remove first one and add current one](https://leetcode.com/problems/moving-average-from-data-stream/discuss/1072105/c-queue-actual-size-not-maximum-o1-to-remove-first-one-and-add-current-one)<br>
 1331. Rank Transform of an Array<br>
 [C# | Sorting | distinct values | 2-18-2021](https://leetcode.com/problems/rank-transform-of-an-array/discuss/1072073/c-sorting-distinct-values-2-18-2021)<br>
