@@ -96,6 +96,33 @@ Feb. 18, 2021<br>
 [C# |2019-Jan-02 | TLE | Dictionary<int, HashSet<int>>](https://leetcode.com/problems/k-closest-points-to-origin/discuss/1071853/C-or2019-Jan-02-or-TLE-or-Dictionarylessint-HashSetlessintgreatergreater)<br>
 [C# | 2019 | timeout is really a challenging problem to solve](https://leetcode.com/problems/k-closest-points-to-origin/discuss/218029/C-timeout-is-really-a-challenging-problem-to-solve)<br>
 
+Feb. 19, 2021<br>
+1258. Synonymous Sentences<br>
+[C# | mock online assessment | Extra one hour | Union Find | DFS | Copy one line](https://leetcode.com/problems/synonymous-sentences/discuss/1073592/c-mock-online-assessment-extra-one-hour-union-find-dfs-copy-one-line)<br>
+[C# | DFS | Backtracking | Union find | StringComparison.Ordinal | more challenges](https://leetcode.com/problems/synonymous-sentences/discuss/1073566/c-dfs-backtracking-union-find-stringcomparisonordinal-more-challenges)<br>
+1128. Number of Equivalent Domino Pairs<br>
+[C# | Counting sort | Combination subroutine | 2021-Feb-18](https://leetcode.com/problems/number-of-equivalent-domino-pairs/discuss/1073274/c-counting-sort-combination-subroutine-2021-feb-18)<br>
+
+Feb. 18, 2021<br>
+346. Moving Average from Data Stream<br>
+[C# | Queue | actual size not maximum | O(1) to remove first one and add current one](https://leetcode.com/problems/moving-average-from-data-stream/discuss/1072105/c-queue-actual-size-not-maximum-o1-to-remove-first-one-and-add-current-one)<br>
+1331. Rank Transform of an Array<br>
+[C# | Sorting | distinct values | 2-18-2021](https://leetcode.com/problems/rank-transform-of-an-array/discuss/1072073/c-sorting-distinct-values-2-18-2021)<br>
+
+1022. Sum of Root To Leaf Binary Numbers<br>
+[C# | Mock online assessment | Tree | Recursive | Calculation challenge | 2021-Feb-19](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/1081250/C-or-Mock-online-assessment-or-Tree-or-Recursive-or-Calculation-challenge-or-2021-Feb-19)<br>
+
+1214. Two Sum BSTs<br>
+[C# | 2021-02-18 | preorder traversal | two hashSets](https://leetcode.com/problems/two-sum-bsts/discuss/1072069/C-or-2021-02-18-or-preorder-traversal-or-two-hashSets)<br>
+
+1331. Rank Transform of an Array<br>
+[C# | Sorting | distinct values | 2-18-2021](https://leetcode.com/problems/rank-transform-of-an-array/discuss/1072073/C-or-Sorting-or-distinct-values-or-2-18-2021)<br>
+
+59. Spiral Matrix II<br>
+[C# | 2021-02-18 | direction array | visited array | automatic direction change | clockwise](https://leetcode.com/problems/spiral-matrix-ii/discuss/1071992/C-or-2021-02-18-or-direction-array-or-visited-array-or-automatic-direction-change-or-clockwise)<br>
+
+994. Rotting Oranges<br>
+[C# | BFS | Starting from rotten orange | 2021-02-18](https://leetcode.com/problems/rotting-oranges/discuss/1071986/C-or-BFS-or-Starting-from-rotten-orange-or-2021-02-18)<br>
 
 
 Leetcode premium | Mock onsite interviews<br>
@@ -103,5 +130,6 @@ Leetcode premium | Mock onsite interviews<br>
 [Microsoft mock onsite](http://juliachencoding.blogspot.com/search/label/Microsoft%20mock%20onsite)<br>
 [Facebook mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-premium-facebook-onsite.html)<br>
 [Facebook mock online assessment](https://juliachencoding.blogspot.com/2021/01/leetcode-premium-facebook-online.html)<br>
+[Amazon online assessment](http://juliachencoding.blogspot.com/)<br>
 
 
