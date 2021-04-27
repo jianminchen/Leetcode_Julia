@@ -124,6 +124,23 @@ Feb. 18, 2021<br>
 994. Rotting Oranges<br>
 [C# | BFS | Starting from rotten orange | 2021-02-18](https://leetcode.com/problems/rotting-oranges/discuss/1071986/C-or-BFS-or-Starting-from-rotten-orange-or-2021-02-18)<br>
 
+Feb. 24, 2021<br>
+1022. Sum of Root To Leaf Binary Numbers<br>
+[C# | Mock online assessment | Tree | Recursive | Calculation challenge | 2021-Feb-19](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/1081250/c-mock-online-assessment-tree-recursive-calculation-challenge-2021-feb-19)<br>
+
+March 24, 2021<br>
+1192. Critical Connections in a Network<br>hard level<br>
+March 24, 2021<br>
+[C# | First practice | Union Find algorithm | Timeout on 8/12 test case | March 24, 2021](https://leetcode.com/problems/critical-connections-in-a-network/discuss/1126154/c-first-practice-union-find-algorithm-timeout-on-812-test-case-march-24-2021)<br>
+April 14, 2021<br>
+[C# | DFS algorithm | Time complexity O(Edges) | Copy idea and copy C# code | Case study](https://leetcode.com/problems/critical-connections-in-a-network/discuss/1158972/c-dfs-algorithm-time-complexity-oedges-copy-idea-and-copy-c-code-case-study)<br>
+
+April 15, 2021<br>
+1176. Diet Plan Performance<br>
+[C# | dynamic programming | Amazon online assessment | April 15, 2021](https://leetcode.com/problems/diet-plan-performance/discuss/1160565/c-dynamic-programming-amazon-online-assessment-april-15-2021)<br>
+
+572. Subtree of Another Tree<br>Easy level<br>
+[C# | recursive function | isSameTree subroutine | April 15, 2021](https://leetcode.com/problems/subtree-of-another-tree/discuss/1160566/c-recursive-function-issametree-subroutine-april-15-2021)<br>
 
 Leetcode premium | Mock onsite interviews<br>
 [Google mock onsite](https://juliachencoding.blogspot.com/2021/01/leetcode-discuss-google-mock-onsite.html)<br>
