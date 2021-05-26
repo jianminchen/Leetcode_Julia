@@ -162,5 +162,6 @@ May 26, 2021<br>
 1368. Minimum Cost to Make at Least One Valid Path in a Grid<br>
 [C# | Using deque | BFS | C# LinkedList | May 26, 2021](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/1232839/c-using-deque-bfs-c-linkedlist-may-26-2021)<br>
   
-  
+727. Minimum Window Subsequence<br>
+[C# | Case study of DP problem | DP | Nov. 10, 2020 | First practice](https://leetcode.com/problems/minimum-window-subsequence/discuss/1233030/C-or-My-preparation-or-DP-or-Nov.-10-2020-or-First-practice)<br>
 
