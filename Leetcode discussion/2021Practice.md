@@ -149,4 +149,18 @@ Leetcode premium | Mock onsite interviews<br>
 [Facebook mock online assessment](https://juliachencoding.blogspot.com/2021/01/leetcode-premium-facebook-online.html)<br>
 [Amazon online assessment](http://juliachencoding.blogspot.com/)<br>
 
+April 29, 2021<br>
+124. Binary Tree Maximum Path Sum<br>
+[C# | optimal time complexity O(N) | post order traversal | bottom up | April 29, 2021](
+https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/1183358/c-optimal-time-complexity-on-post-order-traversal-bottom-up-april-29-2021)<br>
+
+May 12, 2021<br>
+124. Binary Tree Maximum Path Sum<br>
+[C# | Post order traversal | optimal time and space complexity | May 12, 2021](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/1205167/c-post-order-traversal-optimal-time-and-space-complexity-may-12-2021)<br>
+
+May 26, 2021<br>
+1368. Minimum Cost to Make at Least One Valid Path in a Grid<br>
+[C# | Using deque | BFS | C# LinkedList | May 26, 2021](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/1232839/c-using-deque-bfs-c-linkedlist-may-26-2021)<br>
+  
+  
 
