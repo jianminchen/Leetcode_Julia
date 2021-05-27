@@ -167,6 +167,7 @@ May 26, 2021<br>
 
 May 27, 2021<br>
 1368. Minimum Cost to Make at Least One Valid Path in a Grid<br>
+[C# | common mistakes | Warmup practice | 11 years C# experience | three weeks break](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/1233295/c-common-mistakes-warmup-practice-11-years-c-experience-three-weeks-break)<br>
 [C# | Deque | BFS | Quick warmup - 20 minutes | May 26, 2021](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/1233557/c-deque-bfs-quick-warmup-20-minutes-may-26-2021)<br>
 [C# | Deque | First visit is not minimum | Failed test case study | pruning idea failed](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/1234919/c-deque-first-visit-is-not-minimum-failed-test-case-study-pruning-idea-failed)<br>
 [C# | Deque | Pruning idea works | Learn from failed test case](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/1234950/C-or-Deque-or-Pruning-idea-works-or-Learn-from-failed-test-case)<br>
