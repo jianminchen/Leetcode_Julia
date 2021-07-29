@@ -173,6 +173,22 @@ May 27, 2021<br>
 [C# | Deque | Pruning idea works | Learn from failed test case](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/1234950/C-or-Deque-or-Pruning-idea-works-or-Learn-from-failed-test-case)<br>
 May 28, 2021<br>
 [C# | Deque | Pruning idea works | Check head node of deque | BFS](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/discuss/1236846/C-or-Deque-or-Pruning-idea-works-or-Check-head-node-of-deque-or-BFS)<br>
+
+1631. Path With Minimum Effort<br>
+[C# | Minimum heap | SortedSet | Study SortedSet Remove API | warmup practice](https://leetcode.com/problems/path-with-minimum-effort/discuss/1237217/c-minimum-heap-sortedset-study-sortedset-remove-api-warmup-practice)<br>
+
+552. Student Attendance Record II<br>
+[Hard level algorithm | DP solution warmup | States definition | Top down](https://leetcode.com/problems/student-attendance-record-ii/discuss/1327733/hard-level-algorithm-dp-solution-warmup-states-definition-top-down)<br>
+
+552. Student Attendance Record II<br>
+[C# | Hard level DP problem | Three states | Top down](https://leetcode.com/problems/student-attendance-record-ii/discuss/1329614/c-hard-level-dp-problem-three-states-top-down)<br>
+
+737. Sentence Similarity II<br>
+[C# | Graph using adjacent list | DFS | Warmup](https://leetcode.com/problems/sentence-similarity-ii/discuss/1329853/c-graph-using-adjacent-list-dfs-warmup)<br>
+
+124. Binary Tree Maximum Path Sum<br>
+[C# | Post order traversal | Bottom up | One visit each node | Optimal time and space](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/1330342/c-post-order-traversal-bottom-up-one-visit-each-node-optimal-time-and-space)<br>
+  
   
 
   
