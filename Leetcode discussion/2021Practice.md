@@ -189,6 +189,9 @@ July 10, 2021<br>
 124. Binary Tree Maximum Path Sum<br>
   [C# | Post order traversal | Bottom up | One visit each node | Optimal time and space](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/1330342/c-post-order-traversal-bottom-up-one-visit-each-node-optimal-time-and-space)<br>
   
+Sept. 8, 2021<br>
+759. Employee Free Time<br>  
+[C# | List<Tuple<int, int,int> | Sort once vs SortedSet | Optimal time complexity O(NlogN)](https://leetcode.com/problems/employee-free-time/discuss/1452686/C-or-ListlessTuplelessint-intintgreater-or-Sort-once-vs-SortedSet-or-Optimal-time-complexity-O(NlogN))<br>
   
 
   
