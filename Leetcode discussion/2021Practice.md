@@ -189,9 +189,26 @@ July 10, 2021<br>
 124. Binary Tree Maximum Path Sum<br>
   [C# | Post order traversal | Bottom up | One visit each node | Optimal time and space](https://leetcode.com/problems/binary-tree-maximum-path-sum/discuss/1330342/c-post-order-traversal-bottom-up-one-visit-each-node-optimal-time-and-space)<br>
   
+Aug. 30, 2021<br>
+1176. Diet Plan Performance<br>
+[C# | O(N) time complexity | DP solution](https://leetcode.com/problems/diet-plan-performance/discuss/1437521/c-on-time-complexity-dp-solution)<br>
+
+Aug. 31, 2021<br>
+572. Subtree of Another Tree<br>
+[C# | Define two binary trees are the same | Avoid null pointer exception](https://leetcode.com/problems/subtree-of-another-tree/discuss/1437533/c-define-two-binary-trees-are-the-same-avoid-null-pointer-exception)<br>  
+  
+239. Sliding Window Maximum<br>
+[C# | Deque | LinkedList class | LinkedListNode class | Descending order | Aug 2021](https://leetcode.com/problems/sliding-window-maximum/discuss/1437624/c-deque-linkedlist-class-linkedlistnode-class-descending-order-aug-2021)<br>
+  
 Sept. 8, 2021<br>
 759. Employee Free Time<br>
 [C# | List<Tuple<int, int,int> | Sort once vs SortedSet | Optimal time complexity O(NlogN)](https://leetcode.com/problems/employee-free-time/discuss/1452686/C-or-ListlessTuplelessint-intintgreater-or-Sort-once-vs-SortedSet-or-Optimal-time-complexity-O(NlogN))<br>
+[C# | List<Tuple<int, int,int> | Sort once | avoid using SortedSet | Optimal time complexity O(NlogN)](https://leetcode.com/problems/employee-free-time/discuss/1452686/c-listtupleint-intint-sort-once-avoid-using-sortedset-optimal-time-complexity-onlogn)<br>
+  
+Sept. 23, 2021<br>
+127. Word Ladder<br>
+[C# | BFS | Deadloop - TLE concern | Warmup before onsite](https://leetcode.com/problems/word-ladder/discuss/1481554/c-bfs-deadloop-tle-concern-warmup-before-onsite)<br>
+  
   
 
   
