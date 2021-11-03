@@ -208,6 +208,10 @@ Sept. 8, 2021<br>
 Sept. 23, 2021<br>
 127. Word Ladder<br>
 [C# | BFS | Deadloop - TLE concern | Warmup before onsite](https://leetcode.com/problems/word-ladder/discuss/1481554/c-bfs-deadloop-tle-concern-warmup-before-onsite)<br>
+
+Nov. 2, 2021<br>  
+37. Sudoku Solver<br>
+[C# | DFS algorithm | 2018 practice | Warmup](https://leetcode.com/problems/sudoku-solver/discuss/1554120/C-or-DFS-algorithm-or-2018-practice-or-Warmup)<br>
   
   
 
