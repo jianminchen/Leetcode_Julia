@@ -213,6 +213,8 @@ Nov. 2, 2021<br>
 37. Sudoku Solver<br>
 [C# | DFS algorithm | 2018 practice | Warmup](https://leetcode.com/problems/sudoku-solver/discuss/1554120/C-or-DFS-algorithm-or-2018-practice-or-Warmup)<br>
   
+[C# | Depth first search | DFS with Backtracking - space efficiency | Warmup practice in 2021](https://leetcode.com/problems/sudoku-solver/discuss/1557693/C-or-Depth-first-search-or-DFS-with-Backtracking-or-Warmup-practice-in-2021)<br>
+  
   
 
   
