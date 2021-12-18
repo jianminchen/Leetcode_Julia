@@ -216,6 +216,10 @@ Nov. 3, 2021<br>
 37. Sudoku Solver<br>
 [C# | Depth first search | DFS with Backtracking - space efficiency | Warmup practice in 2021](https://leetcode.com/problems/sudoku-solver/discuss/1557693/C-or-Depth-first-search-or-DFS-with-Backtracking-or-Warmup-practice-in-2021)<br>
   
+347. Top K Frequent Elements<br>
+[C# | Time complexity - not optimal, O(nlogn) | My practice in July 23, 2017](https://leetcode.com/problems/top-k-frequent-elements/discuss/1633298/C-or-Time-complexity-not-optimal-O(nlogn)-or-My-practice-in-July-23-2017)<br>
+Dec. 17, 2021<br>
+[C# | SortedSet Simulated minimum heap | Optimal time complexity O(N + klogk) | 2021 Dec. 17](https://leetcode.com/problems/top-k-frequent-elements/discuss/1633323/C-or-SortedSet-Simulated-minimum-heap-or-Optimal-time-complexity-or-2021-Dec.-17)<br>
   
 
   
