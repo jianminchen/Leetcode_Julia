@@ -15,6 +15,9 @@ I came back to work on algorithm since I had to prepare for Microsoft Vancouver 
 151. Reverse Words in a String<br>
 [C# | Warmup for onsite | Define start and end char in a word | 2022 Jan 19](
 https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703105/C-or-Warmup-for-onsite-or-Define-start-and-end-char-in-a-word-or-2022-Jan-19)<br>
+[C# | Define start and end index of a word | C# StringBuilder Insert API | Insert the word right away](
+https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703214/C-or-Define-start-and-end-index-of-a-word-or-C-StringBuilder-Insert-API-or-Insert-the-word-right-away)<br>
+
 
 
 
