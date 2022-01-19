@@ -11,3 +11,10 @@ I came back to work on algorithm since I had to prepare for Microsoft Vancouver 
 
 1647. Minimum Deletions to Make Character Frequencies Unique<br>
 [C# | Copy the idea and warm up | Keep it simple using one hashset and one array | Jan 16 2022](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/discuss/1696375/c-copy-the-idea-and-warm-up-keep-it-simple-using-one-hashset-and-one-array-jan-16-2022)<br>
+
+151. Reverse Words in a String<br>
+[C# | Warmup for onsite | Define start and end char in a word | 2022 Jan 19](
+https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703105/C-or-Warmup-for-onsite-or-Define-start-and-end-char-in-a-word-or-2022-Jan-19)<br>
+
+
+
