@@ -19,5 +19,11 @@ https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703105/C-or-War
 https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703214/C-or-Define-start-and-end-index-of-a-word-or-C-StringBuilder-Insert-API-or-Insert-the-word-right-away)<br>
 
 
+210. Course Schedule II<br>
+[C# | DFS algorithm | Study Leetcode discuss C# code | Jan. 26, 2022](https://leetcode.com/problems/course-schedule-ii/discuss/1722486/C-or-DFS-algorithm-or-Study-Leetcode-discuss-C-code-or-Jan.-26-2022)<br>
+[C# | DFS solution | Java code -> C# code | Jan. 26, 2022](https://leetcode.com/problems/course-schedule-ii/discuss/1722470/C-or-DFS-solution-or-Java-code-greater-C-code-or-Jan.-26-2022)<br>
+
+
+
 
 
