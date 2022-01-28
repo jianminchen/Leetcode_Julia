@@ -28,5 +28,9 @@ https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703214/C-or-Def
 692. Top K Frequent Words<br>
 [C# | Warmup practice | Sort once | Using simple data structure](https://leetcode.com/problems/top-k-frequent-words/discuss/1725055/C-or-Warmup-practice-or-Sort-once-or-Using-simple-data-structure)<br>
 
+636. Exclusive Time of Functions<br>
+[C# | Opportunistic learning | Study C# code](https://leetcode.com/problems/exclusive-time-of-functions/discuss/1727236/C-or-Opportunistic-learning-or-Study-C-code)<br>
+
+
 
 
