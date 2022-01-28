@@ -30,6 +30,7 @@ https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703214/C-or-Def
 
 636. Exclusive Time of Functions<br>
 [C# | Opportunistic learning | Study C# code](https://leetcode.com/problems/exclusive-time-of-functions/discuss/1727236/C-or-Opportunistic-learning-or-Study-C-code)<br>
+[C# | Lessons learned | My failed practice 54/120 test cases in 2020](https://leetcode.com/problems/exclusive-time-of-functions/discuss/1727261/C-or-Lessons-learned-or-My-failed-practice-54120-test-cases-in-2020)<br>
 
 
 
