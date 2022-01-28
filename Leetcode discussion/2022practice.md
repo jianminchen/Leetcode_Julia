@@ -25,5 +25,8 @@ https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703214/C-or-Def
 874. Walking Robot Simulation<br>
 [C# | Warmup algorithm and short review | 2018 Oct. 14](https://leetcode.com/problems/walking-robot-simulation/discuss/1724986/C-or-DFS-or-BFS-search-practice-or-2018-Oct.-14)<br>
 
+692. Top K Frequent Words<br>
+[C# | Warmup practice | Sort once | Using simple data structure](https://leetcode.com/problems/top-k-frequent-words/discuss/1725055/C-or-Warmup-practice-or-Sort-once-or-Using-simple-data-structure)<br>
+
 
 
