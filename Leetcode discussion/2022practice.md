@@ -32,6 +32,7 @@ https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703214/C-or-Def
 [C# | Opportunistic learning | Study C# code](https://leetcode.com/problems/exclusive-time-of-functions/discuss/1727236/C-or-Opportunistic-learning-or-Study-C-code)<br>
 [C# | Lessons learned | My failed practice 54/120 test cases in 2020](https://leetcode.com/problems/exclusive-time-of-functions/discuss/1727261/C-or-Lessons-learned-or-My-failed-practice-54120-test-cases-in-2020)<br>
 
-
+263. Ugly Number<br>
+[C# | Practice in Sept. 14, 2018](https://leetcode.com/problems/ugly-number/discuss/1727352/C-or-Practice-in-Sept.-14-2018)<br>
 
 
