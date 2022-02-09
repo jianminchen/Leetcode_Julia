@@ -41,5 +41,5 @@ Feb. 8, 2022
 [C# | Greedy on char with largest count only | Longest is not easy](https://leetcode.com/problems/longest-happy-string/discuss/1756757/C-or-Greedy-on-char-with-largest-count-only-or-Longest-is-not-easy)<br>
 
 545. Boundary of Binary Tree<br>
-546. [C# | Definition of left boundary | Reasoning behind | Feb. 2022](https://leetcode.com/problems/boundary-of-binary-tree/discuss/1757157/C-or-Definition-of-left-boundary-or-Reasoning-behind-or-Feb.-2022)<br>
+[C# | Definition of left boundary | Reasoning behind | Feb. 2022](https://leetcode.com/problems/boundary-of-binary-tree/discuss/1757157/C-or-Definition-of-left-boundary-or-Reasoning-behind-or-Feb.-2022)<br>
 
