@@ -35,4 +35,8 @@ https://leetcode.com/problems/reverse-words-in-a-string/discuss/1703214/C-or-Def
 263. Ugly Number<br>
 [C# | Practice in Sept. 14, 2018](https://leetcode.com/problems/ugly-number/discuss/1727352/C-or-Practice-in-Sept.-14-2018)<br>
 
+Feb. 8, 2022
+1405. Longest Happy String<br>
+[C# | Failed test case 24/35 | Think more carefully in design](https://leetcode.com/problems/longest-happy-string/discuss/1756726/C-or-Failed-test-case-2435-or-Think-more-carefully-in-design)<br>
+[C# | Greedy on char with largest count only | Longest is not easy](https://leetcode.com/problems/longest-happy-string/discuss/1756757/C-or-Greedy-on-char-with-largest-count-only-or-Longest-is-not-easy)<br>
 
