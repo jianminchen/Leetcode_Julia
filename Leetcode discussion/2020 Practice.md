@@ -787,5 +787,8 @@ Dec. 30, 2020<br>
 I could not get offer from Google and Facebook in 2020. I like to write down some notes to share with others. It feels much better since I have more experience to share. Hard work makes my life much better in 2020. <br>
 [Leetcode 600 questions beyond - strategies and tips](https://leetcode.com/discuss/general-discussion/994399/Leetcode-600-questions-beyond-strategies-and-tips)<br>
 
+Nov. 21, 2020<br>
+<br>279. Perfect Squares<br>
+[First practice - C# - dynamic programming - Greedy not working](https://leetcode.com/problems/perfect-squares/discuss/944151/First-practice-C-dynamic-programming-Greedy-not-working)<br>
 
 
