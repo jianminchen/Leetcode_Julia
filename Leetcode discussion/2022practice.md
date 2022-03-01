@@ -46,4 +46,12 @@ Feb. 8, 2022
 <br>827. Making A Large Island<br>
 [C# | Map each island using integer | Hashmap | DFS | Failed a few times](https://leetcode.com/problems/making-a-large-island/discuss/1759190/C-or-Map-each-island-using-integer-or-Hashmap-or-DFS-or-Failed-a-few-times)<br> 
 
+<br>424. Longest Repeating Character Replacement<br>
+[C# | Sliding window technique | mock interview](
+https://leetcode.com/problems/longest-repeating-character-replacement/discuss/1807944/C-or-Sliding-window-technique-or-mock-interview)
+
+<br>98. Validate Binary Search Tree<br>
+[C# | Mock interview practice | Interviewer with MSFT, Amazon, Oracle, Meta | 2022 Feb. 23](
+https://leetcode.com/problems/validate-binary-search-tree/discuss/1797005/C-or-Mock-interview-practice-or-Interviewer-with-MSFT-Amazon-Oracle-Meta-or-2022-Feb.-23)<br>
+
 
