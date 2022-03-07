@@ -54,4 +54,23 @@ https://leetcode.com/problems/longest-repeating-character-replacement/discuss/18
 [C# | Mock interview practice | Interviewer with MSFT, Amazon, Oracle, Meta | 2022 Feb. 23](
 https://leetcode.com/problems/validate-binary-search-tree/discuss/1797005/C-or-Mock-interview-practice-or-Interviewer-with-MSFT-Amazon-Oracle-Meta-or-2022-Feb.-23)<br>
 
+March 6, 2022<br>
+<br>408. Valid Word Abbreviation
+[C# | learn from failed test cases](
+https://leetcode.com/problems/valid-word-abbreviation/discuss/1827571/C-or-learn-from-failed-test-cases)<br>
+
+
+<br>1650. Lowest Common Ancestor of a Binary Tree III
+<br>[C# | Space complexity O(1)](
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/discuss/1827401/C-or-Space-complexity-O(1))
+
+<br>1762. Buildings With an Ocean View
+<br>[C# | Using stack](
+https://leetcode.com/problems/buildings-with-an-ocean-view/discuss/1827290/C-or-Using-stack)
+
+<br>314. Binary Tree Vertical Order Traversal
+[C# | Preorder traversal | Record total count, horizontal, level in the tree](
+https://leetcode.com/problems/binary-tree-vertical-order-traversal/discuss/1827214/C-or-Preorder-traversal-or-Record-total-count-horizontal-level-in-the-tree)
+
+
 
