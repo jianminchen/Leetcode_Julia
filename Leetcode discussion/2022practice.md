@@ -81,4 +81,6 @@ https://leetcode.com/problems/diagonal-traverse/discuss/1829329/C-or-Auto-direct
 [C# | Binary search algorithm](
 https://leetcode.com/problems/find-peak-element/discuss/1829471/C-or-Binary-search-algorithm)<br>
 
-
+<br>523. Continuous Subarray Sum<br>
+[C# | Learn from failed test cases](
+https://leetcode.com/problems/continuous-subarray-sum/discuss/1829612/C-or-Learn-from-failed-test-cases)<br>
