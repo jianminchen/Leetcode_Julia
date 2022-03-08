@@ -60,17 +60,24 @@ March 6, 2022<br>
 https://leetcode.com/problems/valid-word-abbreviation/discuss/1827571/C-or-learn-from-failed-test-cases)<br>
 
 
-<br>1650. Lowest Common Ancestor of a Binary Tree III
+<br>1650. Lowest Common Ancestor of a Binary Tree III<br>
 <br>[C# | Space complexity O(1)](
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/discuss/1827401/C-or-Space-complexity-O(1))
 
-<br>1762. Buildings With an Ocean View
+<br>1762. Buildings With an Ocean View<br>
 <br>[C# | Using stack](
 https://leetcode.com/problems/buildings-with-an-ocean-view/discuss/1827290/C-or-Using-stack)
 
-<br>314. Binary Tree Vertical Order Traversal
-[C# | Preorder traversal | Record total count, horizontal, level in the tree](
+<br>314. Binary Tree Vertical Order Traversal<br>
+<br>[C# | Preorder traversal | Record total count, horizontal, level in the tree](
 https://leetcode.com/problems/binary-tree-vertical-order-traversal/discuss/1827214/C-or-Preorder-traversal-or-Record-total-count-horizontal-level-in-the-tree)
 
+<br>498. Diagonal Traverse<br>
+[C# | Automatically direction change](
+https://leetcode.com/problems/diagonal-traverse/discuss/1829329/C-or-Auto-direction-change)<br>
+
+<br>162. Find Peak Element<br>
+[C# | Binary search algorithm](
+https://leetcode.com/problems/find-peak-element/discuss/1829471/C-or-Binary-search-algorithm)<br>
 
 
