@@ -55,21 +55,21 @@ https://leetcode.com/problems/longest-repeating-character-replacement/discuss/18
 https://leetcode.com/problems/validate-binary-search-tree/discuss/1797005/C-or-Mock-interview-practice-or-Interviewer-with-MSFT-Amazon-Oracle-Meta-or-2022-Feb.-23)<br>
 
 March 6, 2022<br>
-<br>408. Valid Word Abbreviation
+<br>408. Valid Word Abbreviation<br>
 [C# | learn from failed test cases](
 https://leetcode.com/problems/valid-word-abbreviation/discuss/1827571/C-or-learn-from-failed-test-cases)<br>
 
 
 <br>1650. Lowest Common Ancestor of a Binary Tree III<br>
-<br>[C# | Space complexity O(1)](
+[C# | Space complexity O(1)](
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/discuss/1827401/C-or-Space-complexity-O(1))
 
 <br>1762. Buildings With an Ocean View<br>
-<br>[C# | Using stack](
+[C# | Using stack](
 https://leetcode.com/problems/buildings-with-an-ocean-view/discuss/1827290/C-or-Using-stack)
 
 <br>314. Binary Tree Vertical Order Traversal<br>
-<br>[C# | Preorder traversal | Record total count, horizontal, level in the tree](
+[C# | Preorder traversal | Record total count, horizontal, level in the tree](
 https://leetcode.com/problems/binary-tree-vertical-order-traversal/discuss/1827214/C-or-Preorder-traversal-or-Record-total-count-horizontal-level-in-the-tree)
 
 <br>498. Diagonal Traverse<br>
