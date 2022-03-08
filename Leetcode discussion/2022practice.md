@@ -72,6 +72,7 @@ https://leetcode.com/problems/buildings-with-an-ocean-view/discuss/1827290/C-or-
 [C# | Preorder traversal | Record total count, horizontal, level in the tree](
 https://leetcode.com/problems/binary-tree-vertical-order-traversal/discuss/1827214/C-or-Preorder-traversal-or-Record-total-count-horizontal-level-in-the-tree)
 
+March 7, 2022
 <br>498. Diagonal Traverse<br>
 [C# | Automatically direction change](
 https://leetcode.com/problems/diagonal-traverse/discuss/1829329/C-or-Auto-direction-change)<br>
