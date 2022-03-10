@@ -84,3 +84,17 @@ https://leetcode.com/problems/find-peak-element/discuss/1829471/C-or-Binary-sear
 <br>523. Continuous Subarray Sum<br>
 [C# | Learn from failed test cases](
 https://leetcode.com/problems/continuous-subarray-sum/discuss/1829612/C-or-Learn-from-failed-test-cases)<br>
+
+Algorithm to plan to work on<br>
+I chose to work on Leetcode with tag Facebook, last six month most frequent algorithms.<br>
+
+Algorithm 314, 1762, 1570, 1650, 528, 408, 339, 71, 31, 670;<br>
+10 more: 498, 162, 523, 282, 1891, 1011, 708, 1382, 1539, 2060;<br>
+10 more: 266, 286, 1868, 1216, 348, 778, 536, 270, 1428, 825;<br>
+10 more: 269, 658, 16, 2056, 43, 1060, 380, 1344, 1522, 1944;<br>
+10 more: 1644, 2076, 689, 1424, 983, 224, 298, 742, 767, 333;<br>
+10 more: 2019, 2033, 238, 1541, 1209, 2071, 296, 1244, 2065, 2081;<br>
+10 more: 406, 271, 1498, 735, 163, 1245, 1559, 247, 2025, 1197;<br>
+723, 2092, 62, 540, 1985   <br> 
+work hard | Hard work beats talent <br>
+Do not think too much. Just work on more algorithms. Solve as many algorithms as I can. Once I solve another 20 algorithms, stop and review what I have learned, and then continue to solve another 20 algorithms. <br>
