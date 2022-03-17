@@ -125,6 +125,11 @@ https://leetcode.com/problems/3sum/discuss/1858810/C-or-Warmup-in-2022-or-Using-
 https://leetcode.com/problems/3sum/discuss/1858881/C-or-Time-complexity-O(N2)-or-Remove-duplicate-by-sorting-no-use-of-HashSetlessstringgreater)<br>
 [C# | Time complexity O(N^2) | Use HashSet<int>](https://leetcode.com/problems/3sum/discuss/1858951/C-or-Time-complexity-O(N2)-or-Use-HashSetlessintgreater)
 
+  
+
+<br>18. 4Sum<br>
+[C# | Sorting, sliding window, skip duplicate | Time: O(N^3)](
+https://leetcode.com/problems/4sum/discuss/1859179/C-or-Sorting-sliding-window-skip-duplicate-or-Time%3A-O(N3))<br>
 
 
 
