@@ -106,7 +106,7 @@ Do not think too much. Just work on more algorithms. Solve as many algorithms as
 https://leetcode.com/problems/combination-sum/discuss/1857153/C-or-Warmup-practice-or-DFS-or-Backtracking-or-2022)<br>
 
 <br>128. Longest Consecutive Sequence<br>
-[C# | Time complexity: O(N), N is the length of the array](
+[C# | Time complexity: O(N) | Python code converted to C#](
 https://leetcode.com/problems/longest-consecutive-sequence/discuss/1856846/C-or-Time-complexity%3A-O(N)-N-is-the-length-of-the-array)<br>
 
 [C# | Time complexity: O(N), N is length of the array](
