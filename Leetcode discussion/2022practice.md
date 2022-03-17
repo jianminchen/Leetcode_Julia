@@ -115,6 +115,15 @@ https://leetcode.com/problems/longest-consecutive-sequence/discuss/1856746/C-or-
 Leetcode 78 subsets, 90 Subset II, 77 combinations, 40 Combinations Sum II, 377 Combination Sum IV
 Plan to type those python code from Li Yin's book, and then convert those code into C# code. <br>
 
+<br>15. 3Sum<br>
+[C# | Time complexity: O(N^2) | Review code written in 2016](
+https://leetcode.com/problems/3sum/discuss/1858772/C-or-Time-complexity%3A-O(N2)-or-Review-code-written-in-2016)<br>
+[C# | Warmup in 2022 | Using HashSet<string> to remove duplicate](
+https://leetcode.com/problems/3sum/discuss/1858810/C-or-Warmup-in-2022-or-Using-HashSetlessstringgreater-to-remove-duplicate)<br>
+
+[C# | Time complexity O(N^2) | Remove duplicate by sorting, no use of HashSet<string>](
+https://leetcode.com/problems/3sum/discuss/1858881/C-or-Time-complexity-O(N2)-or-Remove-duplicate-by-sorting-no-use-of-HashSetlessstringgreater)<br>
+
 
 
 
