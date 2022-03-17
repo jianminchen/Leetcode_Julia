@@ -99,3 +99,18 @@ Algorithm 314, 1762, 1570, 1650, 528, 408, 339, 71, 31, 670;<br>
 723, 2092, 62, 540, 1985   <br> 
 work hard | Hard work beats talent <br>
 Do not think too much. Just work on more algorithms. Solve as many algorithms as I can. Once I solve another 20 algorithms, stop and review what I have learned, and then continue to solve another 20 algorithms. <br>
+
+
+<br>39. Combination Sum<br>
+[C# | Warmup practice | DFS | Backtracking | 2022](
+https://leetcode.com/problems/combination-sum/discuss/1857153/C-or-Warmup-practice-or-DFS-or-Backtracking-or-2022)<br>
+
+<br>128. Longest Consecutive Sequence<br>
+[C# | Time complexity: O(N), N is the length of the array](
+https://leetcode.com/problems/longest-consecutive-sequence/discuss/1856846/C-or-Time-complexity%3A-O(N)-N-is-the-length-of-the-array)<br>
+
+[C# | Time complexity: O(N), N is length of the array](
+https://leetcode.com/problems/longest-consecutive-sequence/discuss/1856746/C-or-Time-complexity%3A-O(N)-N-is-length-of-the-array)<br>
+
+
+
