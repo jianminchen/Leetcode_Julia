@@ -123,6 +123,7 @@ https://leetcode.com/problems/3sum/discuss/1858772/C-or-Time-complexity%3A-O(N2)
 https://leetcode.com/problems/3sum/discuss/1858810/C-or-Warmup-in-2022-or-Using-HashSetlessstringgreater-to-remove-duplicate)<br>
 [C# | Time complexity O(N^2) | Remove duplicate by sorting, no use of HashSet<string>](
 https://leetcode.com/problems/3sum/discuss/1858881/C-or-Time-complexity-O(N2)-or-Remove-duplicate-by-sorting-no-use-of-HashSetlessstringgreater)<br>
+[C# | Time complexity O(N^2) | Use HashSet<int>](https://leetcode.com/problems/3sum/discuss/1858951/C-or-Time-complexity-O(N2)-or-Use-HashSetlessintgreater)
 
 
 
