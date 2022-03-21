@@ -135,3 +135,14 @@ https://leetcode.com/problems/4sum/discuss/1859179/C-or-Sorting-sliding-window-s
 [C# | Optimal time complexity: O(N^2), not O(N^3)](
 https://leetcode.com/problems/4sum-ii/discuss/1859238/C-or-Optimal-time-complexity%3A-O(N2)-not-O(N3))
 
+March 21, 2022
+<br>2096. Step-By-Step Directions From a Binary Tree Node to Another<br>
+[C# | Preorder | TLE error 287/332](
+https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/discuss/1870919/C-or-Preorder-or-TLE-error-287332)<br>
+
+The above practice shows that I have weakness in terms of design recursive function, use post order traversal or preorder, TLE issue. 
+
+<br>[C# | Post order | Study discuss post | Solve TLE problem}(
+https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/discuss/1870978/C-or-Post-order-or-Study-discuss-post-or-Solve-TLE-problem)<br>
+[C# | Post order traversal | Solve TLE problem](
+https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/discuss/1871072/C-or-Post-order-traversal-or-Solve-TLE-problem)<br>
