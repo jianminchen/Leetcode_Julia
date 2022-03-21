@@ -124,9 +124,7 @@ https://leetcode.com/problems/3sum/discuss/1858810/C-or-Warmup-in-2022-or-Using-
 [C# | Time complexity O(N^2) | Remove duplicate by sorting, no use of HashSet<string>](
 https://leetcode.com/problems/3sum/discuss/1858881/C-or-Time-complexity-O(N2)-or-Remove-duplicate-by-sorting-no-use-of-HashSetlessstringgreater)<br>
 [C# | Time complexity O(N^2) | Use HashSet<int>](https://leetcode.com/problems/3sum/discuss/1858951/C-or-Time-complexity-O(N2)-or-Use-HashSetlessintgreater)
-
-  
-
+ 
 <br>18. 4Sum<br>
 [C# | Sorting, sliding window, skip duplicate | Time: O(N^3)](
 https://leetcode.com/problems/4sum/discuss/1859179/C-or-Sorting-sliding-window-skip-duplicate-or-Time%3A-O(N3))<br>
@@ -146,3 +144,8 @@ The above practice shows that I have weakness in terms of design recursive funct
 https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/discuss/1870978/C-or-Post-order-or-Study-discuss-post-or-Solve-TLE-problem)<br>
 [C# | Post order traversal | Solve TLE problem](
 https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/discuss/1871072/C-or-Post-order-traversal-or-Solve-TLE-problem)<br>
+  
+I practice near 10 algorithms last weekend, and I chose to study discussion post written by votrubac top-voted discuss posts. <br>
+I found so many issues and learned how to solve a few more algorithms related to DP, tree and graph problems. 
+  
+  
