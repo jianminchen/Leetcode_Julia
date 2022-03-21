@@ -142,7 +142,7 @@ https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to
 
 The above practice shows that I have weakness in terms of design recursive function, use post order traversal or preorder, TLE issue. 
 
-<br>[C# | Post order | Study discuss post | Solve TLE problem}(
+<br>[C# | Post order | Study discuss post | Solve TLE problem](
 https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/discuss/1870978/C-or-Post-order-or-Study-discuss-post-or-Solve-TLE-problem)<br>
 [C# | Post order traversal | Solve TLE problem](
 https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/discuss/1871072/C-or-Post-order-traversal-or-Solve-TLE-problem)<br>
