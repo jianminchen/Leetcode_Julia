@@ -148,4 +148,47 @@ https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to
 I practice near 10 algorithms last weekend, and I chose to study discussion post written by votrubac top-voted discuss posts. <br>
 I found so many issues and learned how to solve a few more algorithms related to DP, tree and graph problems. 
   
+March 21, 2022<br>
+
+<br>1162. As Far from Land as Possible<br>
+[C# | BFS | All land nodes into Queue | Search together](
+https://leetcode.com/problems/as-far-from-land-as-possible/discuss/1871274/C-or-BFS-or-All-land-nodes-into-Queue-or-Search-together)<br>
+
+<br>1553. Minimum Number of Days to Eat N Oranges<br>
+
+[C# | Understand the subproblems](
+https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/discuss/1870699/C-or-Understand-the-subproblems)<br>
+
+<br>992. Subarrays with K Different Integers<br>
+[C# | At most K | Two subproblems -> difference]
+(https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/1869119/C-or-At-most-K-or-Two-subproblems-greater-difference)<br>
+
+<br>934. Shortest Bridge<br>
+[C# | Apply DFS to visit all nodes in each island | Brute force two nodes' distance](
+https://leetcode.com/problems/shortest-bridge/discuss/1868995/C-or-Apply-DFS-to-visit-all-nodes-in-each-island-or-Brute-force-two-nodes'-distance)<br>
+
+<br>1249. Minimum Remove to Make Valid Parentheses<br>
+[C# | Using stack | * to replace unmatched parentheses](
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/discuss/1868813/C-or-Using-stack-or-*-to-replace-unmatched-parentheses)<br>
+
+<br>1092. Shortest Common Supersequence<br>
+[C# | LCS DP solution first | Learn C# code](
+https://leetcode.com/problems/shortest-common-supersequence/discuss/1868581/C-or-LCS-DP-solution-first-or-Learn-C-code)<br>
+
+<br>1062. Longest Repeating Substring<br>
+[C# | DP solution | Time complexity: O(N^2)](
+https://leetcode.com/problems/longest-repeating-substring/discuss/1868525/C-or-DP-solution-or-Time-complexity%3A-O(N2))<br>
+
+<br>959. Regions Cut By Slashes<br>
+[C# | DFS | Understand the problem](
+https://leetcode.com/problems/regions-cut-by-slashes/discuss/1868438/C-or-DFS-or-Understand-the-problem)<br>
+
+<br>983. Minimum Cost For Tickets<br>
+[C# | DP solution | learn 20 algorithms from one player](
+https://leetcode.com/problems/minimum-cost-for-tickets/discuss/1867996/C-or-DP-solution-or-learn-20-algorithms-from-one-player)<br>
+
+<br>1524. Number of Sub-arrays With Odd Sum<br>
+[C# | New idea to find algorithm to work on | Solutions tag](
+https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/discuss/1861747/C-or-New-idea-to-find-algorithm-to-work-on-or-Solutions-tag)<br>
+
   
