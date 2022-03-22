@@ -53,7 +53,7 @@ https://leetcode.com/problems/longest-repeating-character-replacement/discuss/18
 <br>98. Validate Binary Search Tree<br>
 [C# | Mock interview practice | Interviewer with MSFT, Amazon, Oracle, Meta | 2022 Feb. 23](
 https://leetcode.com/problems/validate-binary-search-tree/discuss/1797005/C-or-Mock-interview-practice-or-Interviewer-with-MSFT-Amazon-Oracle-Meta-or-2022-Feb.-23)<br>
-March 2022<br>
+March 2022, monthly review<br>
 March 1 - March 7<br>
 It takes self-discipline to work on Leetcode algorithms continuously. I only have less than 200 submissions last 12 months, compared to Dr. Tai, over 1500 submissions, I like to learn from him. Hard work is most important, and I should discipline myself and then I can improve my crafting skills and problem solving skills. 
 
