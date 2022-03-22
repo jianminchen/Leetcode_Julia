@@ -53,6 +53,10 @@ https://leetcode.com/problems/longest-repeating-character-replacement/discuss/18
 <br>98. Validate Binary Search Tree<br>
 [C# | Mock interview practice | Interviewer with MSFT, Amazon, Oracle, Meta | 2022 Feb. 23](
 https://leetcode.com/problems/validate-binary-search-tree/discuss/1797005/C-or-Mock-interview-practice-or-Interviewer-with-MSFT-Amazon-Oracle-Meta-or-2022-Feb.-23)<br>
+March 2022<br>
+March 1 - March 7<br>
+Algorithms I worked on, 408, 1650, 1762, 314, 498, 162, 523<br>
+I started to work on algorithms from votrubac, top-voted solutions: Another 11 algorithms, 1162, 1553, 992, 934, 1249, 1092, 1062, 959, 983, 1544<br>
 
 March 6, 2022<br>
 <br>408. Valid Word Abbreviation<br>
