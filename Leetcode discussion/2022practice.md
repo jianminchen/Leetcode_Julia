@@ -57,7 +57,7 @@ March 2022, monthly review<br>
 March 1 - March 7<br>
 It takes self-discipline to work on Leetcode algorithms continuously. I only have less than 200 submissions last 12 months, compared to Dr. Tai, over 1500 submissions, I like to learn from him. Hard work is most important, and I should discipline myself and then I can improve my crafting skills and problem solving skills. 
 
-Algorithms I worked on, 408, 1650, 1762, 314, 498, 162, 523<br>
+Algorithms I worked on, 408, 1650, 1762, 314, 498, 162, 523, 282<br>
 I started to work on algorithms from votrubac, top-voted solutions: Another 11 algorithms, 1162, 1553, 992, 934, 1249, 1092, 1062, 959, 983, 1544<br>
 
 March 6, 2022<br>
@@ -106,6 +106,7 @@ Algorithm 314, 1762, 1570, 1650, 528, 408, 339, 71, 31, 670;<br>
 work hard | Hard work beats talent <br>
 Do not think too much. Just work on more algorithms. Solve as many algorithms as I can. Once I solve another 20 algorithms, stop and review what I have learned, and then continue to solve another 20 algorithms. <br>
 
+March 8, 2022<br>
 <br>282. Expression Add Operators (Hard level)<br>
 [C# | Excellent learning opportunity](
 https://leetcode.com/problems/expression-add-operators/discuss/1830423/C-or-Excellent-learning-opportunity)<br>
