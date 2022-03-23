@@ -174,8 +174,7 @@ https://leetcode.com/problems/as-far-from-land-as-possible/discuss/1871274/C-or-
 https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/discuss/1870699/C-or-Understand-the-subproblems)<br>
 
 <br>992. Subarrays with K Different Integers<br>
-[C# | At most K | Two subproblems -> difference]
-(https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/1869119/C-or-At-most-K-or-Two-subproblems-greater-difference)<br>
+[C# | At most K | Two subproblems -> difference](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/1869119/C-or-At-most-K-or-Two-subproblems-greater-difference)<br>
 
 <br>934. Shortest Bridge<br>
 [C# | Apply DFS to visit all nodes in each island | Brute force two nodes' distance](
