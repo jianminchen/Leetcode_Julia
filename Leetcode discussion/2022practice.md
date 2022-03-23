@@ -105,6 +105,7 @@ Algorithm 314, 1762, 1570, 1650, 528, 408, 339, 71, 31, 670;<br>
 723, 2092, 62, 540, 1985   <br> 
 work hard | Hard work beats talent <br>
 Do not think too much. Just work on more algorithms. Solve as many algorithms as I can. Once I solve another 20 algorithms, stop and review what I have learned, and then continue to solve another 20 algorithms. <br>
+[Here](http://juliachencoding.blogspot.com/2022/03/plan-to-work-on-leetcode-algorithms.html) is my blog written on March 5, 2022. Good planning is important for success for any project. <br>
 
 March 8, 2022<br>
 <br>282. Expression Add Operators (Hard level)<br>
