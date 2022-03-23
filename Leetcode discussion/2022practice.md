@@ -106,6 +106,12 @@ Algorithm 314, 1762, 1570, 1650, 528, 408, 339, 71, 31, 670;<br>
 work hard | Hard work beats talent <br>
 Do not think too much. Just work on more algorithms. Solve as many algorithms as I can. Once I solve another 20 algorithms, stop and review what I have learned, and then continue to solve another 20 algorithms. <br>
 
+<br>282. Expression Add Operators (Hard level)<br>
+[C# | Excellent learning opportunity](
+https://leetcode.com/problems/expression-add-operators/discuss/1830423/C-or-Excellent-learning-opportunity)<br>
+[C# | Learning opportunities](
+https://leetcode.com/problems/expression-add-operators/discuss/1832360/C-or-Learning-opportunities)
+
 March 16, 2022<br>
 <br>39. Combination Sum<br>
 [C# | Warmup practice | DFS | Backtracking | 2022](
