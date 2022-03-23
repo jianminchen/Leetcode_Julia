@@ -205,4 +205,8 @@ https://leetcode.com/problems/minimum-cost-for-tickets/discuss/1867996/C-or-DP-s
 [C# | New idea to find algorithm to work on | Solutions tag](
 https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/discuss/1861747/C-or-New-idea-to-find-algorithm-to-work-on-or-Solutions-tag)<br>
 
+March 22, 2022<br>
+<br>1675. Minimize Deviation in Array<br>
+[C# | Learn the analysis first | Learn C# code](
+https://leetcode.com/problems/minimize-deviation-in-array/discuss/1874718/C-or-Learn-the-analysis-first-or-Learn-C-code)<br>
   
