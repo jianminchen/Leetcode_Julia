@@ -55,7 +55,8 @@ https://leetcode.com/problems/longest-repeating-character-replacement/discuss/18
 https://leetcode.com/problems/validate-binary-search-tree/discuss/1797005/C-or-Mock-interview-practice-or-Interviewer-with-MSFT-Amazon-Oracle-Meta-or-2022-Feb.-23)<br>
 March 2022, monthly review<br>
 March 1 - March 7<br>
-It takes self-discipline to work on Leetcode algorithms continuously. I only have less than 200 submissions last 12 months, compared to Dr. Tai, over 1500 submissions, I like to learn from him. Hard work is most important, and I should discipline myself and then I can improve my crafting skills and problem solving skills. 
+It takes self-discipline to work on Leetcode algorithms continuously. I only have less than 200 submissions last 12 months, compared to Dr. Tai, over 1500 submissions, I like to learn from him. Hard work is most important, and I should discipline myself and then I can improve my crafting skills and problem solving skills. [Here](http://juliachencoding.blogspot.com/2022/03/leetcode-jianmin-chen-last-12-months.html) is the blog with a title: 
+Leetcode: Jianmin Chen | Last 12 months submission | Comparison to Dr. Lai<br>
 
 Algorithms I worked on, 408, 1650, 1762, 314, 498, 162, 523, 282<br>
 I started to work on algorithms from votrubac, top-voted solutions: Another 11 algorithms, 1162, 1553, 992, 934, 1249, 1092, 1062, 959, 983, 1544<br>
