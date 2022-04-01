@@ -209,4 +209,10 @@ March 22, 2022<br>
 <br>1675. Minimize Deviation in Array<br>
 [C# | Learn the analysis first | Learn C# code](
 https://leetcode.com/problems/minimize-deviation-in-array/discuss/1874718/C-or-Learn-the-analysis-first-or-Learn-C-code)<br>
-  
+
+March 31, 2022<br>
+<br>1466. Reorder Routes to Make All Paths Lead to the City Zero<br>
+[C# | Graph problem | Quick study | Warmup](
+https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/discuss/1901830/C-or-Graph-problem-or-Quick-study-or-Warmup)<br>
+
+
