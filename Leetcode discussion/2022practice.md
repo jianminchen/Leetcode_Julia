@@ -215,4 +215,10 @@ March 31, 2022<br>
 [C# | Graph problem | Quick study | Warmup](
 https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/discuss/1901830/C-or-Graph-problem-or-Quick-study-or-Warmup)<br>
 
+April 1, 2022<br>
+<br>1371. Find the Longest Substring Containing Vowels in Even Counts<br>
+[C# | "aeiou" -> one integer, 5 bits, 32 variations | Warmup for Meta onsite](
+https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/discuss/1904721/C-or-%22aeiou%22-greater-one-integer-5-bits-32-variations-or-Warmup-for-Meta-onsite)<br>
+
+
 
