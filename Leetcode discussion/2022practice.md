@@ -215,6 +215,10 @@ March 31, 2022<br>
 [C# | Graph problem | Quick study | Warmup](
 https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/discuss/1901830/C-or-Graph-problem-or-Quick-study-or-Warmup)<br>
 
+<br>1320. Minimum Distance to Type a Word Using Two Fingers<br>
+[C# | DP solution | Need more time](
+https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/discuss/1901663/C-or-DP-solution-or-Need-more-time)<br>
+
 April 1, 2022<br>
 <br>1371. Find the Longest Substring Containing Vowels in Even Counts<br>
 [C# | "aeiou" -> one integer, 5 bits, 32 variations | Warmup for Meta onsite](
