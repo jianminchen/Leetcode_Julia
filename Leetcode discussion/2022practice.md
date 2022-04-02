@@ -220,5 +220,7 @@ April 1, 2022<br>
 [C# | "aeiou" -> one integer, 5 bits, 32 variations | Warmup for Meta onsite](
 https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/discuss/1904721/C-or-%22aeiou%22-greater-one-integer-5-bits-32-variations-or-Warmup-for-Meta-onsite)<br>
 
-
+<br>1721. Swapping Nodes in a Linked List<br>
+[C# | One pass | Kth node and kth to Last | Secret - one follower starts kth node](
+https://leetcode.com/problems/swapping-nodes-in-a-linked-list/discuss/1904900/C-or-One-pass-or-Kth-node-and-kth-to-Last-or-Secret-one-follower-starts-kth-node)<br>
 
