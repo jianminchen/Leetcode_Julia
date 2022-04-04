@@ -232,7 +232,7 @@ https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-ev
 [C# | One pass | Kth node and kth to Last | Secret - one follower starts kth node](
 https://leetcode.com/problems/swapping-nodes-in-a-linked-list/discuss/1904900/C-or-One-pass-or-Kth-node-and-kth-to-Last-or-Secret-one-follower-starts-kth-node)<br>
 
- <br>Leetcode discuss<br>
+<br>Leetcode discuss<br>
 <br>[30 days to Meta onsite | 4th Facebook onsite | System design | Daily update - Day 1]( 
 https://leetcode.com/discuss/interview-question/1914695/30-days-to-Meta-onsite-or-4th-Facebook-onsite-or-System-design-or-Daily-update-Day-1)
  
