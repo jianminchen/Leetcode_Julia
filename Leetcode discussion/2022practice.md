@@ -119,6 +119,11 @@ https://leetcode.com/problems/expression-add-operators/discuss/1830423/C-or-Exce
 [C# | Learning opportunities](
 https://leetcode.com/problems/expression-add-operators/discuss/1832360/C-or-Learning-opportunities)
 
+March 10, 2022<br>
+<br>862. Shortest Subarray with Sum at Least K<br>
+[C# | Design a deque | Review Array - Subarray | 2022 March](
+https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/discuss/1838054/C-or-Design-a-deque-or-Review-Array-Subarray-or-2022-March)
+
 March 16, 2022<br>
 <br>39. Combination Sum<br>
 [C# | Warmup practice | DFS | Backtracking | 2022](
