@@ -220,7 +220,7 @@ March 22, 2022<br>
 https://leetcode.com/problems/minimize-deviation-in-array/discuss/1874718/C-or-Learn-the-analysis-first-or-Learn-C-code)<br>
 
 <br>1039. Minimum Score Triangulation of Polygon<br>
-[C# | DP solution | Brute force | Bottom up, how to define bottom subproblem?](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/discuss/1868758/C-or-DP-solution-or-Brute-force-or-Bottom-up-how-to-define-bottom-subproblem)
+[C# | DP solution | Brute force | Bottom up, how to define bottom subproblem?](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/discuss/1868758/C-or-DP-solution-or-Brute-force-or-Bottom-up-how-to-define-bottom-subproblem)<br>
 March 31, 2022<br> 
 <br>1466. Reorder Routes to Make All Paths Lead to the City Zero<br>
 [C# | Graph problem | Quick study | Warmup](
