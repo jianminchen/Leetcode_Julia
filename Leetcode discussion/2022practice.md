@@ -247,7 +247,6 @@ April 18, 2022<br>
 36. Valid Sudoku<br>
 [C# | Validation process | HashSet](
 https://leetcode.com/problems/valid-sudoku/discuss/1962034/C-or-Validation-process-or-HashSet)<br>
-
 [C# | Encode string - three ideas to map same row, same column, same 3 x 3 matrix](
 https://leetcode.com/problems/valid-sudoku/discuss/1962123/C-or-Encode-string-three-ideas-to-map-same-row-same-column-same-3-x-3-matrix)<br>
  
