@@ -243,3 +243,12 @@ https://leetcode.com/problems/swapping-nodes-in-a-linked-list/discuss/1904900/C-
 <br>[30 days to Meta onsite | 4th Facebook onsite | System design | Daily update - Day 1]( 
 https://leetcode.com/discuss/interview-question/1914695/30-days-to-Meta-onsite-or-4th-Facebook-onsite-or-System-design-or-Daily-update-Day-1)
  
+April 18, 2022<br>
+36. Valid Sudoku<br>
+[C# | Validation process | HashSet](
+https://leetcode.com/problems/valid-sudoku/discuss/1962034/C-or-Validation-process-or-HashSet)<br>
+
+[C# | Encode string - three ideas to map same row, same column, same 3 x 3 matrix](
+https://leetcode.com/problems/valid-sudoku/discuss/1962123/C-or-Encode-string-three-ideas-to-map-same-row-same-column-same-3-x-3-matrix)<br>
+ 
+ 
