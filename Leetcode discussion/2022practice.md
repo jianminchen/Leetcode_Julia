@@ -295,7 +295,7 @@ May 17, 2022
 <br>1855. Maximum Distance Between a Pair of Values<br> 
 [C# | Two sorted arrays | Two pointer technique | Linear time complexity](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/discuss/2049404/C-or-Two-sorted-arrays-or-Two-pointer-technique-or-Linear-time-complexity)
  
-<br>1363. Largest Multiple of Three<br>  
+<br>1363. Largest Multiple of Three<br>
 [C# | Quick learner | At most remove two digits](https://leetcode.com/problems/largest-multiple-of-three/discuss/2045866/C-or-Quick-learner-or-At-most-remove-two-digits)
  
 <br>1031. Maximum Sum of Two Non-Overlapping Subarrays<br> 
