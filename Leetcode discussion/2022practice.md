@@ -258,31 +258,31 @@ I will take 30 minutes to add those algorithms one by one in the following:
 <br>80. Remove Duplicates from Sorted Array II
 [C# | Quick study and prepare for Meta onsite](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/1965026/C-or-Quick-study-and-prepare-for-Meta-onsite)
 
-	Container With Most Water
- Find Median from Data Stream
- Wiggle Sort II
- Palindrome Linked List
- Poor Pigs
- Binary Watch
- Number of Matching Subsequences
- Game of Life
- Find K Pairs with Smallest Sums
- Number of Digit One
- Verify Preorder Sequence in Binary Search Tree
- Queue Reconstruction by Height
- Flip String to Monotone Increasing
- String Without AAA or BBB
- Longest Common Prefix
- Count Vowel Substrings of a String
- Min Cost to Connect All Points
- Number of Wonderful Substrings
- The k Strongest Values in an Array
- Sum of Subarray Minimums
- Maximum Sum of Two Non-Overlapping Subarrays
- Largest Multiple of Three
- Maximum Distance Between a Pair of Values
- Maximum Number of Consecutive Values You Can Make
- Rank Transform of a Matrix
+Container With Most Water<br>
+ Find Median from Data Stream<br>
+ Wiggle Sort II<br>
+ Palindrome Linked List<br>
+ Poor Pigs<br>
+ Binary Watch<br>
+ Number of Matching Subsequences<br>
+ Game of Life<br>
+ Find K Pairs with Smallest Sums<br>
+ Number of Digit One<br>
+ Verify Preorder Sequence in Binary Search Tree<br>
+ Queue Reconstruction by Height<br>
+ Flip String to Monotone Increasing<br>
+ String Without AAA or BBB<br>
+ Longest Common Prefix<br>
+ Count Vowel Substrings of a String<br>
+ Min Cost to Connect All Points<br>
+ Number of Wonderful Substrings<br>
+ The k Strongest Values in an Array<br>
+ Sum of Subarray Minimums<br>
+ Maximum Sum of Two Non-Overlapping Subarrays<br>
+ Largest Multiple of Three<br>
+ Maximum Distance Between a Pair of Values<br>
+ Maximum Number of Consecutive Values You Can Make<br>
+ Rank Transform of a Matrix<br>
 
  May 19, 2022
 <br>1632. Rank Transform of a Matrix<br> 
