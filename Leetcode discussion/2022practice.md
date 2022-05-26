@@ -253,5 +253,80 @@ https://leetcode.com/problems/valid-sudoku/discuss/1962123/C-or-Encode-string-th
 I solved another 35 algorithms from April 18 to May 16, 2022. <br>
 I got an email notification about Meta onsite cancellation. My onsite interview scheduled on May 16, 2022 was cancelled because of hiring freeze. <br>
 I will take 30 minutes to add those algorithms one by one in the following:
+
+ April 19, 2022
+<br>80. Remove Duplicates from Sorted Array II
+[C# | Quick study and prepare for Meta onsite](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/1965026/C-or-Quick-study-and-prepare-for-Meta-onsite)
+
+	Container With Most Water
+ Find Median from Data Stream
+ Wiggle Sort II
+ Palindrome Linked List
+ Poor Pigs
+ Binary Watch
+ Number of Matching Subsequences
+ Game of Life
+ Find K Pairs with Smallest Sums
+ Number of Digit One
+ Verify Preorder Sequence in Binary Search Tree
+ Queue Reconstruction by Height
+ Flip String to Monotone Increasing
+ String Without AAA or BBB
+ Longest Common Prefix
+ Count Vowel Substrings of a String
+ Min Cost to Connect All Points
+ Number of Wonderful Substrings
+ The k Strongest Values in an Array
+ Sum of Subarray Minimums
+ Maximum Sum of Two Non-Overlapping Subarrays
+ Largest Multiple of Three
+ Maximum Distance Between a Pair of Values
+ Maximum Number of Consecutive Values You Can Make
+ Rank Transform of a Matrix
+
+ May 19, 2022
+<br>1632. Rank Transform of a Matrix 
+[C# | Quick learner | Union find algorithm | Illustration using diagrams](https://leetcode.com/problems/rank-transform-of-a-matrix/discuss/2055175/C-or-Quick-learner-or-Union-find-algorithm-or-Illustration-using-diagrams)
+ 
+<br>1798. Maximum Number of Consecutive Values You Can Make
+[C# | Quick learner | I tried 10 minutes to figure out something first](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/discuss/2051823/C-or-Quick-learner-or-I-tried-10-minutes-to-figure-out-something-first)
+
+May 17, 2022
+<br>1855. Maximum Distance Between a Pair of Values
+[C# | Two sorted arrays | Two pointer technique | Linear time complexity](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/discuss/2049404/C-or-Two-sorted-arrays-or-Two-pointer-technique-or-Linear-time-complexity)
+ 
+<br>1363. Largest Multiple of Three 
+[C# | Quick learner | At most remove two digits](https://leetcode.com/problems/largest-multiple-of-three/discuss/2045866/C-or-Quick-learner-or-At-most-remove-two-digits)
+ 
+<br>1031. Maximum Sum of Two Non-Overlapping Subarrays
+[C# | Quick learner | 30 minutes to study](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/discuss/2033206/C-or-Quick-learner-or-30-minutes-to-study)
+
+May 12, 2022
+<br> 907. Sum of Subarray Minimums
+[C# | Quick learner | Using stack O(N) time complexity | Play for fun](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/2033088/C-or-Quick-learner-or-Using-stack-O(N)-time-complexity-or-Play-for-fun) 
+ 
+<br>1471. The k Strongest Values in an Array
+[C# | Quick learner | two pointers](https://leetcode.com/problems/the-k-strongest-values-in-an-array/discuss/2012037/C-or-Quick-learner-or-two-pointers) 
+
+May 5, 2022 
+<br>1915. Number of Wonderful Substrings
+[C# | Quick learner | 10 bits to represent a - j count as odd or even](https://leetcode.com/problems/number-of-wonderful-substrings/discuss/2011925/C-or-Quick-learner-or-10-bits-to-represent-a-j-count-as-odd-or-even) 
+ 
+<br>1584. Min Cost to Connect All Points 
+[C# | Quick learner | Union find algorithm](https://leetcode.com/problems/min-cost-to-connect-all-points/discuss/2011523/C-or-Quick-learner-or-Union-find-algorithm) 
+
+May 4, 2022
+<br>2062. Count Vowel Substrings of a String 
+[C# | Quick learner | Sliding window](https://leetcode.com/problems/count-vowel-substrings-of-a-string/discuss/2008673/C-or-Quick-learner-or-Sliding-window) 
+
+May 3, 2022
+<br>984. String Without AAA or BBB
+[C# | Quick learner | greedy idea](https://leetcode.com/problems/string-without-aaa-or-bbb/discuss/2005787/C-or-Quick-learner-or-greedy-idea) 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
