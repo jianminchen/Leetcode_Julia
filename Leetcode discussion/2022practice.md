@@ -249,42 +249,43 @@ April 18, 2022<br>
 https://leetcode.com/problems/valid-sudoku/discuss/1962034/C-or-Validation-process-or-HashSet)<br>
 [C# | Encode string - three ideas to map same row, same column, same 3 x 3 matrix](
 https://leetcode.com/problems/valid-sudoku/discuss/1962123/C-or-Encode-string-three-ideas-to-map-same-row-same-column-same-3-x-3-matrix)<br>
- 
-I solved another 35 algorithms from April 18 to May 16, 2022. <br>
-I got an email notification about Meta onsite cancellation. My onsite interview scheduled on May 16, 2022 was cancelled because of hiring freeze. <br>
-I will take 30 minutes to add those algorithms one by one in the following:
 
- April 19, 2022
+April 19, 2022
 <br>80. Remove Duplicates from Sorted Array II
 [C# | Quick study and prepare for Meta onsite](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/1965026/C-or-Quick-study-and-prepare-for-Meta-onsite)
 
+May 26, 2022<br>
+I solved another 35 algorithms from April 18 to May 16, 2022. <br>
+I got an email notification about Meta onsite cancellation. My onsite interview scheduled on May 16, 2022 was cancelled because of hiring freeze. <br>
+I will take 30 minutes to add those algorithms one by one in the following:
+	
 Container With Most Water<br>
- Find Median from Data Stream<br>
- Wiggle Sort II<br>
- Palindrome Linked List<br>
- Poor Pigs<br>
- Binary Watch<br>
- Number of Matching Subsequences<br>
- Game of Life<br>
- Find K Pairs with Smallest Sums<br>
- Number of Digit One<br>
- Verify Preorder Sequence in Binary Search Tree<br>
- Queue Reconstruction by Height<br>
- Flip String to Monotone Increasing<br>
- String Without AAA or BBB<br>
- Longest Common Prefix<br>
- Count Vowel Substrings of a String<br>
- Min Cost to Connect All Points<br>
- Number of Wonderful Substrings<br>
- The k Strongest Values in an Array<br>
- Sum of Subarray Minimums<br>
- Maximum Sum of Two Non-Overlapping Subarrays<br>
- Largest Multiple of Three<br>
- Maximum Distance Between a Pair of Values<br>
- Maximum Number of Consecutive Values You Can Make<br>
- Rank Transform of a Matrix<br>
+Find Median from Data Stream<br>
+Wiggle Sort II<br>
+Palindrome Linked List<br>
+Poor Pigs<br>
+Binary Watch<br>
+Number of Matching Subsequences<br>
+Game of Life<br>
+Find K Pairs with Smallest Sums<br>
+Number of Digit One<br>
+Verify Preorder Sequence in Binary Search Tree<br>
+Queue Reconstruction by Height<br>
+Flip String to Monotone Increasing<br>
+String Without AAA or BBB<br>
+Longest Common Prefix<br>
+Count Vowel Substrings of a String<br>
+Min Cost to Connect All Points<br>
+Number of Wonderful Substrings<br>
+The k Strongest Values in an Array<br>
+Sum of Subarray Minimums<br>
+Maximum Sum of Two Non-Overlapping Subarrays<br>
+Largest Multiple of Three<br>
+Maximum Distance Between a Pair of Values<br>
+Maximum Number of Consecutive Values You Can Make<br>
+Rank Transform of a Matrix<br>
 
- May 19, 2022
+May 19, 2022
 <br>1632. Rank Transform of a Matrix<br> 
 [C# | Quick learner | Union find algorithm | Illustration using diagrams](https://leetcode.com/problems/rank-transform-of-a-matrix/discuss/2055175/C-or-Quick-learner-or-Union-find-algorithm-or-Illustration-using-diagrams)
  
@@ -364,11 +365,6 @@ April 22, 2022
 April 19, 2022
 <br>11. Container With Most Water<br>
 [C# | Two pointers technique | Time complexity: O(N)](https://leetcode.com/problems/container-with-most-water/discuss/1965157/C-or-Two-pointers-technique-or-Time-complexity%3A-O(N))	
-	
-	
- 
- 
- 
  
  
  
