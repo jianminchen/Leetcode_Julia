@@ -250,4 +250,8 @@ https://leetcode.com/problems/valid-sudoku/discuss/1962034/C-or-Validation-proce
 [C# | Encode string - three ideas to map same row, same column, same 3 x 3 matrix](
 https://leetcode.com/problems/valid-sudoku/discuss/1962123/C-or-Encode-string-three-ideas-to-map-same-row-same-column-same-3-x-3-matrix)<br>
  
+I solved another 35 algorithms from April 18 to May 16, 2022. <br>
+I got an email notification about Meta onsite cancellation. My onsite interview scheduled on May 16, 2022 was cancelled because of hiring freeze. <br>
+I will take 30 minutes to add those algorithms one by one in the following:
+ 
  
