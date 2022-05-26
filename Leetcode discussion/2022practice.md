@@ -312,7 +312,7 @@ May 5, 2022
 <br>1915. Number of Wonderful Substrings<br> 
 [C# | Quick learner | 10 bits to represent a - j count as odd or even](https://leetcode.com/problems/number-of-wonderful-substrings/discuss/2011925/C-or-Quick-learner-or-10-bits-to-represent-a-j-count-as-odd-or-even) 
  
-<br>1584. Min Cost to Connect All Points<br>  
+<br>1584. Min Cost to Connect All Points<br>
 [C# | Quick learner | Union find algorithm](https://leetcode.com/problems/min-cost-to-connect-all-points/discuss/2011523/C-or-Quick-learner-or-Union-find-algorithm) 
 
 May 4, 2022
