@@ -285,45 +285,87 @@ I will take 30 minutes to add those algorithms one by one in the following:
  Rank Transform of a Matrix
 
  May 19, 2022
-<br>1632. Rank Transform of a Matrix 
+<br>1632. Rank Transform of a Matrix<br> 
 [C# | Quick learner | Union find algorithm | Illustration using diagrams](https://leetcode.com/problems/rank-transform-of-a-matrix/discuss/2055175/C-or-Quick-learner-or-Union-find-algorithm-or-Illustration-using-diagrams)
  
-<br>1798. Maximum Number of Consecutive Values You Can Make
+<br>1798. Maximum Number of Consecutive Values You Can Make<br> 
 [C# | Quick learner | I tried 10 minutes to figure out something first](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/discuss/2051823/C-or-Quick-learner-or-I-tried-10-minutes-to-figure-out-something-first)
 
 May 17, 2022
-<br>1855. Maximum Distance Between a Pair of Values
+<br>1855. Maximum Distance Between a Pair of Values<br> 
 [C# | Two sorted arrays | Two pointer technique | Linear time complexity](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/discuss/2049404/C-or-Two-sorted-arrays-or-Two-pointer-technique-or-Linear-time-complexity)
  
-<br>1363. Largest Multiple of Three 
+<br>1363. Largest Multiple of Three<br>  
 [C# | Quick learner | At most remove two digits](https://leetcode.com/problems/largest-multiple-of-three/discuss/2045866/C-or-Quick-learner-or-At-most-remove-two-digits)
  
-<br>1031. Maximum Sum of Two Non-Overlapping Subarrays
+<br>1031. Maximum Sum of Two Non-Overlapping Subarrays<br> 
 [C# | Quick learner | 30 minutes to study](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/discuss/2033206/C-or-Quick-learner-or-30-minutes-to-study)
 
 May 12, 2022
-<br> 907. Sum of Subarray Minimums
+<br> 907. Sum of Subarray Minimums<br> 
 [C# | Quick learner | Using stack O(N) time complexity | Play for fun](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/2033088/C-or-Quick-learner-or-Using-stack-O(N)-time-complexity-or-Play-for-fun) 
  
-<br>1471. The k Strongest Values in an Array
+<br>1471. The k Strongest Values in an Array<br> 
 [C# | Quick learner | two pointers](https://leetcode.com/problems/the-k-strongest-values-in-an-array/discuss/2012037/C-or-Quick-learner-or-two-pointers) 
 
 May 5, 2022 
-<br>1915. Number of Wonderful Substrings
+<br>1915. Number of Wonderful Substrings<br> 
 [C# | Quick learner | 10 bits to represent a - j count as odd or even](https://leetcode.com/problems/number-of-wonderful-substrings/discuss/2011925/C-or-Quick-learner-or-10-bits-to-represent-a-j-count-as-odd-or-even) 
  
-<br>1584. Min Cost to Connect All Points 
+<br>1584. Min Cost to Connect All Points<br>  
 [C# | Quick learner | Union find algorithm](https://leetcode.com/problems/min-cost-to-connect-all-points/discuss/2011523/C-or-Quick-learner-or-Union-find-algorithm) 
 
 May 4, 2022
-<br>2062. Count Vowel Substrings of a String 
+<br>2062. Count Vowel Substrings of a String <br> 
 [C# | Quick learner | Sliding window](https://leetcode.com/problems/count-vowel-substrings-of-a-string/discuss/2008673/C-or-Quick-learner-or-Sliding-window) 
 
 May 3, 2022
-<br>984. String Without AAA or BBB
+<br>984. String Without AAA or BBB<br> 
 [C# | Quick learner | greedy idea](https://leetcode.com/problems/string-without-aaa-or-bbb/discuss/2005787/C-or-Quick-learner-or-greedy-idea) 
- 
- 
+
+<br>406. Queue Reconstruction by Height	<br>
+[C# | Quick learner from an example](https://leetcode.com/problems/queue-reconstruction-by-height/discuss/2002926/C-or-Quick-learner-from-an-example)
+
+May 2, 2022	
+<br>255. Verify Preorder Sequence in Binary Search Tree
+[C# | 15 minutes as a quick learner | Recursive solution](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/discuss/2002839/C-or-15-minutes-as-a-quick-learner-or-Recursive-solution)
+	
+<br>233. Number of Digit One<br>
+[C# | 30 minutes to work on hard level](https://leetcode.com/problems/number-of-digit-one/discuss/1992730/C-or-30-minutes-to-work-on-hard-level)	
+	
+<br>373. Find K Pairs with Smallest Sums<br>
+[C# | Minimum heap | SortedSet<Tuple<int, int, int> | Two neighbors: right and bottom](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/discuss/1992605/C-or-Minimum-heap-or-SortedSetlessTuplelessint-int-intgreater-or-Two-neighbors%3A-right-and-bottom)	
+	
+<br>289. Game of Life	<br>
+[C# | in-place algorithm using module 10](https://leetcode.com/problems/game-of-life/discuss/1990226/C-or-in-place-algorithm-using-module-10)	
+
+<br>792. Number of Matching Subsequences<br>
+[C# | Group words by starting char | Avoid TLE error](https://leetcode.com/problems/number-of-matching-subsequences/discuss/1985054/C-or-Group-words-by-starting-char-or-Avoid-TLE-error)	
+	
+<br>401. Binary Watch<br>
+[C# | Bit manipulation | DFS algorithm](https://leetcode.com/problems/binary-watch/discuss/1984869/C-or-Bit-manipulation-or-DFS-algorithm)	
+
+April 26, 2022	
+<br>458. Poor Pigs	<br>
+[C# | Hard level | One pig can test multiple buckets a time](https://leetcode.com/problems/poor-pigs/discuss/1984590/C-or-Hard-level-or-One-pig-can-test-multiple-buckets-a-time)	
+
+April 25, 2022
+<br>234. Palindrome Linked List<br>
+[C# | Optimal solution O(N) time complexity O(1) space](https://leetcode.com/problems/palindrome-linked-list/discuss/1982555/C-or-Optimal-solution-O(N)-time-complexity-O(1)-space)	
+[C# | Review of my practice in July 2018](https://leetcode.com/problems/palindrome-linked-list/discuss/1982496/C-or-Review-of-my-practice-in-July-2018)	
+	
+<br>324. Wiggle Sort II	<br>
+[C# | Using Sorting to find median value](https://leetcode.com/problems/wiggle-sort-ii/discuss/1982472/C-or-Using-Sorting-to-find-median-value)	
+
+April 22, 2022	
+<br>295. Find Median from Data Stream	<br>
+[C# | Minimum heap and maximum heap | SortedSet<Tuple<int, int>>](https://leetcode.com/problems/find-median-from-data-stream/discuss/1973502/C-or-Minimum-heap-and-maximum-heap-or-SortedSetlessTuplelessint-intgreatergreater)	
+
+April 19, 2022
+<br>11. Container With Most Water<br>
+[C# | Two pointers technique | Time complexity: O(N)](https://leetcode.com/problems/container-with-most-water/discuss/1965157/C-or-Two-pointers-technique-or-Time-complexity%3A-O(N))	
+	
+	
  
  
  
