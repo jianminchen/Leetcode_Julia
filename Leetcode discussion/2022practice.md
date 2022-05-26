@@ -364,7 +364,7 @@ April 22, 2022
 
 April 19, 2022
 <br>11. Container With Most Water<br>
-[C# | Two pointers technique | Time complexity: O(N)](https://leetcode.com/problems/container-with-most-water/discuss/1965157/C-or-Two-pointers-technique-or-Time-complexity%3A-O(N))	
+[C# | Two pointers technique | Time complexity: O(N)](https://leetcode.com/problems/container-with-most-water/discuss/1965157/C-or-Two-pointers-technique-or-Time-complexity%3A-O(N))	 
  
  
  
