@@ -327,7 +327,7 @@ May 3, 2022
 [C# | Quick learner from an example](https://leetcode.com/problems/queue-reconstruction-by-height/discuss/2002926/C-or-Quick-learner-from-an-example)
 
 May 2, 2022	
-<br>255. Verify Preorder Sequence in Binary Search Tree
+<br>255. Verify Preorder Sequence in Binary Search Tree<br>
 [C# | 15 minutes as a quick learner | Recursive solution](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/discuss/2002839/C-or-15-minutes-as-a-quick-learner-or-Recursive-solution)
 	
 <br>233. Number of Digit One<br>
@@ -346,7 +346,7 @@ May 2, 2022
 [C# | Bit manipulation | DFS algorithm](https://leetcode.com/problems/binary-watch/discuss/1984869/C-or-Bit-manipulation-or-DFS-algorithm)	
 
 April 26, 2022	
-<br>458. Poor Pigs	<br>
+<br>458. Poor Pigs <br>
 [C# | Hard level | One pig can test multiple buckets a time](https://leetcode.com/problems/poor-pigs/discuss/1984590/C-or-Hard-level-or-One-pig-can-test-multiple-buckets-a-time)	
 
 April 25, 2022
