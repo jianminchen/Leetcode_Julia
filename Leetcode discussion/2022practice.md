@@ -365,6 +365,10 @@ April 22, 2022
 April 19, 2022
 <br>11. Container With Most Water<br>
 [C# | Two pointers technique | Time complexity: O(N)](https://leetcode.com/problems/container-with-most-water/discuss/1965157/C-or-Two-pointers-technique-or-Time-complexity%3A-O(N))	 
- 
+
+June 8, 2022<br>
+I came cross this algorithm when I read Leetcode interview discuss panel. I could not understand my own discuss post, so I quickly added one test case, and then added more detail for me to understand the algorithm. <br>
+<br>204. Count Primes<br>
+[C# as simple as possible](https://leetcode.com/problems/count-primes/discuss/177386/C-as-simple-as-possible)<br>
  
  
