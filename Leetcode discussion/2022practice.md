@@ -372,6 +372,9 @@ I came cross this algorithm when I read Leetcode interview discuss panel. I coul
 [C# as simple as possible](https://leetcode.com/problems/count-primes/discuss/177386/C-as-simple-as-possible)<br>
  
 June 13 - 14, 2022<br>
+I spent a lot of hours to learn how to write union find algorithms in 2019. [Here](https://github.com/jianminchen/100-hard-level-algorithms-2018-summer-campaign/tree/master/union%20join%20algorithm) is the link. After a few years, I think that it is better for me to write something on Leetcode, so I can share my experience with more people. 
+	
+	
 <br>947. Most Stones Removed with Same Row or Column<br>
 [C# | Quick learner | Union find | DFS | 8 solutions](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2152078/C-or-Quick-learner-or-Union-find-or-DFS-or-8-solutions)<br>
 [C# | Quick learner | Union find with rank and size | Ranking No 40](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148981/C-or-Quick-learner-or-Union-find-with-rank-and-size-or-Ranking-No-40)<br>
