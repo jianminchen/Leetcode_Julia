@@ -371,4 +371,24 @@ I came cross this algorithm when I read Leetcode interview discuss panel. I coul
 <br>204. Count Primes<br>
 [C# as simple as possible](https://leetcode.com/problems/count-primes/discuss/177386/C-as-simple-as-possible)<br>
  
+June 13 - 14, 2022<br>
+<br>947. Most Stones Removed with Same Row or Column<br>
+[C# | Quick learner | Union find | DFS | 8 solutions](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2152078/C-or-Quick-learner-or-Union-find-or-DFS-or-8-solutions)
+
+[C# | Quick learner | Union find with rank and size | Ranking No 40](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148981/C-or-Quick-learner-or-Union-find-with-rank-and-size-or-Ranking-No-40)
+
+[C# | Quick learn | Union find with rank | Rank No 176](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148964/C-or-Quick-learn-or-Union-find-with-rank-or-Rank-No-176)
+
+[C# | Quick learner | Union find API | Rank 8](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148937/C-or-Quick-learner-or-Union-find-API-or-Rank-8)
+
+[C# | Quick learner | DFS | Rank 5](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148900/C-or-Quick-learner-or-DFS-or-Rank-5)
+
+[C# | Quick learner | DFS | Rank 16](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148786/C-or-Quick-learner-or-DFS-or-Rank-16)
+
+[C# | Quick learner | Union find | Rank 12](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148781/C-or-Quick-learner-or-Union-find-or-Rank-12)
+
+[C# | Quick learner | Union Find | Find Parent API getRoot | Rank 117](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148745/C-or-Quick-learner-or-Union-Find-or-Find-Parent-API-getRoot-or-Rank-117)
+
+[C# | Quick learner | Union Find | With Rank | Player No. 13](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148726/C-or-Quick-learner-or-Union-Find-or-With-Rank-or-Player-No.-13)
+
  
