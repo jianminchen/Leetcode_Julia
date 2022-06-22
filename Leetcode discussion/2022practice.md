@@ -386,4 +386,8 @@ I spent a lot of hours to learn how to write union find algorithms in 2019. [Her
 [C# | Quick learner | Union Find | Find Parent API getRoot | Rank 117](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148745/C-or-Quick-learner-or-Union-Find-or-Find-Parent-API-getRoot-or-Rank-117)<br>
 [C# | Quick learner | Union Find | With Rank | Player No. 13](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/2148726/C-or-Quick-learner-or-Union-Find-or-With-Rank-or-Player-No.-13)<br>
 
+June 21, 2022<br>
+<br>1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix<br>
+[C# | Quick learner | BFS | Matrix -> 9 bit integer at most](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/discuss/2180403/C-or-Quick-learner-or-BFS-or-Matrix-greater-9-bit-integer-at-most)<br>
+[C# | Quick learner | BFS | Encoding -> "abcdefghi"](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/discuss/2184179/C-or-Quick-learner-or-BFS-or-Encoding-greater-%22abcdefghi%22)<br>
  
