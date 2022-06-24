@@ -390,4 +390,21 @@ June 21, 2022<br>
 <br>1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix<br>
 [C# | Quick learner | BFS | Matrix -> 9 bit integer at most](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/discuss/2180403/C-or-Quick-learner-or-BFS-or-Matrix-greater-9-bit-integer-at-most)<br>
 [C# | Quick learner | BFS | Encoding -> "abcdefghi"](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/discuss/2184179/C-or-Quick-learner-or-BFS-or-Encoding-greater-%22abcdefghi%22)<br>
- 
+
+June 22, 2022<br>
+<br>428. Serialize and Deserialize N-ary Tree<br>
+[C# | Quick learner | DFS | Add a test case | Ideas -> design -> C# code -> design](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/discuss/2184915/c-quick-learner-dfs-add-a-test-case-ideas-design-c-code-design)<br>
+
+June 23, 2022<br>
+<br>1096. Brace Expansion II | Hard level<br>
+[C# | Quick learner | First solution - still working on](https://leetcode.com/problems/brace-expansion-ii/discuss/2185210/C-or-Quick-learner-or-First-solution-still-working-on)
+	
+June 23, 2022<br>
+<br>224. Basic Calculator | Hard level 
+[C# | Quick learner | Stack | Design talk](https://leetcode.com/problems/basic-calculator/discuss/2188977/C-or-Quick-learner-or-Stack-or-Design-talk)
+
+<br>772. Basic Calculator III | Hard level
+[C# | Quick learner | High precedence | Recursive](https://leetcode.com/problems/basic-calculator-iii/discuss/2189284/C-or-Quick-learner-or-High-precedence-or-Recursive)
+
+
+
