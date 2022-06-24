@@ -395,15 +395,15 @@ June 22, 2022<br>
 <br>428. Serialize and Deserialize N-ary Tree<br>
 [C# | Quick learner | DFS | Add a test case | Ideas -> design -> C# code -> design](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/discuss/2184915/c-quick-learner-dfs-add-a-test-case-ideas-design-c-code-design)<br>
 
-June 23, 2022<br>
+June 23, 2022
 <br>1096. Brace Expansion II | Hard level<br>
 [C# | Quick learner | First solution - still working on](https://leetcode.com/problems/brace-expansion-ii/discuss/2185210/C-or-Quick-learner-or-First-solution-still-working-on)
 	
-June 23, 2022<br>
-<br>224. Basic Calculator | Hard level 
+June 23, 2022
+<br>224. Basic Calculator | Hard level <br>
 [C# | Quick learner | Stack | Design talk](https://leetcode.com/problems/basic-calculator/discuss/2188977/C-or-Quick-learner-or-Stack-or-Design-talk)
 
-<br>772. Basic Calculator III | Hard level
+<br>772. Basic Calculator III | Hard level<br>
 [C# | Quick learner | High precedence | Recursive](https://leetcode.com/problems/basic-calculator-iii/discuss/2189284/C-or-Quick-learner-or-High-precedence-or-Recursive)
 
 
