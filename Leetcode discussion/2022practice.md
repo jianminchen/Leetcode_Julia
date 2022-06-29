@@ -409,4 +409,8 @@ June 23, 2022
 June 28, 2022
 <br>847. Shortest Path Visiting All Nodes | Hard level<br>
 [C# | Quick learner | BFS | How to define a state?](https://leetcode.com/problems/shortest-path-visiting-all-nodes/discuss/2211472/C-or-Quick-learner-or-BFS-or-How-to-define-a-state)<br>
-
+	
+June 29, 2022<br>
+I plan to work on the following hard level algorithms in next two weeks:<br>
+1597, 2158, 296, 1948, 778, 632, 302, 272, 753, 1240, 425, 410, 1793, 1235, 920, 365<br>
+	
