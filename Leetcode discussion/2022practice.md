@@ -406,5 +406,7 @@ June 23, 2022
 <br>772. Basic Calculator III | Hard level<br>
 [C# | Quick learner | High precedence | Recursive](https://leetcode.com/problems/basic-calculator-iii/discuss/2189284/C-or-Quick-learner-or-High-precedence-or-Recursive)
 
-
+June 28, 2022
+<br>847. Shortest Path Visiting All Nodes | Hard level<br>
+[C# | Quick learner | BFS | How to define a state?](https://leetcode.com/problems/shortest-path-visiting-all-nodes/discuss/2211472/C-or-Quick-learner-or-BFS-or-How-to-define-a-state)<br>
 
