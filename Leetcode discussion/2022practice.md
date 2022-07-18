@@ -416,3 +416,8 @@ I plan to work on the following hard level algorithms in next two weeks:<br>
 
 <br>465. Optimal Account Balancing | Hard level<br>
 [C# | Quick learner | DFS, backtracking, GraceMeng top voted](https://leetcode.com/problems/optimal-account-balancing/discuss/2238530/C-or-Quick-learner-or-DFS-backtracking-or-GraceMeng-top-voted)
+	
+July 18, 2022<br>
+1104. Path In Zigzag Labelled Binary Tree<br>
+[C# | Quick learner | Show progress](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2300641/C-or-Quick-learner-or-Show-progress)<br>
+
