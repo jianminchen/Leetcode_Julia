@@ -420,5 +420,5 @@ I plan to work on the following hard level algorithms in next two weeks:<br>
 July 18, 2022<br>
 1104. Path In Zigzag Labelled Binary Tree<br>
 [C# | Quick learner | Show progress](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2300641/C-or-Quick-learner-or-Show-progress)<br>
-[C# | Quick learner | Show progress](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2300641/C-or-Quick-learner-or-Show-progress)<br>
+[C# | Quick learner | Apply math analysis]([https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2300641/C-or-Quick-learner-or-Show-progress](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2300959/C-or-Quick-learner-or-Apply-math-analysis)<br>
 	
