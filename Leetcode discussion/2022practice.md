@@ -417,8 +417,15 @@ I plan to work on the following hard level algorithms in next two weeks:<br>
 <br>465. Optimal Account Balancing | Hard level<br>
 [C# | Quick learner | DFS, backtracking, GraceMeng top voted](https://leetcode.com/problems/optimal-account-balancing/discuss/2238530/C-or-Quick-learner-or-DFS-backtracking-or-GraceMeng-top-voted)
 	
-July 18, 2022<br>
-1104. Path In Zigzag Labelled Binary Tree<br>
+July 18, 2022
+<br>1104. Path In Zigzag Labelled Binary Tree<br>
 [C# | Quick learner | Show progress](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2300641/C-or-Quick-learner-or-Show-progress)<br>
 [C# | Quick learner | Apply math analysis](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2300959/C-or-Quick-learner-or-Apply-math-analysis)<br>
 [C# | Quick learner | 10 minutes a solution](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2301276/C-or-Quick-learner-or-10-minutes-a-solution)	
+
+I work on discuss post with downvote - 84 largest rectangle in histogram. What I did is to add a solution using stack before a brute force solution. <br>
+July 19, 2022
+<br>84. Largest Rectangle in Histogram<br>
+[C# | Quick learner | Optimal time complexity solution provided](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/2305402/C-or-Quick-learner-or-Optimal-time-complexity-solution-provided)
+	
+
