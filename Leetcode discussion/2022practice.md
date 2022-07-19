@@ -427,5 +427,8 @@ I work on discuss post with downvote - 84 largest rectangle in histogram. What I
 July 19, 2022
 <br>84. Largest Rectangle in Histogram<br>
 [C# | Quick learner | Optimal time complexity solution provided](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/2305402/C-or-Quick-learner-or-Optimal-time-complexity-solution-provided)
-	
+
+<br>737. Sentence Similarity II<br>
+[C# | Quick learner | Union find algorithm](https://leetcode.com/problems/sentence-similarity-ii/discuss/2306160/C-or-Quick-learner-or-Union-find-algorithm)<br>
+
 
