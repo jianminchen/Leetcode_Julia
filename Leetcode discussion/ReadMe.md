@@ -905,6 +905,9 @@ Sept. 22, 2020<br>
 146. LRU Cache<br>
 [C# Double linked list using dummy head and tail](https://leetcode.com/problems/lru-cache/discuss/859760/C-Double-linked-list-using-dummy-head-and-tail)<br>
 
+<br>42. Trapping Rain Water<br>
+[C# | Quick learner | Two solutions to share](https://leetcode.com/problems/trapping-rain-water/discuss/2310527/C-or-Quick-learner-or-Two-solutions-to-share)<br>
+
 
 
 

@@ -406,5 +406,29 @@ June 23, 2022
 <br>772. Basic Calculator III | Hard level<br>
 [C# | Quick learner | High precedence | Recursive](https://leetcode.com/problems/basic-calculator-iii/discuss/2189284/C-or-Quick-learner-or-High-precedence-or-Recursive)
 
+June 28, 2022
+<br>847. Shortest Path Visiting All Nodes | Hard level<br>
+[C# | Quick learner | BFS | How to define a state?](https://leetcode.com/problems/shortest-path-visiting-all-nodes/discuss/2211472/C-or-Quick-learner-or-BFS-or-How-to-define-a-state)<br>
+	
+June 29, 2022<br>
+I plan to work on the following hard level algorithms in next two weeks:<br>
+1597, 2158, 296, 1948, 778, 632, 302, 272, 753, 1240, 425, 410, 1793, 1235, 920, 365<br>
+
+<br>465. Optimal Account Balancing | Hard level<br>
+[C# | Quick learner | DFS, backtracking, GraceMeng top voted](https://leetcode.com/problems/optimal-account-balancing/discuss/2238530/C-or-Quick-learner-or-DFS-backtracking-or-GraceMeng-top-voted)
+	
+July 18, 2022
+<br>1104. Path In Zigzag Labelled Binary Tree<br>
+[C# | Quick learner | Show progress](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2300641/C-or-Quick-learner-or-Show-progress)<br>
+[C# | Quick learner | Apply math analysis](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2300959/C-or-Quick-learner-or-Apply-math-analysis)<br>
+[C# | Quick learner | 10 minutes a solution](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/discuss/2301276/C-or-Quick-learner-or-10-minutes-a-solution)	
+
+I work on discuss post with downvote - 84 largest rectangle in histogram. What I did is to add a solution using stack before a brute force solution. <br>
+July 19, 2022
+<br>84. Largest Rectangle in Histogram<br>
+[C# | Quick learner | Optimal time complexity solution provided](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/2305402/C-or-Quick-learner-or-Optimal-time-complexity-solution-provided)
+
+<br>737. Sentence Similarity II<br>
+[C# | Quick learner | Union find algorithm](https://leetcode.com/problems/sentence-similarity-ii/discuss/2306160/C-or-Quick-learner-or-Union-find-algorithm)<br>
 
 
